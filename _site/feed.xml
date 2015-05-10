@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downtown Coolsville</title>
+    <description>A blog about two people biking across the US.</description>
+    <link>http://downtowncoolsville.us/</link>
+    <atom:link href="http://downtowncoolsville.us/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 10 May 2015 22:18:20 +0000</pubDate>
+    <lastBuildDate>Sun, 10 May 2015 22:18:20 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>First Test Post</title>
+        <description>&lt;h1 id=&quot;this-is-a-title&quot;&gt;This is a title&lt;/h1&gt;
+
+&lt;h2 id=&quot;this-is-a-subtitle&quot;&gt;This is a subtitle&lt;/h2&gt;
+
+&lt;p&gt;This is content.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 May 2015 18:00:00 +0000</pubDate>
+        <link>http://downtowncoolsville.us/2015/05/10/first-post/</link>
+        <guid isPermaLink="true">http://downtowncoolsville.us/2015/05/10/first-post/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
