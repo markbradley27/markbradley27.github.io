@@ -12,3 +12,5 @@ header-img: "img/post-bg-04.jpg"
 ## This is a subtitle
 
 This is content.
+
+![This is an image]({{ site.baseurl }}/img/IMG_20150506_190450.jpg)
