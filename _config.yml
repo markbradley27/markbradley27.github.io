@@ -9,6 +9,9 @@ url: "http://downtowncoolsville.us"
 #github_username:  davidtmiller
 #facebook_username:  IronSummitMedia
 
+# Google analytics
+googleAnalyticsID: "UA-62755191-1"
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
