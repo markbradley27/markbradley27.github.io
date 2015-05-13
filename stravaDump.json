@@ -1,6 +1,223 @@
 {
   "stats": {
+    "total_elevation_gain": {
+      "total": 7144.2
+    }, 
+    "distance": {
+      "dailyAverage": 99557.08888888889, 
+      "total": 896013.7999999999
+    }
   }, 
   "rides": {
+    "2015-05-05T12:55:05Z": {
+      "distance": 109198.0, 
+      "name": "Day 3: Skowhegan to ~Rumford Point", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a298950824", 
+        "summary_polyline": "w{`pGrbzhLdaAvr@zp@zx@rFzSUve@z[_CvO|_@jVxv@r{@rtEnnAlpDvXvnAtBn[yAtm@hX|{DtaAvrC~JxI`m@xOn\\z_@pzAdkF`E`c@mCdc@{FlRmk@`|@iCrO~@zVtj@jhAbO~p@pKrEn`@m@bi@fm@dChRUrdA|B`LvGmBfWfe@_Abu@|i@~z@roAx|A|GmLrBfDdEnb@iBd}@kNtz@tXxl@lR~T`z@xj@hIf_@zKrSiH`w@c`@jfB_Iz`BgOzZd]rm@`D`XiUjqC}OsE}b@zbAaIpbBxD|ZtX~c@zWjLrf@jDnNzIpE|IrRlfAyMf_BiBd}@mbA`~BaMl{@?hg@nHr^`OjQj|@vJftAh`@le@~V`GpMrDz[b[f\\pQby@tV|Z~_A~@fl@pOf[OjL`K_e@nbDum@vuAkAjqAeHbw@~F~y@Opt@{IdlA}Uly@uTxe@qOvn@iw@jx@s_@~p@fLpYtC|PaCb@hF`CzZsMjJlEb\\eMIlGjBgF}@jEfBjAfXiVh|@aR~e@vt@jd@hdApa@tp@vFlt@sAvmAhOjbA_HtVgTx[wF|t@lEzI~YjH|OnRtRjs@vTjb@hs@lSjJzTiCbScs@hkA}Mp^qE|]zM~MfTiAeC~c@hKl[`Yj_@fjAbaAvW~i@|[xXpKlR~EcAiE~BpJ|m@yFlXkkAd`A}EdK"
+      }, 
+      "total_elevation_gain": 982.8, 
+      "average_speed": 4.389, 
+      "moving_time": 24882, 
+      "start_latlng": [
+        44.74, 
+        -69.77
+      ], 
+      "max_speed": 14.6, 
+      "end_latlng": [
+        44.48, 
+        -70.74
+      ]
+    }, 
+    "2015-05-03T14:33:43Z": {
+      "distance": 86446.5, 
+      "name": "Day 1: Acadia to Bangor", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a297615374", 
+        "summary_polyline": "mlkmGhvh_LbGvBrB~CE`SvF`HBvIwFjF}OvGmSp@kLtO}MzHfAo@nD|CxY{AtE|AdRb^wAbQ}HlUmIjNmBnOhCtG|C~@zTqB`LkEfAdQtJvPbFhk@u@fNtAfFdJrLvHb_@_AtH`@tKqHjQ_A~WoCpFsa@jVub@dPmGlQ_PQyy@tRcOvIw^tGoc@jVeVrCwRvLghBhi@ug@~CiSzUw@dHx@fO_B~La_@li@_C|Ge@tKxF|ObAzPcHM}TzIi]eIaLJoOjFu_@Kid@lLoYbC{[nh@m_@faA}NfTip@xg@mJhAqFzKg_AhZ{i@tIwy@gDii@ae@wSwKm}@jIcp@h]}d@uKcMdIerA|pAo|AduA{t@lM}FhDrEoCqAwAIfB}GnEaJmAyFuEyNjBiP|`AcYr^sAbAEqCMnEmd@~i@}f@h`@qOnTk~@t|@_q@zmBy\\jgAwGtZy[~l@eTvhAyn@nhBqDhGkuBngAqn@~n@gXxSoRzSkl@`y@w|@r|@eE`ImHd[wHdJen@jRg{@fDsFjDcEvHgNxe@sOvMkQzDm`@kCwNtEgi@xh@os@z_AskBrz@}H~KyS`k@wd@~k@wMrH_a@hKoMlPo@Xt@u@}@w@~@tAoTtTaz@~iBga@voAgCv[pFphAm@tPaD|RsnDn{K}LdYon@dx@gGdOcPbWaFfOmM{D]aBgB|@|@eA"
+      }, 
+      "total_elevation_gain": 926.3, 
+      "average_speed": 5.138, 
+      "moving_time": 16824, 
+      "start_latlng": [
+        44.3, 
+        -68.21
+      ], 
+      "max_speed": 18.8, 
+      "end_latlng": [
+        44.8, 
+        -68.77
+      ]
+    }, 
+    "2015-05-06T12:59:16Z": {
+      "distance": 95202.1, 
+      "name": "Day 4: ~Rumford Point to Lancaster", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a299567685", 
+        "summary_polyline": "klnnGh~vnLqIjr@YhaAqOzh@}Bra@dH~dAjPjVv}@Ah|@nZnw@`Ozn@lZ|jAuX~`@ec@dd@_Qf]hLpTzTlUjBnWvMkSyKiVdF|@vRoGxC~BlIid@jJyHrPoGhi@eAliBaYfhAfZ|uArg@px@vCxNrZnf@xCxOzBxp@cHvfAiPdhAaBzqBdd@no@jJrn@Otf@jTrxAZly@rD`U~JbPq@bRpHv\\eA`VkF~FyPbk@iA|e@`InJj@d^pJze@jZbGmDbs@aHf\\mTlUkD`b@uN|k@w@~u@kQvbA`ExJhBrW|Xv|@kMlQ{VpHwFfo@pLrbAxo@fhBxZpn@~VbWvM|VNzm@`F~^vFrrAy_@loCy]tkAaRxJv@po@aL`x@tClZrKhXl_Atp@ni@rwCto@`jC`DzvAj@{JfMwC{LtC{AbNfFn{@vRd~@lIrrA~H`k@hc@njAfApn@sErdBoVheCaChNoMzUiQvv@{U`a@iaDjsDeqBvpEk[`k@kSpv@{jErk@}W~hAsPvrBk`@z]}a@fFuUvSmSl\\i_@n_Al@zdBgC|]sd@jJaRzYpAzD"
+      }, 
+      "total_elevation_gain": 908.5, 
+      "average_speed": 4.121, 
+      "moving_time": 23100, 
+      "start_latlng": [
+        44.48, 
+        -70.74
+      ], 
+      "max_speed": 14.4, 
+      "end_latlng": [
+        44.5, 
+        -71.58
+      ]
+    }, 
+    "2015-05-11T12:55:03Z": {
+      "distance": 148023.0, 
+      "name": "Day 9: Plattsburgh to Potsdam", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a302691726", 
+        "summary_polyline": "suzoGt_j_MgN`AcAkFP{FnAsAaB_AW_G~@gCmAjBlA`Xs@zA|@h@gOnJaHjLqWro@wCxS`Cpm@zGhy@zF`aBbC~tBk@rS{Kxi@mBvVqNnNaHtBig@`@iV`Do_@n[y_@hRy_AbHe_ApTusA~EyUdDyg@hX{aAnp@uN~Ykb@`h@eInW_pAfkCqKrXsi@htBkJnW_Z`b@oVxg@ki@tj@u]`r@ko@hz@oYfi@{Wfw@it@drAeNr`@kPfWwMvi@{MxfAxF|p@tHdZp@zI{@rk@{H`]}A|ZxCnmAg@l`AdDbeA}Mjp@wYtcAsPvhAoAja@p@xrA_CrIAhQ}Jt_AoAh^wShdC}Ivj@sOvd@iKb}@_Kh_@g^fdAcLvR{ThS_u@luAyfApzBiCnKk@tN~m@niM|AtTdG~^qBfi@~IrjBlGhqCbb@lgLlKntFzZj}@`r@|dBvtDrjBIjAhDc@`VtF|s@hUjGbKn_AryBnDtMrK|vB|RzhMpNpdApUvyLbN~iA~H~{CvHr^jGncBhKxUzLhhBbgAhuE|AfBQ`F|Mjn@dAv@lGb^lVdg@fe@re@bWbs@|Q|yApO`s@tfBnmDtB`IMpImH~\\V~XdQhlFhPl|BiAnj@yFdr@t@vmAuAd`@mTf{As@zPdKhjBdu@txB~H|Y|Q|x@bDzu@rP|v@tt@nuBfk@pzAbBtAJfF|aA~{D|q@xp@tOvK}@iBj@hDtlA~cBfv@boA~CdCjnDltFtB~N_@nL"
+      }, 
+      "total_elevation_gain": 874.9, 
+      "average_speed": 5.632, 
+      "moving_time": 26283, 
+      "start_latlng": [
+        44.71, 
+        -73.46
+      ], 
+      "max_speed": 14.7, 
+      "end_latlng": [
+        44.67, 
+        -74.99
+      ]
+    }, 
+    "2015-05-09T20:47:11Z": {
+      "distance": 85496.1, 
+      "name": "Day 7: Burlington to Plattsburgh, eventually...", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a301432412", 
+        "summary_polyline": "}|mnGxfz}Ln@dt@gWfG_CnE{Ep@aHnFiNvP{PtZ_Mj]aa@jf@ctAxdCwHxJoOpKkg@xDubAz[eYrN_PkFmEpEeO~WaBOhBbNcRdo@uBbXyMxKyDjRkEn@yBpWvB{V|EkAlCkPbC}C}TWu}@tmAqZdUoZfMuZ|Fi_@r@{V}Bel@iM~u@rOff@b@`d@wHzg@yWj]g^j{AqwB|G_TgBmLrWk^jPdFhYwNzaAy[vb@eC~N{GtOcRtoAq}Bj`@sd@fQke@rP}Y`OoQdNcGbCoEhZgGkAJOrCLyDbLeFd@|@y@}b@yEQQuFfCKcC[i@wTi~@dDeTcXGkFbFuT|Bc\\nF}RdD_YaAyD}LiHiOkE}A`DkO@e~Amj@ch@gAqGuG}C}MmH_Lwj@cBq`@aMkRYkQeOaNtDyHYcj@gXuiAsVmr@ub@aLvCwM~Icf@xNmTfYqHnEyPtEcKNsB~Xac@hnCcZ~t@kI`Iu_@zNi`@j^eMpC{d@oCkHlDqD~GqNv{Cst@~{CwNzWuIpg@oE|Iud@zd@yFnO_AbUtJ~cC_@dKaCpIuGdIgXxJ{TtTyy@dMeJfh@sMtc@{DdFuXjKsTps@}UlEuf@}@WnGaf@nh@yKjRo_@~kAyClRQtL`PfZLrCrEfHIrBgNbBsEdDcIl\\iErGarAfh@ig@hcAiGlb@Bl]uAnOvI`dAkIpZhn@ff@ji@`l@f[bU|ZaAx@rN{DpA"
+      }, 
+      "total_elevation_gain": 413.6, 
+      "average_speed": 5.022, 
+      "moving_time": 17026, 
+      "start_latlng": [
+        44.48, 
+        -73.21
+      ], 
+      "max_speed": 12.3, 
+      "end_latlng": [
+        44.7, 
+        -73.46
+      ]
+    }, 
+    "2015-05-07T21:05:37Z": {
+      "distance": 77199.6, 
+      "name": "Day 5 Evening: Bath to Montpelier", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a300238070", 
+        "summary_polyline": "shqlG`yfvLhQcE|^xD|_@lu@hClTg@h~@tOzy@Src@n[dw@~In`AtChGeGvn@}n@`_@sJp[tHtOExKgIzDb@zGtOrd@pKdOzFzXeK~X_BdTgPpm@nHth@eAbNsGbIgk@bMkRzZ}^l[cR``AcNd]}TrXg\\rC_KvJMry@uSryAut@vi@aJ`o@sf@`k@}Fx\\lDhZk@fPag@t`CmLvz@oRzR}MnZiB|~@}[fRyb@rGa~@`l@}Td{@kAjYqHbKkYrcAcc@fd@y}@vPuZdd@mYzJgNjXyKvEcPfi@oc@jb@o_@`h@wVoEaLcLiLjCsfCn_DcHxYOx\\qSl_Aik@}LsXz~@on@Mca@iIpDpQ~OzQtYjt@h^n]|h@nRxXdBjX|XrUlLbQvUtTlo@|JlLta@nPvcAiGjThFxb@nvAdZj^vS~i@rA~VsBhn@hMhVbOj`ArOrY`K`^o@jf@cO~jA|@rn@lWdVzLt_@bVv[f_@xMds@sDl_@~_@dDry@rIp]lOdPnBhLkFhXaP|[_Ajk@gI~Yoh@rm@U|b@nDxa@wE|UcI|Sid@xe@{_@kd@_N|JuKeEqEpT{SjJ"
+      }, 
+      "total_elevation_gain": 879.4, 
+      "average_speed": 4.18, 
+      "moving_time": 18469, 
+      "start_latlng": [
+        44.17, 
+        -71.97
+      ], 
+      "max_speed": 13.2, 
+      "end_latlng": [
+        44.27, 
+        -72.58
+      ]
+    }, 
+    "2015-05-08T17:45:43Z": {
+      "distance": 62032.5, 
+      "name": "Day 6: Montpelier to Birlington", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a300704624", 
+        "summary_polyline": "o}cmGz{~yLkAfBbF]mClSpErEmB`InAzIbMtQlOdE~BfDg@vk@aPb|AaJh`@yG`LcDvN_M|SmCpCWsGEtG}FzPcTheA_SfUcGfkAmE`Ku`@`j@aThAsNlNoQ|_@wBxSkFyIoArAeFbIyDpP_CpAcV|e@sTn[wUvEyHxJaMbBcN|OaChHiCnb@zItf@dAnOaIlh@iD|IoNjKqTv^sH~SaF|c@aBhDkXxVgKvB_LzRon@bo@gNnKmB[{A~DiJbJ}AxEi@fMoC`IuH~Pi^tk@eGxn@}GbYiW`p@eIha@_JlLs@xGnB`q@jKzm@M~LiJp`@{HpoAiv@plEgIxYx@h@~@lOqYldBKrVwD`R{Fro@qO~cAgAdRHjd@{C~UiMpWif@b]qMvP}Aze@gHnTx@m@{^rgBaCvHuI`Mr@jGdFxDtBvOf@jNqBfKyLdQiHjR_AMqPn\\cFdFaLzD{SaE}Ep@mGhDoT~TiUpo@HfG|D|RkAlRqaAfvBgBrK`DtLmAbS~@dMmDvo@oa@vkDiM~`@x@~SkFtf@cHvVeIfNsfA``De@tXr@fQmA`n@e\\||@q]pjCwLbp@yY`|@eEbFWkAlD{@oIrVgMpAo@iK}BBY_F"
+      }, 
+      "total_elevation_gain": 412.4, 
+      "average_speed": 4.571, 
+      "moving_time": 13571, 
+      "start_latlng": [
+        44.26, 
+        -72.58
+      ], 
+      "max_speed": 13.7, 
+      "end_latlng": [
+        44.48, 
+        -73.2
+      ]
+    }, 
+    "2015-05-07T12:59:31Z": {
+      "distance": 65886.5, 
+      "name": "Day 5 Morning: Lancaster to Bath", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a300074354", 
+        "summary_polyline": "auqnGtgzsL|AtBfA{BhAn@fMwPvIcFhVaBlI`d@jKn[hInPpO`LrR`]hBbLbIzqAkEpy@xA|Q\\|b@vIbb@nLr`@dGrGzP}Aj\\r^lXjc@wIta@~ZjUx`AbJ`N|E~RpN`OhVzEvTpAzSzK~U~EtExOmEnNlFfDbK`Xvd@fVto@zLzM`ObGl@dG_BrRlKlZ|Gh]nH|JtIrZlIlgAdO|t@vPrZxDlMzAjPzEdRdDle@|Jjs@vZzp@fKdZfHtg@nErNdJpHfa@~MhMzWxF`HtErOfOvPvLLnXjIvWnB`NvOh^bUnUp]vMtKj`AtAbf@mTlOuQdg@u_@`MqVzXoU~MgPlIu_@vK}XvPapAv@iClDe@sE`CoQfqAaMl\\eE`WuFhKqPxOnNjElSh@nM}H{@e`@kB_Pf\\xDjDxGI|^jH~Mzc@~HnPqAjQ|A|UgC~SvJxW~W|Olb@tIhOlMfEtWGb_@tVhJdD`FnTb@pLnMnNgBxMfG~LtBf[jV`q@bShy@vSti@jA`LOv^lCb[dXhQ~InKj_@d|@~m@lb@de@hVnLla@tY`e@~CnP`Or_@tTpMrUrHxLlJ|DnHjH~r@_@bYoCbTQ`o@`QtLvJzKfNnE`XkGtL{XbKeK|GcP`DiBpFXxZlPpX`JvI`H|@pGlA~XgB|Y~Wtt@"
+      }, 
+      "total_elevation_gain": 424.3, 
+      "average_speed": 5.214, 
+      "moving_time": 12637, 
+      "start_latlng": [
+        44.5, 
+        -71.57
+      ], 
+      "max_speed": 13.8, 
+      "end_latlng": [
+        44.17, 
+        -71.97
+      ]
+    }, 
+    "2015-05-12T20:23:27Z": {
+      "distance": 66871.8, 
+      "name": "Day 10: Potsdam to Gouverneur", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a303445841", 
+        "summary_polyline": "sjsoGpzthMvC`FdC~M_A~Yv@fg@}@ppBdCf\\t[jx@~XfXzk@dt@x{BtyFxZ~d@bz@f}AzbAzhCjKla@nMtS~Xjt@|AbHs@nAvAH~@lJhJf~CdM[~LlCzg@nb@b^vd@zPpj@lzBj`DhdAxw@vQ|Hvb@fJbMlJ~vAvwBzo@du@l`@ru@rjCzzCtQjb@b\\~|@xUrv@~h@bqA~Rlo@~]r|@toBfmCbf@~a@bfA|l@fD|GdMte@rMzRvQbIh^FtMlCtxBlyAziAd^jk@v^ta@fl@xoA`z@fYn_@bKfTvRhPzRti@lG``@xBtAy@lBjDzPbz@iGfKqDdW}R|Tc\\ll@im@fK}VpN}{@t\\u~@`WuzAjo@aiBpNwTzi@eTlIwHyA_Bw@bA"
+      }, 
+      "total_elevation_gain": 394.0, 
+      "average_speed": 4.393, 
+      "moving_time": 15224, 
+      "start_latlng": [
+        44.67, 
+        -74.99
+      ], 
+      "max_speed": 8.8, 
+      "end_latlng": [
+        44.28, 
+        -75.39
+      ]
+    }, 
+    "2015-05-04T13:05:03Z": {
+      "distance": 99657.7, 
+      "name": "Day 2: Bangor to Skowhegan", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a298267080", 
+        "summary_polyline": "gampGlxvbLlCpBM`C}IyCgDqJcE~ErD~DfD?bBxv@vR~jDtGkCnD`@`MdMlRpFrs@vc@jK|sAiDlTbBn]_Aj]z@pYvBxRtWdtA|P|]xOk@xCbCxBlInCtCpn@pLtJzI~ErKxLnM|[eFfMnLaHvgAuFnuAfMvwBeL|NeRnO_g@xwAmOb]xo@twChUbtAbUbfAbP|pBdGpd@\\pQnKvjApJxx@dEzz@tAni@eu@|KwLnHg\\pG~CdbArF`X~d@pcInA`IrF|Ij{@`_@zEpCbA|CoH~TkLrJod@bp@c\\~mB_\\zoA{Tht@cUbUgOrFqSfNwLdSqAWt@tAsI~UwA|KpJltAoGbk@ePpk@_Gz_@qv@lnAmCnH}QfgAaJvZ_VloA}HpXlKvTzK`l@hNzh@fm@`{Af`@pyBkJxbAeP`bA}BxEwSxR}C|s@aGaBvGxBNnGsBxJwIT}AfuAdPjyBuY`G}BdEkS~`Aw]jb@sL~F}yAhXx}A|uEx]tpAjSrfCtG`\\fNde@r_BrcChp@~oBOj_@mP~rCcg@nxAeGvc@eGtUqJpiAeKfo@z@|nA|Edv@Tzw@xm@`tBfI~j@cA|UaEnRiDlJuUd`@aA`NfIvUvRvTdKr{@jFrSzcAtzBvRpWdYjUhNz^fEn_@`EnLzIvLbOvHrCkL`BJaAeAMeF"
+      }, 
+      "total_elevation_gain": 928.0, 
+      "average_speed": 4.435, 
+      "moving_time": 22470, 
+      "start_latlng": [
+        44.8, 
+        -68.77
+      ], 
+      "max_speed": 14.3, 
+      "end_latlng": [
+        44.74, 
+        -69.77
+      ]
+    }
   }
 }
