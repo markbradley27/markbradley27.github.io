@@ -9,6 +9,12 @@ body {
 	color: @gray-dark;
 }
 
+img {
+    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 // -- Typography
 
 p {
@@ -29,6 +35,10 @@ h6 {
 	font-weight: 800;
 }
 
+h1 {
+    text-shadow: 2px 2px 2px @gray-dark;
+}
+
 a {
 	color: @gray-dark;
 	&:hover,
@@ -47,6 +57,12 @@ a img {
 blockquote {
 	color: @gray;
 	font-style: italic;
+}
+
+figcaption {
+    color: @gray;
+    font-style: italic;
+    text-align: center;
 }
 
 hr.small {
@@ -157,6 +173,7 @@ hr.small {
 // Header
 
 .intro-header {
+    text-shadow: 2px 2px 2px @gray-dark;
 	background: no-repeat center center;
 	background-color: @gray;
 	background-attachment: scroll;
