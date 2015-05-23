@@ -1,11 +1,11 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 7144.2
+      "total": 11735.7
     }, 
     "distance": {
-      "dailyAverage": 99557.08888888889, 
-      "total": 896013.7999999999
+      "dailyAverage": 93840.22631578948, 
+      "total": 1782964.3
     }
   }, 
   "rides": {
@@ -51,25 +51,25 @@
         -68.77
       ]
     }, 
-    "2015-05-06T12:59:16Z": {
-      "distance": 95202.1, 
-      "name": "Day 4: ~Rumford Point to Lancaster", 
+    "2015-05-16T17:53:25Z": {
+      "distance": 76422.9, 
+      "name": "Day 14: Geneva to Rochester", 
       "map": {
         "resource_state": 2, 
-        "id": "a299567685", 
-        "summary_polyline": "klnnGh~vnLqIjr@YhaAqOzh@}Bra@dH~dAjPjVv}@Ah|@nZnw@`Ozn@lZ|jAuX~`@ec@dd@_Qf]hLpTzTlUjBnWvMkSyKiVdF|@vRoGxC~BlIid@jJyHrPoGhi@eAliBaYfhAfZ|uArg@px@vCxNrZnf@xCxOzBxp@cHvfAiPdhAaBzqBdd@no@jJrn@Otf@jTrxAZly@rD`U~JbPq@bRpHv\\eA`VkF~FyPbk@iA|e@`InJj@d^pJze@jZbGmDbs@aHf\\mTlUkD`b@uN|k@w@~u@kQvbA`ExJhBrW|Xv|@kMlQ{VpHwFfo@pLrbAxo@fhBxZpn@~VbWvM|VNzm@`F~^vFrrAy_@loCy]tkAaRxJv@po@aL`x@tClZrKhXl_Atp@ni@rwCto@`jC`DzvAj@{JfMwC{LtC{AbNfFn{@vRd~@lIrrA~H`k@hc@njAfApn@sErdBoVheCaChNoMzUiQvv@{U`a@iaDjsDeqBvpEk[`k@kSpv@{jErk@}W~hAsPvrBk`@z]}a@fFuUvSmSl\\i_@n_Al@zdBgC|]sd@jJaRzYpAzD"
+        "id": "a305900484", 
+        "summary_polyline": "mwtdG~lztMn@`@KbLcL~@Wvh@}CrPqjBrBi]fJqyAh@oKbzARbt@sKfa@y[fA{UtLk]`AyX|Pwp@vv@mh@zt@iJ~C}WNaSvx@l@uDaJyEoGjHoPH}LeC{]rDkf@dnA}Et`@eP~IwEjGwcA?i\\xBsb@aCy{@EacC|Co@bCcBZ^hJeBzCeY`HSzn@cs@xAjBzNC|y@}NjbA^z`@iP`b@i@|OhDxOjg@vy@`HdQtP|z@r@hPu@hL_FdT_MdQqxBheAwHlKgF|UBhRbF`f@tFzE`Eva@Gx|AiBlQyUfqAmB~@dMbBm@fIt@dZlFd\\dBvm@|BvAsEdVAbI|QncAh@rMwDtTi\\`g@_O`e@mFvg@_DNya@lyDe@|BqBj@nAhB{Dd\\{Aft@tRhcD@xCiBl@lBhKxAtc@{Rjz@wiA~zDiArOi@tt@cBnMaVbk@wY~i@{IrYoBgCeCdLvINuA|DjEsDtJfAy@Rb@_BqWMTaDtA|AgOjW_B~OdH`c@vMpMxZcCpo@jAvHtCtPrNb\\`GvvAd_AtHdJxBtH~BrT]xV_E`PuHbP_v@fg@qq@jhAo_Avs@qFhQeAxJhEla@q@qBsAz@en@lqAcl@jm@_MjTxQOtBhMtMhDg@pF"
       }, 
-      "total_elevation_gain": 908.5, 
-      "average_speed": 4.121, 
-      "moving_time": 23100, 
+      "total_elevation_gain": 208.0, 
+      "average_speed": 5.182, 
+      "moving_time": 14748, 
       "start_latlng": [
-        44.48, 
-        -70.74
+        42.87, 
+        -76.98
       ], 
-      "max_speed": 14.4, 
+      "max_speed": 10.6, 
       "end_latlng": [
-        44.5, 
-        -71.58
+        43.11, 
+        -77.55
       ]
     }, 
     "2015-05-11T12:55:03Z": {
@@ -93,25 +93,25 @@
         -74.99
       ]
     }, 
-    "2015-05-09T20:47:11Z": {
-      "distance": 85496.1, 
-      "name": "Day 7: Burlington to Plattsburgh, eventually...", 
+    "2015-05-15T19:29:43Z": {
+      "distance": 57678.9, 
+      "name": "Day 13: Skaneateles to Geneva", 
       "map": {
         "resource_state": 2, 
-        "id": "a301432412", 
-        "summary_polyline": "}|mnGxfz}Ln@dt@gWfG_CnE{Ep@aHnFiNvP{PtZ_Mj]aa@jf@ctAxdCwHxJoOpKkg@xDubAz[eYrN_PkFmEpEeO~WaBOhBbNcRdo@uBbXyMxKyDjRkEn@yBpWvB{V|EkAlCkPbC}C}TWu}@tmAqZdUoZfMuZ|Fi_@r@{V}Bel@iM~u@rOff@b@`d@wHzg@yWj]g^j{AqwB|G_TgBmLrWk^jPdFhYwNzaAy[vb@eC~N{GtOcRtoAq}Bj`@sd@fQke@rP}Y`OoQdNcGbCoEhZgGkAJOrCLyDbLeFd@|@y@}b@yEQQuFfCKcC[i@wTi~@dDeTcXGkFbFuT|Bc\\nF}RdD_YaAyD}LiHiOkE}A`DkO@e~Amj@ch@gAqGuG}C}MmH_Lwj@cBq`@aMkRYkQeOaNtDyHYcj@gXuiAsVmr@ub@aLvCwM~Icf@xNmTfYqHnEyPtEcKNsB~Xac@hnCcZ~t@kI`Iu_@zNi`@j^eMpC{d@oCkHlDqD~GqNv{Cst@~{CwNzWuIpg@oE|Iud@zd@yFnO_AbUtJ~cC_@dKaCpIuGdIgXxJ{TtTyy@dMeJfh@sMtc@{DdFuXjKsTps@}UlEuf@}@WnGaf@nh@yKjRo_@~kAyClRQtL`PfZLrCrEfHIrBgNbBsEdDcIl\\iErGarAfh@ig@hcAiGlb@Bl]uAnOvI`dAkIpZhn@ff@ji@`l@f[bU|ZaAx@rN{DpA"
+        "id": "a305275469", 
+        "summary_polyline": "}zbeGnpmqMfCh@{Bv]mC~@yGzUyFrDzKzz@seAxcBpEd_EhK|_@rYpzBzZvcBnZdfAvTfo@bJt`@}@]p@YrCzHhKfI{EnDbCrMlDlh@`Sp|@a@vi@bErZzHrgBdBtmAbKte@Pfr@gN~oA{\\df@{E`TqUvlCkB`b@Thk@iAdNoFvVd@n_@}@xKeDnHuEtD_T`Mg_@xNoV|]qs@`yAsBlPd@z`@lGfZhsAz_D`IdDz`@XfW|]tsBpfBph@~TpGf@iBvlB~DrPdBzW|EzQvO~PaGzn@kHd]pCoAl@hIuFiAfEyOlA[s@s@rIqv@fCxBjCiAfFtPfIdzAT|YuCtUqG|XeEv`@j@nT|Ffm@g@xWr}@~yFh~@`pBvIrZrK`OpRnMzDtIf@hJmFlnAlAhHjBzAhMgMbIlmAnDnKXhG`DxDkAdMkOwDkC~L"
       }, 
-      "total_elevation_gain": 413.6, 
-      "average_speed": 5.022, 
-      "moving_time": 17026, 
+      "total_elevation_gain": 165.3, 
+      "average_speed": 5.561, 
+      "moving_time": 10372, 
       "start_latlng": [
-        44.48, 
-        -73.21
+        42.95, 
+        -76.42
       ], 
-      "max_speed": 12.3, 
+      "max_speed": 13.6, 
       "end_latlng": [
-        44.7, 
-        -73.46
+        42.87, 
+        -76.98
       ]
     }, 
     "2015-05-07T21:05:37Z": {
@@ -135,6 +135,69 @@
         -72.58
       ]
     }, 
+    "2015-05-19T16:21:02Z": {
+      "distance": 27875.6, 
+      "name": "Day 17: Tonawanda to Niagara Falls", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a307695504", 
+        "summary_polyline": "_|neGptb`N`O~m@FvOxR~@sHla@mIbP}CxLtArEP~P~OlZGfJPcA{@ZaeBvhBcBbGsh@zMqt@bi@_b@zS_c@rJ{]bSiSb[iXpm@gBxIk@vUaJnVsQhRwLn[_Mbg@mDvn@wLf^knD`CxBfSjj@`sBhLzj@dJj}@gIly@gE`|@ySrhAObYmDzGaAdHXfyC|Az`A{J|@MbJcWuM"
+      }, 
+      "total_elevation_gain": 15.6, 
+      "average_speed": 5.289, 
+      "moving_time": 5270, 
+      "start_latlng": [
+        43.01, 
+        -78.83
+      ], 
+      "max_speed": 7.8, 
+      "end_latlng": [
+        43.1, 
+        -79.05
+      ]
+    }, 
+    "2015-05-09T20:47:11Z": {
+      "distance": 85496.1, 
+      "name": "Day 7: Burlington to Plattsburgh, eventually...", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a301432412", 
+        "summary_polyline": "}|mnGxfz}Ln@dt@gWfG_CnE{Ep@aHnFiNvP{PtZ_Mj]aa@jf@ctAxdCwHxJoOpKkg@xDubAz[eYrN_PkFmEpEeO~WaBOhBbNcRdo@uBbXyMxKyDjRkEn@yBpWvB{V|EkAlCkPbC}C}TWu}@tmAqZdUoZfMuZ|Fi_@r@{V}Bel@iM~u@rOff@b@`d@wHzg@yWj]g^j{AqwB|G_TgBmLrWk^jPdFhYwNzaAy[vb@eC~N{GtOcRtoAq}Bj`@sd@fQke@rP}Y`OoQdNcGbCoEhZgGkAJOrCLyDbLeFd@|@y@}b@yEQQuFfCKcC[i@wTi~@dDeTcXGkFbFuT|Bc\\nF}RdD_YaAyD}LiHiOkE}A`DkO@e~Amj@ch@gAqGuG}C}MmH_Lwj@cBq`@aMkRYkQeOaNtDyHYcj@gXuiAsVmr@ub@aLvCwM~Icf@xNmTfYqHnEyPtEcKNsB~Xac@hnCcZ~t@kI`Iu_@zNi`@j^eMpC{d@oCkHlDqD~GqNv{Cst@~{CwNzWuIpg@oE|Iud@zd@yFnO_AbUtJ~cC_@dKaCpIuGdIgXxJ{TtTyy@dMeJfh@sMtc@{DdFuXjKsTps@}UlEuf@}@WnGaf@nh@yKjRo_@~kAyClRQtL`PfZLrCrEfHIrBgNbBsEdDcIl\\iErGarAfh@ig@hcAiGlb@Bl]uAnOvI`dAkIpZhn@ff@ji@`l@f[bU|ZaAx@rN{DpA"
+      }, 
+      "total_elevation_gain": 413.6, 
+      "average_speed": 5.022, 
+      "moving_time": 17026, 
+      "start_latlng": [
+        44.48, 
+        -73.21
+      ], 
+      "max_speed": 12.3, 
+      "end_latlng": [
+        44.7, 
+        -73.46
+      ]
+    }, 
+    "2015-05-20T17:19:54Z": {
+      "distance": 82788.8, 
+      "name": "Day 18: Niagara Falls to Hamilton", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a308540631", 
+        "summary_polyline": "}y~eGt{~aNl@Lc@vImf@lAoCjPkL|YcIdg@wAz|@wO|e@}Aza@qDzXMp^gHxWahAvC{As{@ceAtAgBk@}BiIoGiByFvGyB@_HeJmEKyNyKuBuIJyMugAn@aPhBvp@tjC`AxQdGdK`g@fmBbFxGj@dMkQ~Fr@vLg@~QyCbAgEtIfG~tAoiAdGoYdJpAzUbInEuEdKg@|IxBhCm@bCgJbOmLlIgItUK`GoHlQeq@h]_IxJ_EdN_XpMkBfJbCld@c@~MiChKeP`AjEd_@aD~dAyBlIaKpIsAhKZkCV~FpGhHbA|EpDvlGeKt[cAd[uVr{@}Fpm@@zr@gHrUbAvDf_@k@nE|vFdGbfEvDp@cDz`@tB~{EcEnFyX~q@wAdfB}b@rqCmDhMkSxb@aMdeAwRvvB_^OyY|BExSgWfnB}VjeBaCfC`AcBbCvBmK|C}BnH@pHtGvL_A~Mup@fqEcYfaByB|CwJ|AcCpGyCfb@\\vGaCvStFxCmMl}@{EK{DjIX~Q}@rIo@vDyGdK_AlOmK|r@mOmEdJvCiAvF_GhB^tg@qKzd@iS~`@oSzW`HbLiEhCSfFlEJnBpRpQ~RuGdf@tk@~RiS`zA\\xEgA^mJ~j@wRzwAeCu@QwCsI|dAmc@lgCgi@nkDpy@hYmDn[~O`I"
+      }, 
+      "total_elevation_gain": 90.8, 
+      "average_speed": 5.067, 
+      "moving_time": 16338, 
+      "start_latlng": [
+        43.09, 
+        -79.13
+      ], 
+      "max_speed": 13.9, 
+      "end_latlng": [
+        43.26, 
+        -79.89
+      ]
+    }, 
     "2015-05-08T17:45:43Z": {
       "distance": 62032.5, 
       "name": "Day 6: Montpelier to Birlington", 
@@ -156,25 +219,46 @@
         -73.2
       ]
     }, 
-    "2015-05-07T12:59:31Z": {
-      "distance": 65886.5, 
-      "name": "Day 5 Morning: Lancaster to Bath", 
+    "2015-05-22T13:21:48Z": {
+      "distance": 77353.2, 
+      "name": "Day 20: Ingersoll to Strathroy", 
       "map": {
         "resource_state": 2, 
-        "id": "a300074354", 
-        "summary_polyline": "auqnGtgzsL|AtBfA{BhAn@fMwPvIcFhVaBlI`d@jKn[hInPpO`LrR`]hBbLbIzqAkEpy@xA|Q\\|b@vIbb@nLr`@dGrGzP}Aj\\r^lXjc@wIta@~ZjUx`AbJ`N|E~RpN`OhVzEvTpAzSzK~U~EtExOmEnNlFfDbK`Xvd@fVto@zLzM`ObGl@dG_BrRlKlZ|Gh]nH|JtIrZlIlgAdO|t@vPrZxDlMzAjPzEdRdDle@|Jjs@vZzp@fKdZfHtg@nErNdJpHfa@~MhMzWxF`HtErOfOvPvLLnXjIvWnB`NvOh^bUnUp]vMtKj`AtAbf@mTlOuQdg@u_@`MqVzXoU~MgPlIu_@vK}XvPapAv@iClDe@sE`CoQfqAaMl\\eE`WuFhKqPxOnNjElSh@nM}H{@e`@kB_Pf\\xDjDxGI|^jH~Mzc@~HnPqAjQ|A|UgC~SvJxW~W|Olb@tIhOlMfEtWGb_@tVhJdD`FnTb@pLnMnNgBxMfG~LtBf[jV`q@bShy@vSti@jA`LOv^lCb[dXhQ~InKj_@d|@~m@lb@de@hVnLla@tY`e@~CnP`Or_@tTpMrUrHxLlJ|DnHjH~r@_@bYoCbTQ`o@`QtLvJzKfNnE`XkGtL{XbKeK|GcP`DiBpFXxZlPpX`JvI`H|@pGlA~XgB|Y~Wtt@"
+        "id": "a309642961", 
+        "summary_polyline": "yeqeGvwilNr@s@jHnKxWzd@asC|~DCzWzF`x@ok@nt@`IrKbGx\\cQ`rBc_@x|KyEfPug@ju@{VjNxCbLpAs@wAzBxcH`v\\vf@jtCMtGpCfEdYn|AotAbj@kD`FgBxQgFdGhcAlhF~^`vBa`@nQnDbSmL~Fw@zVhIbCRdHbSnI`YdvA{FnDnGo@wDb@n@~GgAhEw]jLgEhNoHUyDxEe@pEyAp@hC`NsEp@eJrI|CjVms@|\\lrB~kKbFtb@mYhuV?b}@iCzv@oEppEdAjAo@~@bBl@BfLdaDjzE`HhG|VbKzG|Gfj@vuAjr@dfA_KzLaDQ"
       }, 
-      "total_elevation_gain": 424.3, 
-      "average_speed": 5.214, 
-      "moving_time": 12637, 
+      "total_elevation_gain": 171.2, 
+      "average_speed": 4.791, 
+      "moving_time": 16147, 
       "start_latlng": [
-        44.5, 
-        -71.57
+        43.02, 
+        -80.83
       ], 
-      "max_speed": 13.8, 
+      "max_speed": 11.8, 
       "end_latlng": [
-        44.17, 
-        -71.97
+        42.96, 
+        -81.62
+      ]
+    }, 
+    "2015-05-17T13:31:31Z": {
+      "distance": 110162.0, 
+      "name": "Day 15: Rochester to Hunt", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a306752102", 
+        "summary_polyline": "a`bfGjrixMuJsCkBwLhw@oDblAwXtvAhg@~c@tB~XrO`pAxxAniA`_Ar_Bvn@l`@rDjOsFtm@voAdStJjrAcAfGsMnRrFxRlXtx@jdB`z@pC|SlHwEz{BMvjD_f@j{A|[nPp{AzrAjkEnh@a@dH~EMi@|CwBqKffK|~@r_@|q@nVlgA|i@dz@dgAbuBf^tg@tdCr`FoCxl@nh@`Ge@rZbdAdd@xMhW|Pfi@hAr}Ab~@[|BzpCxLMpjC~p@F|d@vOl\\rEzw@nJf`@zCLgCBnG|`@rZdj@lG`FhN}C{MdQrKfUfLhJbi@Obm@|n@jSdEfVgBtXzPlFlRxBfn@|EvRx`@fs@~b@`PtRvd@baAnM~MfPvq@bObRfZx\\eIlZrSzNJd_@jXhSjEpNnNptBxf@pPdZrEpb@uQxWnJ^dD|X|WnQlHd[dArZjQfXbM\\hOcRpe@wQFsHkImJ^cO_F}UbEuQhS}CdNdIx@fI~GdCfC`WoDiS{EwEpBsCmLaL_SeA{KzHvDhr@|Wz^vKrw@vLzShHvAfBtHcDZ~@zK`b@fc@~DiBpSzMfPuAzKwF|H_\\pZkJ`^nXvFsI`^}A\\os@xOmGtLmSU}s@z|@_HU{mCj]qASw{AboGyAu@utB"
+      }, 
+      "total_elevation_gain": 1284.9, 
+      "average_speed": 4.542, 
+      "moving_time": 24252, 
+      "start_latlng": [
+        43.11, 
+        -77.55
+      ], 
+      "max_speed": 14.9, 
+      "end_latlng": [
+        42.49, 
+        -77.97
       ]
     }, 
     "2015-05-12T20:23:27Z": {
@@ -198,6 +282,90 @@
         -75.39
       ]
     }, 
+    "2015-05-19T21:06:21Z": {
+      "distance": 22239.1, 
+      "name": "Puttering around Niagara", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a308207575", 
+        "summary_polyline": "y`afGp~naNri@~Y`\\vf@|Jm@hBrPrBJJoChAh@aCvQr@{GpEmIxQfHCpQeFvEtE{DjHk@lAlHcCvJxB`@N|AiCaEfHsN}@wKwGyCmBeDx@{MlBaFmD`JEzHmBv@oOmHsCpCiBaFWaKwJ^aFhRyKzOcEtAWrCO}AyEiBzAeEzAFtUh[RnFpHbFdQzJxTnGxHQVnDv@eAkAnCaMmGgQqCxC`JlDnqBpiAuA~BlrDxHvCxApEt@aCHhCiAOhAa@i@mHP|Gk@h@oAsCrB_EwTf@qQyFwOiJmhAdAPp`As@bBdAxn@oCXqIaJ"
+      }, 
+      "total_elevation_gain": 228.6, 
+      "average_speed": 3.026, 
+      "moving_time": 7350, 
+      "start_latlng": [
+        43.1, 
+        -79.05
+      ], 
+      "max_speed": 8.4, 
+      "end_latlng": [
+        43.09, 
+        -79.14
+      ]
+    }, 
+    "2015-05-21T17:42:37Z": {
+      "distance": 101150.0, 
+      "name": "Day 19: Hamilton to Ingersol", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a309643488", 
+        "summary_polyline": "oi_gGj{qfNqClV`h@rR_FhZgDa@iEhKhFtUaAtf@eBlOsHxZeM~_A{CdCnC`XqA`tAiF`j@_@zR`SfoA|GxPbDnVxLt^n_@haB`@dMwAtVfE`b@nGhNn]lSnG|KdBbKkBtOkKvMgPnKeQlCmJlH}DpHsCnXrAbX|BbKjH`OrShLpb@eBfLtEvY`u@jMlId[vFvGbI`DzMh]nlCzBpIjcAvlBpmA|`DhqArbHbN~S~`@n^bHjDpFbOdBa@RkIzw@kEfOlCzOlMhRt`@~Ln`@nRf|@dDbj@~ClOhFfIdNxHpHbI`AlGvMn[qDjZxC~NrBZr@hEvMdJw@k@mCfG`CfO{@zDrAbK}CdT`F|_@yP~^EvCuIlODfBdBSo@jEt@xIjDHvAdU}HtEb@hMqChEhAlKeGvSi@vNvAdQm@dGjD|H]fC~BtKlPbRtCbMzDmE_CtGSdYqJjjArFbj@[fXxGbb@}JdVub@xNzg@~nFhAl[{AdJhB|H?nUjDfXvFC`]trDu\\nMxsCqz@rUphC[eCr@By@~@fOr_BuB|k@bDhm@qGtn@f\\|Rr`@hJzi@dDvv@iGnRpDbo@no@vg@xw@`DbKbKnzBr^rcAjf@piGdD~Ej[pQjEvKmCkIfCdJhe@xyEdIdm@j@pQbi@toF~mAj{NzEpcA`e@rtFmDfCkqA|TbEzq@giAf`Bt_Az{AwC_Eq@b@"
+      }, 
+      "total_elevation_gain": 614.7, 
+      "average_speed": 4.583, 
+      "moving_time": 22069, 
+      "start_latlng": [
+        43.26, 
+        -79.89
+      ], 
+      "max_speed": 9.9, 
+      "end_latlng": [
+        43.02, 
+        -80.83
+      ]
+    }, 
+    "2015-05-07T12:59:31Z": {
+      "distance": 65886.5, 
+      "name": "Day 5 Morning: Lancaster to Bath", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a300074354", 
+        "summary_polyline": "auqnGtgzsL|AtBfA{BhAn@fMwPvIcFhVaBlI`d@jKn[hInPpO`LrR`]hBbLbIzqAkEpy@xA|Q\\|b@vIbb@nLr`@dGrGzP}Aj\\r^lXjc@wIta@~ZjUx`AbJ`N|E~RpN`OhVzEvTpAzSzK~U~EtExOmEnNlFfDbK`Xvd@fVto@zLzM`ObGl@dG_BrRlKlZ|Gh]nH|JtIrZlIlgAdO|t@vPrZxDlMzAjPzEdRdDle@|Jjs@vZzp@fKdZfHtg@nErNdJpHfa@~MhMzWxF`HtErOfOvPvLLnXjIvWnB`NvOh^bUnUp]vMtKj`AtAbf@mTlOuQdg@u_@`MqVzXoU~MgPlIu_@vK}XvPapAv@iClDe@sE`CoQfqAaMl\\eE`WuFhKqPxOnNjElSh@nM}H{@e`@kB_Pf\\xDjDxGI|^jH~Mzc@~HnPqAjQ|A|UgC~SvJxW~W|Olb@tIhOlMfEtWGb_@tVhJdD`FnTb@pLnMnNgBxMfG~LtBf[jV`q@bShy@vSti@jA`LOv^lCb[dXhQ~InKj_@d|@~m@lb@de@hVnLla@tY`e@~CnP`Or_@tTpMrUrHxLlJ|DnHjH~r@_@bYoCbTQ`o@`QtLvJzKfNnE`XkGtL{XbKeK|GcP`DiBpFXxZlPpX`JvI`H|@pGlA~XgB|Y~Wtt@"
+      }, 
+      "total_elevation_gain": 424.3, 
+      "average_speed": 5.214, 
+      "moving_time": 12637, 
+      "start_latlng": [
+        44.5, 
+        -71.57
+      ], 
+      "max_speed": 13.8, 
+      "end_latlng": [
+        44.17, 
+        -71.97
+      ]
+    }, 
+    "2015-05-14T12:57:03Z": {
+      "distance": 103946.0, 
+      "name": "Day 12: Sandy Creek to Skaneateles", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a304680226", 
+        "summary_polyline": "wamiGt~joMpe@xNfB~Cvm@rChy@vZ`e@pJ`j@vFj|HhnEzBoEfTy@tcAv@dq@oBtoFnKfyBxf@jjK`vChsCuGrd@kMxcAwO|a@mA\\fBWoCQ`BSaBtIxAwFld@tBjaDhAlGbJzRlAta@`LbbA^lHoDn^rEtMdChVbGpNlJff@|~A`g@nw@_Qx`@v@~OjSfLNdXrQ}Dh`@jxCdcAhq@jc@hbAt\\tWrAzZuLhWwEnXyWzO_Fxk@tQrHrFbOpV~Rh@rbArY{@hd@rStf@nHtu@hGfGrZzu@{EtI~AsAlU~_@hWpNjS`e@jArG|Avt@feJkYzOrh@bBrc@xQ}CYbK|B}@dQjCrClmBvC`AyCSbEjzBnSdFtRp@|n@}Cxr@`Kpt@dCfRzGpe@jIjmBb{@hKxKpEnLzEdd@_@xhAz`@}Ejg@bfAtd@hgCbRv}CbGYtAzHnZaKxhBc~Af_@eD~L_Lze@}B~y@}Q|Bdd@tI`D`_@hXjLfDhDfWlZ_SpXbCzt@oAzCeBtTa[vLkCrf@iV`OyTf^iLvdA}i@xuAka@~Csg@dNz@mAV"
+      }, 
+      "total_elevation_gain": 540.1, 
+      "average_speed": 4.913, 
+      "moving_time": 21158, 
+      "start_latlng": [
+        43.65, 
+        -76.08
+      ], 
+      "max_speed": 13.8, 
+      "end_latlng": [
+        42.95, 
+        -76.42
+      ]
+    }, 
     "2015-05-04T13:05:03Z": {
       "distance": 99657.7, 
       "name": "Day 2: Bangor to Skowhegan", 
@@ -217,6 +385,69 @@
       "end_latlng": [
         44.74, 
         -69.77
+      ]
+    }, 
+    "2015-05-13T15:37:58Z": {
+      "distance": 101210.0, 
+      "name": "Day 11: Gouverneur to Sandy Creek", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a304056145", 
+        "summary_polyline": "mtgmGfrfkMfMz_BNpOlKjj@xZf}@zD|RtShp@jZnqAzQ|ZzMzm@zBpUPta@hYdiCj@fl@vDlh@i^|cA_DdOaDxEdo@bj@zH|b@sA~[lEbb@zBhIj^jc@tYzT~lAfp@dYhVtMhRbaBrxAvLjd@bGtMrD|C_CjMbDv^|QjWfi@p~AhFhIj[nWpf@rcAv[jh@hFbMhNts@lFls@`h@fsBxLzq@SlDjLjRrIdF`m@m@bLnG|Qtl@xZbl@r`@bj@pYdXjs@`aAlz@zmA~vAt{BlkAbcBzElJhEjQzKppArE`OnE`HbLhJ|}@pa@n_@vXdWtLz[rVj|@`Z`t@h_@dg@tJno@zc@jUd}@xNheAjGpz@|U~cAnEdJzc@r[hgCfzA|KtEpDqIkBbAiEaF~DmI_DdJfCpCoCvEpCdDu@dBhAsAlb@fUjj@zBpa@|LrD|E}@vm@x{@|wAha@fL~q@lc@zbApa@nWzHpFeAbDxGjXrLza@vDjOfJrw@ru@vXs@nMnf@bH`OnR|n@bJdKzk@mA`KxAxLvGrt@nm@|aAhl@hy@t\\`dBbXfb@`[t{@~GbOkBjVzGrQsA|GvD|i@po@|OrI~nAGrv@hShf@bCt|Ad{@dWza@fJjJbHfDtq@tJty@b`@vj@|I|`@wMba@kFns@nCvYhJhh@y@nFfDbZdd@hIrG~pAbb@xaB|c@uDwC"
+      }, 
+      "total_elevation_gain": 467.0, 
+      "average_speed": 5.297, 
+      "moving_time": 19108, 
+      "start_latlng": [
+        44.28, 
+        -75.41
+      ], 
+      "max_speed": 13.0, 
+      "end_latlng": [
+        43.65, 
+        -76.08
+      ]
+    }, 
+    "2015-05-18T13:14:03Z": {
+      "distance": 126124.0, 
+      "name": "Day 16: Hunt to Tonawanda", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a307275517", 
+        "summary_polyline": "epjbGpoyzM}yDed@}B{AyAqM{AmAkq@jAmmAuKaQzmAiHt|@mn@veBgJjKaObIek@aDuIlAwJ|GvAtOLroB{AtSgN~[sEfVeH|REnW{AbS|AlIlStUrLpAtMuC|Inb@bJwDmNvHsKrm@gEbKuZdN{j@xz@gFxByaDW_^mJc[U}M}OkGwDmTY{DhE_Jz\\Uz_AcAzE_CpBi}@zDop@lKy^g@sY|Lw_@hAuCnFaA|NgB`dBo_@|cAsFbJmfA[mI`FaA~uA_bAo@yA|nDwuKfE}@`kDu}@`tG{DvtD{bAr@oSaF_\\BeUrGsgDbAg`Bh`Ak_BxFuq@|YySOs@|W{MdHmGNiIlUyLnk@MhF}l@pzByHnj@sPjMuDOof@vgAib@~q@{`@xZ_AjNadCzDdAlmG`En_F_aAto@abAkAqMkBmg@z@hNjhA|RbkDfn@vnHyAdFx@~C{AdA{Ur`CuBzs@oRrmBnAnc@n@fyBlL~}@mEjbDyBrnDVn_@hHzZerEb@l@lgHcqAp@QfxEyX|AJ`ScIkAiDlHkD~Aq@xN{GbDOb\\ePaGqPrDfAfFaCzKnElFaAfJgKhNyQ`DsClGdBx_@gJnWlBd|AAfm@eBhKCl]`@dCr\\x@K{C"
+      }, 
+      "total_elevation_gain": 805.3, 
+      "average_speed": 5.02, 
+      "moving_time": 25123, 
+      "start_latlng": [
+        42.49, 
+        -77.96
+      ], 
+      "max_speed": 15.0, 
+      "end_latlng": [
+        43.01, 
+        -78.82
+      ]
+    }, 
+    "2015-05-06T12:59:16Z": {
+      "distance": 95202.1, 
+      "name": "Day 4: ~Rumford Point to Lancaster", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a299567685", 
+        "summary_polyline": "klnnGh~vnLqIjr@YhaAqOzh@}Bra@dH~dAjPjVv}@Ah|@nZnw@`Ozn@lZ|jAuX~`@ec@dd@_Qf]hLpTzTlUjBnWvMkSyKiVdF|@vRoGxC~BlIid@jJyHrPoGhi@eAliBaYfhAfZ|uArg@px@vCxNrZnf@xCxOzBxp@cHvfAiPdhAaBzqBdd@no@jJrn@Otf@jTrxAZly@rD`U~JbPq@bRpHv\\eA`VkF~FyPbk@iA|e@`InJj@d^pJze@jZbGmDbs@aHf\\mTlUkD`b@uN|k@w@~u@kQvbA`ExJhBrW|Xv|@kMlQ{VpHwFfo@pLrbAxo@fhBxZpn@~VbWvM|VNzm@`F~^vFrrAy_@loCy]tkAaRxJv@po@aL`x@tClZrKhXl_Atp@ni@rwCto@`jC`DzvAj@{JfMwC{LtC{AbNfFn{@vRd~@lIrrA~H`k@hc@njAfApn@sErdBoVheCaChNoMzUiQvv@{U`a@iaDjsDeqBvpEk[`k@kSpv@{jErk@}W~hAsPvrBk`@z]}a@fFuUvSmSl\\i_@n_Al@zdBgC|]sd@jJaRzYpAzD"
+      }, 
+      "total_elevation_gain": 908.5, 
+      "average_speed": 4.121, 
+      "moving_time": 23100, 
+      "start_latlng": [
+        44.48, 
+        -70.74
+      ], 
+      "max_speed": 14.4, 
+      "end_latlng": [
+        44.5, 
+        -71.58
       ]
     }
   }
