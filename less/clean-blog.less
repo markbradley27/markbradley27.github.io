@@ -13,6 +13,8 @@ img {
     max-height: 500px;
     margin-left: auto;
     margin-right: auto;
+    outline: 2px solid @gray-light;
+    outline-offset: 8px;
 }
 
 // -- Typography
@@ -33,10 +35,6 @@ h5,
 h6 {
 	.sans-serif;
 	font-weight: 800;
-}
-
-h1 {
-    text-shadow: 2px 2px 2px @gray-dark;
 }
 
 a {
@@ -63,6 +61,7 @@ figcaption {
     color: @gray;
     font-style: italic;
     text-align: center;
+    margin-top: 12px;
 }
 
 hr.small {
@@ -75,6 +74,7 @@ hr.small {
 // Navigation
 
 .navbar-custom {
+    text-shadow: 2px 2px 2px @gray-dark;
 	background: white;
 	position: absolute;
 	top: 0;
@@ -133,6 +133,7 @@ hr.small {
 		backface-visibility: hidden;
 		&.is-fixed {
 			/* when the user scrolls down, we hide the header right above the viewport */
+            text-shadow: none;
 			position: fixed;
 			top: -61px;
 			background-color: fade(white, 90%);
