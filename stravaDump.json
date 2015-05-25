@@ -1,11 +1,11 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 11826.9
+      "total": 12046.699999999999
     }, 
     "distance": {
-      "dailyAverage": 97482.515, 
-      "total": 1949650.3000000003
+      "dailyAverage": 96505.89523809524, 
+      "total": 2026623.8000000003
     }
   }, 
   "rides": {
@@ -322,6 +322,27 @@
       "end_latlng": [
         44.28, 
         -75.39
+      ]
+    }, 
+    "2015-05-25T14:04:47Z": {
+      "distance": 76973.5, 
+      "name": "Day 23: Clawson to Ann Arbor", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a311812335", 
+        "summary_polyline": "airbGlbrzNpCpElk@{@lGjmH~o@aAbOpAzFgAxGsG|E`Et[a@n@jd@r@hAd`@y@bPlCpEkAlFcGpRc@hEzDzMGbYgGvGdBvChHs@mEfJWzIiJjGJ~JrIPja@yErCjCyCbGdDxAj_BbDO~AvCxdJaNnCp_GxHt`GzDxcFvGnrLhOoItE[pIdDxuAh_AvN|PjEjJlClQAf`@oYdcAa@rVdEb_@kDe@lDb@qEyb@v@wTvA}HsCv\\tEjd@mDIfb@yLnEmKGyIdGgCtAcEkB|D`n@iAtPf^xMzLvFfBy@t@wK`mARzOns@bsCb]nh@ft@|sClBxN|B~fAz[ph@~HrRfWfcAnD`c@wGnbA~C|f@bOff@nXpm@po@xfB|^jyBzb@fZhCdEpCrw@fKr@ha@hMxz@v_@fj@nNplB_AzH~t@FxXmCnOyInVkCzBeAbIeHtG`@pG}@|I{Idd@`KeCzOjTxAjO|BzDbBfKsAdS|EnXdJzVsFzI?lGvTP~A|xAOnB}Bs@"
+      }, 
+      "total_elevation_gain": 219.8, 
+      "average_speed": 5.019, 
+      "moving_time": 15336, 
+      "start_latlng": [
+        42.53, 
+        -83.16
+      ], 
+      "max_speed": 10.0, 
+      "end_latlng": [
+        42.26, 
+        -83.74
       ]
     }, 
     "2015-05-03T14:33:43Z": {
