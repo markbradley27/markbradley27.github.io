@@ -1,0 +1,24 @@
+<figure class="container-fluid">
+    <div class="col-sm-{{ include.1weight }}">
+        <a href="{{ include.1src }}">
+            <img src="{{ include.1src }}">
+        </a>
+        {% if include.1caption %}
+        <figcaption>{{ include.1caption }}</figcaption>
+        {% endif %}
+    </div>
+    {% if include.2src %}
+    <div class="col-sm-{{ include.2weight }}">
+        <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+        <a href="{{ include.2src }}">
+            <img src="{{ include.2src }}">
+        </a>
+        {% if include.2caption %}
+        <figcaption>{{ include.2caption }}</figcaption>
+        {% endif %}
+    </div>
+    {% endif %}
+    {% if include.caption %}
+    <div class="col-sm-12"><figcaption>{{ include.caption }}</figcaption></div>
+    {% endif %}
+</figure>
