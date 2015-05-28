@@ -1,11 +1,11 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 12719.199999999999
+      "total": 12902.799999999997
     }, 
     "distance": {
-      "dailyAverage": 98249.99130434784, 
-      "total": 2259749.8000000007
+      "dailyAverage": 97217.79166666669, 
+      "total": 2333227.0000000005
     }
   }, 
   "rides": {
@@ -51,25 +51,25 @@
         -73.46
       ]
     }, 
-    "2015-05-23T13:39:07Z": {
-      "distance": 166686.0, 
-      "name": "Day 21: Strathroy to Clawson", 
+    "2015-05-19T21:06:21Z": {
+      "distance": 22239.1, 
+      "name": "Puttering around Niagara", 
       "map": {
         "resource_state": 2, 
-        "id": "a310418651", 
-        "summary_polyline": "kkdeG~gdqNfX_StSuYrBdCtoFbmItUzZpdHrnKpmGduJxEpGj\\me@fBS{AlTpEbcDLzbMdEtgVoc@rom@yB`hEt@dIg@}AqItqNNvXbDzV}@dJoHlMs@~G|C~]gClfFbwGnLvRvFjf@``@jPtFf}FrGsDfpHjKrDbZfBa@vTbA_SkAgAz@`A{@|QbAxHcPlp@kDzF|EpDMxKpF~FRhRuF`@aAdBz@yAbZKfBbwA|Btn@vCpXeDnlAtUhAfSwAzWpChIdtHtoA}CzK`AbEhzFd^T_Hjp@wArl@oZ`jBkHpWia@d`AmO~t@cBf_@bCx|@zHvp@nIpf@zBl`@GpM_EtZj@|Jpx@zuAQlD`Bi@nG`LtAdW`c@|n@zdAhiBlDvPvErpAhGvx@jEbU~i@zr@nPhZrv@d]lXrU~DxGpBdMXxVe@|bAtAhfB{@~i@~CZAkQzDbAx|A|n@vNlMpg@tQhGxEbMvXbDzCxc@f@~VjIlRRtqBp{@m@dRfAh|A~Gz`H|Exg@jA~}@oCpzAjm@Az@`JSiImHHdHbAn@fl@}@lD`D`x@Vr~@hZMtDrD`IZhHhtHaCna@`CtXH|b@dBlTdDn`HrApIdAqBlJn@h_@rHjB`yCzH`DfEzG|B|NNnMvF]@}AeAG"
+        "id": "a308207575", 
+        "summary_polyline": "y`afGp~naNri@~Y`\\vf@|Jm@hBrPrBJJoChAh@aCvQr@{GpEmIxQfHCpQeFvEtE{DjHk@lAlHcCvJxB`@N|AiCaEfHsN}@wKwGyCmBeDx@{MlBaFmD`JEzHmBv@oOmHsCpCiBaFWaKwJ^aFhRyKzOcEtAWrCO}AyEiBzAeEzAFtUh[RnFpHbFdQzJxTnGxHQVnDv@eAkAnCaMmGgQqCxC`JlDnqBpiAuA~BlrDxHvCxApEt@aCHhCiAOhAa@i@mHP|Gk@h@oAsCrB_EwTf@qQyFwOiJmhAdAPp`As@bBdAxn@oCXqIaJ"
       }, 
-      "total_elevation_gain": 91.2, 
-      "average_speed": 5.304, 
-      "moving_time": 31428, 
+      "total_elevation_gain": 228.6, 
+      "average_speed": 3.026, 
+      "moving_time": 7350, 
       "start_latlng": [
-        42.95, 
-        -81.62
+        43.1, 
+        -79.05
       ], 
-      "max_speed": 11.3, 
+      "max_speed": 8.4, 
       "end_latlng": [
-        42.54, 
-        -83.17
+        43.09, 
+        -79.14
       ]
     }, 
     "2015-05-21T17:42:37Z": {
@@ -219,6 +219,27 @@
         -71.58
       ]
     }, 
+    "2015-05-28T14:39:34Z": {
+      "distance": 73477.2, 
+      "name": "Day 26: Grand Rapids to Muskegon", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a313735618", 
+        "summary_polyline": "ckieG`boiOqGnAQfRkV`@Sb{@cyAh@Yd`FrUpQ{@ztBnUo@yEnkFqKhNmPdAwReBqb@xQgs@jOg@jh@_XnA`Gjc@aH~QqGh^oPhtCsApIwClFw@rQgg@|lCw[CeI`Dey@faAakK~eLsHrD_yBfa@{T`HmzErdEsJfMwgAbwCLlHaBdHbC~h\\}kBnvL}@vMqAvBw_@vbChFxAUnd@|G\\HvBzG`@JrBsD^i@pKmHr@lArWd@xdCoC`hIaVBuEyCaCvJgYdd@eO~BjBbJkBvAf@vEwHtGSbC"
+      }, 
+      "total_elevation_gain": 183.6, 
+      "average_speed": 5.967, 
+      "moving_time": 12314, 
+      "start_latlng": [
+        42.98, 
+        -85.61
+      ], 
+      "max_speed": 13.2, 
+      "end_latlng": [
+        43.22, 
+        -86.29
+      ]
+    }, 
     "2015-05-07T21:05:37Z": {
       "distance": 77199.6, 
       "name": "Day 5 Evening: Bath to Montpelier", 
@@ -282,25 +303,25 @@
         -73.2
       ]
     }, 
-    "2015-05-19T21:06:21Z": {
-      "distance": 22239.1, 
-      "name": "Puttering around Niagara", 
+    "2015-05-23T13:39:07Z": {
+      "distance": 166686.0, 
+      "name": "Day 21: Strathroy to Clawson", 
       "map": {
         "resource_state": 2, 
-        "id": "a308207575", 
-        "summary_polyline": "y`afGp~naNri@~Y`\\vf@|Jm@hBrPrBJJoChAh@aCvQr@{GpEmIxQfHCpQeFvEtE{DjHk@lAlHcCvJxB`@N|AiCaEfHsN}@wKwGyCmBeDx@{MlBaFmD`JEzHmBv@oOmHsCpCiBaFWaKwJ^aFhRyKzOcEtAWrCO}AyEiBzAeEzAFtUh[RnFpHbFdQzJxTnGxHQVnDv@eAkAnCaMmGgQqCxC`JlDnqBpiAuA~BlrDxHvCxApEt@aCHhCiAOhAa@i@mHP|Gk@h@oAsCrB_EwTf@qQyFwOiJmhAdAPp`As@bBdAxn@oCXqIaJ"
+        "id": "a310418651", 
+        "summary_polyline": "kkdeG~gdqNfX_StSuYrBdCtoFbmItUzZpdHrnKpmGduJxEpGj\\me@fBS{AlTpEbcDLzbMdEtgVoc@rom@yB`hEt@dIg@}AqItqNNvXbDzV}@dJoHlMs@~G|C~]gClfFbwGnLvRvFjf@``@jPtFf}FrGsDfpHjKrDbZfBa@vTbA_SkAgAz@`A{@|QbAxHcPlp@kDzF|EpDMxKpF~FRhRuF`@aAdBz@yAbZKfBbwA|Btn@vCpXeDnlAtUhAfSwAzWpChIdtHtoA}CzK`AbEhzFd^T_Hjp@wArl@oZ`jBkHpWia@d`AmO~t@cBf_@bCx|@zHvp@nIpf@zBl`@GpM_EtZj@|Jpx@zuAQlD`Bi@nG`LtAdW`c@|n@zdAhiBlDvPvErpAhGvx@jEbU~i@zr@nPhZrv@d]lXrU~DxGpBdMXxVe@|bAtAhfB{@~i@~CZAkQzDbAx|A|n@vNlMpg@tQhGxEbMvXbDzCxc@f@~VjIlRRtqBp{@m@dRfAh|A~Gz`H|Exg@jA~}@oCpzAjm@Az@`JSiImHHdHbAn@fl@}@lD`D`x@Vr~@hZMtDrD`IZhHhtHaCna@`CtXH|b@dBlTdDn`HrApIdAqBlJn@h_@rHjB`yCzH`DfEzG|B|NNnMvF]@}AeAG"
       }, 
-      "total_elevation_gain": 228.6, 
-      "average_speed": 3.026, 
-      "moving_time": 7350, 
+      "total_elevation_gain": 91.2, 
+      "average_speed": 5.304, 
+      "moving_time": 31428, 
       "start_latlng": [
-        43.1, 
-        -79.05
+        42.95, 
+        -81.62
       ], 
-      "max_speed": 8.4, 
+      "max_speed": 11.3, 
       "end_latlng": [
-        43.09, 
-        -79.14
+        42.54, 
+        -83.17
       ]
     }, 
     "2015-05-07T12:59:31Z": {
