@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Map"
-description: "Updated nightly"
+description: "The route so far, updated nightly"
 header-img: "img/IMG_20150509_192106.jpg"
 ---
 
@@ -10,6 +10,45 @@ header-img: "img/IMG_20150509_192106.jpg"
 </style>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyCFgDopYb6dFRv8NAycFYLYnwPOaCeRHws"></script>
-<script type="text/javascript" src="/initMap.js"></script>
+<script type="text/javascript">
+    function initialize() {
+        var mapOptions = {
+            center: { lat: 39, lng: -95},
+            zoom: 4
+        };
+        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+        var xmlhttp = new XMLHttpRequest();
+        var url = "/stravaDump.json";
+
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var stravaDump = JSON.parse(xmlhttp.responseText);
+                appendPaths(stravaDump, map);
+            }
+        }
+        xmlhttp.open("GET", url, true);
+        xmlhttp.send();
+
+    }
+
+    function appendPaths(stravaDump, map) {
+        for (var rideDate in stravaDump.rides) {
+            if (stravaDump.rides.hasOwnProperty(rideDate)) {
+                var ridePath = new google.maps.Polyline({
+                    path: google.maps.geometry.encoding.decodePath(stravaDump.rides[rideDate].map.summary_polyline),
+                    geodesic: true,
+                    strokeColor: '#FF0000',
+                    strokeOpacity: 1.0,
+                    strokeWeight: 2
+                });
+
+                ridePath.setMap(map);
+            }
+        }
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+</script>
 <div id="map-canvas"></div>
 
