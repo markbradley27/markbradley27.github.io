@@ -1,14 +1,35 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 13045.999999999998
+      "total": 13319.599999999999
     }, 
     "distance": {
-      "dailyAverage": 98784.26250000001, 
-      "total": 2370822.3000000003
+      "dailyAverage": 99363.29200000002, 
+      "total": 2484082.3000000003
     }
   }, 
   "rides": {
+    "2015-05-29T14:15:49Z": {
+      "distance": 113260.0, 
+      "name": "Day 27: Waukesha to Madison", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a314493145", 
+        "summary_polyline": "cojeGtwuyOl@AyLzGwHRSwMgPsHcNgc@LyZku@}EnCrMgBpD`Nl]z`@b{BdXnrFgAhKwFfNeG`GwXdNuFtIaC|Jk@nQxCt[sFbk@~Bh]c@|jAmCzLwJzOyCpLi@bLv@xWmCtQ_a@du@yCdJoEjp@aj@d}BjLfnEoc@tDI|k@oCpi@hB~Av\\FxMyCnAld@jShpNkDziAIvdDaJbG^vAm@s@jJeGMjbEwCvdBfIjrA|@rf@iDtz@}WrmAaO|bBaOtk@wFl`@gBh_@aBjoA{Cnc@}Gr]qbAteDuFxf@c@~o@j`@pB_@`~Cv@dIs@zN}g@i@{BcKu@CzB`XnLbB^lCYtlB{Cv\\mbAjjFsLtRc|@jw@wFtRyObbD_@`d@ypA_BgRqEfO|EhtAtBYrz@sO`n@cHln@n@lXjTlaBnSn}@lLbA|FtZoCdMrCrOa@lA~wAtqGfJzrBy@fZwEbXcdAjhCuKrbA_k@tyA}ExQUxRtKlmAEjm@ujAv{H{NvvBR~KlErDdA~Ls@nInBbn@S|X`XaPbVoAxWfAnOzFbw@UnJh@dBlBdAlv@rJjd@n@`b@iIhSv@dm@uMz\\sDf~@bCnuElAvn@dTnd@{@hoAr@`[zBAlAdHi@uCs@|@dBdIaDpCfCxcA_@tyAfD`OlHdEfYlBtf@wF~FnCtAqThHuOzDgR|Qm@TwCbFYp@yC"
+      }, 
+      "total_elevation_gain": 273.6, 
+      "average_speed": 5.224, 
+      "moving_time": 21682, 
+      "start_latlng": [
+        42.98, 
+        -88.26
+      ], 
+      "max_speed": 11.9, 
+      "end_latlng": [
+        43.03, 
+        -89.34
+      ]
+    }, 
     "2015-05-26T13:12:58Z": {
       "distance": 110501.0, 
       "name": "Day 24: Ann Arbor to East Lansing", 
