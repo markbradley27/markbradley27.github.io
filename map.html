@@ -2,7 +2,7 @@
 layout: page
 title: "Map"
 description: "The route so far, updated nightly"
-header-img: "img/IMG_20150509_192106.jpg"
+header-img: "img/IMG_20150521_201020.jpg"
 ---
 
 <style type="text/css">
@@ -10,6 +10,7 @@ header-img: "img/IMG_20150509_192106.jpg"
 </style>
 
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyCFgDopYb6dFRv8NAycFYLYnwPOaCeRHws"></script>
+<script type="text/javascript" src="/js/moment.js"></script>
 <script type="text/javascript">
     function initialize() {
         var mapOptions = {
@@ -25,31 +26,64 @@ header-img: "img/IMG_20150509_192106.jpg"
         xmlhttp.onreadystatechange = function() {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
                 var stravaDump = JSON.parse(xmlhttp.responseText);
-                appendPaths(stravaDump, map);
+                appendRoute(stravaDump, map);
             }
         }
         xmlhttp.open("GET", url, true);
         xmlhttp.send();
 
     }
+    google.maps.event.addDomListener(window, 'load', initialize);
 
-    function appendPaths(stravaDump, map) {
+    var endpointMarkers = [];
+    function appendRoute(stravaDump, map) {
+        var endpoints = [];
         for (var rideDate in stravaDump.rides) {
-            if (stravaDump.rides.hasOwnProperty(rideDate)) {
-                var ridePath = new google.maps.Polyline({
-                    path: google.maps.geometry.encoding.decodePath(stravaDump.rides[rideDate].map.summary_polyline),
-                    geodesic: true,
-                    strokeColor: '#FF0000',
-                    strokeOpacity: 1.0,
-                    strokeWeight: 2
-                });
+            var ridePath = new google.maps.Polyline({
+                path: google.maps.geometry.encoding.decodePath(stravaDump.rides[rideDate].map.summary_polyline),
+                map: map,
+                geodesic: true,
+                strokeColor: '#FF0000',
+                strokeOpacity: 1.0,
+                strokeWeight: 2
+            });
 
-                ridePath.setMap(map);
+            var rideJustDate = rideDate.substring(0, 10);
+            if (endpoints[rideJustDate]) {
+                if (moment(rideDate) > moment(endpoints[rideJustDate].date)) {
+                    endpoints[rideJustDate] = {
+                        date: rideDate,
+                        endpoint: stravaDump.rides[rideDate].end_latlng,
+                    }
+                }
             }
+            else {
+                endpoints[rideJustDate] = {
+                    date: rideDate,
+                    endpoint: stravaDump.rides[rideDate].end_latlng,
+                }
+            }
+        }
+
+        for (justDate in endpoints) {
+            var endLatLng = new google.maps.LatLng(endpoints[justDate].endpoint[0], endpoints[justDate].endpoint[1]);
+            var endMarker = new google.maps.Marker({
+                position: endLatLng,
+                map: map,
+                visible: false,
+            });
+            endpointMarkers.push(endMarker);
         }
     }
 
-    google.maps.event.addDomListener(window, 'load', initialize);
+    function toggleMarkers(show) {
+        for (marker in endpointMarkers) {
+            endpointMarkers[marker].setVisible(show);
+        }
+    }
 </script>
 <div id="map-canvas"></div>
+<form>
+    <input type="checkbox" onclick="toggleMarkers(this.checked)"><span style="font-size: 14px">&nbspShow overnight stops</span></input>
+</form>
 
