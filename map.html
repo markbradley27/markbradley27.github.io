@@ -13,12 +13,16 @@ header-img: "img/IMG_20150521_201020.jpg"
 <script type="text/javascript" src="/js/moment.js"></script>
 <script type="text/javascript">
     function initialize() {
+        var bounds = new google.maps.LatLngBounds(
+            new google.maps.LatLng(38, -124),
+            new google.maps.LatLng(39, -69)
+        );
+
         var mapOptions = {
-            center: { lat: 39, lng: -95},
-            zoom: 4,
             mapTypeId: google.maps.MapTypeId.TERRAIN
         };
         var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        map.fitBounds(bounds);
 
         var xmlhttp = new XMLHttpRequest();
         var url = "/stravaDump.json";
