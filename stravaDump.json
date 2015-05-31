@@ -6,6 +6,9 @@
     "distance": {
       "dailyAverage": 99363.29200000002, 
       "total": 2484082.3000000003
+    }, 
+    "moving_time": {
+      "total": 507112
     }
   }, 
   "rides": {
