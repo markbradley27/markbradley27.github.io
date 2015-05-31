@@ -78,6 +78,13 @@ header-img: "img/IMG_20150521_201020.jpg"
             });
             endpointMarkers.push(endMarker);
         }
+
+        console.log(stravaDump);
+        document.getElementById("totalDistance").innerHTML = numberWithCommas(parseInt(stravaDump.stats.distance.total / 1609.34)) + " miles";
+        document.getElementById("averageDailyDistance").innerHTML = numberWithCommas((stravaDump.stats.distance.dailyAverage / 1609.34).toFixed(1)) + " miles";
+        document.getElementById("totalElevation").innerHTML = numberWithCommas(parseInt(stravaDump.stats.total_elevation_gain.total * 3.28084)) + " feet";
+        var totalMovingTime = moment.duration(stravaDump.stats.moving_time.total, 'seconds');
+        document.getElementById("totalMovingTime").innerHTML = parseInt(totalMovingTime.asHours()) + ":" + ("0" + totalMovingTime.minutes()).slice(-2) + ":" + totalMovingTime.seconds();
     }
 
     function toggleMarkers(show) {
@@ -85,9 +92,36 @@ header-img: "img/IMG_20150521_201020.jpg"
             endpointMarkers[marker].setVisible(show);
         }
     }
+
+    function numberWithCommas(x) {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    }
 </script>
+
 <div id="map-canvas"></div>
 <form>
     <input type="checkbox" onclick="toggleMarkers(this.checked)"><span style="font-size: 14px">&nbspShow overnight stops</span></input>
 </form>
 
+<table>
+    <tr>
+        <td>Total distance:</td>
+        <td id="totalDistance"></td>
+    </tr>
+    <tr>
+        <td>Daily average:</td>
+        <td id="averageDailyDistance"></td>
+    </tr>
+    <tr>
+        <td>Total elevation:</td>
+        <td id="totalElevation"></td>
+    </tr>
+    <tr>
+        <td>Total moving time:</td>
+        <td id="totalMovingTime"></td>
+    </tr>
+</table>
+
+<hr>
+
+{% include disqusComments.html %}
