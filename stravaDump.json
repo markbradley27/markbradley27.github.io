@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 13319.599999999999
+      "total": 13878.2
     }, 
     "distance": {
-      "dailyAverage": 99363.29200000002, 
-      "total": 2484082.3000000003
+      "dailyAverage": 100461.55000000002, 
+      "total": 2612000.3000000003
     }, 
     "moving_time": {
-      "total": 507112
+      "total": 528988
     }
   }, 
   "rides": {
@@ -94,6 +94,27 @@
       "end_latlng": [
         43.09, 
         -79.14
+      ]
+    }, 
+    "2015-05-06T12:59:16Z": {
+      "distance": 95202.1, 
+      "name": "Day 4: ~Rumford Point to Lancaster", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a299567685", 
+        "summary_polyline": "klnnGh~vnLqIjr@YhaAqOzh@}Bra@dH~dAjPjVv}@Ah|@nZnw@`Ozn@lZ|jAuX~`@ec@dd@_Qf]hLpTzTlUjBnWvMkSyKiVdF|@vRoGxC~BlIid@jJyHrPoGhi@eAliBaYfhAfZ|uArg@px@vCxNrZnf@xCxOzBxp@cHvfAiPdhAaBzqBdd@no@jJrn@Otf@jTrxAZly@rD`U~JbPq@bRpHv\\eA`VkF~FyPbk@iA|e@`InJj@d^pJze@jZbGmDbs@aHf\\mTlUkD`b@uN|k@w@~u@kQvbA`ExJhBrW|Xv|@kMlQ{VpHwFfo@pLrbAxo@fhBxZpn@~VbWvM|VNzm@`F~^vFrrAy_@loCy]tkAaRxJv@po@aL`x@tClZrKhXl_Atp@ni@rwCto@`jC`DzvAj@{JfMwC{LtC{AbNfFn{@vRd~@lIrrA~H`k@hc@njAfApn@sErdBoVheCaChNoMzUiQvv@{U`a@iaDjsDeqBvpEk[`k@kSpv@{jErk@}W~hAsPvrBk`@z]}a@fFuUvSmSl\\i_@n_Al@zdBgC|]sd@jJaRzYpAzD"
+      }, 
+      "total_elevation_gain": 908.5, 
+      "average_speed": 4.121, 
+      "moving_time": 23100, 
+      "start_latlng": [
+        44.48, 
+        -70.74
+      ], 
+      "max_speed": 14.4, 
+      "end_latlng": [
+        44.5, 
+        -71.58
       ]
     }, 
     "2015-05-21T17:42:37Z": {
@@ -222,25 +243,25 @@
         -70.74
       ]
     }, 
-    "2015-05-06T12:59:16Z": {
-      "distance": 95202.1, 
-      "name": "Day 4: ~Rumford Point to Lancaster", 
+    "2015-06-01T14:54:15Z": {
+      "distance": 127918.0, 
+      "name": "Day 30: Madison to Rockford", 
       "map": {
         "resource_state": 2, 
-        "id": "a299567685", 
-        "summary_polyline": "klnnGh~vnLqIjr@YhaAqOzh@}Bra@dH~dAjPjVv}@Ah|@nZnw@`Ozn@lZ|jAuX~`@ec@dd@_Qf]hLpTzTlUjBnWvMkSyKiVdF|@vRoGxC~BlIid@jJyHrPoGhi@eAliBaYfhAfZ|uArg@px@vCxNrZnf@xCxOzBxp@cHvfAiPdhAaBzqBdd@no@jJrn@Otf@jTrxAZly@rD`U~JbPq@bRpHv\\eA`VkF~FyPbk@iA|e@`InJj@d^pJze@jZbGmDbs@aHf\\mTlUkD`b@uN|k@w@~u@kQvbA`ExJhBrW|Xv|@kMlQ{VpHwFfo@pLrbAxo@fhBxZpn@~VbWvM|VNzm@`F~^vFrrAy_@loCy]tkAaRxJv@po@aL`x@tClZrKhXl_Atp@ni@rwCto@`jC`DzvAj@{JfMwC{LtC{AbNfFn{@vRd~@lIrrA~H`k@hc@njAfApn@sErdBoVheCaChNoMzUiQvv@{U`a@iaDjsDeqBvpEk[`k@kSpv@{jErk@}W~hAsPvrBk`@z]}a@fFuUvSmSl\\i_@n_Al@zdBgC|]sd@jJaRzYpAzD"
+        "id": "a316447800", 
+        "summary_polyline": "o_reGz_k`PrBnEs@n[rEtHcA`U|mBnFjBkBGuZhZLp{ArDdMpDlGrUps@`AhUev@vFqc@e@uuEvw@FtIkNdj@aa@npA}cBt`@k@Rm}@jgAzGljDsAfAyvDdQeBpCiMDac@dEwF~y@s@jAi]lxMfACat@~Gy]Vwg@~`PcCfGu}@b_DgA]ifE}C}RfD{^g@cuA`Dgk@uBsi@jAizLcBuqFpQSbNuLbQ`L`sDgEyAwC~IhEjgBSr^aJr^~HtkA_@tWgFxVmXtOwHnnAuYv_@hKnh@`n@f`@`YfYhOfy@bSlpEi[fq@cM|[mBzFfHzD}Hz^dJnL`KaEpF`FkFvw@|OhE}Ezk@lNtwFoAlFj@@xDdnA}pCtSPkK_P_AiN`MbCja@gR~tAc@hkClfAtaBxrApDnGyBjKtEhC`CoG{BbG_BkAnJwc@py@dB?cZ~DsBp@kXbLwI|EwMbWuDjFuZaCud@ts@z@pS}MfHsVIcg@nDqWzg@on@noBm_@vz@jGbhDVpCi^kBa^hpBo@Qyu@kObBiAcK"
       }, 
-      "total_elevation_gain": 908.5, 
-      "average_speed": 4.121, 
-      "moving_time": 23100, 
+      "total_elevation_gain": 558.6, 
+      "average_speed": 5.847, 
+      "moving_time": 21876, 
       "start_latlng": [
-        44.48, 
-        -70.74
+        43.02, 
+        -89.35
       ], 
-      "max_speed": 14.4, 
+      "max_speed": 12.2, 
       "end_latlng": [
-        44.5, 
-        -71.58
+        42.26, 
+        -88.96
       ]
     }, 
     "2015-05-28T14:39:34Z": {
