@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 13878.2
+      "total": 14033.2
     }, 
     "distance": {
-      "dailyAverage": 100461.55000000002, 
-      "total": 2612000.3000000003
+      "dailyAverage": 99074.94444444447, 
+      "total": 2675023.5000000005
     }, 
     "moving_time": {
-      "total": 528988
+      "total": 540126
     }
   }, 
   "rides": {
@@ -493,6 +493,27 @@
       "end_latlng": [
         44.67, 
         -74.99
+      ]
+    }, 
+    "2015-06-03T14:49:01Z": {
+      "distance": 63023.2, 
+      "name": "Day 32: Rockford to Burnidge Forest", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a317579625", 
+        "summary_polyline": "gg|`Gl_~}O`EoZxK}@{A}pCzQ{nBeB_g@yMaj@sA}OiAkmEbFwR{@aAbAZhAqDP_o@kIu{@_IaR`GoHBqR~u@k{GrFm\\pF_HrRo@`CkNb_@ks@nRu|@~R{qAdCgIpEuEbG}@fR|BtN~FdFiZA}vBx`@q@pCiDrDmRb@{}AjVuAIuaCbW}b@CqeDrb@{bBxBwTvd@{@rCin@nGos@k@wlBbm@u@F}YzAkG|DiDjToBfGaL|D}QfAsd@vGm^~We_@r^{W`HeJdJc\\`BgOJofCv{CgAxOs_@zQeZzHeY~Fwb@xMk_@f@m|A`GsXzDwa@@iO}BaUvCwSxJoZdYaa@tMsVrPmQbBcGX{n@aDqSzCeW@mwA|GcTfNmP`@}U{BaN\\mJbPyVhGsYbE{J`NmLzu@ua@nbAwiBpD_KNkFnPuz@BaG|BgDnJie@vNDhL`DdDoA~F~DrAoA"
+      }, 
+      "total_elevation_gain": 155.0, 
+      "average_speed": 5.658, 
+      "moving_time": 11138, 
+      "start_latlng": [
+        42.26, 
+        -88.96
+      ], 
+      "max_speed": 11.1, 
+      "end_latlng": [
+        42.07, 
+        -88.36
       ]
     }, 
     "2015-05-19T16:21:02Z": {
