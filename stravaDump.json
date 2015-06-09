@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 14439.000000000002
+      "total": 15269.000000000002
     }, 
     "distance": {
-      "dailyAverage": 97276.24000000002, 
-      "total": 2918287.2
+      "dailyAverage": 97847.9741935484, 
+      "total": 3033287.2
     }, 
     "moving_time": {
-      "total": 589744
+      "total": 611643
     }
   }, 
   "rides": {
@@ -115,6 +115,27 @@
       "end_latlng": [
         44.5, 
         -71.58
+      ]
+    }, 
+    "2015-06-09T12:24:22Z": {
+      "distance": 115000.0, 
+      "name": "Day 38: Ashton to Port Byron", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a322064207", 
+        "summary_polyline": "mbp~Fbgs_P~@f@qB`DbA~eEb@vn@xAfLtGpNlKbHddAcA|IxBrIbIzD`KpMds@rA``BjCpI|]dp@`CtNxBnm@I|mMsBh~B`BbxBSleEi@|NsCtNjPleAuAhC|AuA}Jsq@hIeEh@n@u@hAp@a@^~BkJrEzVf_B``AXp@|sBxLdL`i@h{AnStjAphE~aKxp@pqBfHxXpFxeAofAtxEiAzPGrdAkOvNun@|Ur@|Bb@u@HjCh@eA`CzAkEnwAAlJ|ARaBFY|BsRhrDzMbe@nAto@|ClFnAln@|@CeAe@IgOtI|@LfMsAdAKhCrG|uExj@j@P`tChfCz@OfpChi@|uA~Iv@nCnC`cAGEt_@fEdm@lTjvBdFzM|aApbBhEdRfB|`@r\\|x@`Zp\\hW|yAnA|eB`r@vpBzq@z}ArsBvdHxCxON~{@|Edq@bG`Kpa@x[yB[vHxWzI`Kp@vDMwATrAlBa@xBpK~b@b`@~ErIjuEnpNt@hiAfA`Ib|B|eDt\\xFbl@`\\f_@~\\~Ufa@dClOnJxcBlLd{@Nhw@cLbDaRj\\mj@xOaBtEq@dUmPjSmJp}@sL`Xu@jz@cStj@o@de@j@`{AgCnMGbP"
+      }, 
+      "total_elevation_gain": 830.0, 
+      "average_speed": 5.251, 
+      "moving_time": 21899, 
+      "start_latlng": [
+        41.87, 
+        -89.23
+      ], 
+      "max_speed": 12.0, 
+      "end_latlng": [
+        41.6, 
+        -90.33
       ]
     }, 
     "2015-05-21T17:42:37Z": {
