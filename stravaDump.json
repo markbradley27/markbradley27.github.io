@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 15269.000000000002
+      "total": 15689.500000000002
     }, 
     "distance": {
-      "dailyAverage": 97847.9741935484, 
-      "total": 3033287.2
+      "dailyAverage": 98611.47500000002, 
+      "total": 3155567.1999999997
     }, 
     "moving_time": {
-      "total": 611643
+      "total": 635893
     }
   }, 
   "rides": {
@@ -54,25 +54,25 @@
         -84.49
       ]
     }, 
-    "2015-05-09T20:47:11Z": {
-      "distance": 85496.1, 
-      "name": "Day 7: Burlington to Plattsburgh, eventually...", 
+    "2015-06-10T13:37:19Z": {
+      "distance": 122280.0, 
+      "name": "Day 39: Port Byron to Iowa City", 
       "map": {
         "resource_state": 2, 
-        "id": "a301432412", 
-        "summary_polyline": "}|mnGxfz}Ln@dt@gWfG_CnE{Ep@aHnFiNvP{PtZ_Mj]aa@jf@ctAxdCwHxJoOpKkg@xDubAz[eYrN_PkFmEpEeO~WaBOhBbNcRdo@uBbXyMxKyDjRkEn@yBpWvB{V|EkAlCkPbC}C}TWu}@tmAqZdUoZfMuZ|Fi_@r@{V}Bel@iM~u@rOff@b@`d@wHzg@yWj]g^j{AqwB|G_TgBmLrWk^jPdFhYwNzaAy[vb@eC~N{GtOcRtoAq}Bj`@sd@fQke@rP}Y`OoQdNcGbCoEhZgGkAJOrCLyDbLeFd@|@y@}b@yEQQuFfCKcC[i@wTi~@dDeTcXGkFbFuT|Bc\\nF}RdD_YaAyD}LiHiOkE}A`DkO@e~Amj@ch@gAqGuG}C}MmH_Lwj@cBq`@aMkRYkQeOaNtDyHYcj@gXuiAsVmr@ub@aLvCwM~Icf@xNmTfYqHnEyPtEcKNsB~Xac@hnCcZ~t@kI`Iu_@zNi`@j^eMpC{d@oCkHlDqD~GqNv{Cst@~{CwNzWuIpg@oE|Iud@zd@yFnO_AbUtJ~cC_@dKaCpIuGdIgXxJ{TtTyy@dMeJfh@sMtc@{DdFuXjKsTps@}UlEuf@}@WnGaf@nh@yKjRo_@~kAyClRQtL`PfZLrCrEfHIrBgNbBsEdDcIl\\iErGarAfh@ig@hcAiGlb@Bl]uAnOvI`dAkIpZhn@ff@ji@`l@f[bU|ZaAx@rN{DpA"
+        "id": "a322839360", 
+        "summary_polyline": "a|z|FdnjfP_DlC|t@~JzVh[l@bh@|IdZlIgAju@jrDjMllAfLbYNrNkBDfOtYjG}CjMh[`L`Ju@~SbyAjh@v@iFrGpAnXnQ~DhF}@hF~IbDvQ|TtUfqAdt@tcBzOlP|Ir_@dDNtDz_E`Ebf@nPvx@JlZ|DhAtE~Lj@zLuHpq@bBnd@gFh@iAxQjFth@qCh|A_Ftg@j@aEgQsKog@|WfErPf@j[iHz@_`Cq@sQgOkw@t@qAre@qC`IrH`JpJhr@oBdZ_Et@n@`c@oFroApDtZUvVsUte@dA`BuDvAkTc@v@aS_CCiEvRjEjAsF|Po|@peAmk@`eBw~@zfA_j@v{AaBfqf@aZlsCuL`uBnrAnnMt@`lAlKHz@vDeF`uBjK~y@Zbg@vKfT~s@ViDl@vK|[pChXD~lAzDhU|e@h@qEbfObBjt@gCfTCpsL{I~]K|o@iBNbB~VkF~PyfAP_AnzIwZpcAw@zeCunBfbEsAngB_^f`@quB~hAs[zj@u}AzkHJfrD{x@dsAJbf@"
       }, 
-      "total_elevation_gain": 413.6, 
-      "average_speed": 5.022, 
-      "moving_time": 17026, 
+      "total_elevation_gain": 420.5, 
+      "average_speed": 5.042, 
+      "moving_time": 24250, 
       "start_latlng": [
-        44.48, 
-        -73.21
+        41.59, 
+        -90.33
       ], 
-      "max_speed": 12.3, 
+      "max_speed": 10.3, 
       "end_latlng": [
-        44.7, 
-        -73.46
+        41.66, 
+        -91.52
       ]
     }, 
     "2015-05-19T21:06:21Z": {
@@ -220,6 +220,27 @@
       "end_latlng": [
         42.49, 
         -77.97
+      ]
+    }, 
+    "2015-05-09T20:47:11Z": {
+      "distance": 85496.1, 
+      "name": "Day 7: Burlington to Plattsburgh, eventually...", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a301432412", 
+        "summary_polyline": "}|mnGxfz}Ln@dt@gWfG_CnE{Ep@aHnFiNvP{PtZ_Mj]aa@jf@ctAxdCwHxJoOpKkg@xDubAz[eYrN_PkFmEpEeO~WaBOhBbNcRdo@uBbXyMxKyDjRkEn@yBpWvB{V|EkAlCkPbC}C}TWu}@tmAqZdUoZfMuZ|Fi_@r@{V}Bel@iM~u@rOff@b@`d@wHzg@yWj]g^j{AqwB|G_TgBmLrWk^jPdFhYwNzaAy[vb@eC~N{GtOcRtoAq}Bj`@sd@fQke@rP}Y`OoQdNcGbCoEhZgGkAJOrCLyDbLeFd@|@y@}b@yEQQuFfCKcC[i@wTi~@dDeTcXGkFbFuT|Bc\\nF}RdD_YaAyD}LiHiOkE}A`DkO@e~Amj@ch@gAqGuG}C}MmH_Lwj@cBq`@aMkRYkQeOaNtDyHYcj@gXuiAsVmr@ub@aLvCwM~Icf@xNmTfYqHnEyPtEcKNsB~Xac@hnCcZ~t@kI`Iu_@zNi`@j^eMpC{d@oCkHlDqD~GqNv{Cst@~{CwNzWuIpg@oE|Iud@zd@yFnO_AbUtJ~cC_@dKaCpIuGdIgXxJ{TtTyy@dMeJfh@sMtc@{DdFuXjKsTps@}UlEuf@}@WnGaf@nh@yKjRo_@~kAyClRQtL`PfZLrCrEfHIrBgNbBsEdDcIl\\iErGarAfh@ig@hcAiGlb@Bl]uAnOvI`dAkIpZhn@ff@ji@`l@f[bU|ZaAx@rN{DpA"
+      }, 
+      "total_elevation_gain": 413.6, 
+      "average_speed": 5.022, 
+      "moving_time": 17026, 
+      "start_latlng": [
+        44.48, 
+        -73.21
+      ], 
+      "max_speed": 12.3, 
+      "end_latlng": [
+        44.7, 
+        -73.46
       ]
     }, 
     "2015-05-27T13:26:27Z": {
