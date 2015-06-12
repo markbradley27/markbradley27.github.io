@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 15689.500000000002
+      "total": 16471.2
     }, 
     "distance": {
-      "dailyAverage": 98611.47500000002, 
-      "total": 3155567.1999999997
+      "dailyAverage": 99937.73333333335, 
+      "total": 3297945.1999999997
     }, 
     "moving_time": {
-      "total": 635893
+      "total": 658496
     }
   }, 
   "rides": {
@@ -241,6 +241,27 @@
       "end_latlng": [
         44.7, 
         -73.46
+      ]
+    }, 
+    "2015-06-11T13:34:07Z": {
+      "distance": 142378.0, 
+      "name": "Day 40: Iowa City to Newton", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a323647056", 
+        "summary_polyline": "ung}FpyrmP_@`H{EXE~k@qBTrBIHnGcEJiBpDh@dEaEp@FhE~Dl@R`^YsCoIQoEjHuJbxAySfr@uU~jAglCftGie@fr@eQ~q@oDzQqB`X{Ff~ByJx{BwJ|c@}Cfc@kH`[eRfzCoy@`iCkyBjfIgh@p_AiIb]wQhlAmO`u@o@nfCkKn_AoEjJqOjKfEnSnIfQh@dH_O~m@}PnoAaGls@yBjzAkKpvBqPtgC{DbjB{b@xmBqRrdByCnIoK`MqCbIeHxv@gBzkGH|TtAjImAoKAaQcBeFce@bD}Nc@Dka@o@c@l@dc@jp@TZgFy@iA[dClAfDxEf@l@nZtKx_@vOp`A`vDb|OdLj{@v@dSl^toCzD`XhFnQ|WtlBsFvoA`A~dCaAppA{AzPcTxfAkAjQhEd_KcAtyFtB~xMk@jeN~AdtEgA``BYpsSJdLzBxIyBvIAx{A}E~HsI{CMpK~PxA~@nQv~@~uC`A`J`@liBtBfMjIbJhf@~KhZvh@dYfYlCpFj@jeBzThx@Pt_BfDjk@lChJhP`Qp_@jdA}@|^jJln@K~gAsTvv@]`f@x@nN|O`a@~AhKWntMnD`e@vNp}@f@xm@h@aNvIYp@}Dp@|A}@eBWfDoKfBAvjDmA|j@b@~qAkSl@CnLfGJ}FSM}EfCD"
+      }, 
+      "total_elevation_gain": 781.7, 
+      "average_speed": 6.299, 
+      "moving_time": 22603, 
+      "start_latlng": [
+        41.66, 
+        -91.52
+      ], 
+      "max_speed": 15.4, 
+      "end_latlng": [
+        41.7, 
+        -93.06
       ]
     }, 
     "2015-05-27T13:26:27Z": {
