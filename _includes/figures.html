@@ -1,23 +1,71 @@
 <figure class="container-fluid">
-    <div class="col-sm-{{ include.1weight }}">
-        <a href="{{ include.1src }}">
-            <img src="{{ include.1src }}">
-        </a>
-        {% if include.1caption %}
-        <figcaption>{{ include.1caption }}</figcaption>
+    <div class="row">
+        <div class="col-sm-{{ include.1weight }}">
+            <a href="{{ include.1src }}">
+                <img src="{{ include.1src }}">
+            </a>
+            {% if include.1caption %}
+            <figcaption>{{ include.1caption }}</figcaption>
+            {% endif %}
+        </div>
+        {% if include.2src %}
+        <div class="col-sm-{{ include.2weight }}">
+            <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+            <a href="{{ include.2src }}">
+                <img src="{{ include.2src }}">
+            </a>
+            {% if include.2caption %}
+            <figcaption>{{ include.2caption }}</figcaption>
+            {% endif %}
+        </div>
+        {% endif %}
+        {% if include.3src %}
+        <div class="col-sm-{{ include.3weight }}">
+            <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+            <a href="{{ include.3src }}">
+                <img src="{{ include.3src }}">
+            </a>
+            {% if include.3caption %}
+            <figcaption>{{ include.3caption }}</figcaption>
+            {% endif %}
+        </div>
         {% endif %}
     </div>
-    {% if include.2src %}
-    <div class="col-sm-{{ include.2weight }}">
-        <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-        <a href="{{ include.2src }}">
-            <img src="{{ include.2src }}">
-        </a>
-        {% if include.2caption %}
-        <figcaption>{{ include.2caption }}</figcaption>
+    <div>&nbsp;</div>
+    {% if include.21src || include.22src || 23.src %}
+    <div class="row">
+        <div class="col-sm-{{ include.21weight }}">
+            <a href="{{ include.21src }}">
+                <img src="{{ include.21src }}">
+            </a>
+            {% if include.21caption %}
+            <figcaption>{{ include.21caption }}</figcaption>
+            {% endif %}
+        </div>
+        {% if include.22src %}
+        <div class="col-sm-{{ include.22weight }}">
+            <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+            <a href="{{ include.22src }}">
+                <img src="{{ include.22src }}">
+            </a>
+            {% if include.22caption %}
+            <figcaption>{{ include.22caption }}</figcaption>
+            {% endif %}
+        </div>
+        {% endif %}
+        {% if include.23src %}
+        <div class="col-sm-{{ include.23weight }}">
+            <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+            <a href="{{ include.23src }}">
+                <img src="{{ include.23src }}">
+            </a>
+            {% if include.23caption %}
+            <figcaption>{{ include.23caption }}</figcaption>
+            {% endif %}
+        </div>
         {% endif %}
     </div>
-    {% endif %}
+    {% endif%}
     {% if include.caption %}
     <div class="col-sm-12"><figcaption>{{ include.caption }}</figcaption></div>
     {% endif %}
