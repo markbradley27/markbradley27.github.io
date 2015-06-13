@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 16471.2
+      "total": 16967.300000000003
     }, 
     "distance": {
-      "dailyAverage": 99937.73333333335, 
-      "total": 3297945.1999999997
+      "dailyAverage": 100314.82941176473, 
+      "total": 3410704.1999999997
     }, 
     "moving_time": {
-      "total": 658496
+      "total": 678833
     }
   }, 
   "rides": {
@@ -472,6 +472,27 @@
       "end_latlng": [
         42.54, 
         -83.17
+      ]
+    }, 
+    "2015-06-12T14:15:44Z": {
+      "distance": 112759.0, 
+      "name": "Day 41: Newton to Redfield", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a324221945", 
+        "summary_polyline": "y|o}Fxp_wPMcFwB@ErhAfU`GBtnFhQjc@zB|PAn~HjGjQxp@xg@dF|J_@drBdBzLrVnd@xc@rGfItSg@rtSjA|dH~CnR{C|WJ|{GrCbRkCls@xCh^jHzM]hMxIvHpnBd@Np{@gJfBh@zPlk@|mB_EdC|EhEbG`UdIdD`Rf[lu@vb@zk@rDhWsDhHdAnArIrw@`LfRtf@fUz`AKjLjPb^vp@hb@jg@tOdLdScEfvEpUf@Lf^eD~~A{Wd@GrXvCjr@zKr_Ad@laApHvhAiDt^sHkFcVjBjBnApIcCcAqLoD_B`BmFuBcN`DvO}BjDr@`JyGdFxCxChAzVkDbwIhApHlC^eCxCv@fQ}Th^oJhDoIl\\uPdMoBlOgN|@iIzl@Qdh@}Dv@cC|]eFfHeIQuUlc@s@zSnFxHLzJqNv^xAhG_BzVbCbDkDhm@hClEoKtg@tBbmAkJjXjBdPqBpGgFmA}BcHqCnAf@fiOuGzEKjWb@fDxF^x@rrHq@jcDoHbn@g@z~@tRfo@|B`c@gCdSaPhc@bFh}@`@b`EaX~zBk@d`@vsCdpSqHnDi@tlC}b@`S"
+      }, 
+      "total_elevation_gain": 496.1, 
+      "average_speed": 5.545, 
+      "moving_time": 20337, 
+      "start_latlng": [
+        41.7, 
+        -93.06
+      ], 
+      "max_speed": 13.7, 
+      "end_latlng": [
+        41.6, 
+        -94.2
       ]
     }, 
     "2015-05-07T12:59:31Z": {
