@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 16967.300000000003
+      "total": 18423.7
     }, 
     "distance": {
-      "dailyAverage": 100314.82941176473, 
-      "total": 3410704.1999999997
+      "dailyAverage": 101957.52000000002, 
+      "total": 3568513.1999999997
     }, 
     "moving_time": {
-      "total": 678833
+      "total": 713117
     }
   }, 
   "rides": {
@@ -451,6 +451,27 @@
       "end_latlng": [
         44.48, 
         -73.2
+      ]
+    }, 
+    "2015-06-13T13:03:35Z": {
+      "distance": 157809.0, 
+      "name": "Day 42: Redfield to Traynor", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a324901561", 
+        "summary_polyline": "ur||Fzh}}PJwAbNyB~T{Lrf@AtYvFPtF|BpAy@lEsDdCDvDlRfAtCcCa@qBuCAmHlGoF{@eA}Bb@yBvC}A|@mEuBmAfKqL|bAi[x_@hBpRkMbLqA`tBPdJdDlLzQhGrDfkBPpVjEYtvGni@~rClItQz`@fe@nBfIFh}HMkl@cG}@SvAFiAtGh@Eb{@_DlWsOda@dUr@Wd}MfnGHqAjaYvyAb@Mzfg@dGlYxBfWhCrHwGvExGuEoGpGvItR|F`CvCjEdVjm@z^t|BnyBhvJj[htAv[bx@v@`aEkAnxMI`RwA`BzAIPhYoA~PhGf@FtVQnQiEr@_@rvBn@fHlDtGxpA~pAjc@p^ldKtkDxQbJnGfL`@jj@npAD|D_BbGlF~oBWfI~CtRzVfZ`BxCrE`@~Dg@d_HzbF_@CtIhJdBF|JvDVSnzC`BhPnJja@jBnSnAzmBkCvmM}@pjXuApcCZ}@pA`}c@@}k@~Xi@^gD"
+      }, 
+      "total_elevation_gain": 1456.4, 
+      "average_speed": 4.603, 
+      "moving_time": 34284, 
+      "start_latlng": [
+        41.6, 
+        -94.2
+      ], 
+      "max_speed": 12.8, 
+      "end_latlng": [
+        41.23, 
+        -95.6
       ]
     }, 
     "2015-05-23T13:39:07Z": {
