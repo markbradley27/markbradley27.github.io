@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 19380.3
+      "total": 19422.7
     }, 
     "distance": {
-      "dailyAverage": 102509.56111111114, 
-      "total": 3690344.1999999997
+      "dailyAverage": 100259.76486486489, 
+      "total": 3709611.3000000003
     }, 
     "moving_time": {
-      "total": 735681
+      "total": 739988
     }
   }, 
   "rides": {
@@ -178,6 +178,27 @@
       "end_latlng": [
         40.88, 
         -96.6
+      ]
+    }, 
+    "2015-06-15T11:11:38Z": {
+      "distance": 19267.1, 
+      "name": "Day 44: Used van for sale on the side of the road to Super 8", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a325944960", 
+        "summary_polyline": "aeoxFzxqlQf@rAsAlBn@|Bhj@~qAdVtc@f@dPqFfb@WwAq@jBb@eJhApADzZfFzTnMnQda@pUjKnKpc@bcAvLhRnj@jqA|A`Kx@paAzeDz@O`fAlAvA}@RG|cA`E\\f@lAs@FzFe@QriI`ADb@eD"
+      }, 
+      "total_elevation_gain": 42.4, 
+      "average_speed": 4.473, 
+      "moving_time": 4307, 
+      "start_latlng": [
+        40.88, 
+        -96.6
+      ], 
+      "max_speed": 10.7, 
+      "end_latlng": [
+        40.81, 
+        -96.76
       ]
     }, 
     "2015-05-15T19:29:43Z": {
