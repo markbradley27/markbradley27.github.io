@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 18423.7
+      "total": 19380.3
     }, 
     "distance": {
-      "dailyAverage": 101957.52000000002, 
-      "total": 3568513.1999999997
+      "dailyAverage": 102509.56111111114, 
+      "total": 3690344.1999999997
     }, 
     "moving_time": {
-      "total": 713117
+      "total": 735681
     }
   }, 
   "rides": {
@@ -157,6 +157,27 @@
       "end_latlng": [
         43.02, 
         -80.83
+      ]
+    }, 
+    "2015-06-14T14:03:55Z": {
+      "distance": 121831.0, 
+      "name": "Day 43: Traynor to Lincoln (almost)", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a325729644", 
+        "summary_polyline": "mkszFdcofQK{AWfG_YrAx@dgAkBzoBl@rmCs@xiE~@bnJW`kFcBnfBnB|YlCtMp@c@oA{El@{BUvE|@zBaAzAbS|mAfJdZuc@|f@oShl@oi@vm@{ELuO`RIvdB~NnB|kAcAra@hSff@dBKpo@hBbL|BXtNzn@jHnTvTvcAhH~SIpChJbd@EjQwDxNp@{@`AvAoXbpAkBnSdI^jC}AtLvC|cAt@Hvs@b]|b@jDP@tE~D~Erk@pQ^uBhyA`@dFdEfBtHzAdArdAnGfGbDlRve@fSzGsOhV`ExEf@nJtItWlD~R{Q`r@sFlb@tBvoAuEnr@wBfIwF|i@`DTt@wGuBrImJdgAmCx|@t@wGjDQvaDo@rbFz@rFl@jF~ExC~MS`cMdl@z@DdrBlA@kAqER}EnUINjIpJ[bHaANoMrt@kCj`@gQ~VJxJpDhcEtgClI_MzFAdHnOhLtNtLjC@jBuEu@m@nD^tf@~Tjn@jDrg@}Abg@{Ijg@RdR~J~k@t@`v@rC~_@tDzJ|MrMdD`HbFtp@dABn@tClA{CzL]fDkBdFwKjOly@f@bKrA`FwBgNtFpLcApB`Hh]_AhCtJvK`@xUdx@pDdVcFpd@bFvOhGh@l`CnyAv@|@~uM}DdyQtk@rm@vaBjtFb~BzrF|DlHtCk@qBjATnBzgEr~JpKbUnAo@XpBiB}EfAZ"
+      }, 
+      "total_elevation_gain": 956.6, 
+      "average_speed": 5.399, 
+      "moving_time": 22564, 
+      "start_latlng": [
+        41.23, 
+        -95.6
+      ], 
+      "max_speed": 15.6, 
+      "end_latlng": [
+        40.88, 
+        -96.6
       ]
     }, 
     "2015-05-15T19:29:43Z": {
