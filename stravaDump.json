@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 19422.7
+      "total": 19878.300000000003
     }, 
     "distance": {
-      "dailyAverage": 100259.76486486489, 
-      "total": 3709611.3000000003
+      "dailyAverage": 101584.6657894737, 
+      "total": 3860217.3000000003
     }, 
     "moving_time": {
-      "total": 739988
+      "total": 762432
     }
   }, 
   "rides": {
@@ -117,25 +117,25 @@
         -71.58
       ]
     }, 
-    "2015-06-09T12:24:22Z": {
-      "distance": 115000.0, 
-      "name": "Day 38: Ashton to Port Byron", 
+    "2015-05-20T17:19:54Z": {
+      "distance": 82788.8, 
+      "name": "Day 18: Niagara Falls to Hamilton", 
       "map": {
         "resource_state": 2, 
-        "id": "a322064207", 
-        "summary_polyline": "mbp~Fbgs_P~@f@qB`DbA~eEb@vn@xAfLtGpNlKbHddAcA|IxBrIbIzD`KpMds@rA``BjCpI|]dp@`CtNxBnm@I|mMsBh~B`BbxBSleEi@|NsCtNjPleAuAhC|AuA}Jsq@hIeEh@n@u@hAp@a@^~BkJrEzVf_B``AXp@|sBxLdL`i@h{AnStjAphE~aKxp@pqBfHxXpFxeAofAtxEiAzPGrdAkOvNun@|Ur@|Bb@u@HjCh@eA`CzAkEnwAAlJ|ARaBFY|BsRhrDzMbe@nAto@|ClFnAln@|@CeAe@IgOtI|@LfMsAdAKhCrG|uExj@j@P`tChfCz@OfpChi@|uA~Iv@nCnC`cAGEt_@fEdm@lTjvBdFzM|aApbBhEdRfB|`@r\\|x@`Zp\\hW|yAnA|eB`r@vpBzq@z}ArsBvdHxCxON~{@|Edq@bG`Kpa@x[yB[vHxWzI`Kp@vDMwATrAlBa@xBpK~b@b`@~ErIjuEnpNt@hiAfA`Ib|B|eDt\\xFbl@`\\f_@~\\~Ufa@dClOnJxcBlLd{@Nhw@cLbDaRj\\mj@xOaBtEq@dUmPjSmJp}@sL`Xu@jz@cStj@o@de@j@`{AgCnMGbP"
+        "id": "a308540631", 
+        "summary_polyline": "}y~eGt{~aNl@Lc@vImf@lAoCjPkL|YcIdg@wAz|@wO|e@}Aza@qDzXMp^gHxWahAvC{As{@ceAtAgBk@}BiIoGiByFvGyB@_HeJmEKyNyKuBuIJyMugAn@aPhBvp@tjC`AxQdGdK`g@fmBbFxGj@dMkQ~Fr@vLg@~QyCbAgEtIfG~tAoiAdGoYdJpAzUbInEuEdKg@|IxBhCm@bCgJbOmLlIgItUK`GoHlQeq@h]_IxJ_EdN_XpMkBfJbCld@c@~MiChKeP`AjEd_@aD~dAyBlIaKpIsAhKZkCV~FpGhHbA|EpDvlGeKt[cAd[uVr{@}Fpm@@zr@gHrUbAvDf_@k@nE|vFdGbfEvDp@cDz`@tB~{EcEnFyX~q@wAdfB}b@rqCmDhMkSxb@aMdeAwRvvB_^OyY|BExSgWfnB}VjeBaCfC`AcBbCvBmK|C}BnH@pHtGvL_A~Mup@fqEcYfaByB|CwJ|AcCpGyCfb@\\vGaCvStFxCmMl}@{EK{DjIX~Q}@rIo@vDyGdK_AlOmK|r@mOmEdJvCiAvF_GhB^tg@qKzd@iS~`@oSzW`HbLiEhCSfFlEJnBpRpQ~RuGdf@tk@~RiS`zA\\xEgA^mJ~j@wRzwAeCu@QwCsI|dAmc@lgCgi@nkDpy@hYmDn[~O`I"
       }, 
-      "total_elevation_gain": 830.0, 
-      "average_speed": 5.251, 
-      "moving_time": 21899, 
+      "total_elevation_gain": 90.8, 
+      "average_speed": 5.067, 
+      "moving_time": 16338, 
       "start_latlng": [
-        41.87, 
-        -89.23
+        43.09, 
+        -79.13
       ], 
-      "max_speed": 12.0, 
+      "max_speed": 13.9, 
       "end_latlng": [
-        41.6, 
-        -90.33
+        43.26, 
+        -79.89
       ]
     }, 
     "2015-05-21T17:42:37Z": {
@@ -220,6 +220,27 @@
       "end_latlng": [
         42.87, 
         -76.98
+      ]
+    }, 
+    "2015-06-16T13:19:20Z": {
+      "distance": 150606.0, 
+      "name": "Day 44: Lincoln to Grand Island", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a326983877", 
+        "summary_polyline": "mjbxFh`qmQw@Cf@bD{AfBl@vhHgA`nDqnGaCU`bEa^hd@{GbEemCb@r@||E]doIcAlc@{Drh@}YvhBqKjNyb@rSkGfQs@beO{@dJaDzJ{Yl`@PfiAd[tz@~BfRm@nfk@Nlc@^fCx@Y{@W_@dBElwA`DxtSi@juWmCpSfWpQrjAfrAcD|Qk@fmDXb~g@bDtZ~Wrd@~HrX`Xv}CtXhvDi@vfMn@bwKz@~o@y@|r@B~aEwCp|B~CrvOU`fFl@lYjN||A_ArL{DdNaWxa@_NrIel@~OsHnKuCvNYxpDmF`qJgC_CpCrHV~wBmDHkBoB"
+      }, 
+      "total_elevation_gain": 455.6, 
+      "average_speed": 6.71, 
+      "moving_time": 22444, 
+      "start_latlng": [
+        40.81, 
+        -96.76
+      ], 
+      "max_speed": 14.2, 
+      "end_latlng": [
+        40.89, 
+        -98.4
       ]
     }, 
     "2015-06-07T19:49:40Z": {
@@ -726,25 +747,25 @@
         -79.05
       ]
     }, 
-    "2015-05-20T17:19:54Z": {
-      "distance": 82788.8, 
-      "name": "Day 18: Niagara Falls to Hamilton", 
+    "2015-06-09T12:24:22Z": {
+      "distance": 115000.0, 
+      "name": "Day 38: Ashton to Port Byron", 
       "map": {
         "resource_state": 2, 
-        "id": "a308540631", 
-        "summary_polyline": "}y~eGt{~aNl@Lc@vImf@lAoCjPkL|YcIdg@wAz|@wO|e@}Aza@qDzXMp^gHxWahAvC{As{@ceAtAgBk@}BiIoGiByFvGyB@_HeJmEKyNyKuBuIJyMugAn@aPhBvp@tjC`AxQdGdK`g@fmBbFxGj@dMkQ~Fr@vLg@~QyCbAgEtIfG~tAoiAdGoYdJpAzUbInEuEdKg@|IxBhCm@bCgJbOmLlIgItUK`GoHlQeq@h]_IxJ_EdN_XpMkBfJbCld@c@~MiChKeP`AjEd_@aD~dAyBlIaKpIsAhKZkCV~FpGhHbA|EpDvlGeKt[cAd[uVr{@}Fpm@@zr@gHrUbAvDf_@k@nE|vFdGbfEvDp@cDz`@tB~{EcEnFyX~q@wAdfB}b@rqCmDhMkSxb@aMdeAwRvvB_^OyY|BExSgWfnB}VjeBaCfC`AcBbCvBmK|C}BnH@pHtGvL_A~Mup@fqEcYfaByB|CwJ|AcCpGyCfb@\\vGaCvStFxCmMl}@{EK{DjIX~Q}@rIo@vDyGdK_AlOmK|r@mOmEdJvCiAvF_GhB^tg@qKzd@iS~`@oSzW`HbLiEhCSfFlEJnBpRpQ~RuGdf@tk@~RiS`zA\\xEgA^mJ~j@wRzwAeCu@QwCsI|dAmc@lgCgi@nkDpy@hYmDn[~O`I"
+        "id": "a322064207", 
+        "summary_polyline": "mbp~Fbgs_P~@f@qB`DbA~eEb@vn@xAfLtGpNlKbHddAcA|IxBrIbIzD`KpMds@rA``BjCpI|]dp@`CtNxBnm@I|mMsBh~B`BbxBSleEi@|NsCtNjPleAuAhC|AuA}Jsq@hIeEh@n@u@hAp@a@^~BkJrEzVf_B``AXp@|sBxLdL`i@h{AnStjAphE~aKxp@pqBfHxXpFxeAofAtxEiAzPGrdAkOvNun@|Ur@|Bb@u@HjCh@eA`CzAkEnwAAlJ|ARaBFY|BsRhrDzMbe@nAto@|ClFnAln@|@CeAe@IgOtI|@LfMsAdAKhCrG|uExj@j@P`tChfCz@OfpChi@|uA~Iv@nCnC`cAGEt_@fEdm@lTjvBdFzM|aApbBhEdRfB|`@r\\|x@`Zp\\hW|yAnA|eB`r@vpBzq@z}ArsBvdHxCxON~{@|Edq@bG`Kpa@x[yB[vHxWzI`Kp@vDMwATrAlBa@xBpK~b@b`@~ErIjuEnpNt@hiAfA`Ib|B|eDt\\xFbl@`\\f_@~\\~Ufa@dClOnJxcBlLd{@Nhw@cLbDaRj\\mj@xOaBtEq@dUmPjSmJp}@sL`Xu@jz@cStj@o@de@j@`{AgCnMGbP"
       }, 
-      "total_elevation_gain": 90.8, 
-      "average_speed": 5.067, 
-      "moving_time": 16338, 
+      "total_elevation_gain": 830.0, 
+      "average_speed": 5.251, 
+      "moving_time": 21899, 
       "start_latlng": [
-        43.09, 
-        -79.13
+        41.87, 
+        -89.23
       ], 
-      "max_speed": 13.9, 
+      "max_speed": 12.0, 
       "end_latlng": [
-        43.26, 
-        -79.89
+        41.6, 
+        -90.33
       ]
     }, 
     "2015-06-08T14:31:33Z": {
