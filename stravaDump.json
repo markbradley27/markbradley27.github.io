@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 19878.300000000003
+      "total": 20103.600000000002
     }, 
     "distance": {
-      "dailyAverage": 101584.6657894737, 
-      "total": 3860217.3000000003
+      "dailyAverage": 103148.11025641028, 
+      "total": 4022776.3000000003
     }, 
     "moving_time": {
-      "total": 762432
+      "total": 787005
     }
   }, 
   "rides": {
@@ -451,6 +451,27 @@
       "end_latlng": [
         43.22, 
         -86.29
+      ]
+    }, 
+    "2015-06-17T14:15:40Z": {
+      "distance": 162559.0, 
+      "name": "Day 46: Grand Island to Gothenburg", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a327725679", 
+        "summary_polyline": "ybqxF`xqwQbEfAHpF_@nkCmC`NleHtbS~N|i@hsBjmKbf@hzBhiDr}PbD`VjAre@fFzOnG`JtB\\`wF`c[zk@h_EhNnkAdbDhsUpA|Jw@dJ~E|Jxb@`~CuAhhE`FzKPf`@rAEq@o@d@qAyAvD?fwCR~f@fCn[Qz[~AzXeE|f@_@pXi@~qN_nAtrRqj@`_IkIh_BgsAdsSqXvvDcDbz@cr@vpKsxCdyTsBxWuFbS{CrUIyCuF|g@\\|HeClAvDeCaDvCwAbHcUbdBcGln@qz@vlGmE`UegClkJcx@bpCaJhb@ggDn`MqQ~h@wO~l@mQ@lSMNkGsGMRsEpA_@z_@fOy@oB@dB_AOyTkMyHN@vEvG^qs@jrCm~BjuIkm@lmCwxDniLyj@_^m@lJuC^ItBgDA"
+      }, 
+      "total_elevation_gain": 225.3, 
+      "average_speed": 6.615, 
+      "moving_time": 24573, 
+      "start_latlng": [
+        40.89, 
+        -98.4
+      ], 
+      "max_speed": 17.0, 
+      "end_latlng": [
+        40.93, 
+        -100.15
       ]
     }, 
     "2015-05-07T21:05:37Z": {
