@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 20103.600000000002
+      "total": 20342.600000000002
     }, 
     "distance": {
-      "dailyAverage": 103148.11025641028, 
-      "total": 4022776.3000000003
+      "dailyAverage": 104133.75750000002, 
+      "total": 4165350.3000000003
     }, 
     "moving_time": {
-      "total": 787005
+      "total": 809800
     }
   }, 
   "rides": {
@@ -535,6 +535,27 @@
       "end_latlng": [
         44.48, 
         -73.2
+      ]
+    }, 
+    "2015-06-18T14:50:30Z": {
+      "distance": 142574.0, 
+      "name": "Day 47: Gothamburg to Ogallala", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a328393045", 
+        "summary_polyline": "{nyxF`qhbRtB}E`GHt^nW{FrPiANp@jAiLp`@qKhXebCjtH_mCreI}zAh|Dk_ArbBeCpOyGbcByClNiKzXaKlP{hDz{EgQrd@owBrfJ}{Bz_L_\\f}AaAt@y@|JgGdWsKvWwArOjBx_@y@tKuOla@wbDzbPghC|nHmBd[nTzlEu@lXgYnfEaAXn@xAm|@mKcAlNBvBdA]yAXwEbt@mB|uBkTf{AsI`Uqn@jo@gDpIgBnNs@~ve@aDt_CEhxGlD`_@~Pvm@tEt^~EbxAm@rC~@l@~Apa@|a@hnLrSbbBdLls@ly@~{DtYxjBxn@t_GzFhlAcG|wC@hr@jACiAG~@Ns@K|GbsA|Ihe@|EfiA}JnwDm\\taFChl@dQ|aIiAfPqPpu@kFbp@gIviLnDv_CeDjyA{WfaEzJboBjYxyAnEhl@e_@hA_Bvr@"
+      }, 
+      "total_elevation_gain": 239.0, 
+      "average_speed": 6.255, 
+      "moving_time": 22795, 
+      "start_latlng": [
+        40.93, 
+        -100.16
+      ], 
+      "max_speed": 9.9, 
+      "end_latlng": [
+        41.13, 
+        -101.71
       ]
     }, 
     "2015-06-13T13:03:35Z": {
