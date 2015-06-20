@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 20342.600000000002
+      "total": 20615.7
     }, 
     "distance": {
-      "dailyAverage": 104133.75750000002, 
-      "total": 4165350.3000000003
+      "dailyAverage": 103795.34390243904, 
+      "total": 4255609.1
     }, 
     "moving_time": {
-      "total": 809800
+      "total": 826667
     }
   }, 
   "rides": {
@@ -94,6 +94,27 @@
       "end_latlng": [
         43.09, 
         -79.14
+      ]
+    }, 
+    "2015-05-09T20:47:11Z": {
+      "distance": 85496.1, 
+      "name": "Day 7: Burlington to Plattsburgh, eventually...", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a301432412", 
+        "summary_polyline": "}|mnGxfz}Ln@dt@gWfG_CnE{Ep@aHnFiNvP{PtZ_Mj]aa@jf@ctAxdCwHxJoOpKkg@xDubAz[eYrN_PkFmEpEeO~WaBOhBbNcRdo@uBbXyMxKyDjRkEn@yBpWvB{V|EkAlCkPbC}C}TWu}@tmAqZdUoZfMuZ|Fi_@r@{V}Bel@iM~u@rOff@b@`d@wHzg@yWj]g^j{AqwB|G_TgBmLrWk^jPdFhYwNzaAy[vb@eC~N{GtOcRtoAq}Bj`@sd@fQke@rP}Y`OoQdNcGbCoEhZgGkAJOrCLyDbLeFd@|@y@}b@yEQQuFfCKcC[i@wTi~@dDeTcXGkFbFuT|Bc\\nF}RdD_YaAyD}LiHiOkE}A`DkO@e~Amj@ch@gAqGuG}C}MmH_Lwj@cBq`@aMkRYkQeOaNtDyHYcj@gXuiAsVmr@ub@aLvCwM~Icf@xNmTfYqHnEyPtEcKNsB~Xac@hnCcZ~t@kI`Iu_@zNi`@j^eMpC{d@oCkHlDqD~GqNv{Cst@~{CwNzWuIpg@oE|Iud@zd@yFnO_AbUtJ~cC_@dKaCpIuGdIgXxJ{TtTyy@dMeJfh@sMtc@{DdFuXjKsTps@}UlEuf@}@WnGaf@nh@yKjRo_@~kAyClRQtL`PfZLrCrEfHIrBgNbBsEdDcIl\\iErGarAfh@ig@hcAiGlb@Bl]uAnOvI`dAkIpZhn@ff@ji@`l@f[bU|ZaAx@rN{DpA"
+      }, 
+      "total_elevation_gain": 413.6, 
+      "average_speed": 5.022, 
+      "moving_time": 17026, 
+      "start_latlng": [
+        44.48, 
+        -73.21
+      ], 
+      "max_speed": 12.3, 
+      "end_latlng": [
+        44.7, 
+        -73.46
       ]
     }, 
     "2015-05-06T12:59:16Z": {
@@ -285,25 +306,25 @@
         -77.97
       ]
     }, 
-    "2015-05-09T20:47:11Z": {
-      "distance": 85496.1, 
-      "name": "Day 7: Burlington to Plattsburgh, eventually...", 
+    "2015-06-17T14:15:40Z": {
+      "distance": 162559.0, 
+      "name": "Day 46: Grand Island to Gothenburg", 
       "map": {
         "resource_state": 2, 
-        "id": "a301432412", 
-        "summary_polyline": "}|mnGxfz}Ln@dt@gWfG_CnE{Ep@aHnFiNvP{PtZ_Mj]aa@jf@ctAxdCwHxJoOpKkg@xDubAz[eYrN_PkFmEpEeO~WaBOhBbNcRdo@uBbXyMxKyDjRkEn@yBpWvB{V|EkAlCkPbC}C}TWu}@tmAqZdUoZfMuZ|Fi_@r@{V}Bel@iM~u@rOff@b@`d@wHzg@yWj]g^j{AqwB|G_TgBmLrWk^jPdFhYwNzaAy[vb@eC~N{GtOcRtoAq}Bj`@sd@fQke@rP}Y`OoQdNcGbCoEhZgGkAJOrCLyDbLeFd@|@y@}b@yEQQuFfCKcC[i@wTi~@dDeTcXGkFbFuT|Bc\\nF}RdD_YaAyD}LiHiOkE}A`DkO@e~Amj@ch@gAqGuG}C}MmH_Lwj@cBq`@aMkRYkQeOaNtDyHYcj@gXuiAsVmr@ub@aLvCwM~Icf@xNmTfYqHnEyPtEcKNsB~Xac@hnCcZ~t@kI`Iu_@zNi`@j^eMpC{d@oCkHlDqD~GqNv{Cst@~{CwNzWuIpg@oE|Iud@zd@yFnO_AbUtJ~cC_@dKaCpIuGdIgXxJ{TtTyy@dMeJfh@sMtc@{DdFuXjKsTps@}UlEuf@}@WnGaf@nh@yKjRo_@~kAyClRQtL`PfZLrCrEfHIrBgNbBsEdDcIl\\iErGarAfh@ig@hcAiGlb@Bl]uAnOvI`dAkIpZhn@ff@ji@`l@f[bU|ZaAx@rN{DpA"
+        "id": "a327725679", 
+        "summary_polyline": "ybqxF`xqwQbEfAHpF_@nkCmC`NleHtbS~N|i@hsBjmKbf@hzBhiDr}PbD`VjAre@fFzOnG`JtB\\`wF`c[zk@h_EhNnkAdbDhsUpA|Jw@dJ~E|Jxb@`~CuAhhE`FzKPf`@rAEq@o@d@qAyAvD?fwCR~f@fCn[Qz[~AzXeE|f@_@pXi@~qN_nAtrRqj@`_IkIh_BgsAdsSqXvvDcDbz@cr@vpKsxCdyTsBxWuFbS{CrUIyCuF|g@\\|HeClAvDeCaDvCwAbHcUbdBcGln@qz@vlGmE`UegClkJcx@bpCaJhb@ggDn`MqQ~h@wO~l@mQ@lSMNkGsGMRsEpA_@z_@fOy@oB@dB_AOyTkMyHN@vEvG^qs@jrCm~BjuIkm@lmCwxDniLyj@_^m@lJuC^ItBgDA"
       }, 
-      "total_elevation_gain": 413.6, 
-      "average_speed": 5.022, 
-      "moving_time": 17026, 
+      "total_elevation_gain": 225.3, 
+      "average_speed": 6.615, 
+      "moving_time": 24573, 
       "start_latlng": [
-        44.48, 
-        -73.21
+        40.89, 
+        -98.4
       ], 
-      "max_speed": 12.3, 
+      "max_speed": 17.0, 
       "end_latlng": [
-        44.7, 
-        -73.46
+        40.93, 
+        -100.15
       ]
     }, 
     "2015-06-11T13:34:07Z": {
@@ -453,25 +474,25 @@
         -86.29
       ]
     }, 
-    "2015-06-17T14:15:40Z": {
-      "distance": 162559.0, 
-      "name": "Day 46: Grand Island to Gothenburg", 
+    "2015-06-19T16:47:10Z": {
+      "distance": 90258.8, 
+      "name": "Day 48: Ogallala to Crook", 
       "map": {
         "resource_state": 2, 
-        "id": "a327725679", 
-        "summary_polyline": "ybqxF`xqwQbEfAHpF_@nkCmC`NleHtbS~N|i@hsBjmKbf@hzBhiDr}PbD`VjAre@fFzOnG`JtB\\`wF`c[zk@h_EhNnkAdbDhsUpA|Jw@dJ~E|Jxb@`~CuAhhE`FzKPf`@rAEq@o@d@qAyAvD?fwCR~f@fCn[Qz[~AzXeE|f@_@pXi@~qN_nAtrRqj@`_IkIh_BgsAdsSqXvvDcDbz@cr@vpKsxCdyTsBxWuFbS{CrUIyCuF|g@\\|HeClAvDeCaDvCwAbHcUbdBcGln@qz@vlGmE`UegClkJcx@bpCaJhb@ggDn`MqQ~h@wO~l@mQ@lSMNkGsGMRsEpA_@z_@fOy@oB@dB_AOyTkMyHN@vEvG^qs@jrCm~BjuIkm@lmCwxDniLyj@_^m@lJuC^ItBgDA"
+        "id": "a328951322", 
+        "summary_polyline": "{u`zFhexkR`MCdDto@pZ{ClAbM~B_@kAk@~hEzb`@fEzh@v@zWDjeD_AjnZLvPbAbAkAU~dApLjs@hRfx@GgBE~BhAr]zlAc@qB{Ki\\fd@f}AzIl`@`BhRvIj{Cpl@pwDx|@bsBv]jr@leE|hJl{@|pBmBlDlCoClPv_@`BxOfAjsFlCrOfFrIrQfQl`Ahw@p[t^bHfOxAdOEvgDsAzpBnAfd@PlpCjB~^vyCnpR~Gtj@cDjAzDGhIva@rmAn|HxoFhuYdI|t@fRtq@|eBpiJxJvn@t@bSHeD"
       }, 
-      "total_elevation_gain": 225.3, 
-      "average_speed": 6.615, 
-      "moving_time": 24573, 
+      "total_elevation_gain": 273.1, 
+      "average_speed": 5.351, 
+      "moving_time": 16867, 
       "start_latlng": [
-        40.89, 
-        -98.4
+        41.13, 
+        -101.71
       ], 
-      "max_speed": 17.0, 
+      "max_speed": 9.4, 
       "end_latlng": [
-        40.93, 
-        -100.15
+        40.86, 
+        -102.8
       ]
     }, 
     "2015-05-07T21:05:37Z": {
