@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 20917.9
+      "total": 21689.000000000004
     }, 
     "distance": {
-      "dailyAverage": 104776.38333333333, 
-      "total": 4400608.1
+      "dailyAverage": 105334.63023255813, 
+      "total": 4529389.100000001
     }, 
     "moving_time": {
-      "total": 847822
+      "total": 870776
     }
   }, 
   "rides": {
@@ -243,25 +243,25 @@
         -76.98
       ]
     }, 
-    "2015-06-16T13:19:20Z": {
-      "distance": 150606.0, 
-      "name": "Day 45: Lincoln to Grand Island", 
+    "2015-05-28T14:39:34Z": {
+      "distance": 73477.2, 
+      "name": "Day 26: Grand Rapids to Muskegon", 
       "map": {
         "resource_state": 2, 
-        "id": "a326983877", 
-        "summary_polyline": "mjbxFh`qmQw@Cf@bD{AfBl@vhHgA`nDqnGaCU`bEa^hd@{GbEemCb@r@||E]doIcAlc@{Drh@}YvhBqKjNyb@rSkGfQs@beO{@dJaDzJ{Yl`@PfiAd[tz@~BfRm@nfk@Nlc@^fCx@Y{@W_@dBElwA`DxtSi@juWmCpSfWpQrjAfrAcD|Qk@fmDXb~g@bDtZ~Wrd@~HrX`Xv}CtXhvDi@vfMn@bwKz@~o@y@|r@B~aEwCp|B~CrvOU`fFl@lYjN||A_ArL{DdNaWxa@_NrIel@~OsHnKuCvNYxpDmF`qJgC_CpCrHV~wBmDHkBoB"
+        "id": "a313735618", 
+        "summary_polyline": "ckieG`boiOqGnAQfRkV`@Sb{@cyAh@Yd`FrUpQ{@ztBnUo@yEnkFqKhNmPdAwReBqb@xQgs@jOg@jh@_XnA`Gjc@aH~QqGh^oPhtCsApIwClFw@rQgg@|lCw[CeI`Dey@faAakK~eLsHrD_yBfa@{T`HmzErdEsJfMwgAbwCLlHaBdHbC~h\\}kBnvL}@vMqAvBw_@vbChFxAUnd@|G\\HvBzG`@JrBsD^i@pKmHr@lArWd@xdCoC`hIaVBuEyCaCvJgYdd@eO~BjBbJkBvAf@vEwHtGSbC"
       }, 
-      "total_elevation_gain": 455.6, 
-      "average_speed": 6.71, 
-      "moving_time": 22444, 
+      "total_elevation_gain": 183.6, 
+      "average_speed": 5.967, 
+      "moving_time": 12314, 
       "start_latlng": [
-        40.81, 
-        -96.76
+        42.98, 
+        -85.61
       ], 
-      "max_speed": 14.2, 
+      "max_speed": 13.2, 
       "end_latlng": [
-        40.89, 
-        -98.4
+        43.22, 
+        -86.29
       ]
     }, 
     "2015-06-07T19:49:40Z": {
@@ -453,25 +453,46 @@
         -88.96
       ]
     }, 
-    "2015-05-28T14:39:34Z": {
-      "distance": 73477.2, 
-      "name": "Day 26: Grand Rapids to Muskegon", 
+    "2015-06-21T12:49:10Z": {
+      "distance": 128781.0, 
+      "name": "Day 50: Wiggins to Boulder", 
       "map": {
         "resource_state": 2, 
-        "id": "a313735618", 
-        "summary_polyline": "ckieG`boiOqGnAQfRkV`@Sb{@cyAh@Yd`FrUpQ{@ztBnUo@yEnkFqKhNmPdAwReBqb@xQgs@jOg@jh@_XnA`Gjc@aH~QqGh^oPhtCsApIwClFw@rQgg@|lCw[CeI`Dey@faAakK~eLsHrD_yBfa@{T`HmzErdEsJfMwgAbwCLlHaBdHbC~h\\}kBnvL}@vMqAvBw_@vbChFxAUnd@|G\\HvBzG`@JrBsD^i@pKmHr@lArWd@xdCoC`hIaVBuEyCaCvJgYdd@eO~BjBbJkBvAf@vEwHtGSbC"
+        "id": "a330385631", 
+        "summary_polyline": "q|otFxlezRYvRgUJuIxHFpTl@DoCB`BfAHfv@vDx\\h|]tArAxgX}@zwJx@|wP{@lvBLbgCv@hJw@jLRndi@D~u@lBr@oh@rq@cDdJqAfNdB~nn@oBzNqD~Fc^nPgDpHmAdLQppBw@rEv@\\FfOm@ncAv@f`@AlyEf@fDbDFgArAvAcAsD_@]fBz@pmEcBzsBvBtsH_Ar_Bp@h}GMnQyGlAgAzN_CLmEfGt@jF{BtU|B~UeAhDdBhBk@jO|CnFpDT|BjHJvG|BlDgAnEp@rBpKrEnDeDtEnRpGvGn@lJfIjAnLlRv@hTbGUvFfM~@lNqCzLlClA~MkBRpr@z]d@fBrDj@nV~bB@B~fF`i@XOvCzAvAy@vPgHnCjClGf@bTgA|IiGdNwC~MtIjBM~Mp_@MbAcDOvCjIdAtAtGlAf@@lE_A["
       }, 
-      "total_elevation_gain": 183.6, 
-      "average_speed": 5.967, 
-      "moving_time": 12314, 
+      "total_elevation_gain": 771.1, 
+      "average_speed": 5.61, 
+      "moving_time": 22954, 
       "start_latlng": [
-        42.98, 
-        -85.61
+        40.23, 
+        -104.07
       ], 
-      "max_speed": 13.2, 
+      "max_speed": 12.7, 
       "end_latlng": [
-        43.22, 
-        -86.29
+        40.04, 
+        -105.27
+      ]
+    }, 
+    "2015-06-16T13:19:20Z": {
+      "distance": 150606.0, 
+      "name": "Day 45: Lincoln to Grand Island", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a326983877", 
+        "summary_polyline": "mjbxFh`qmQw@Cf@bD{AfBl@vhHgA`nDqnGaCU`bEa^hd@{GbEemCb@r@||E]doIcAlc@{Drh@}YvhBqKjNyb@rSkGfQs@beO{@dJaDzJ{Yl`@PfiAd[tz@~BfRm@nfk@Nlc@^fCx@Y{@W_@dBElwA`DxtSi@juWmCpSfWpQrjAfrAcD|Qk@fmDXb~g@bDtZ~Wrd@~HrX`Xv}CtXhvDi@vfMn@bwKz@~o@y@|r@B~aEwCp|B~CrvOU`fFl@lYjN||A_ArL{DdNaWxa@_NrIel@~OsHnKuCvNYxpDmF`qJgC_CpCrHV~wBmDHkBoB"
+      }, 
+      "total_elevation_gain": 455.6, 
+      "average_speed": 6.71, 
+      "moving_time": 22444, 
+      "start_latlng": [
+        40.81, 
+        -96.76
+      ], 
+      "max_speed": 14.2, 
+      "end_latlng": [
+        40.89, 
+        -98.4
       ]
     }, 
     "2015-06-20T15:52:49Z": {
