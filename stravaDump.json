@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 21689.000000000004
+      "total": 22692.4
     }, 
     "distance": {
-      "dailyAverage": 105334.63023255813, 
-      "total": 4529389.100000001
+      "dailyAverage": 104075.43181818182, 
+      "total": 4579319.0
     }, 
     "moving_time": {
-      "total": 870776
+      "total": 883147
     }
   }, 
   "rides": {
@@ -199,6 +199,27 @@
       "end_latlng": [
         40.88, 
         -96.6
+      ]
+    }, 
+    "2015-06-28T22:02:48Z": {
+      "distance": 49929.9, 
+      "name": "Day 57: Broomfield to Chief Hosa Lodge", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a335228589", 
+        "summary_polyline": "spprFxrl`SgD@jFuAtD{Ef@ig@lIuKjhABtKnGfH}Fjr@l@Bbm@kAjGTfC`E`AfA~CIlKt@p@rDiCoDdCJzCnEaAwFf@~@vHrDHRbF~DpMxOzDdJxYvFc@xDnC|LcC`MPhMgHxArIi@rB~IpInTnB`DtC`AvDpPI`AbB~jCiBpAry@hhB_@zBjFNxEnAX|@gGfCSh@mEhz@RtH~LdS|@hJc@_A{LjDI`OlhAfxASfAx_@u@zLnChNfGnnAaCzAMjPoArB`BjO?lZ_DxAvErm@pDtMwBvHE`JfCfa@~Mlt@z@fe@aAlPj@dGpEhLl@xHvDvHx@pJ|KhUxTdq@b@bGkAfEpIiHd@yGtBcCtFzA|CbN|@Ad^k]aBqEeAET}Co@jBn@dAz^}[|M|XzXoFj_@u@dOtI|X{HpA_CjH{BrE_@b@pElCP|IyIjJfDf@aFjMwFhOdAlAbEBkGbFaJhAaGnGcJjMiHvc@oDtQxAY`GvBvDhMp@jEfDLjBhBAvErExAvGwCbUCb\\qMvr@_@z{@}OdUwPb}@sE|MoFjf@vBfQe@lGeD`EsT|GmDlEoAxGx@fKrHtSxCb\\mAzfAmF|ZaBnXuPdgA]xJbB|LpKpRjDmFF}EbAAUqFzD_C"
+      }, 
+      "total_elevation_gain": 1003.4, 
+      "average_speed": 4.036, 
+      "moving_time": 12371, 
+      "start_latlng": [
+        39.9, 
+        -105.09
+      ], 
+      "max_speed": 14.5, 
+      "end_latlng": [
+        39.71, 
+        -105.31
       ]
     }, 
     "2015-06-15T11:11:38Z": {
