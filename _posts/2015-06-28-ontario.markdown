@@ -4,30 +4,30 @@ title:      "Ontario!"
 subtitle:   "Getting real Canadian"
 date:       2015-06-28 20:23:00
 author:     "Deborah"
-header-img: "img/post09/IMG_20150520_153630.jpg"
+header-img: "img/post07/IMG_20150520_153630.jpg"
 ---
 
 On our first full day in Canada, we woke up and did the most Canadian thing we could think of - headed to Tim Horton's for breakfast. In our usual fashion, we had absolutely no plans for where we were headed that day or where we were going to stay. Since our cell phones didn't have coverage in Canada, we used the free wifi at Tim Horton's to plan our day. Unable to find any warmshowers hosts within a reasonable distance, we tried couchsurfing. Within minutes, we had found a host for that night! It was a flat 50 mile day to Hamilton, with some nice views of Lake Ontario and of course poutine. 
 
-{% include figures.html 1src='/img/post09/IMG_20150520_154455.jpg' 1weight=6 2src='/img/post09/IMG_20150520_175350.jpg' 2weight=6 2caption='Lake Ontario, so blue!' %}
+{% include figures.html 1src='/img/post07/IMG_20150520_154455.jpg' 1weight=6 2src='/img/post07/IMG_20150520_175350.jpg' 2weight=6 2caption='Lake Ontario, so blue!' %}
 
 Our host, Chris, was excellent. After letting us get settled in, he took us on a short drive so that we could see a great view of the city from the escarpment. After that we relaxed back at the apartment and Chris helped us plan a short trip to Toronto the next day. We figured it was worth seeing while we were so close, but didn't want to bike completely out of our way. In the morning, Chris gave us breakfast and then kindly drove us to the bus station, where we said our farewells. Once in Toronto, we visited the touristy and pricey attraction known as the CN tower. (Wonderful views, but not really worth the money if you're planning a visit there). We wandered around a bit more, grabbed lunch, and hopped on a bus back to Hamilton. We grabbed our bikes from Chris' apartment and started to bike the 63 miles to Ingersoll, where we had made arrangements with warmshowers hosts Ian and Vicky. 
 
-{% include figures.html 1src='/img/post09/IMG_20150521_094342.jpg' 1weight=5 2src='/img/post09/IMG_20150521_101403.jpg' 2weight=7 21src='/img/post09/IMG_20150521_101425.jpg' 21weight=5 22src='/img/post09/IMG_20150521_102824.jpg' 22weight=7 22caption='Standing on the highest glass floor in the world!' %}
+{% include figures.html 1src='/img/post07/IMG_20150521_094342.jpg' 1weight=5 2src='/img/post07/IMG_20150521_101403.jpg' 2weight=7 21src='/img/post07/IMG_20150521_101425.jpg' 21weight=5 22src='/img/post07/IMG_20150521_102824.jpg' 22weight=7 22caption='Standing on the highest glass floor in the world!' %}
 
 
 We were on some great bike paths for most of the day, but were also able to test out our mountain biking skills when we somehow ended up on a single track trail. We rolled up to our hosts house around 9 pm. They showered us with snacks and showed us the furnished basement that we had all to ourselves. We spent some time admiring Ian's tri bike and hearing the cool story of how he and Vicky met on a bus in Australia. 
 
-{% include figures.html 1src='/img/post09/IMG_20150521_140810.jpg' 1weight=3 1caption='Nice bike path...' 2src='/img/post09/IMG_20150521_155810.jpg' 2weight=6 2caption='...turned not so nice' 3src='/img/post09/IMG_20150521_155731.jpg' 3weight=3 %}
+{% include figures.html 1src='/img/post07/IMG_20150521_140810.jpg' 1weight=3 1caption='Nice bike path...' 2src='/img/post07/IMG_20150521_155810.jpg' 2weight=6 2caption='...turned not so nice' 3src='/img/post07/IMG_20150521_155731.jpg' 3weight=3 %}
 
 
 The next day, we once again had no idea where we were going to stay. I had contacted a few couchsurfing hosts who were a ways away, but the more we biked the more obvious it became that we were not going to make it any worthwhile distance. 20 mph headwinds, bothersome saddle sores, and heavy truck traffic eventually convinced us to give up and spoil ourselves with a dinner buffet and a motel room after only 48 miles. This was in Strathroy, Ontario. Our next destination was Clawson, MI, where my friend Aidan lives. From Strathroy to Clawson is just over 100 miles, so we started the next day not expecting to make it and planning to camp somewhere along the way. However, the flat terrain, tailwinds, and our restful night all worked together to beat the odds and we beasted those 103.5 miles (including a short ferry ride), arriving at Aidan's around 8:30.
 
-{% include figures.html 1src='/img/post09/IMG_20150523_152445.jpg' 1weight=6 1caption='Approaching the ferry' 2src='/img/post09/IMG_20150523_152843.jpg' 2weight=6 %}
+{% include figures.html 1src='/img/post07/IMG_20150523_152445.jpg' 1weight=6 1caption='Approaching the ferry' 2src='/img/post07/IMG_20150523_152843.jpg' 2weight=6 %}
 
  We showered and enjoyed a fantastic dinner at the Griffin Claw Brewing Company. The next day was our second and well deserved rest day of the trip. We ran some errands (including fixing a spoke I had broken the day before), made dinner, and watched a movie. It was a treat to see Aidan and catch up, and we had a great time despite the efforts of his malicious cat Nigel. (Nigel is constantly on an insatiable quest for more food.) His other cat, Juniper, was a bit more mellow. After saying our goodbyes we were off to battle the decrepit roads of Detroit once more!
 
-{% include figures.html 1src='/img/post09/IMG_20150524_100545.jpg' 1weight=6 1caption='Enjoying the rest day' 2src='/img/post09/image1~2.JPG' 2weight=6 2caption='Excuse me sir, do you have a moment to talk about food security?' 21src='/img/post09/IMG_20150524_101544.jpg' 21weight=6 21caption="Just lounging, I'm so well behaved" 22src='/img/post09/image2~2.JPG' 22weight=6 22caption='Thanks again, Aidan!' %}
+{% include figures.html 1src='/img/post07/IMG_20150524_100545.jpg' 1weight=6 1caption='Enjoying the rest day' 2src='/img/post07/image1~2.JPG' 2weight=6 2caption='Excuse me sir, do you have a moment to talk about food security?' 21src='/img/post07/IMG_20150524_101544.jpg' 21weight=6 21caption="Just lounging, I'm so well behaved" 22src='/img/post07/image2~2.JPG' 22weight=6 22caption='Thanks again, Aidan!' %}
 
 
 
