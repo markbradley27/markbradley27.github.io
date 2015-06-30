@@ -2,7 +2,7 @@
 layout:     post
 title:      "Clawson to Madison"
 subtitle:   "Bike paths galore!"
-date:       2015-06-27 20:30:00
+date:       2015-06-29 23:30:00
 author:     "Mark"
 header-img: "img/post08/IMG_20150527_154946.jpg"
 ---
