@@ -1,17 +1,38 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 25009.5
+      "total": 27013.800000000003
     }, 
     "distance": {
-      "dailyAverage": 104151.3111111111, 
-      "total": 4686809.0
+      "dailyAverage": 105328.60869565218, 
+      "total": 4845116.0
     }, 
     "moving_time": {
-      "total": 907868
+      "total": 933924
     }
   }, 
   "rides": {
+    "2015-06-30T15:38:29Z": {
+      "distance": 158307.0, 
+      "name": "Day 59: Frisco to Glenwood Springs", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a336647737", 
+        "summary_polyline": "kwppFxxpfS|Jb{AzhAhnBr}CbpArz@qYbx@vq@nsAs`@lT~_@YxcArKr\\eb@jdCgAp`BmFzT}s@j`@}Yzl@cq@`V|B`Jqs@_TqoA~a@eoDvhDsThEmiAka@yZpi@xEzf@_Hdm@iPvXqzAzw@_sA}QhBlU}Lpc@aaBvbDdDpo@kNbbA~a@ljE_St~C|MnJpH|dApp@dsAleAjtAhiAjqCwNfl@qb@pJoUdz@}SxyEih@jnBeIiDtA|S{ZlfAiMjoH}f@zfAul@z{Dcx@rmBgp@bXgaAWkZ|eAav@pIoc@|]mL~|B{s@hd@yOth@pD`s@r_@tv@fUnlAjx@laBtcAtjAv}AzbHhs@tuAxSpfAhp@zx@vI|m@gMjoBdNviBmEdfJ`NdeA}c@zb@{^lfCpi@~vBbClaBrX`|AeUlbCnD|]iQxGvVdnChhAhvChu@``@jC~`B~f@jStShnAx]~p@xN|~@lYtKzUfqA|d@hf@fNoGoGts@rc@fhAhSPdJl`@bv@hu@oWzSfKvVkK~HtCvSj]jExe@p}@}DjGvc@z]vTje@gW~[}MdgBeT`d@rc@th@mDhs@tQzQcLnNkFny@z\\~[uXhRpx@tm@vHdi@hTMa@p_@cQPqMnZqJeX_b@bx@wLnqBbDtsBoI~T"
+      }, 
+      "total_elevation_gain": 2004.3, 
+      "average_speed": 6.076, 
+      "moving_time": 26056, 
+      "start_latlng": [
+        39.58, 
+        -106.1
+      ], 
+      "max_speed": 23.7, 
+      "end_latlng": [
+        39.56, 
+        -107.38
+      ]
+    }, 
     "2015-05-29T14:15:49Z": {
       "distance": 113260.0, 
       "name": "Day 27: Waukesha to Madison", 
@@ -915,25 +936,25 @@
         -90.33
       ]
     }, 
-    "2015-06-08T14:31:33Z": {
-      "distance": 110265.0, 
-      "name": "Day 37: Naperville to Ashton", 
+    "2015-05-28T23:39:16Z": {
+      "distance": 37595.3, 
+      "name": "Day 26: Milwaukee to Waukesha", 
       "map": {
         "resource_state": 2, 
-        "id": "a321452456", 
-        "summary_polyline": "oxa~Fr`iyOjGvGu@~NhClKPf]rAtCjHzD|@xFmE~ToXLgEvC{CmA{HdG}@jUt@vGoDf@A`DjDtK|BxSuHh@kBbs@`AdH`DjFl@bIvMv@lC`J`k@npGxHzd@nKlF~InN~G`Epb@~A~EvCn]BRnRx]rDEdFrDtFtV~M|WtVdAY]`A`DfDxmAzdAse@zjA^nKbClBPrh@vGPnAhD|@zq@kFlf@iNjm@cHvh@aAbFaDfA`k@ObN`W|Ozv@jH~o@de@dxCdGxW`S|l@lClPx@zV}@fKwQrmA}\\dhBQreB~AhmBvKxhA\\t~@yCpGcZ|@sFzEu`An|CgHpr@`Dx~@eAzGuc@l~@qu@ho@tFhpBTxdB}Xn]eM`DApJ|BpBc@oA{AjCbAbqA`Cf\\}HbE{M|VuMnDeD`W`Ch\\cBzBiFd@{@xBNdeAiyApA[xqEtBdbDf@j`PxAd}C^fdDq@~k@n@pOh@bjIwlJZrA`oBb@jwFC`lB{@fInAzWtBjoErCf~Tcj@~AfAhlFuVnAiGzBtKaCiJ|FlJoGeMUh@|ClHaCaBWlEFmLlCwIxGc@nh@yAlDoi@fAT`OnDr@BzOLgM[wCwCh@y@{IhEa@}FnA~Ay@q@BlChu@wAPJp^vAxF"
+        "id": "a313909938", 
+        "summary_polyline": "seneG|qlwOxCvKuE~CK`BdEvb@cMtGoBrn@sDrHyg@tU_`AdAvCFWnWyDx@OhdDuAdFF~FwDnAc@nEcCvDyB]q@qDwDdEbCrD~@~HbDzE~AlShFvKzCrq@mHlgAf@~NjEbYf@lSsEbvGbGp@`@r[rg@GrBqAh@xkCzd@b@p@dpJw@fbAbApk@b@t`KuAxv@rGz|@zLjA\\vHrTl@t@pbElDjDrc@^jMbCGvZpNnd@zOxGLhMhIi@bLcH"
       }, 
-      "total_elevation_gain": 244.2, 
-      "average_speed": 4.506, 
-      "moving_time": 24470, 
+      "total_elevation_gain": 143.2, 
+      "average_speed": 5.756, 
+      "moving_time": 6532, 
       "start_latlng": [
-        41.79, 
-        -88.2
+        43.0, 
+        -87.89
       ], 
-      "max_speed": 11.0, 
+      "max_speed": 12.2, 
       "end_latlng": [
-        41.87, 
-        -89.23
+        42.98, 
+        -88.26
       ]
     }, 
     "2015-05-22T13:21:48Z": {
@@ -978,25 +999,25 @@
         -76.08
       ]
     }, 
-    "2015-05-28T23:39:16Z": {
-      "distance": 37595.3, 
-      "name": "Day 26: Milwaukee to Waukesha", 
+    "2015-06-08T14:31:33Z": {
+      "distance": 110265.0, 
+      "name": "Day 37: Naperville to Ashton", 
       "map": {
         "resource_state": 2, 
-        "id": "a313909938", 
-        "summary_polyline": "seneG|qlwOxCvKuE~CK`BdEvb@cMtGoBrn@sDrHyg@tU_`AdAvCFWnWyDx@OhdDuAdFF~FwDnAc@nEcCvDyB]q@qDwDdEbCrD~@~HbDzE~AlShFvKzCrq@mHlgAf@~NjEbYf@lSsEbvGbGp@`@r[rg@GrBqAh@xkCzd@b@p@dpJw@fbAbApk@b@t`KuAxv@rGz|@zLjA\\vHrTl@t@pbElDjDrc@^jMbCGvZpNnd@zOxGLhMhIi@bLcH"
+        "id": "a321452456", 
+        "summary_polyline": "oxa~Fr`iyOjGvGu@~NhClKPf]rAtCjHzD|@xFmE~ToXLgEvC{CmA{HdG}@jUt@vGoDf@A`DjDtK|BxSuHh@kBbs@`AdH`DjFl@bIvMv@lC`J`k@npGxHzd@nKlF~InN~G`Epb@~A~EvCn]BRnRx]rDEdFrDtFtV~M|WtVdAY]`A`DfDxmAzdAse@zjA^nKbClBPrh@vGPnAhD|@zq@kFlf@iNjm@cHvh@aAbFaDfA`k@ObN`W|Ozv@jH~o@de@dxCdGxW`S|l@lClPx@zV}@fKwQrmA}\\dhBQreB~AhmBvKxhA\\t~@yCpGcZ|@sFzEu`An|CgHpr@`Dx~@eAzGuc@l~@qu@ho@tFhpBTxdB}Xn]eM`DApJ|BpBc@oA{AjCbAbqA`Cf\\}HbE{M|VuMnDeD`W`Ch\\cBzBiFd@{@xBNdeAiyApA[xqEtBdbDf@j`PxAd}C^fdDq@~k@n@pOh@bjIwlJZrA`oBb@jwFC`lB{@fInAzWtBjoErCf~Tcj@~AfAhlFuVnAiGzBtKaCiJ|FlJoGeMUh@|ClHaCaBWlEFmLlCwIxGc@nh@yAlDoi@fAT`OnDr@BzOLgM[wCwCh@y@{IhEa@}FnA~Ay@q@BlChu@wAPJp^vAxF"
       }, 
-      "total_elevation_gain": 143.2, 
-      "average_speed": 5.756, 
-      "moving_time": 6532, 
+      "total_elevation_gain": 244.2, 
+      "average_speed": 4.506, 
+      "moving_time": 24470, 
       "start_latlng": [
-        43.0, 
-        -87.89
+        41.79, 
+        -88.2
       ], 
-      "max_speed": 12.2, 
+      "max_speed": 11.0, 
       "end_latlng": [
-        42.98, 
-        -88.26
+        41.87, 
+        -89.23
       ]
     }, 
     "2015-05-04T13:05:03Z": {
