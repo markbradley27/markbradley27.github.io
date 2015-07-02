@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 27013.800000000003
+      "total": 27452.7
     }, 
     "distance": {
-      "dailyAverage": 105328.60869565218, 
-      "total": 4845116.0
+      "dailyAverage": 106095.36170212766, 
+      "total": 4986482.0
     }, 
     "moving_time": {
-      "total": 933924
+      "total": 955803
     }
   }, 
   "rides": {
@@ -220,6 +220,27 @@
       "end_latlng": [
         40.88, 
         -96.6
+      ]
+    }, 
+    "2015-07-01T14:52:21Z": {
+      "distance": 141366.0, 
+      "name": "Day 59: Glenwood Springs to Grand Junction", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a337291063", 
+        "summary_polyline": "qanpFhuknShImXkF}h@|Dar@mAuTzAhXcDln@|Fxg@aB~v@pU|sAaQxf@aVn\\oM~uAc[|`@sS`m@iDfYnBdiA|MxTxArS_Mpj@Q~j@dLfw@j\\fn@fCnMoAryBq[zvARl{And@veArWbSvQlZdD`R`Fc@nbAzbKjKjgBYbmAoSAPvbBsGreClCnuAn^rjD|oAnnE}Cdd@vJ`XgFtj@vFrv@nFz}Ejb@tbBvOdEYba@t~@loDbN~Ynv@lbFyP~hAr@xRxiChcGbG|hAhEzTaLpb@hEpSlHnoB~DxRjkAluC~UxO~HhMdObCfd@lb@ldB`lB`GpPrEXfNqKnKxRzaB`{Ab{D~|Ixg@xaBdW|^nbAzDtV~nAx^bv@pLdEb^K`r@hR~LlKj^ll@xCvR~DyBfbE~_Bdg@tXrYz[fYj{AfNfL~~@pZna@hb@nd@tDrb@gR|x@cEzFdI|AtLwDtd@rAxPbPbS~M~DvNyJnWykAzXuM~oAbErRhb@zd@d`@nHf@fZm^jNkCdI~HbAvN{b@bhAfHnQbM`CrXaH|c@jDxZlZfWbl@dg@jc@pOvHnfApL`ObQ~Snw@jX~HHmHTtH~TtCdV|[pb@zUzIBf|@_a@|UlDdOnK~Wzd@lKde@nA`iFnuAtjJlGjTkDh\\@x~Mh}@\\{Bvw@hB`Ag@hn@"
+      }, 
+      "total_elevation_gain": 438.9, 
+      "average_speed": 6.461, 
+      "moving_time": 21879, 
+      "start_latlng": [
+        39.56, 
+        -107.38
+      ], 
+      "max_speed": 12.8, 
+      "end_latlng": [
+        39.08, 
+        -108.53
       ]
     }, 
     "2015-06-28T22:02:48Z": {
