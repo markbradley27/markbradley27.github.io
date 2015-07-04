@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 28040.4
+      "total": 28745.0
     }, 
     "distance": {
-      "dailyAverage": 105586.51041666667, 
-      "total": 5068152.5
+      "dailyAverage": 105167.04081632652, 
+      "total": 5153185.0
     }, 
     "moving_time": {
-      "total": 972138
+      "total": 992888
     }
   }, 
   "rides": {
@@ -224,7 +224,7 @@
     }, 
     "2015-07-01T14:52:21Z": {
       "distance": 141366.0, 
-      "name": "Day 59: Glenwood Springs to Grand Junction", 
+      "name": "Day 60: Glenwood Springs to Grand Junction", 
       "map": {
         "resource_state": 2, 
         "id": "a337291063", 
@@ -266,7 +266,7 @@
     }, 
     "2015-07-02T16:00:30Z": {
       "distance": 81670.5, 
-      "name": "Day 60: Grand Junction to the middle of nowhere", 
+      "name": "Day 61: Grand Junction to the middle of nowhere", 
       "map": {
         "resource_state": 2, 
         "id": "a337989122", 
@@ -283,6 +283,27 @@
       "end_latlng": [
         39.02, 
         -109.29
+      ]
+    }, 
+    "2015-07-03T14:31:02Z": {
+      "distance": 85032.5, 
+      "name": "Day 62: ~Cisco to Moab", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a338597911", 
+        "summary_polyline": "ohcmFjr`zSn`Epx@ac@sJwXaFhjBta@dEzIhK`d@~O~NhGvt@pE\\{Dh@jC`R`BbCy@r@vBvOfKh_@tJxMxn@dm@|z@~wAra@uXvJeNxjA{p@h~@{w@l_@cj@|f@wFvIsLbOyc@|HwLvf@kSt_@^zWbExRa@`aAmx@vWik@dZiGvUqApKsUnp@ih@j\\cHd|@fb@~a@}Epe@kRfSvBhGvGtClHjMby@lJhYxBjMfQzQj@r\\nDrQ`HnB`Y{JfR_BdJxAtElFdDl^|IbRbBjJ?vVyDfNgFxGyh@|\\eAhDb@lElIfIjMhDdQo@`s@{g@p{@aNjOqLf\\s`@`VcQfFqAxPRhRzMdHbGwEdHfFyGpa@|ZhfAnQrItGzA`EJbNrKzRfOvTzb@x\\vZdf@pp@ltAj|@hqAdMpWrEjXhPh^nLpKl^du@xEh]tExLbt@fhAhIzr@l@f`@fJvi@bL~a@_BxH}J|HmRd[cFnMuBfOt@~VlH`c@zEbl@rF~Pxc@fu@bUpk@hCpC|WpB~ZpFgDt@nB[[iA~UvF?fD`DpDdd@nSh^sDhGgIrEaPwDi[eWap@wE{_@jBeKlRaY~J_DvTdBd`@xY|Vde@dMhhA~Ova@dH|\\~j@tpA`^vq@~Yf]dKzYxAhZmAtK{NnXsOtQaBjGLxEjFnKjf@xD|PlJpEvI|AdHJhJuI`i@d@pPfJ`AzOgNh]qk@`e@ue@|b@yj@dKyExWyC"
+      }, 
+      "total_elevation_gain": 704.6, 
+      "average_speed": 4.098, 
+      "moving_time": 20750, 
+      "start_latlng": [
+        39.02, 
+        -109.29
+      ], 
+      "max_speed": 13.4, 
+      "end_latlng": [
+        38.58, 
+        -109.55
       ]
     }, 
     "2015-06-15T11:11:38Z": {
