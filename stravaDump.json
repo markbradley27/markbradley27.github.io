@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 29226.399999999998
+      "total": 30172.499999999996
     }, 
     "distance": {
-      "dailyAverage": 104685.632, 
-      "total": 5234281.6
+      "dailyAverage": 104783.99215686273, 
+      "total": 5343983.6
     }, 
     "moving_time": {
-      "total": 1008909
+      "total": 1029421
     }
   }, 
   "rides": {
@@ -913,6 +913,27 @@
       "end_latlng": [
         42.26, 
         -83.74
+      ]
+    }, 
+    "2015-07-07T15:22:54Z": {
+      "distance": 109702.0, 
+      "name": "Day 66: Green River to Price", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a341379001", 
+        "summary_polyline": "oe~lFrhi_T_ALdAsA}@|AfAfGgHlCcKjJmMjEAxoCpCzUtQ|Q~Gx[vIfq@v`@~lDD`J{Djf@ypBzwEyJzQyyBxoCac@``@yThLqYzIcaItqAknD|u@__@jM{p@|a@cQjEmz@mDubBtGutQlDklAx[iAj@RpAbBg@_|Cbu@smAxa@eyE~rAs\\`OwThO_mKvvIcGkLqBlBt@jCz@i@iA{CfBG|DfLey@du@ir@ru@iwHbiJutDjcDqOnViJtUqiEjuMcLlk@uBz`@GrhBaQps@}DvZ`LxbAne@l_B@hQyA|@nA`DFpG`@`dHgF``@{DbLi^zj@eiCjzDqV~Oqc@pOq{AvWcIlF}FhKqC~TKmAbAf{AOtP{BlHyBeDa@uGLb|AiEhUiRxJvX^rUjG`BxAhAlLvElClFBnAqHdC{B}HdHnJyF"
+      }, 
+      "total_elevation_gain": 946.1, 
+      "average_speed": 5.348, 
+      "moving_time": 20512, 
+      "start_latlng": [
+        38.99, 
+        -110.15
+      ], 
+      "max_speed": 15.4, 
+      "end_latlng": [
+        39.59, 
+        -110.84
       ]
     }, 
     "2015-05-03T14:33:43Z": {
