@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 31319.899999999998
+      "total": 31679.7
     }, 
     "distance": {
-      "dailyAverage": 105026.18461538461, 
-      "total": 5461361.6
+      "dailyAverage": 104617.52830188679, 
+      "total": 5544728.999999999
     }, 
     "moving_time": {
-      "total": 1050475
+      "total": 1065235
     }
   }, 
   "rides": {
@@ -537,25 +537,25 @@
         -78.82
       ]
     }, 
-    "2015-05-05T12:55:05Z": {
-      "distance": 109198.0, 
-      "name": "Day 3: Skowhegan to ~Rumford Point", 
+    "2015-07-09T17:44:00Z": {
+      "distance": 83367.4, 
+      "name": "Day 68: Provo to Salt Lake City", 
       "map": {
         "resource_state": 2, 
-        "id": "a298950824", 
-        "summary_polyline": "w{`pGrbzhLdaAvr@zp@zx@rFzSUve@z[_CvO|_@jVxv@r{@rtEnnAlpDvXvnAtBn[yAtm@hX|{DtaAvrC~JxI`m@xOn\\z_@pzAdkF`E`c@mCdc@{FlRmk@`|@iCrO~@zVtj@jhAbO~p@pKrEn`@m@bi@fm@dChRUrdA|B`LvGmBfWfe@_Abu@|i@~z@roAx|A|GmLrBfDdEnb@iBd}@kNtz@tXxl@lR~T`z@xj@hIf_@zKrSiH`w@c`@jfB_Iz`BgOzZd]rm@`D`XiUjqC}OsE}b@zbAaIpbBxD|ZtX~c@zWjLrf@jDnNzIpE|IrRlfAyMf_BiBd}@mbA`~BaMl{@?hg@nHr^`OjQj|@vJftAh`@le@~V`GpMrDz[b[f\\pQby@tV|Z~_A~@fl@pOf[OjL`K_e@nbDum@vuAkAjqAeHbw@~F~y@Opt@{IdlA}Uly@uTxe@qOvn@iw@jx@s_@~p@fLpYtC|PaCb@hF`CzZsMjJlEb\\eMIlGjBgF}@jEfBjAfXiVh|@aR~e@vt@jd@hdApa@tp@vFlt@sAvmAhOjbA_HtVgTx[wF|t@lEzI~YjH|OnRtRjs@vTjb@hs@lSjJzTiCbScs@hkA}Mp^qE|]zM~MfTiAeC~c@hKl[`Yj_@fjAbaAvW~i@|[xXpKlR~EcAiE~BpJ|m@yFlXkkAd`A}EdK"
+        "id": "a342770395", 
+        "summary_polyline": "csqtFbsmhTqi@JUbt@mmA`@kaAnoA}[|AwIjFsD~dAsSbHnI[]~rBuGxLOhHpEzBiAd[zJbB}@vK_CW|B@t@qOkJ[n@tU}C~Lic@r_@an@`BBjeAuVl@qTzOFd|Aee@ECdh@cE`JiL`Gwr@XeLbFqe@oKiSz@[iWaLdFsxAfAyGrRMvbAkl@PQvIkEb@oE`JQxQwLlAmFrIwAxZea@va@sGEUfLsL~B_]ho@yF|[e@d_D{YcIcJ`A{NzM}ZYbAvcAkc@vATfo@lUOc@umBc@`r@sSlAVxx@edAnAuNlR{fBb`As{@`cB_@hOoGbDGnO{E~Kcg@le@ud@pT}V`D{AjHpDzg@kNrNcp@`Ecl@mR}|@ev@ad@gt@aRuKwk@y|AqIxBeSq\\aMAw@aHgVgA{_@_[o}AiJu@fK_IJg@eOuq@~l@odAdFqfKQkRq@u\\}_@wTuCyrFHkW{GirDdE\\ka@{C{BjDqDpB}Y_CwRfE{AiFeO`FaF{E_PyAo[hBcd@i^rA\\gsB{RyAF_S"
       }, 
-      "total_elevation_gain": 982.8, 
-      "average_speed": 4.389, 
-      "moving_time": 24882, 
+      "total_elevation_gain": 359.8, 
+      "average_speed": 5.648, 
+      "moving_time": 14760, 
       "start_latlng": [
-        44.74, 
-        -69.77
+        40.24, 
+        -111.65
       ], 
-      "max_speed": 14.6, 
+      "max_speed": 12.3, 
       "end_latlng": [
-        44.48, 
-        -70.74
+        40.7, 
+        -111.81
       ]
     }, 
     "2015-06-01T14:54:15Z": {
@@ -1018,6 +1018,27 @@
       "end_latlng": [
         43.1, 
         -79.05
+      ]
+    }, 
+    "2015-05-05T12:55:05Z": {
+      "distance": 109198.0, 
+      "name": "Day 3: Skowhegan to ~Rumford Point", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a298950824", 
+        "summary_polyline": "w{`pGrbzhLdaAvr@zp@zx@rFzSUve@z[_CvO|_@jVxv@r{@rtEnnAlpDvXvnAtBn[yAtm@hX|{DtaAvrC~JxI`m@xOn\\z_@pzAdkF`E`c@mCdc@{FlRmk@`|@iCrO~@zVtj@jhAbO~p@pKrEn`@m@bi@fm@dChRUrdA|B`LvGmBfWfe@_Abu@|i@~z@roAx|A|GmLrBfDdEnb@iBd}@kNtz@tXxl@lR~T`z@xj@hIf_@zKrSiH`w@c`@jfB_Iz`BgOzZd]rm@`D`XiUjqC}OsE}b@zbAaIpbBxD|ZtX~c@zWjLrf@jDnNzIpE|IrRlfAyMf_BiBd}@mbA`~BaMl{@?hg@nHr^`OjQj|@vJftAh`@le@~V`GpMrDz[b[f\\pQby@tV|Z~_A~@fl@pOf[OjL`K_e@nbDum@vuAkAjqAeHbw@~F~y@Opt@{IdlA}Uly@uTxe@qOvn@iw@jx@s_@~p@fLpYtC|PaCb@hF`CzZsMjJlEb\\eMIlGjBgF}@jEfBjAfXiVh|@aR~e@vt@jd@hdApa@tp@vFlt@sAvmAhOjbA_HtVgTx[wF|t@lEzI~YjH|OnRtRjs@vTjb@hs@lSjJzTiCbScs@hkA}Mp^qE|]zM~MfTiAeC~c@hKl[`Yj_@fjAbaAvW~i@|[xXpKlR~EcAiE~BpJ|m@yFlXkkAd`A}EdK"
+      }, 
+      "total_elevation_gain": 982.8, 
+      "average_speed": 4.389, 
+      "moving_time": 24882, 
+      "start_latlng": [
+        44.74, 
+        -69.77
+      ], 
+      "max_speed": 14.6, 
+      "end_latlng": [
+        44.48, 
+        -70.74
       ]
     }, 
     "2015-06-09T12:24:22Z": {
