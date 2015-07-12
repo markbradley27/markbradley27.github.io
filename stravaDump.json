@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 31958.8
+      "total": 31679.7
     }, 
     "distance": {
-      "dailyAverage": 102792.40925925925, 
-      "total": 5550790.1
+      "dailyAverage": 104617.52830188679, 
+      "total": 5544728.999999999
     }, 
     "moving_time": {
-      "total": 1067539
+      "total": 1065235
     }
   }, 
   "rides": {
@@ -495,27 +495,6 @@
         -85.61
       ]
     }, 
-    "2015-05-16T17:53:25Z": {
-      "distance": 76422.9, 
-      "name": "Day 14: Geneva to Rochester", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a305900484", 
-        "summary_polyline": "mwtdG~lztMn@`@KbLcL~@Wvh@}CrPqjBrBi]fJqyAh@oKbzARbt@sKfa@y[fA{UtLk]`AyX|Pwp@vv@mh@zt@iJ~C}WNaSvx@l@uDaJyEoGjHoPH}LeC{]rDkf@dnA}Et`@eP~IwEjGwcA?i\\xBsb@aCy{@EacC|Co@bCcBZ^hJeBzCeY`HSzn@cs@xAjBzNC|y@}NjbA^z`@iP`b@i@|OhDxOjg@vy@`HdQtP|z@r@hPu@hL_FdT_MdQqxBheAwHlKgF|UBhRbF`f@tFzE`Eva@Gx|AiBlQyUfqAmB~@dMbBm@fIt@dZlFd\\dBvm@|BvAsEdVAbI|QncAh@rMwDtTi\\`g@_O`e@mFvg@_DNya@lyDe@|BqBj@nAhB{Dd\\{Aft@tRhcD@xCiBl@lBhKxAtc@{Rjz@wiA~zDiArOi@tt@cBnMaVbk@wY~i@{IrYoBgCeCdLvINuA|DjEsDtJfAy@Rb@_BqWMTaDtA|AgOjW_B~OdH`c@vMpMxZcCpo@jAvHtCtPrNb\\`GvvAd_AtHdJxBtH~BrT]xV_E`PuHbP_v@fg@qq@jhAo_Avs@qFhQeAxJhEla@q@qBsAz@en@lqAcl@jm@_MjTxQOtBhMtMhDg@pF"
-      }, 
-      "total_elevation_gain": 208.0, 
-      "average_speed": 5.182, 
-      "moving_time": 14748, 
-      "start_latlng": [
-        42.87, 
-        -76.98
-      ], 
-      "max_speed": 10.6, 
-      "end_latlng": [
-        43.11, 
-        -77.55
-      ]
-    }, 
     "2015-06-04T17:51:45Z": {
       "distance": 75784.2, 
       "name": "Day 33: Burnidge Forest to Chicago", 
@@ -705,25 +684,25 @@
         -72.58
       ]
     }, 
-    "2015-07-11T20:01:12Z": {
-      "distance": 6061.1, 
-      "name": "Bobsled", 
+    "2015-05-16T17:53:25Z": {
+      "distance": 76422.9, 
+      "name": "Day 14: Geneva to Rochester", 
       "map": {
         "resource_state": 2, 
-        "id": "a344037205", 
-        "summary_polyline": "u~}wFnhwiTuDuRoDcEX}E_BkKqBe@uC}GeS}BcAcGpD{EkBaDlCP`GnGlPbCxGfEhBoA`Dv@nLbLfL_@zGyLtJjBtClEnCp@|BbFm@xIiL`QqE^qKrIuOqBmJbGaCc@"
+        "id": "a305900484", 
+        "summary_polyline": "mwtdG~lztMn@`@KbLcL~@Wvh@}CrPqjBrBi]fJqyAh@oKbzARbt@sKfa@y[fA{UtLk]`AyX|Pwp@vv@mh@zt@iJ~C}WNaSvx@l@uDaJyEoGjHoPH}LeC{]rDkf@dnA}Et`@eP~IwEjGwcA?i\\xBsb@aCy{@EacC|Co@bCcBZ^hJeBzCeY`HSzn@cs@xAjBzNC|y@}NjbA^z`@iP`b@i@|OhDxOjg@vy@`HdQtP|z@r@hPu@hL_FdT_MdQqxBheAwHlKgF|UBhRbF`f@tFzE`Eva@Gx|AiBlQyUfqAmB~@dMbBm@fIt@dZlFd\\dBvm@|BvAsEdVAbI|QncAh@rMwDtTi\\`g@_O`e@mFvg@_DNya@lyDe@|BqBj@nAhB{Dd\\{Aft@tRhcD@xCiBl@lBhKxAtc@{Rjz@wiA~zDiArOi@tt@cBnMaVbk@wY~i@{IrYoBgCeCdLvINuA|DjEsDtJfAy@Rb@_BqWMTaDtA|AgOjW_B~OdH`c@vMpMxZcCpo@jAvHtCtPrNb\\`GvvAd_AtHdJxBtH~BrT]xV_E`PuHbP_v@fg@qq@jhAo_Avs@qFhQeAxJhEla@q@qBsAz@en@lqAcl@jm@_MjTxQOtBhMtMhDg@pF"
       }, 
-      "total_elevation_gain": 279.1, 
-      "average_speed": 2.631, 
-      "moving_time": 2304, 
+      "total_elevation_gain": 208.0, 
+      "average_speed": 5.182, 
+      "moving_time": 14748, 
       "start_latlng": [
-        40.79, 
-        -111.86
+        42.87, 
+        -76.98
       ], 
-      "max_speed": 9.8, 
+      "max_speed": 10.6, 
       "end_latlng": [
-        40.79, 
-        -111.86
+        43.11, 
+        -77.55
       ]
     }, 
     "2015-06-29T14:06:21Z": {
