@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 31679.7
+      "total": 31803.5
     }, 
     "distance": {
-      "dailyAverage": 104617.52830188679, 
-      "total": 5544728.999999999
+      "dailyAverage": 104197.29074074073, 
+      "total": 5626653.7
     }, 
     "moving_time": {
-      "total": 1065235
+      "total": 1078746
     }
   }, 
   "rides": {
@@ -430,6 +430,27 @@
       "end_latlng": [
         42.49, 
         -77.97
+      ]
+    }, 
+    "2015-07-14T17:13:42Z": {
+      "distance": 81924.7, 
+      "name": "Day 73: Salt Lake City to Ogden", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a346232014", 
+        "summary_polyline": "qblwFtemiTy@A_@mGyDHKf[cGx@mAvtBq~@l@FlwFcvB?MbPuIx@Mha@mqB`@Qp}CgtC|@EphBsg@|@[dj@{A|H}FbLiZTiCwF_Ci@eNhGga@dD_H}EqFtAaDaI}SyAeL~FyBbGmBfQqAp@aBeBqTjM}LqAoW~EuLaIkMKByKyBmCiOkAqMnC_CxFiHJyCpFo@nIoDlAeDcFwE}@GcPaHgOkF~EsErMkGvDy@vDqGrB}A_Bk@pBoEh@kwBbF{M{Euk@y\\uy@qCcMeEiXXid@_Ocu@o{@{M_YuX{^wa@e_@gQ}g@qDwFmaCuXo`Evm@wVzMazOjkN{@x@YyCcACi@hBzARSvA}hGtrFeAZ{AsEoA~Joh@dg@_}@`u@eX|Kao@`Do@sBAfBcAL}vArEk_EbIiR_DkTaKisA_jA|BZQrN}Aqu@qCePmKkXkYcqAqAy_AoDow@uLoe@Gc_AqWa@g@cP{d@Qc@oPmJJcA_F"
+      }, 
+      "total_elevation_gain": 123.8, 
+      "average_speed": 6.064, 
+      "moving_time": 13511, 
+      "start_latlng": [
+        40.7, 
+        -111.81
+      ], 
+      "max_speed": 12.2, 
+      "end_latlng": [
+        41.22, 
+        -111.96
       ]
     }, 
     "2015-06-17T14:15:40Z": {
