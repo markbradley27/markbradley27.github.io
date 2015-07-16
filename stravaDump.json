@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 31803.5
+      "total": 32519.6
     }, 
     "distance": {
-      "dailyAverage": 104197.29074074073, 
-      "total": 5626653.7
+      "dailyAverage": 104618.30363636363, 
+      "total": 5754006.7
     }, 
     "moving_time": {
-      "total": 1078746
+      "total": 1101749
     }
   }, 
   "rides": {
@@ -409,6 +409,27 @@
       "end_latlng": [
         41.79, 
         -88.2
+      ]
+    }, 
+    "2015-07-15T15:49:14Z": {
+      "distance": 127353.0, 
+      "name": "Ogden to Snowville", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a347022347", 
+        "summary_polyline": "e|qzFdkkjTw@hHup@U_@rMyAv@_cD_C_B[OyEgIAY`G{ELeeAhj@uPxSwJxH{wBvoAibBxwAqjDn_CkRlJqcAf[e}A}@g^oIakAyJkl@nO}c@@_r@fKiiDmDciAhK[lk@uoAZgsBkf@kg@cb@KaXy@eAc[cBcAnFmkCuB{BvHfADb@eGzAcAyBj@i@fGc`A@aG~BKf}A}o@zj@uNPy]fxC{Mrf@qgKpCeKvDBlv@oFzSyPtJkLr@QrXmtCdBc@t}@aCnGgVjZaDrb@se@sBeY~F_R`JkESsM{Kes@`AeVzQs@dJmD{BqXdTeHlJHb`@yI`@aBtGmLrDcOn`@aBxc@|Are@mVv@yT~Jkk@hD~@tdA{Nja@aiArBhAzuBcBhDH_BnA@TtRsBnEs@jMqx@lhCd@bGxC}Fv@r@mHhLsU|m@_^bo@gp@`m@uTdM_f@lNsCsJcmD~gA{^rO_WfReRdSvBxA?jCcEjN}f@|q@wSx~@eDt_@kJyA_BbVwWduAaGvy@qe@zvAoPpoA^eCsBj_@cC`xC~Id~AaBh[mFdVy]|r@cInKiqFzxEa@vFbCF@fB_E{G_y@nr@uOfSgo@vlAeJl\\ytAxbIStd@~QrwCaA~VuBnL}K|U_j@|d@kJxOae@|uCkLdf@iLzZycBnvDo[zg@o{AtbBsMrRkj@jpBkAjNe@n{@eDl\\cPfBa@kCbA|AdNAsDc@"
+      }, 
+      "total_elevation_gain": 716.1, 
+      "average_speed": 5.536, 
+      "moving_time": 23003, 
+      "start_latlng": [
+        41.22, 
+        -111.97
+      ], 
+      "max_speed": 13.1, 
+      "end_latlng": [
+        41.96, 
+        -112.71
       ]
     }, 
     "2015-05-17T13:31:31Z": {
