@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 32519.6
+      "total": 32905.2
     }, 
     "distance": {
-      "dailyAverage": 104618.30363636363, 
-      "total": 5754006.7
+      "dailyAverage": 105175.49464285714, 
+      "total": 5889827.7
     }, 
     "moving_time": {
-      "total": 1101749
+      "total": 1125329
     }
   }, 
   "rides": {
@@ -619,6 +619,27 @@
       "end_latlng": [
         42.26, 
         -88.96
+      ]
+    }, 
+    "2015-07-16T15:28:21Z": {
+      "distance": 135821.0, 
+      "name": "Day 75: Snowville to Burley", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a347706179", 
+        "summary_polyline": "}kc_Gdt~nTAloEfLto@sA|OqIrRoB|LgGrzFzLjjo@ii@|nP{Clf@iGzUmlBzrDc}AptB{jJ~gGuiCjaDy`HdcJuP|PqRjKq~UtvEclHb@kCfB_@wA{IEcsH`Aq_BxB_ZzKuxFnrDqZvNiiMl@o\\lGcVfPmQzVgUpl@ssD|vKwE`OwBlPrGtbFzBxf@|g@viEde@zyAjFl\\tVftF|BhfA~IzwAXj~CtKxi@p@jMqJldHmBjv@oBjMiPnd@iz@~}A}_@nb@cCj@uD}KuGcHco@a[n@yJbLkD"
+      }, 
+      "total_elevation_gain": 385.6, 
+      "average_speed": 5.76, 
+      "moving_time": 23580, 
+      "start_latlng": [
+        41.97, 
+        -112.72
+      ], 
+      "max_speed": 12.6, 
+      "end_latlng": [
+        42.54, 
+        -113.76
       ]
     }, 
     "2015-06-21T12:49:10Z": {
