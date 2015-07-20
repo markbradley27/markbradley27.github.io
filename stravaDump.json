@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 33448.5
+      "total": 33590.59999999999
     }, 
     "distance": {
-      "dailyAverage": 104063.5827586207, 
-      "total": 6035687.799999999
+      "dailyAverage": 103639.49830508475, 
+      "total": 6114730.399999999
     }, 
     "moving_time": {
-      "total": 1150181
+      "total": 1164511
     }
   }, 
   "rides": {
@@ -75,25 +75,25 @@
         -89.34
       ]
     }, 
-    "2015-05-26T13:12:58Z": {
-      "distance": 110501.0, 
-      "name": "Day 24: Ann Arbor to East Lansing", 
+    "2015-05-28T23:39:16Z": {
+      "distance": 37595.3, 
+      "name": "Day 26: Milwaukee to Waukesha", 
       "map": {
         "resource_state": 2, 
-        "id": "a312554657", 
-        "summary_polyline": "{y}`G~qb~Ny@gBV`A}CV}d@AeA}\\_PHc@}JrBc@kBJUsCjB[]u@N|A_AgA@~QkS\\wAkBGvHyH`@kDmCUmEuVGsIkP}FdGjGxBn@vN{D~K{JvGuDxIaAhPiCaAhClCBpEmA`@kY_FuIgIyBxBwQz@wGvC}CnEax@v@gWwByYrCapAvY{{@cA{lAzAmWmEkVV{\\vQaYhD{EjCmi@tm@so@d~@s[hBoIyDj@vh@}xB`E{Kb@uC~CqSr@Lba@eSzAdCxNl@fg@_o@nBuc@xOkTpBaDvBc@jMkUJu]sE{o@h{Cch@`gAyCbXN~IuPjjD~@dn@`BzQjXzhIi@|lDl@`Qm@rj@mBbXq]to@mDbMq@|ID`xKz@dRjC|M}GIgRrE@lWgBhEc`AhDwA~mCcq@~g@mLld@sYdp@SdjAwWp_AyB~r@_Vvh@k_@prAum@nCkDdvDab@jBadA~{DwgBbBo@vt@aD~NaMb\\sBf_@i@vuAdA|sEMvPmAjCrAlBE`r@|@zB_A~AElMe@neKaB`MqKt_@}KlRqJnm@eJhQiA`PyJlf@e}@byCoOd|A[d`@qAO@vCxBgM{B`Mj@eI?~Dy\\a@UjDgGzEmBo@aKbDoByAmOtViL|H{Gr@iDxEeCmBOz~@kAp^r@bQq~@dwA}bRjAcK_LmKyAu@_SepBkAqZp{@f@pFiAfMhBzGDzFsd@aB"
+        "id": "a313909938", 
+        "summary_polyline": "seneG|qlwOxCvKuE~CK`BdEvb@cMtGoBrn@sDrHyg@tU_`AdAvCFWnWyDx@OhdDuAdFF~FwDnAc@nEcCvDyB]q@qDwDdEbCrD~@~HbDzE~AlShFvKzCrq@mHlgAf@~NjEbYf@lSsEbvGbGp@`@r[rg@GrBqAh@xkCzd@b@p@dpJw@fbAbApk@b@t`KuAxv@rGz|@zLjA\\vHrTl@t@pbElDjDrc@^jMbCGvZpNnd@zOxGLhMhIi@bLcH"
       }, 
-      "total_elevation_gain": 277.9, 
-      "average_speed": 5.19, 
-      "moving_time": 21293, 
+      "total_elevation_gain": 143.2, 
+      "average_speed": 5.756, 
+      "moving_time": 6532, 
       "start_latlng": [
-        42.26, 
-        -83.74
+        43.0, 
+        -87.89
       ], 
-      "max_speed": 13.0, 
+      "max_speed": 12.2, 
       "end_latlng": [
-        42.74, 
-        -84.49
+        42.98, 
+        -88.26
       ]
     }, 
     "2015-06-10T13:37:19Z": {
@@ -285,25 +285,25 @@
         -105.31
       ]
     }, 
-    "2015-07-19T15:10:10Z": {
-      "distance": 79431.9, 
-      "name": "Day 78: Twin Falls to Glenns Ferry", 
+    "2015-07-02T16:00:30Z": {
+      "distance": 81670.5, 
+      "name": "Day 61: Grand Junction to the middle of nowhere", 
       "map": {
         "resource_state": 2, 
-        "id": "a349848786", 
-        "summary_polyline": "qzxbGhsryTGeBgD]oyCy@kHcDiOyX{n@aOgtHew@ic@@_AlD{CVr@z@tB]IqEgb@@y@nBi@`uBkyAKKr_HKbG}A|DcRzQeQnKuPdCkHbGcBoDkA|DeLLqCdFOpIqTz@{y@`u@eJ~@s@zOof@v[kPx@{H~CsB{CaP?SnX{CjTkEfLsJp@MnSoPfg@ckCVo@v`NsyAr@k@nfJ_@hC}FbG}@ha@seAd@Aj_@uGRU`BMvaDkA`EonAh@aGzIxBlWuCxQI~vDe_A\\gDvBgR`\\kAflAX|fCkWvpA}Nxd@aCjBy~DJgFxIQhgBSlH{AhAii@IWocA_}@pnAgAkAfC{AqCvAoFeGmyCGbAf]}@lNR|zDbAvG`LjRFpLoEdG{WxEuhAf`Bw@rhBot@HoLnCcKnPkBz]qArDkErBt@pC"
+        "id": "a337989122", 
+        "summary_polyline": "yepmFdvluSHpGrEb@?rmAvT\\Dru@q@xAn@z]oBpBfBfAApjAsAvPaEfQuInUiFK~A`HmKd\\}Dl@`Dp@kMha@aEhFmJ|[sC?|@GmmE~jLuh@vpAzDnLOdDaPpPupCr{GuAzQsCzAaW}He@|NkUBl@oCo@d@^vBlTCj@gFlBoBeDOpEeAuAP`@jAQmB|@b@y@dAgCe@`@dJpB~@eLb[crE~zKyhAboBub@|sB_Yhn@yj@`~@jRpNzZjJyRnaA}f@tdBkHhNe`@tg@wEfO}@pRfClRfPfk@ba@f`CtLl{A~CbQ`LdS`b@f`@tJbOhV`lAvc@nt@bm@fwAxLpe@jJ|wAjKhl@n@|RuB`Qab@pyAmCl[g@hXpCjh@hT|gAdCnW`@r|@~Cny@Brk@dGla@yBlH}GwDdC\\`GbJ|M_@n_@b\\zo@fm@no@pv@nU~Sj~ChiBrc@r\\`_@h_@z[hb@b{@fxAruFzzHln@xbA`gC|nDzItNxCvQzDfHpLqOfPvJrnBr`@"
       }, 
-      "total_elevation_gain": 294.6, 
-      "average_speed": 6.099, 
-      "moving_time": 13024, 
+      "total_elevation_gain": 587.7, 
+      "average_speed": 5.0, 
+      "moving_time": 16335, 
       "start_latlng": [
-        42.57, 
-        -114.46
+        39.08, 
+        -108.53
       ], 
-      "max_speed": 11.3, 
+      "max_speed": 13.1, 
       "end_latlng": [
-        42.92, 
-        -114.94
+        39.02, 
+        -109.29
       ]
     }, 
     "2015-07-03T14:31:02Z": {
@@ -537,6 +537,27 @@
         -85.61
       ]
     }, 
+    "2015-05-16T17:53:25Z": {
+      "distance": 76422.9, 
+      "name": "Day 14: Geneva to Rochester", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a305900484", 
+        "summary_polyline": "mwtdG~lztMn@`@KbLcL~@Wvh@}CrPqjBrBi]fJqyAh@oKbzARbt@sKfa@y[fA{UtLk]`AyX|Pwp@vv@mh@zt@iJ~C}WNaSvx@l@uDaJyEoGjHoPH}LeC{]rDkf@dnA}Et`@eP~IwEjGwcA?i\\xBsb@aCy{@EacC|Co@bCcBZ^hJeBzCeY`HSzn@cs@xAjBzNC|y@}NjbA^z`@iP`b@i@|OhDxOjg@vy@`HdQtP|z@r@hPu@hL_FdT_MdQqxBheAwHlKgF|UBhRbF`f@tFzE`Eva@Gx|AiBlQyUfqAmB~@dMbBm@fIt@dZlFd\\dBvm@|BvAsEdVAbI|QncAh@rMwDtTi\\`g@_O`e@mFvg@_DNya@lyDe@|BqBj@nAhB{Dd\\{Aft@tRhcD@xCiBl@lBhKxAtc@{Rjz@wiA~zDiArOi@tt@cBnMaVbk@wY~i@{IrYoBgCeCdLvINuA|DjEsDtJfAy@Rb@_BqWMTaDtA|AgOjW_B~OdH`c@vMpMxZcCpo@jAvHtCtPrNb\\`GvvAd_AtHdJxBtH~BrT]xV_E`PuHbP_v@fg@qq@jhAo_Avs@qFhQeAxJhEla@q@qBsAz@en@lqAcl@jm@_MjTxQOtBhMtMhDg@pF"
+      }, 
+      "total_elevation_gain": 208.0, 
+      "average_speed": 5.182, 
+      "moving_time": 14748, 
+      "start_latlng": [
+        42.87, 
+        -76.98
+      ], 
+      "max_speed": 10.6, 
+      "end_latlng": [
+        43.11, 
+        -77.55
+      ]
+    }, 
     "2015-06-04T17:51:45Z": {
       "distance": 75784.2, 
       "name": "Day 33: Burnidge Forest to Chicago", 
@@ -619,6 +640,27 @@
       "end_latlng": [
         42.26, 
         -88.96
+      ]
+    }, 
+    "2015-05-26T13:12:58Z": {
+      "distance": 110501.0, 
+      "name": "Day 24: Ann Arbor to East Lansing", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a312554657", 
+        "summary_polyline": "{y}`G~qb~Ny@gBV`A}CV}d@AeA}\\_PHc@}JrBc@kBJUsCjB[]u@N|A_AgA@~QkS\\wAkBGvHyH`@kDmCUmEuVGsIkP}FdGjGxBn@vN{D~K{JvGuDxIaAhPiCaAhClCBpEmA`@kY_FuIgIyBxBwQz@wGvC}CnEax@v@gWwByYrCapAvY{{@cA{lAzAmWmEkVV{\\vQaYhD{EjCmi@tm@so@d~@s[hBoIyDj@vh@}xB`E{Kb@uC~CqSr@Lba@eSzAdCxNl@fg@_o@nBuc@xOkTpBaDvBc@jMkUJu]sE{o@h{Cch@`gAyCbXN~IuPjjD~@dn@`BzQjXzhIi@|lDl@`Qm@rj@mBbXq]to@mDbMq@|ID`xKz@dRjC|M}GIgRrE@lWgBhEc`AhDwA~mCcq@~g@mLld@sYdp@SdjAwWp_AyB~r@_Vvh@k_@prAum@nCkDdvDab@jBadA~{DwgBbBo@vt@aD~NaMb\\sBf_@i@vuAdA|sEMvPmAjCrAlBE`r@|@zB_A~AElMe@neKaB`MqKt_@}KlRqJnm@eJhQiA`PyJlf@e}@byCoOd|A[d`@qAO@vCxBgM{B`Mj@eI?~Dy\\a@UjDgGzEmBo@aKbDoByAmOtViL|H{Gr@iDxEeCmBOz~@kAp^r@bQq~@dwA}bRjAcK_LmKyAu@_SepBkAqZp{@f@pFiAfMhBzGDzFsd@aB"
+      }, 
+      "total_elevation_gain": 277.9, 
+      "average_speed": 5.19, 
+      "moving_time": 21293, 
+      "start_latlng": [
+        42.26, 
+        -83.74
+      ], 
+      "max_speed": 13.0, 
+      "end_latlng": [
+        42.74, 
+        -84.49
       ]
     }, 
     "2015-07-16T15:28:21Z": {
@@ -747,25 +789,25 @@
         -72.58
       ]
     }, 
-    "2015-05-16T17:53:25Z": {
-      "distance": 76422.9, 
-      "name": "Day 14: Geneva to Rochester", 
+    "2015-07-20T15:53:19Z": {
+      "distance": 43192.5, 
+      "name": "Day 79: Glenns Ferry to Mountain Home", 
       "map": {
         "resource_state": 2, 
-        "id": "a305900484", 
-        "summary_polyline": "mwtdG~lztMn@`@KbLcL~@Wvh@}CrPqjBrBi]fJqyAh@oKbzARbt@sKfa@y[fA{UtLk]`AyX|Pwp@vv@mh@zt@iJ~C}WNaSvx@l@uDaJyEoGjHoPH}LeC{]rDkf@dnA}Et`@eP~IwEjGwcA?i\\xBsb@aCy{@EacC|Co@bCcBZ^hJeBzCeY`HSzn@cs@xAjBzNC|y@}NjbA^z`@iP`b@i@|OhDxOjg@vy@`HdQtP|z@r@hPu@hL_FdT_MdQqxBheAwHlKgF|UBhRbF`f@tFzE`Eva@Gx|AiBlQyUfqAmB~@dMbBm@fIt@dZlFd\\dBvm@|BvAsEdVAbI|QncAh@rMwDtTi\\`g@_O`e@mFvg@_DNya@lyDe@|BqBj@nAhB{Dd\\{Aft@tRhcD@xCiBl@lBhKxAtc@{Rjz@wiA~zDiArOi@tt@cBnMaVbk@wY~i@{IrYoBgCeCdLvINuA|DjEsDtJfAy@Rb@_BqWMTaDtA|AgOjW_B~OdH`c@vMpMxZcCpo@jAvHtCtPrNb\\`GvvAd_AtHdJxBtH~BrT]xV_E`PuHbP_v@fg@qq@jhAo_Avs@qFhQeAxJhEla@q@qBsAz@en@lqAcl@jm@_MjTxQOtBhMtMhDg@pF"
+        "id": "a350427211", 
+        "summary_polyline": "yfeeGhvw~TyDo@U|Na[GdE|]kTlfC@`k@cHh`@oLpPaQjNyJ`DoO_CcZ_TwIvBmOvj@iQzUcHbx@gVdx@wWze@uaBxsBqCbVo@~y@ka@vs@a`@hz@uoBxyFwoBnBor@li@}k@dTaEvENrKbLv{@sKx`BcV|wEiv@`oPg@bnBoA`D`BvMEfNsaEb}CuaBU"
       }, 
-      "total_elevation_gain": 208.0, 
-      "average_speed": 5.182, 
-      "moving_time": 14748, 
+      "total_elevation_gain": 256.9, 
+      "average_speed": 5.867, 
+      "moving_time": 7362, 
       "start_latlng": [
-        42.87, 
-        -76.98
+        42.96, 
+        -115.31
       ], 
-      "max_speed": 10.6, 
+      "max_speed": 12.1, 
       "end_latlng": [
-        43.11, 
-        -77.55
+        43.14, 
+        -115.69
       ]
     }, 
     "2015-06-29T14:06:21Z": {
@@ -808,27 +850,6 @@
       "end_latlng": [
         41.13, 
         -101.71
-      ]
-    }, 
-    "2015-07-02T16:00:30Z": {
-      "distance": 81670.5, 
-      "name": "Day 61: Grand Junction to the middle of nowhere", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a337989122", 
-        "summary_polyline": "yepmFdvluSHpGrEb@?rmAvT\\Dru@q@xAn@z]oBpBfBfAApjAsAvPaEfQuInUiFK~A`HmKd\\}Dl@`Dp@kMha@aEhFmJ|[sC?|@GmmE~jLuh@vpAzDnLOdDaPpPupCr{GuAzQsCzAaW}He@|NkUBl@oCo@d@^vBlTCj@gFlBoBeDOpEeAuAP`@jAQmB|@b@y@dAgCe@`@dJpB~@eLb[crE~zKyhAboBub@|sB_Yhn@yj@`~@jRpNzZjJyRnaA}f@tdBkHhNe`@tg@wEfO}@pRfClRfPfk@ba@f`CtLl{A~CbQ`LdS`b@f`@tJbOhV`lAvc@nt@bm@fwAxLpe@jJ|wAjKhl@n@|RuB`Qab@pyAmCl[g@hXpCjh@hT|gAdCnW`@r|@~Cny@Brk@dGla@yBlH}GwDdC\\`GbJ|M_@n_@b\\zo@fm@no@pv@nU~Sj~ChiBrc@r\\`_@h_@z[hb@b{@fxAruFzzHln@xbA`gC|nDzItNxCvQzDfHpLqOfPvJrnBr`@"
-      }, 
-      "total_elevation_gain": 587.7, 
-      "average_speed": 5.0, 
-      "moving_time": 16335, 
-      "start_latlng": [
-        39.08, 
-        -108.53
-      ], 
-      "max_speed": 13.1, 
-      "end_latlng": [
-        39.02, 
-        -109.29
       ]
     }, 
     "2015-06-13T13:03:35Z": {
@@ -1146,25 +1167,25 @@
         -90.33
       ]
     }, 
-    "2015-05-28T23:39:16Z": {
-      "distance": 37595.3, 
-      "name": "Day 26: Milwaukee to Waukesha", 
+    "2015-07-19T15:10:07Z": {
+      "distance": 115282.0, 
+      "name": "Day 78: Twin Falls to Glenns Ferry", 
       "map": {
         "resource_state": 2, 
-        "id": "a313909938", 
-        "summary_polyline": "seneG|qlwOxCvKuE~CK`BdEvb@cMtGoBrn@sDrHyg@tU_`AdAvCFWnWyDx@OhdDuAdFF~FwDnAc@nEcCvDyB]q@qDwDdEbCrD~@~HbDzE~AlShFvKzCrq@mHlgAf@~NjEbYf@lSsEbvGbGp@`@r[rg@GrBqAh@xkCzd@b@p@dpJw@fbAbApk@b@t`KuAxv@rGz|@zLjA\\vHrTl@t@pbElDjDrc@^jMbCGvZpNnd@zOxGLhMhIi@bLcH"
+        "id": "a350427800", 
+        "summary_polyline": "ezxbGnpryTi|C}AsO_KgIoPyq@{P}xHuw@{]X}E|FtD_BaGyCgZHgArSYloAuAxSymAk@eHrEKlkGcCh\\{ZfXe_@|LqEq@LlAiKdBaGjFGxGmMhAoL~Ear@zm@uL`DiErR}c@zXal@RYrU{BxSmDfM~@oCoMfGwAtVmIvUgK~ModCFy@haN{xAT}@h{Im@pOsFlGo@pZyKxE{r@DqEbIDbTmHfGO~wCiJrLu_AFyLxIfAlNcBpo@_@xbDor@@sQ~D_KrPsFnVUjkEoVpkAyQbh@k`EV{EjS]lcB{@zCa\\^uM}EHmx@kHrEij@xv@kKrIfCoBuC|AaBcDkKyAuoCW_@rdFbBpMdHxK_BpYkUzCslAveB_@reBgv@F}NpGcHrQm@lTkHjLhAzB{AlEK~_@iNv}@HvZbEp[ObQ{BtHmYtg@o\\bmAgG|Lkr@vh@}DvOBf{@J~NbKjo@iD~RaHfTyyAxbDcF`PqBjTcUj`JwAvR}Pxs@yG~`@dI~kA]f_@}FzV@dLm^fNi~B`nAaLrI}MxTqGv[kHpw@yChtAbFd|@nElRbVv_@r_AjnBtBvTEjv@nBxTnFvR|HlN`o@~j@xGjCdMTfJjJnl@bqB~S`BbR|LdAlZ]~YeIhEhJf`@yGaJuBFzGdJsGoH}DtGlD_H"
       }, 
-      "total_elevation_gain": 143.2, 
-      "average_speed": 5.756, 
-      "moving_time": 6532, 
+      "total_elevation_gain": 179.8, 
+      "average_speed": 5.766, 
+      "moving_time": 19992, 
       "start_latlng": [
-        43.0, 
-        -87.89
+        42.57, 
+        -114.46
       ], 
-      "max_speed": 12.2, 
+      "max_speed": 11.2, 
       "end_latlng": [
-        42.98, 
-        -88.26
+        42.96, 
+        -115.31
       ]
     }, 
     "2015-05-22T13:21:48Z": {
