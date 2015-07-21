@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 33529.7
+      "total": 33747.49999999999
     }, 
     "distance": {
-      "dailyAverage": 103865.58644067796, 
-      "total": 6128069.600000001
+      "dailyAverage": 103345.65333333334, 
+      "total": 6200739.2
     }, 
     "moving_time": {
-      "total": 1167336
+      "total": 1178968
     }
   }, 
   "rides": {
@@ -852,6 +852,27 @@
         -101.71
       ]
     }, 
+    "2015-05-14T12:57:03Z": {
+      "distance": 103946.0, 
+      "name": "Day 12: Sandy Creek to Skaneateles", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a304680226", 
+        "summary_polyline": "wamiGt~joMpe@xNfB~Cvm@rChy@vZ`e@pJ`j@vFj|HhnEzBoEfTy@tcAv@dq@oBtoFnKfyBxf@jjK`vChsCuGrd@kMxcAwO|a@mA\\fBWoCQ`BSaBtIxAwFld@tBjaDhAlGbJzRlAta@`LbbA^lHoDn^rEtMdChVbGpNlJff@|~A`g@nw@_Qx`@v@~OjSfLNdXrQ}Dh`@jxCdcAhq@jc@hbAt\\tWrAzZuLhWwEnXyWzO_Fxk@tQrHrFbOpV~Rh@rbArY{@hd@rStf@nHtu@hGfGrZzu@{EtI~AsAlU~_@hWpNjS`e@jArG|Avt@feJkYzOrh@bBrc@xQ}CYbK|B}@dQjCrClmBvC`AyCSbEjzBnSdFtRp@|n@}Cxr@`Kpt@dCfRzGpe@jIjmBb{@hKxKpEnLzEdd@_@xhAz`@}Ejg@bfAtd@hgCbRv}CbGYtAzHnZaKxhBc~Af_@eD~L_Lze@}B~y@}Q|Bdd@tI`D`_@hXjLfDhDfWlZ_SpXbCzt@oAzCeBtTa[vLkCrf@iV`OyTf^iLvdA}i@xuAka@~Csg@dNz@mAV"
+      }, 
+      "total_elevation_gain": 540.1, 
+      "average_speed": 4.913, 
+      "moving_time": 21158, 
+      "start_latlng": [
+        43.65, 
+        -76.08
+      ], 
+      "max_speed": 13.8, 
+      "end_latlng": [
+        42.95, 
+        -76.42
+      ]
+    }, 
     "2015-06-13T13:03:35Z": {
       "distance": 157809.0, 
       "name": "Day 42: Redfield to Traynor", 
@@ -936,25 +957,25 @@
         -71.97
       ]
     }, 
-    "2015-05-14T12:57:03Z": {
-      "distance": 103946.0, 
-      "name": "Day 12: Sandy Creek to Skaneateles", 
+    "2015-07-21T14:11:38Z": {
+      "distance": 72669.6, 
+      "name": "Day 80: Mountain Home to Boise", 
       "map": {
         "resource_state": 2, 
-        "id": "a304680226", 
-        "summary_polyline": "wamiGt~joMpe@xNfB~Cvm@rChy@vZ`e@pJ`j@vFj|HhnEzBoEfTy@tcAv@dq@oBtoFnKfyBxf@jjK`vChsCuGrd@kMxcAwO|a@mA\\fBWoCQ`BSaBtIxAwFld@tBjaDhAlGbJzRlAta@`LbbA^lHoDn^rEtMdChVbGpNlJff@|~A`g@nw@_Qx`@v@~OjSfLNdXrQ}Dh`@jxCdcAhq@jc@hbAt\\tWrAzZuLhWwEnXyWzO_Fxk@tQrHrFbOpV~Rh@rbArY{@hd@rStf@nHtu@hGfGrZzu@{EtI~AsAlU~_@hWpNjS`e@jArG|Avt@feJkYzOrh@bBrc@xQ}CYbK|B}@dQjCrClmBvC`AyCSbEjzBnSdFtRp@|n@}Cxr@`Kpt@dCfRzGpe@jIjmBb{@hKxKpEnLzEdd@_@xhAz`@}Ejg@bfAtd@hgCbRv}CbGYtAzHnZaKxhBc~Af_@eD~L_Lze@}B~y@}Q|Bdd@tI`D`_@hXjLfDhDfWlZ_SpXbCzt@oAzCeBtTa[vLkCrf@iV`OyTf^iLvdA}i@xuAka@~Csg@dNz@mAV"
+        "id": "a351103718", 
+        "summary_polyline": "wjifGdsdaUaJL_@lk@uP~U_|Bv}DyL~MI`HoBlBvB}@UhJeSpiBmHd[_O|`@gR~[{oChuDshEx`E_Co@oH_LiL|Gs{G_@uAvDiApoGy@jQa|NbqMyn@t~@w^tc@{k@x|@{F`ZtWna@eHfOs{@paAq_B~`BkWj\\i\\fj@k|@hsBgU``@ypDt`EmyA|nAgZbb@kd@l`AiQ~XsaApiAoOhMiSsDsLzA}ElEqJdSsEhDceDpiAmFb@a@oFsB_@qTbVcnAbg@_e@x{@eK|\\_L|PsLjXqHhJeIlX_E~Gm[h]eQrFmLxHiPpAgUnHyYfWtC`HD`cAgg@GEqB"
       }, 
-      "total_elevation_gain": 540.1, 
-      "average_speed": 4.913, 
-      "moving_time": 21158, 
+      "total_elevation_gain": 217.8, 
+      "average_speed": 6.247, 
+      "moving_time": 11632, 
       "start_latlng": [
-        43.65, 
-        -76.08
+        43.14, 
+        -115.7
       ], 
-      "max_speed": 13.8, 
+      "max_speed": 11.7, 
       "end_latlng": [
-        42.95, 
-        -76.42
+        43.6, 
+        -116.22
       ]
     }, 
     "2015-05-08T17:45:43Z": {
