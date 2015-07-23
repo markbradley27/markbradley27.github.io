@@ -4,11 +4,11 @@
       "total": 33747.49999999999
     }, 
     "distance": {
-      "dailyAverage": 103345.65333333334, 
-      "total": 6200739.2
+      "dailyAverage": 102051.32950819671, 
+      "total": 6225131.100000001
     }, 
     "moving_time": {
-      "total": 1178968
+      "total": 1195820
     }
   }, 
   "rides": {
@@ -1102,6 +1102,27 @@
       "end_latlng": [
         44.67, 
         -74.99
+      ]
+    }, 
+    "2015-07-22T16:30:52Z": {
+      "distance": 24391.9, 
+      "name": "Day 81: Boise to Meridian", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a352354391", 
+        "summary_polyline": "msbiGl{idUIoIBxJmCUDe_@eGyDoCzDyBD}XyWw@cD`Pg\\}LgKiAaDwFrBgBcFrR_j@aCLw@tDoCaBaBjCwAdE~A|AXoBb@jCqEeD_I`VeVzh@eD`GmDgBaMvZeCuBjA{FaAt@d@_ByF}E}Mb[_KmI}C~@~Ck@fKpHx_@a`A~NvMnBd@dBiCnCpCs@rArj@pxMkCX`@~BeOpRcKgC_mC`@Ov{B_l@f@CbLgCpIMhJpCvNDbjBwBj@q@jE}Ei@}C~B"
+      }, 
+      "total_elevation_gain": 0.0, 
+      "average_speed": 1.447, 
+      "moving_time": 16852, 
+      "start_latlng": [
+        43.6, 
+        -116.22
+      ], 
+      "max_speed": 12.3, 
+      "end_latlng": [
+        43.64, 
+        -116.33
       ]
     }, 
     "2015-06-03T14:49:01Z": {
