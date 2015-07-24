@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 33747.49999999999
+      "total": 34639.09999999999
     }, 
     "distance": {
-      "dailyAverage": 102051.32950819671, 
-      "total": 6225131.100000001
+      "dailyAverage": 102591.03387096775, 
+      "total": 6360644.100000001
     }, 
     "moving_time": {
-      "total": 1195820
+      "total": 1218562
     }
   }, 
   "rides": {
@@ -810,6 +810,27 @@
         -115.69
       ]
     }, 
+    "2015-05-03T14:33:43Z": {
+      "distance": 86446.5, 
+      "name": "Day 1: Acadia to Bangor", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a297615374", 
+        "summary_polyline": "mlkmGhvh_LbGvBrB~CE`SvF`HBvIwFjF}OvGmSp@kLtO}MzHfAo@nD|CxY{AtE|AdRb^wAbQ}HlUmIjNmBnOhCtG|C~@zTqB`LkEfAdQtJvPbFhk@u@fNtAfFdJrLvHb_@_AtH`@tKqHjQ_A~WoCpFsa@jVub@dPmGlQ_PQyy@tRcOvIw^tGoc@jVeVrCwRvLghBhi@ug@~CiSzUw@dHx@fO_B~La_@li@_C|Ge@tKxF|ObAzPcHM}TzIi]eIaLJoOjFu_@Kid@lLoYbC{[nh@m_@faA}NfTip@xg@mJhAqFzKg_AhZ{i@tIwy@gDii@ae@wSwKm}@jIcp@h]}d@uKcMdIerA|pAo|AduA{t@lM}FhDrEoCqAwAIfB}GnEaJmAyFuEyNjBiP|`AcYr^sAbAEqCMnEmd@~i@}f@h`@qOnTk~@t|@_q@zmBy\\jgAwGtZy[~l@eTvhAyn@nhBqDhGkuBngAqn@~n@gXxSoRzSkl@`y@w|@r|@eE`ImHd[wHdJen@jRg{@fDsFjDcEvHgNxe@sOvMkQzDm`@kCwNtEgi@xh@os@z_AskBrz@}H~KyS`k@wd@~k@wMrH_a@hKoMlPo@Xt@u@}@w@~@tAoTtTaz@~iBga@voAgCv[pFphAm@tPaD|RsnDn{K}LdYon@dx@gGdOcPbWaFfOmM{D]aBgB|@|@eA"
+      }, 
+      "total_elevation_gain": 926.3, 
+      "average_speed": 5.138, 
+      "moving_time": 16824, 
+      "start_latlng": [
+        44.3, 
+        -68.21
+      ], 
+      "max_speed": 18.8, 
+      "end_latlng": [
+        44.8, 
+        -68.77
+      ]
+    }, 
     "2015-06-29T14:06:21Z": {
       "distance": 107490.0, 
       "name": "Day 58: Chief Hosa Lodge to Frisco", 
@@ -1062,25 +1083,25 @@
         -110.84
       ]
     }, 
-    "2015-05-03T14:33:43Z": {
-      "distance": 86446.5, 
-      "name": "Day 1: Acadia to Bangor", 
+    "2015-07-23T15:14:01Z": {
+      "distance": 135513.0, 
+      "name": "Day 82: Meridian to Huntington", 
       "map": {
         "resource_state": 2, 
-        "id": "a297615374", 
-        "summary_polyline": "mlkmGhvh_LbGvBrB~CE`SvF`HBvIwFjF}OvGmSp@kLtO}MzHfAo@nD|CxY{AtE|AdRb^wAbQ}HlUmIjNmBnOhCtG|C~@zTqB`LkEfAdQtJvPbFhk@u@fNtAfFdJrLvHb_@_AtH`@tKqHjQ_A~WoCpFsa@jVub@dPmGlQ_PQyy@tRcOvIw^tGoc@jVeVrCwRvLghBhi@ug@~CiSzUw@dHx@fO_B~La_@li@_C|Ge@tKxF|ObAzPcHM}TzIi]eIaLJoOjFu_@Kid@lLoYbC{[nh@m_@faA}NfTip@xg@mJhAqFzKg_AhZ{i@tIwy@gDii@ae@wSwKm}@jIcp@h]}d@uKcMdIerA|pAo|AduA{t@lM}FhDrEoCqAwAIfB}GnEaJmAyFuEyNjBiP|`AcYr^sAbAEqCMnEmd@~i@}f@h`@qOnTk~@t|@_q@zmBy\\jgAwGtZy[~l@eTvhAyn@nhBqDhGkuBngAqn@~n@gXxSoRzSkl@`y@w|@r|@eE`ImHd[wHdJen@jRg{@fDsFjDcEvHgNxe@sOvMkQzDm`@kCwNtEgi@xh@os@z_AskBrz@}H~KyS`k@wd@~k@wMrH_a@hKoMlPo@Xt@u@}@w@~@tAoTtTaz@~iBga@voAgCv[pFphAm@tPaD|RsnDn{K}LdYon@dx@gGdOcPbWaFfOmM{D]aBgB|@|@eA"
+        "id": "a352813311", 
+        "summary_polyline": "ahkiGvp`eUyYl@`@bwFkCkBoChCcqAx@i@`}Yel@nAlApWiAzPC~rHqU|@HtrCiHpAeEb\\oAp{@zA``@wEj@_@dBpAr}IiUbAAr`@wOr@XhIEqJlOc@wO`ADdMnLx@kSd[kZnOX`L|BjG?bDiNlInD|WMbFsQha@cf@rmC}WlnAya@r`B_R|l@}P~iA_a@bjAaR`y@w@_Cv@jCyQzx@kTbt@qKnt@cyBdzJoqCpwG}^`j@wK`WD|ManBvlEwo@zAk@nGqCpB{yKP_NlS}CbLP|~An@kA[pHwAJ}iE\\elDeCu@u@BkUgA}Bu`A~OkVyAgu@wOcpAaAoAo]u}EScAb@_@nMspAKgEgFb@eGc`BB{FmRqIsLeWcSsX}EwBrSuTz\\wj@~s@sc@rV_UfToqC`hEynCfhEyk@|{Akc@rz@ce@hr@al@~n@{\\fY}v@lg@yd@~Rwu@hlAePpO}xArZ_w@bi@}K|@sXiB}MtDig@`d@_h@dNeIpF_Ujk@mUpY_eBv}@cOtBgi@{DwKxCiGnG{Sr`@sOjn@i]j^iLn_@gGnLaR`Te\\jQwM`Lmh@jz@{`Ara@}w@vLgrAtm@}q@pP{Px\\}\\td@yp@jf@gMr]{RzPkAxR"
       }, 
-      "total_elevation_gain": 926.3, 
-      "average_speed": 5.138, 
-      "moving_time": 16824, 
+      "total_elevation_gain": 891.6, 
+      "average_speed": 5.959, 
+      "moving_time": 22742, 
       "start_latlng": [
-        44.3, 
-        -68.21
+        43.64, 
+        -116.33
       ], 
-      "max_speed": 18.8, 
+      "max_speed": 17.1, 
       "end_latlng": [
-        44.8, 
-        -68.77
+        44.35, 
+        -117.27
       ]
     }, 
     "2015-05-11T12:55:03Z": {
