@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 34639.09999999999
+      "total": 35477.89999999999
     }, 
     "distance": {
-      "dailyAverage": 102591.03387096775, 
-      "total": 6360644.100000001
+      "dailyAverage": 102225.00158730158, 
+      "total": 6440175.100000001
     }, 
     "moving_time": {
-      "total": 1218562
+      "total": 1234622
     }
   }, 
   "rides": {
@@ -1270,6 +1270,27 @@
       "end_latlng": [
         42.96, 
         -81.62
+      ]
+    }, 
+    "2015-07-24T18:50:20Z": {
+      "distance": 79531.0, 
+      "name": "Day 83: Huntington to Baker City", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a353403897", 
+        "summary_polyline": "oiumGd~vjUMnUsHfR{c@nFcIzDuFhIgMra@{EhIaJfGeZhDeEjC}EbKcCpYmBxF_o@xk@}I~LyFnAi~@_Gq[bLuPsHiEzB{HhWwEdDyW_OaYsDq}Ats@km@vm@mo@dNyXr`@aJ_@wTaLeQb@aLvHgQh[cFzD{RuBiMp@ip@xm@sg@zOqG~Q_@`p@yArMwDdHkQfMoj@v]zBsBcJbBEwBxGqG_HdGYhEsElG{EfC{If@iU{E_IlAyEpEiQf]uEfDwF@cRyHaMxCqH|MeD|[uIlUcStgAoPhTuVfMiHn`@iEdKoZ|S_PnRmj@dUu~An|@qPbM{mB|yCcApA~oA}qB_nAfoBgQjSvDjL`Px@`FpL{d@d]_{@dcAot@ve@aXdYwUvHgJzKe{@dwA{C`N\\xSq@jDoW|B_Qhi@gDhEaQdFaJ~HgTpk@qLnNaLzViG~^pAbQ~FpSPvFgKrZwWplBct@bmE}Wrq@kQzT{LtGcClChI{FkKnJuIb\\wRti@eEp\\qYf{@kR`Vg[dPcKzR[jKjGjf@s@jeAkBbIcRr\\gDxPjAtTmJv\\qBf\\c@xk@oJ|p@a^vfA{@b\\eNbi@sQhVqHhTgD~N_BpVqy@`_DeFfH_c@~Za`@xe@el@z}@mg@l~@og@rOeYl_@_N`J}_@hn@{IvCie@D}KbOb@}AbAhA_AtAwX@S{A"
+      }, 
+      "total_elevation_gain": 838.8, 
+      "average_speed": 4.952, 
+      "moving_time": 16060, 
+      "start_latlng": [
+        44.35, 
+        -117.27
+      ], 
+      "max_speed": 10.8, 
+      "end_latlng": [
+        44.78, 
+        -117.83
       ]
     }, 
     "2015-07-08T14:28:43Z": {
