@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 35477.89999999999
+      "total": 35646.29999999999
     }, 
     "distance": {
-      "dailyAverage": 102225.00158730158, 
-      "total": 6440175.100000001
+      "dailyAverage": 101562.5984375, 
+      "total": 6500006.300000001
     }, 
     "moving_time": {
-      "total": 1234622
+      "total": 1247189
     }
   }, 
   "rides": {
@@ -1270,6 +1270,27 @@
       "end_latlng": [
         42.96, 
         -81.62
+      ]
+    }, 
+    "2015-07-25T22:44:00Z": {
+      "distance": 59831.2, 
+      "name": "Day 84: Baker City to Union", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a354136201", 
+        "summary_polyline": "o{hpG~ydnU{e@?y@`w@kT?_@fF}a@xIydDftBip@`~@{oChaCaPj^sqH|}Eet@jb@wLfLsh@~\\_MnEue@nFkc@{D{q@QqKwBk}DqrCgHuCwnF`@eS~Dyc@jYcFaWem@crAeJuWisCe{AmGgJ{Pcf@}Uw@aQgGgUwa@yMyd@sIkKuLi\\{DcSqB}b@yJ{U{IsHwZkEmY{MsJqa@mEcKiK{CoKyOmVeBoG{IiHjEwp@~Pu`@pUcKlAwMrHeL_@sp@`Q_JbPkTnPif@hz@eq@ht@sDdB_g@{DeK_G}KuBcP|DsOrSmH`BkBmAuIeTaLoEaK|BcNg@{P|E{UpQk\\wGoCwCiD_N_BsAakBa@g@m^{xBW}AU`@oE"
+      }, 
+      "total_elevation_gain": 168.4, 
+      "average_speed": 4.761, 
+      "moving_time": 12567, 
+      "start_latlng": [
+        44.78, 
+        -117.83
+      ], 
+      "max_speed": 12.7, 
+      "end_latlng": [
+        45.23, 
+        -117.86
       ]
     }, 
     "2015-07-24T18:50:20Z": {
