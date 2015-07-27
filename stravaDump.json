@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 35646.29999999999
+      "total": 36875.39999999999
     }, 
     "distance": {
-      "dailyAverage": 101562.5984375, 
-      "total": 6500006.300000001
+      "dailyAverage": 101884.25076923078, 
+      "total": 6622476.300000001
     }, 
     "moving_time": {
-      "total": 1247189
+      "total": 1274041
     }
   }, 
   "rides": {
@@ -579,6 +579,27 @@
         -87.7
       ]
     }, 
+    "2015-05-07T21:05:37Z": {
+      "distance": 77199.6, 
+      "name": "Day 5 Evening: Bath to Montpelier", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a300238070", 
+        "summary_polyline": "shqlG`yfvLhQcE|^xD|_@lu@hClTg@h~@tOzy@Src@n[dw@~In`AtChGeGvn@}n@`_@sJp[tHtOExKgIzDb@zGtOrd@pKdOzFzXeK~X_BdTgPpm@nHth@eAbNsGbIgk@bMkRzZ}^l[cR``AcNd]}TrXg\\rC_KvJMry@uSryAut@vi@aJ`o@sf@`k@}Fx\\lDhZk@fPag@t`CmLvz@oRzR}MnZiB|~@}[fRyb@rGa~@`l@}Td{@kAjYqHbKkYrcAcc@fd@y}@vPuZdd@mYzJgNjXyKvEcPfi@oc@jb@o_@`h@wVoEaLcLiLjCsfCn_DcHxYOx\\qSl_Aik@}LsXz~@on@Mca@iIpDpQ~OzQtYjt@h^n]|h@nRxXdBjX|XrUlLbQvUtTlo@|JlLta@nPvcAiGjThFxb@nvAdZj^vS~i@rA~VsBhn@hMhVbOj`ArOrY`K`^o@jf@cO~jA|@rn@lWdVzLt_@bVv[f_@xMds@sDl_@~_@dDry@rIp]lOdPnBhLkFhXaP|[_Ajk@gI~Yoh@rm@U|b@nDxa@wE|UcI|Sid@xe@{_@kd@_N|JuKeEqEpT{SjJ"
+      }, 
+      "total_elevation_gain": 879.4, 
+      "average_speed": 4.18, 
+      "moving_time": 18469, 
+      "start_latlng": [
+        44.17, 
+        -71.97
+      ], 
+      "max_speed": 13.2, 
+      "end_latlng": [
+        44.27, 
+        -72.58
+      ]
+    }, 
     "2015-05-18T13:14:03Z": {
       "distance": 126124.0, 
       "name": "Day 16: Hunt to Tonawanda", 
@@ -768,25 +789,25 @@
         -100.15
       ]
     }, 
-    "2015-05-07T21:05:37Z": {
-      "distance": 77199.6, 
-      "name": "Day 5 Evening: Bath to Montpelier", 
+    "2015-05-08T17:45:43Z": {
+      "distance": 62032.5, 
+      "name": "Day 6: Montpelier to Birlington", 
       "map": {
         "resource_state": 2, 
-        "id": "a300238070", 
-        "summary_polyline": "shqlG`yfvLhQcE|^xD|_@lu@hClTg@h~@tOzy@Src@n[dw@~In`AtChGeGvn@}n@`_@sJp[tHtOExKgIzDb@zGtOrd@pKdOzFzXeK~X_BdTgPpm@nHth@eAbNsGbIgk@bMkRzZ}^l[cR``AcNd]}TrXg\\rC_KvJMry@uSryAut@vi@aJ`o@sf@`k@}Fx\\lDhZk@fPag@t`CmLvz@oRzR}MnZiB|~@}[fRyb@rGa~@`l@}Td{@kAjYqHbKkYrcAcc@fd@y}@vPuZdd@mYzJgNjXyKvEcPfi@oc@jb@o_@`h@wVoEaLcLiLjCsfCn_DcHxYOx\\qSl_Aik@}LsXz~@on@Mca@iIpDpQ~OzQtYjt@h^n]|h@nRxXdBjX|XrUlLbQvUtTlo@|JlLta@nPvcAiGjThFxb@nvAdZj^vS~i@rA~VsBhn@hMhVbOj`ArOrY`K`^o@jf@cO~jA|@rn@lWdVzLt_@bVv[f_@xMds@sDl_@~_@dDry@rIp]lOdPnBhLkFhXaP|[_Ajk@gI~Yoh@rm@U|b@nDxa@wE|UcI|Sid@xe@{_@kd@_N|JuKeEqEpT{SjJ"
+        "id": "a300704624", 
+        "summary_polyline": "o}cmGz{~yLkAfBbF]mClSpErEmB`InAzIbMtQlOdE~BfDg@vk@aPb|AaJh`@yG`LcDvN_M|SmCpCWsGEtG}FzPcTheA_SfUcGfkAmE`Ku`@`j@aThAsNlNoQ|_@wBxSkFyIoArAeFbIyDpP_CpAcV|e@sTn[wUvEyHxJaMbBcN|OaChHiCnb@zItf@dAnOaIlh@iD|IoNjKqTv^sH~SaF|c@aBhDkXxVgKvB_LzRon@bo@gNnKmB[{A~DiJbJ}AxEi@fMoC`IuH~Pi^tk@eGxn@}GbYiW`p@eIha@_JlLs@xGnB`q@jKzm@M~LiJp`@{HpoAiv@plEgIxYx@h@~@lOqYldBKrVwD`R{Fro@qO~cAgAdRHjd@{C~UiMpWif@b]qMvP}Aze@gHnTx@m@{^rgBaCvHuI`Mr@jGdFxDtBvOf@jNqBfKyLdQiHjR_AMqPn\\cFdFaLzD{SaE}Ep@mGhDoT~TiUpo@HfG|D|RkAlRqaAfvBgBrK`DtLmAbS~@dMmDvo@oa@vkDiM~`@x@~SkFtf@cHvVeIfNsfA``De@tXr@fQmA`n@e\\||@q]pjCwLbp@yY`|@eEbFWkAlD{@oIrVgMpAo@iK}BBY_F"
       }, 
-      "total_elevation_gain": 879.4, 
-      "average_speed": 4.18, 
-      "moving_time": 18469, 
+      "total_elevation_gain": 412.4, 
+      "average_speed": 4.571, 
+      "moving_time": 13571, 
       "start_latlng": [
-        44.17, 
-        -71.97
-      ], 
-      "max_speed": 13.2, 
-      "end_latlng": [
-        44.27, 
+        44.26, 
         -72.58
+      ], 
+      "max_speed": 13.7, 
+      "end_latlng": [
+        44.48, 
+        -73.2
       ]
     }, 
     "2015-07-20T15:53:19Z": {
@@ -831,25 +852,25 @@
         -68.77
       ]
     }, 
-    "2015-06-29T14:06:21Z": {
-      "distance": 107490.0, 
-      "name": "Day 58: Chief Hosa Lodge to Frisco", 
+    "2015-07-26T16:58:11Z": {
+      "distance": 122470.0, 
+      "name": "Day 85: Union to Athena", 
       "map": {
         "resource_state": 2, 
-        "id": "a335867319", 
-        "summary_polyline": "}xjqF~|waSmK`Zbm@j_Ap[|RO|JqHve@yLcBcDxTaQrGyc@pr@aOJwPp]vLha@iL~{@n@nO~KhRgFdcAxE`l@iU`h@qPxeA_Xlp@}Y~Zin@l]_YxA}Wl^lYfl@gIb[`Hza@mVbbApJ|SUbZjNlLwGxOvGjf@aLl\\xOvw@s@rjC~Aq\\vGzh@kJbXm]pcCmr@hfAmAbb@sj@jgBwFj|@dCfw@{Hb@}Dp^aG|gChOtk@lF|ChGfcAtUl`Anp@do@pVv`Az\\js@v]nMhHnXxT~ShoClc@tl@js@_OwJvYhj@`Kzw@jQ|^}IntAfGfzBqBnv@~Kbv@s@zk@jGl]sFfNdStpBkM|oB}f@xyA_ExbAhDvl@wGfMfFrPb\\`[xMz^yE_Fjd@z_@~Av\\r]zZ|Iji@dGsRs@uu@|^yGbd@vCwg@cr@o[kCjYwE|RrNxVtAvf@~\\vw@c]w^cA_M{MnU~Fnw@oTxLzFrE|MeIob@hSfBbExI{HnI`Khh@Vhi@tTxOvQpq@nNlHr[tp@hFxy@fo@pcAvZfhApThSfRhkBa@dgAzc@thCqJveBmIna@_k@rz@qp@z]y]~i@co@rXoA~Zf]rv@i@fe@}EnBeA_f@bMDzHjU`n@`u@f]_E~a@vj@vD{FbFnLxEgFvHlk@nXxa@pQvl@nLiOpRtPhClVlsAaN~CnP"
+        "id": "a354942796", 
+        "summary_polyline": "gkbsGnqjnUu_CEya@hJqVuEgw@nNsKkE{VaZySeFmiAnU}LiIq_@zE}bA_Dea@|Yi^v~@}j@lhAoAbcCuvAP{C`_@qwA^A|sPkWcd@cd@eXgyNuwDig@eBoEnAk@zFsRbAE`eBeBbH}`Ap_A{kBznA_o@xl@mA|RcDpFcf@dSud@t`@}t@jEqXwEghBq@qBcvAsMyc@_l@umAyW_Wyp@q_@yKlYqGzEmw@gJaWdFi]vg@_t@pzAyJhJq_ArYyb@~DwhAcWs`@j_@q`@|Ner@cDkj@n[_n@jDek@nj@{Rrk@ua@nRuV?ag@{Tkb@\\gd@bKsReI~KjImz@iq@cc@wGyWic@uZeIkVpA_h@nTaWj`@gw@li@uzAtaBkSvk@kh@tG}Od[kLzm@eYp_@iUtx@O|q@mRff@kLlKbBvIhUtWTjTap@rf@}QpZfAnJpNjLrJxTsChYtGd~@_Pre@EhSrt@nfAhBdO{Bb^_`ApcEn^|{CqA`]oSj|@dB~KvQfYUr_@iLha@wAnU`SriAa\\jr@u@|mCqb@~aBvB`NdYf^rB~v@iP~k@wIbbBmThJmKnTkO|D{AlH~A`Zw\\dj@zChTeCbQbMzAhT{PBzWjKfIkMjAqObNoUpl@yYh\\mCfJxEzSx@ny@v`@pCeA`mBgRxv@H|iBgEfKpGbS_Bn`BXeUtFkD|AxHnD?Z_P|C|@"
       }, 
-      "total_elevation_gain": 2317.1, 
-      "average_speed": 4.348, 
-      "moving_time": 24721, 
+      "total_elevation_gain": 1229.1, 
+      "average_speed": 4.561, 
+      "moving_time": 26852, 
       "start_latlng": [
-        39.71, 
-        -105.31
+        45.24, 
+        -117.86
       ], 
-      "max_speed": 17.6, 
+      "max_speed": 14.5, 
       "end_latlng": [
-        39.58, 
-        -106.1
+        45.81, 
+        -118.49
       ]
     }, 
     "2015-06-18T14:50:30Z": {
@@ -999,25 +1020,25 @@
         -116.22
       ]
     }, 
-    "2015-05-08T17:45:43Z": {
-      "distance": 62032.5, 
-      "name": "Day 6: Montpelier to Birlington", 
+    "2015-06-29T14:06:21Z": {
+      "distance": 107490.0, 
+      "name": "Day 58: Chief Hosa Lodge to Frisco", 
       "map": {
         "resource_state": 2, 
-        "id": "a300704624", 
-        "summary_polyline": "o}cmGz{~yLkAfBbF]mClSpErEmB`InAzIbMtQlOdE~BfDg@vk@aPb|AaJh`@yG`LcDvN_M|SmCpCWsGEtG}FzPcTheA_SfUcGfkAmE`Ku`@`j@aThAsNlNoQ|_@wBxSkFyIoArAeFbIyDpP_CpAcV|e@sTn[wUvEyHxJaMbBcN|OaChHiCnb@zItf@dAnOaIlh@iD|IoNjKqTv^sH~SaF|c@aBhDkXxVgKvB_LzRon@bo@gNnKmB[{A~DiJbJ}AxEi@fMoC`IuH~Pi^tk@eGxn@}GbYiW`p@eIha@_JlLs@xGnB`q@jKzm@M~LiJp`@{HpoAiv@plEgIxYx@h@~@lOqYldBKrVwD`R{Fro@qO~cAgAdRHjd@{C~UiMpWif@b]qMvP}Aze@gHnTx@m@{^rgBaCvHuI`Mr@jGdFxDtBvOf@jNqBfKyLdQiHjR_AMqPn\\cFdFaLzD{SaE}Ep@mGhDoT~TiUpo@HfG|D|RkAlRqaAfvBgBrK`DtLmAbS~@dMmDvo@oa@vkDiM~`@x@~SkFtf@cHvVeIfNsfA``De@tXr@fQmA`n@e\\||@q]pjCwLbp@yY`|@eEbFWkAlD{@oIrVgMpAo@iK}BBY_F"
+        "id": "a335867319", 
+        "summary_polyline": "}xjqF~|waSmK`Zbm@j_Ap[|RO|JqHve@yLcBcDxTaQrGyc@pr@aOJwPp]vLha@iL~{@n@nO~KhRgFdcAxE`l@iU`h@qPxeA_Xlp@}Y~Zin@l]_YxA}Wl^lYfl@gIb[`Hza@mVbbApJ|SUbZjNlLwGxOvGjf@aLl\\xOvw@s@rjC~Aq\\vGzh@kJbXm]pcCmr@hfAmAbb@sj@jgBwFj|@dCfw@{Hb@}Dp^aG|gChOtk@lF|ChGfcAtUl`Anp@do@pVv`Az\\js@v]nMhHnXxT~ShoClc@tl@js@_OwJvYhj@`Kzw@jQ|^}IntAfGfzBqBnv@~Kbv@s@zk@jGl]sFfNdStpBkM|oB}f@xyA_ExbAhDvl@wGfMfFrPb\\`[xMz^yE_Fjd@z_@~Av\\r]zZ|Iji@dGsRs@uu@|^yGbd@vCwg@cr@o[kCjYwE|RrNxVtAvf@~\\vw@c]w^cA_M{MnU~Fnw@oTxLzFrE|MeIob@hSfBbExI{HnI`Khh@Vhi@tTxOvQpq@nNlHr[tp@hFxy@fo@pcAvZfhApThSfRhkBa@dgAzc@thCqJveBmIna@_k@rz@qp@z]y]~i@co@rXoA~Zf]rv@i@fe@}EnBeA_f@bMDzHjU`n@`u@f]_E~a@vj@vD{FbFnLxEgFvHlk@nXxa@pQvl@nLiOpRtPhClVlsAaN~CnP"
       }, 
-      "total_elevation_gain": 412.4, 
-      "average_speed": 4.571, 
-      "moving_time": 13571, 
+      "total_elevation_gain": 2317.1, 
+      "average_speed": 4.348, 
+      "moving_time": 24721, 
       "start_latlng": [
-        44.26, 
-        -72.58
+        39.71, 
+        -105.31
       ], 
-      "max_speed": 13.7, 
+      "max_speed": 17.6, 
       "end_latlng": [
-        44.48, 
-        -73.2
+        39.58, 
+        -106.1
       ]
     }, 
     "2015-05-12T20:23:27Z": {
