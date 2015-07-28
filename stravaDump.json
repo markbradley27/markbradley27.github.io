@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 36875.39999999999
+      "total": 37310.89999999999
     }, 
     "distance": {
-      "dailyAverage": 101884.25076923078, 
-      "total": 6622476.300000001
+      "dailyAverage": 101595.6484848485, 
+      "total": 6705312.800000001
     }, 
     "moving_time": {
-      "total": 1274041
+      "total": 1291022
     }
   }, 
   "rides": {
@@ -1041,6 +1041,27 @@
         -106.1
       ]
     }, 
+    "2015-05-13T15:37:58Z": {
+      "distance": 101210.0, 
+      "name": "Day 11: Gouverneur to Sandy Creek", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a304056145", 
+        "summary_polyline": "mtgmGfrfkMfMz_BNpOlKjj@xZf}@zD|RtShp@jZnqAzQ|ZzMzm@zBpUPta@hYdiCj@fl@vDlh@i^|cA_DdOaDxEdo@bj@zH|b@sA~[lEbb@zBhIj^jc@tYzT~lAfp@dYhVtMhRbaBrxAvLjd@bGtMrD|C_CjMbDv^|QjWfi@p~AhFhIj[nWpf@rcAv[jh@hFbMhNts@lFls@`h@fsBxLzq@SlDjLjRrIdF`m@m@bLnG|Qtl@xZbl@r`@bj@pYdXjs@`aAlz@zmA~vAt{BlkAbcBzElJhEjQzKppArE`OnE`HbLhJ|}@pa@n_@vXdWtLz[rVj|@`Z`t@h_@dg@tJno@zc@jUd}@xNheAjGpz@|U~cAnEdJzc@r[hgCfzA|KtEpDqIkBbAiEaF~DmI_DdJfCpCoCvEpCdDu@dBhAsAlb@fUjj@zBpa@|LrD|E}@vm@x{@|wAha@fL~q@lc@zbApa@nWzHpFeAbDxGjXrLza@vDjOfJrw@ru@vXs@nMnf@bH`OnR|n@bJdKzk@mA`KxAxLvGrt@nm@|aAhl@hy@t\\`dBbXfb@`[t{@~GbOkBjVzGrQsA|GvD|i@po@|OrI~nAGrv@hShf@bCt|Ad{@dWza@fJjJbHfDtq@tJty@b`@vj@|I|`@wMba@kFns@nCvYhJhh@y@nFfDbZdd@hIrG~pAbb@xaB|c@uDwC"
+      }, 
+      "total_elevation_gain": 467.0, 
+      "average_speed": 5.297, 
+      "moving_time": 19108, 
+      "start_latlng": [
+        44.28, 
+        -75.41
+      ], 
+      "max_speed": 13.0, 
+      "end_latlng": [
+        43.65, 
+        -76.08
+      ]
+    }, 
     "2015-05-12T20:23:27Z": {
       "distance": 66871.8, 
       "name": "Day 10: Potsdam to Gouverneur", 
@@ -1356,25 +1377,25 @@
         -111.65
       ]
     }, 
-    "2015-05-13T15:37:58Z": {
-      "distance": 101210.0, 
-      "name": "Day 11: Gouverneur to Sandy Creek", 
+    "2015-07-27T19:06:42Z": {
+      "distance": 82836.5, 
+      "name": "Day 86: Athena to Plymouth", 
       "map": {
         "resource_state": 2, 
-        "id": "a304056145", 
-        "summary_polyline": "mtgmGfrfkMfMz_BNpOlKjj@xZf}@zD|RtShp@jZnqAzQ|ZzMzm@zBpUPta@hYdiCj@fl@vDlh@i^|cA_DdOaDxEdo@bj@zH|b@sA~[lEbb@zBhIj^jc@tYzT~lAfp@dYhVtMhRbaBrxAvLjd@bGtMrD|C_CjMbDv^|QjWfi@p~AhFhIj[nWpf@rcAv[jh@hFbMhNts@lFls@`h@fsBxLzq@SlDjLjRrIdF`m@m@bLnG|Qtl@xZbl@r`@bj@pYdXjs@`aAlz@zmA~vAt{BlkAbcBzElJhEjQzKppArE`OnE`HbLhJ|}@pa@n_@vXdWtLz[rVj|@`Z`t@h_@dg@tJno@zc@jUd}@xNheAjGpz@|U~cAnEdJzc@r[hgCfzA|KtEpDqIkBbAiEaF~DmI_DdJfCpCoCvEpCdDu@dBhAsAlb@fUjj@zBpa@|LrD|E}@vm@x{@|wAha@fL~q@lc@zbApa@nWzHpFeAbDxGjXrLza@vDjOfJrw@ru@vXs@nMnf@bH`OnR|n@bJdKzk@mA`KxAxLvGrt@nm@|aAhl@hy@t\\`dBbXfb@`[t{@~GbOkBjVzGrQsA|GvD|i@po@|OrI~nAGrv@hShf@bCt|Ad{@dWza@fJjJbHfDtq@tJty@b`@vj@|I|`@wMba@kFns@nCvYhJhh@y@nFfDbZdd@hIrG~pAbb@xaB|c@uDwC"
+        "id": "a355609287", 
+        "summary_polyline": "urrvGxserUlj@lAfA`wAbEd[lGjSzgC~dEz[b]u@xiSouDjErCr~BwF|yBb@fqJgHxa@g_@zkAgD~UmTp`ANniAcG`p@x@r{@wBbSYnUhGbsA_NvkAup@hhCiTha@gi@dq@gGxRkFlHoR~PwQpFwKzKcYdk@aLpKmIpQeJ|EkQjYeJ~a@eIhH}GfR{MrSgN~N{ClKD|MwF`OdCbQwAn_@oLpQaE`OmKdo@q@vWoHv^kHvHiWz@{E|NeDjDmTAyBlMzC`Z{@jQ}C`K{JpP{Kv[N|HnIjZ|B|X~HzJtQrLhAjKeA`^pCzTp@dWrC~Q|GtOvMzNdCdJCnJ}Fp^rCdNdGjNXhEu@xLkKnc@vGr]eF~^jEzYeArF{CrCk`@xFo^nMoF`GydAhaDgi@lxBaShc@oBrIdB~l@~DnUI~Whs@r{BbKje@nNzfBbAra@g@vd@qcB|~SwBxr@_@j~ALvE|@[a@}BiMTmPnJ@jAiBsHsObKgaAp\\lDaBv@hC}AtMpChR~EtoA{@zIrAzFzBmCMgIhCqI[{C"
       }, 
-      "total_elevation_gain": 467.0, 
-      "average_speed": 5.297, 
-      "moving_time": 19108, 
+      "total_elevation_gain": 435.5, 
+      "average_speed": 4.878, 
+      "moving_time": 16981, 
       "start_latlng": [
-        44.28, 
-        -75.41
+        45.81, 
+        -118.49
       ], 
-      "max_speed": 13.0, 
+      "max_speed": 12.9, 
       "end_latlng": [
-        43.65, 
-        -76.08
+        45.93, 
+        -119.35
       ]
     }, 
     "2015-07-18T15:19:33Z": {
