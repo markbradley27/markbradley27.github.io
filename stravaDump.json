@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 37310.89999999999
+      "total": 37811.59999999999
     }, 
     "distance": {
-      "dailyAverage": 101595.6484848485, 
-      "total": 6705312.800000001
+      "dailyAverage": 101247.74776119404, 
+      "total": 6783599.1
     }, 
     "moving_time": {
-      "total": 1291022
+      "total": 1304632
     }
   }, 
   "rides": {
@@ -577,6 +577,27 @@
       "end_latlng": [
         41.93, 
         -87.7
+      ]
+    }, 
+    "2015-07-28T16:59:06Z": {
+      "distance": 78286.3, 
+      "name": "Day 87: Plymouth to Roosevelt", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a356561924", 
+        "summary_polyline": "aijwGr~lwUP|C}BjI@xI_C|DxBrc@h{@nmLxLpdCpMzjA{@hLeDdKuHjIoE`BupCMjT`|MrIheB`OtjF|I|b@eGp@cB}AxCtBzGgAjF`W`iCh}IdkCbbF`w@`vDnb@bnAdy@zgEjDfYhDh}CoC`]}SjuAkBh|@vBnz@rC|_@hHrRjk@ly@bhAbu@xMjNjJdRnNnb@|@hLBtg@pWtrAtHtu@`AdcAmAzwAtNbwArMvv@dBnr@tNlnAvHv[bP|rAb\\fr@~Y`fBnc@h_Bpb@fkAv]h~AvSrc@fVfeAhPffAtPpyC|Xz}C~Hlh@`Xrs@p_@lqA~n@x{AfI~Jxc@rUr[fi@xa@vkBzClA"
+      }, 
+      "total_elevation_gain": 500.7, 
+      "average_speed": 5.752, 
+      "moving_time": 13610, 
+      "start_latlng": [
+        45.93, 
+        -119.35
+      ], 
+      "max_speed": 12.5, 
+      "end_latlng": [
+        45.74, 
+        -120.22
       ]
     }, 
     "2015-05-07T21:05:37Z": {
