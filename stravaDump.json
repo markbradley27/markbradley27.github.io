@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 37811.59999999999
+      "total": 38549.79999999999
     }, 
     "distance": {
-      "dailyAverage": 101247.74776119404, 
-      "total": 6783599.1
+      "dailyAverage": 101148.6044117647, 
+      "total": 6878105.1
     }, 
     "moving_time": {
-      "total": 1304632
+      "total": 1322297
     }
   }, 
   "rides": {
@@ -157,6 +157,27 @@
       "end_latlng": [
         43.09, 
         -79.14
+      ]
+    }, 
+    "2015-07-29T15:17:48Z": {
+      "distance": 94506.0, 
+      "name": "Day 88: Roosevelt to The Dalles", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a357063279", 
+        "summary_polyline": "eccvGrxw|U{@AgI_S_^ge@kFVkU`Mm@jAtA`CkByCmBvA|Jji@|s@`rFzFdVda@vmA~Eps@xHfq@jItqBlDtNhNfUvDpNlUbkDjL`e@bLty@Uzg@hBtb@bPxmAfM~qBp@teAhSz}IwCvc@{X`tAaGzRiZnq@{Vni@lCcGeeAr`Buk@~h@eo@xzAai@bgA}E|OqCzTuC|_AmOb_AoDh^yFbbCzK~iDbObrArj@`fBz\\jjBfYpt@bGj]nB`\\~OhkAzJt`@rFjHnXbGxO~H}Ac@lVdV~EjL`BtMv@`~@vDnWfU`aAlJ~qAvAz|@jE~V~c@h`A~A\\jIdTvEjEvClOrJpH|L`EyEiErMNhBlE?lMlDlU|FwB`QxQvCQdHni@fAwCdEgBbEhD@zCgA_CiDpANtO|Jny@{AzGnC|GjL|Dl_A{UlNle@rWjqAlLza@d}@dhBjbArzAvHzQvIr_@|Mf_ApCxr@uAtSaIxRe`@~]mn@tv@uJhU_J``@~Bxa@`K`a@gCkJvBbKmCbEvQfa@lKb]vEpZtEro@oAjRiNt_@{C~WeG|mK^h_@tC~]vHd`@d_AvvC|YfVloAvuA`[fe@df@lc@pL`XhJp`@hBjPhZzFYbN~Ije@tEbn@eCxh@f@t]u@bVeChRmSfm@sYfo@J`EaG|QxByEjAr@{Dp]xAcDP_NzAqH_AsCrK}\\~Aj@HiD"
+      }, 
+      "total_elevation_gain": 738.2, 
+      "average_speed": 5.35, 
+      "moving_time": 17665, 
+      "start_latlng": [
+        45.73, 
+        -120.22
+      ], 
+      "max_speed": 12.5, 
+      "end_latlng": [
+        45.6, 
+        -121.19
       ]
     }, 
     "2015-05-06T12:59:16Z": {
