@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 38549.79999999999
+      "total": 39360.39999999999
     }, 
     "distance": {
-      "dailyAverage": 101148.6044117647, 
-      "total": 6878105.1
+      "dailyAverage": 100342.00579710145, 
+      "total": 6923598.399999999
     }, 
     "moving_time": {
-      "total": 1322297
+      "total": 1331789
     }
   }, 
   "rides": {
@@ -976,6 +976,27 @@
       "end_latlng": [
         41.23, 
         -95.6
+      ]
+    }, 
+    "2015-07-31T02:30:48Z": {
+      "distance": 45493.3, 
+      "name": "Day 89: The Dalles to Hood River", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a357798672", 
+        "summary_polyline": "cvjuGlpwbV}BgCkNrTuU|PukBtm@sP]ic@gk@y[vQwdAlDoGlJ_@j]{TeBoFpE{CvPh@pc@cR~r@cLpSaBln@aSpqBy[l~Ae@`z@_EzKcGe@qAaGy@nCpJ|TlJuGSbTmc@lEOlC~EJ}AnEuI}KeF`Ln`@ta@O`ZrDnQwClBaMmKs]jGyLdj@hFrdB}Pb[Gz_@}I}@qMzYfStu@`ArPzH|EAhbAmU|e@WpGjDxLzPvNdKxSjObh@fB~Q}EnMkC|`@jSjB}MrJqG~NjHxbBkTv_Ak@~a@{E`M[tNcOjU_Qtl@oKhg@qF|k@iGxGaFhf@{TxUxBtLyGpN_Ghg@oGxFPtL|CjF}Ed@jDzE{IqBbDnHmB{IzH|CyDcF`F_@cEkRxGcJhHoi@wGji@cHxIlDrRaFEvD`GaIqBrC~K{BlI?b`@yCbCLlxAjGh@X~U|HJFrPpDBFxI|DdDEvfBhIe@"
+      }, 
+      "total_elevation_gain": 810.6, 
+      "average_speed": 4.793, 
+      "moving_time": 9492, 
+      "start_latlng": [
+        45.61, 
+        -121.2
+      ], 
+      "max_speed": 14.6, 
+      "end_latlng": [
+        45.7, 
+        -121.55
       ]
     }, 
     "2015-05-23T13:39:07Z": {
