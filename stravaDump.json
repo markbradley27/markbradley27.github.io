@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 39360.39999999999
+      "total": 40057.09999999999
     }, 
     "distance": {
-      "dailyAverage": 100342.00579710145, 
-      "total": 6923598.399999999
+      "dailyAverage": 101504.86231884059, 
+      "total": 7003835.5
     }, 
     "moving_time": {
-      "total": 1331789
+      "total": 1347862
     }
   }, 
   "rides": {
@@ -430,6 +430,27 @@
       "end_latlng": [
         41.79, 
         -88.2
+      ]
+    }, 
+    "2015-07-31T15:28:25Z": {
+      "distance": 80237.1, 
+      "name": "Day 90: Hood River to Washougal", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a358340926", 
+        "summary_polyline": "sf}uGlm{dViH@QckAei@X^~r@{EpTv[j{BY`s@tK`aAdCvlDxZ`iArBlS}Ary@zNbyCdKbb@~JfhAtU~_@lHjVtFb`B_Az]wQri@}@vfAgIpl@tJhiBaEl|@fDftAeStuAmQlt@aBngBfEheAvB`LrQvW~v@zo@tX`r@lOrc@`c@xsDxJja@pK|NfXdOfG`CcFaH|Ei@kEnv@j]tQjVn]|I`r@rYhh@NfSaSbf@aBl\\bbAtiDjEl}@yEda@t@vQhe@d}AlX|b@\\bMiGxTz@jLbZrm@|Z`H|IrZhIbKdYvlB`a@vpArQveBlA`v@dWhcArAl~@l\\zgAO~g@ze@|{A_C|a@`Cvh@hIzYrHzm@gCj_B|Exd@l]~j@bi@r@qBrIlBwInIjBfEfHbCpXfQ|@`Ghq@nNdZH~^tGpGtFlf@|KlVdKrlBwA~iA{h@dwCq[poAgAxPmBJch@zfFnByCtAsTiKxo@qGp`AvNfDhFs{A{HuA`[`Ep[yB|StW"
+      }, 
+      "total_elevation_gain": 696.7, 
+      "average_speed": 4.992, 
+      "moving_time": 16073, 
+      "start_latlng": [
+        45.7, 
+        -121.55
+      ], 
+      "max_speed": 15.6, 
+      "end_latlng": [
+        45.57, 
+        -122.34
       ]
     }, 
     "2015-07-15T15:49:14Z": {
