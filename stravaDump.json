@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 40327.09999999999
+      "total": 40488.2
     }, 
     "distance": {
-      "dailyAverage": 100663.01571428572, 
-      "total": 7046411.100000001
+      "dailyAverage": 100327.94788732394, 
+      "total": 7123284.3
     }, 
     "moving_time": {
-      "total": 1356441
+      "total": 1368779
     }
   }, 
   "rides": {
@@ -304,6 +304,27 @@
       "end_latlng": [
         39.08, 
         -108.53
+      ]
+    }, 
+    "2015-08-02T20:46:38Z": {
+      "distance": 76873.2, 
+      "name": "Day 92: Portland to Prescott", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a360078260", 
+        "summary_polyline": "}bqtGlfqkVL{BaFr@XnPsKfAmyB_AqHbHo`@py@Eba@_PbN}a@lGol@iKmXiB{IrBkClHfF|NfAJKhCkYz`@kKdTrCnBrSo@Tja@mb@?jAzaCiLdAAzWuFZOxAcFqALrWoDpLsg@re@eu@t{@wBl@uHxLeG~Pmf@pq@w`@dq@o`@f\\ku@zu@_Vd_@kU`e@_TpSgl@t^a_@dZy`@zb@eo@`kAw[z`@_Zdh@}\\lZ{jAnzAe[pr@{g@|s@s`@la@ul@nd@mo@dYeWlCcaA{Nij@cBwf@tDsrAdSeqIpVyoB{v@}a@kSgUsMq^__@woB_pAkvCgrAod@ma@_c@}d@{DyCaBf@xGe}@qMlGfEn\\?pIuAlFuOmI}~@gYu[qRu|@Vyq@hHe\\dNqwC|dCc|@feAwf@hf@uVhf@m`@zQkRnEal@~Waw@i@{_@oJkJf@qh@|Yab@rIub@`ZkOdFcj@cDk]yKmv@tCgUjOmKdSiRrKuOnQ_OmFaBl@F|E"
+      }, 
+      "total_elevation_gain": 161.1, 
+      "average_speed": 6.231, 
+      "moving_time": 12338, 
+      "start_latlng": [
+        45.48, 
+        -122.65
+      ], 
+      "max_speed": 11.5, 
+      "end_latlng": [
+        46.03, 
+        -122.89
       ]
     }, 
     "2015-06-28T22:02:48Z": {
