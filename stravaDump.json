@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 40488.2
+      "total": 41475.899999999994
     }, 
     "distance": {
-      "dailyAverage": 100327.94788732394, 
-      "total": 7123284.3
+      "dailyAverage": 100393.22638888888, 
+      "total": 7228312.3
     }, 
     "moving_time": {
-      "total": 1368779
+      "total": 1390625
     }
   }, 
   "rides": {
@@ -745,6 +745,27 @@
       "end_latlng": [
         40.7, 
         -111.81
+      ]
+    }, 
+    "2015-08-03T14:46:36Z": {
+      "distance": 105028.0, 
+      "name": "Day 93: Prescott to THE PACIFIC OCEAN! AAHHHHHH!!!!", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a360726234", 
+        "summary_polyline": "su}wG|g`mV~CoCrMnCcp@hy@iS`Lk~@nA{v@}Q_LDeOxDwR`OkuA~uA_MlPeWl_A}MrmA^hFgAsY`C`CuExb@eNh[oDjP}MlqC}Kdi@mAxe@cIrhAr@tKrRfq@`Eva@Slg@aUpuGdBh^hNvo@pFp_@bEncB}Ir}@g@rSdObtAf@tTmSrzB{QnwAmDdJsLvKcCnJk@xZxBxXArXpDry@]jz@}Pvc@uUjLg]fn@_d@`|AmKvs@lB~\\v{@`sH|Bd_@[|c@oSnfBuq@l`F}FtXmPhi@eJ`SiKpNzA|@sBSgXfh@swBfzEy`@byAeTtY{HtGyU{AeH~AcHtKaBdOsDwMxDuDg@jCOeBvAg@mCd@aAvD~ApE|MzmAuKhzBlNbu@j@pQeCvQuTdd@eNpp@sKjbB|Dz`@{Abp@bDtu@zMhpApWriBz]lcNq@zSqf@xjEdBlPjTv|@rAtNi@nKcMb]iBhL[bj@sCpk@lCf]KxRqCnOr@x\\zC~e@jIfPpHnDrBbReGx]iMlWeHpCoVFkGmE}R{W}Nm@oHgFaMrD_G~KqIbDmFvNoOnK{DxTkHvSoAlPs@zm@bDnWk@hnAzC~Rh@|q@xZp~@~@zGyCjSbAhl@_B|PYn`@{CxQSzu@dBzI|`@jgAtGnDpD|Idr@tv@jx@`dChgAh}Bh^`[vzAfgAhKhDrOaBxeCsj@`i@uORls@dOxjB"
+      }, 
+      "total_elevation_gain": 987.7, 
+      "average_speed": 4.808, 
+      "moving_time": 21846, 
+      "start_latlng": [
+        46.03, 
+        -122.89
+      ], 
+      "max_speed": 15.1, 
+      "end_latlng": [
+        46.1, 
+        -123.94
       ]
     }, 
     "2015-06-01T14:54:15Z": {
