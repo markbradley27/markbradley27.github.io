@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 41777.3
+      "total": 41475.899999999994
     }, 
     "distance": {
-      "dailyAverage": 99134.47397260272, 
-      "total": 7236816.6
+      "dailyAverage": 100393.22638888888, 
+      "total": 7228312.3
     }, 
     "moving_time": {
-      "total": 1393208
+      "total": 1390625
     }
   }, 
   "rides": {
@@ -222,25 +222,25 @@
         -71.58
       ]
     }, 
-    "2015-08-09T00:21:41Z": {
-      "distance": 8504.3, 
-      "name": "Fremont Older", 
+    "2015-05-20T17:19:54Z": {
+      "distance": 82788.8, 
+      "name": "Day 18: Niagara Falls to Hamilton", 
       "map": {
         "resource_state": 2, 
-        "id": "a364634040", 
-        "summary_polyline": "ykqbFj|}gV_A_@y@zFsMtHp@dCiDcAZ~EeA`B}Ih@aGkMmDoAf@yP_KiA|BaNaCcH|AaAlNpPtAmDu@{@lClAZlJjC`Fd@tM~DbDn@nGhCpBrA`RfFSmDhDV~Ih\\tGzQsXaK~BcEuEbA`JiFdBeFeCoAhEaCj@sCoCi@uHoFNcAyPcDwD[kEjDt@s@wCfMiHz@yFfAh@"
+        "id": "a308540631", 
+        "summary_polyline": "}y~eGt{~aNl@Lc@vImf@lAoCjPkL|YcIdg@wAz|@wO|e@}Aza@qDzXMp^gHxWahAvC{As{@ceAtAgBk@}BiIoGiByFvGyB@_HeJmEKyNyKuBuIJyMugAn@aPhBvp@tjC`AxQdGdK`g@fmBbFxGj@dMkQ~Fr@vLg@~QyCbAgEtIfG~tAoiAdGoYdJpAzUbInEuEdKg@|IxBhCm@bCgJbOmLlIgItUK`GoHlQeq@h]_IxJ_EdN_XpMkBfJbCld@c@~MiChKeP`AjEd_@aD~dAyBlIaKpIsAhKZkCV~FpGhHbA|EpDvlGeKt[cAd[uVr{@}Fpm@@zr@gHrUbAvDf_@k@nE|vFdGbfEvDp@cDz`@tB~{EcEnFyX~q@wAdfB}b@rqCmDhMkSxb@aMdeAwRvvB_^OyY|BExSgWfnB}VjeBaCfC`AcBbCvBmK|C}BnH@pHtGvL_A~Mup@fqEcYfaByB|CwJ|AcCpGyCfb@\\vGaCvStFxCmMl}@{EK{DjIX~Q}@rIo@vDyGdK_AlOmK|r@mOmEdJvCiAvF_GhB^tg@qKzd@iS~`@oSzW`HbLiEhCSfFlEJnBpRpQ~RuGdf@tk@~RiS`zA\\xEgA^mJ~j@wRzwAeCu@QwCsI|dAmc@lgCgi@nkDpy@hYmDn[~O`I"
       }, 
-      "total_elevation_gain": 301.4, 
-      "average_speed": 3.292, 
-      "moving_time": 2583, 
+      "total_elevation_gain": 90.8, 
+      "average_speed": 5.067, 
+      "moving_time": 16338, 
       "start_latlng": [
-        37.29, 
-        -122.06
+        43.09, 
+        -79.13
       ], 
-      "max_speed": 10.1, 
+      "max_speed": 13.9, 
       "end_latlng": [
-        37.29, 
-        -122.06
+        43.26, 
+        -79.89
       ]
     }, 
     "2015-05-21T17:42:37Z": {
@@ -936,25 +936,25 @@
         -73.2
       ]
     }, 
-    "2015-07-08T14:28:43Z": {
-      "distance": 117378.0, 
-      "name": "Day 67: Price to Provo", 
+    "2015-07-20T15:53:19Z": {
+      "distance": 43192.5, 
+      "name": "Day 79: Glenns Ferry to Mountain Home", 
       "map": {
         "resource_state": 2, 
-        "id": "a342094597", 
-        "summary_polyline": "catpFf_ocTgDdHuF@yEiEc@cL_YsHcXMdQuJvEoVIyb@iBzAqBsLqFg@cvAfdAe|BjqCsVjSupEjNq]uFkh@wVuTgA_LxFSxGkBcDiNji@sR|O{z@bLq^mKgUdGwc@cVmV`OqQUqe@bb@sa@zKwObZi[d]yQ`Cey@bi@sSb[uC`\\pBi@iAuBwE|Rai@x`@eIhN{ObHgHdR_b@te@yRdb@u`@jWcr@bD}Kpb@iVf_@iMp@go@a\\sh@fe@ao@bbBwpApgEgPn{@mS|_@yqNd}LU~^wNxTaMje@{Br|@zD`[iG~aAzBtp@wLnf@sB`XlIrfA`IvWk@h^rK`i@tOfpBmDhtAeDdLwIvGgd@kDeU~IeY|a@_Kxn@yKh]mDqIbCfM{Vf}@{Cvu@iLvk@\\nZbT~fAkDbg@dN|a@yBjiBaTbx@c{@v~@sBbPfDd_@gBzQioAzyD}b@x|@c^faA`@xVmKh\\kCvbB_Mhc@kN|TsDxbA|Gp_B{Av~AtHvi@gC~bBgChWiXhu@gJjp@cRrM}u@d@}U|Ts{@re@oGvNuF~b@gW`d@wDti@wKjm@id@x}A{QhOu`@gBmOzJcMvaAcY|n@_QvLaPvU{]bPafA|cAaXrMel@dHu_A|f@cxE|B_d@bZok@nSeYh\\icAl@|Q_Am@lWxOp@a@lkD|EdB|B|KwCoMcg@Mm@uVm_@tEoc@mGouBxDkaAbTgB~X}d@TiZ~OmA|QqRjATzb@e^C[ot@al@a@"
+        "id": "a350427211", 
+        "summary_polyline": "yfeeGhvw~TyDo@U|Na[GdE|]kTlfC@`k@cHh`@oLpPaQjNyJ`DoO_CcZ_TwIvBmOvj@iQzUcHbx@gVdx@wWze@uaBxsBqCbVo@~y@ka@vs@a`@hz@uoBxyFwoBnBor@li@}k@dTaEvENrKbLv{@sKx`BcV|wEiv@`oPg@bnBoA`D`BvMEfNsaEb}CuaBU"
       }, 
-      "total_elevation_gain": 1147.4, 
-      "average_speed": 5.575, 
-      "moving_time": 21054, 
+      "total_elevation_gain": 256.9, 
+      "average_speed": 5.867, 
+      "moving_time": 7362, 
       "start_latlng": [
-        39.59, 
-        -110.84
+        42.96, 
+        -115.31
       ], 
-      "max_speed": 17.0, 
+      "max_speed": 12.1, 
       "end_latlng": [
-        40.23, 
-        -111.65
+        43.14, 
+        -115.69
       ]
     }, 
     "2015-05-03T14:33:43Z": {
@@ -1230,27 +1230,6 @@
         -75.39
       ]
     }, 
-    "2015-05-11T12:55:03Z": {
-      "distance": 148023.0, 
-      "name": "Day 9: Plattsburgh to Potsdam", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a302691726", 
-        "summary_polyline": "suzoGt_j_MgN`AcAkFP{FnAsAaB_AW_G~@gCmAjBlA`Xs@zA|@h@gOnJaHjLqWro@wCxS`Cpm@zGhy@zF`aBbC~tBk@rS{Kxi@mBvVqNnNaHtBig@`@iV`Do_@n[y_@hRy_AbHe_ApTusA~EyUdDyg@hX{aAnp@uN~Ykb@`h@eInW_pAfkCqKrXsi@htBkJnW_Z`b@oVxg@ki@tj@u]`r@ko@hz@oYfi@{Wfw@it@drAeNr`@kPfWwMvi@{MxfAxF|p@tHdZp@zI{@rk@{H`]}A|ZxCnmAg@l`AdDbeA}Mjp@wYtcAsPvhAoAja@p@xrA_CrIAhQ}Jt_AoAh^wShdC}Ivj@sOvd@iKb}@_Kh_@g^fdAcLvR{ThS_u@luAyfApzBiCnKk@tN~m@niM|AtTdG~^qBfi@~IrjBlGhqCbb@lgLlKntFzZj}@`r@|dBvtDrjBIjAhDc@`VtF|s@hUjGbKn_AryBnDtMrK|vB|RzhMpNpdApUvyLbN~iA~H~{CvHr^jGncBhKxUzLhhBbgAhuE|AfBQ`F|Mjn@dAv@lGb^lVdg@fe@re@bWbs@|Q|yApO`s@tfBnmDtB`IMpImH~\\V~XdQhlFhPl|BiAnj@yFdr@t@vmAuAd`@mTf{As@zPdKhjBdu@txB~H|Y|Q|x@bDzu@rP|v@tt@nuBfk@pzAbBtAJfF|aA~{D|q@xp@tOvK}@iBj@hDtlA~cBfv@boA~CdCjnDltFtB~N_@nL"
-      }, 
-      "total_elevation_gain": 874.9, 
-      "average_speed": 5.632, 
-      "moving_time": 26283, 
-      "start_latlng": [
-        44.71, 
-        -73.46
-      ], 
-      "max_speed": 14.7, 
-      "end_latlng": [
-        44.67, 
-        -74.99
-      ]
-    }, 
     "2015-05-25T14:04:47Z": {
       "distance": 76973.5, 
       "name": "Day 23: Clawson to Ann Arbor", 
@@ -1314,25 +1293,25 @@
         -117.27
       ]
     }, 
-    "2015-05-20T17:19:54Z": {
-      "distance": 82788.8, 
-      "name": "Day 18: Niagara Falls to Hamilton", 
+    "2015-05-11T12:55:03Z": {
+      "distance": 148023.0, 
+      "name": "Day 9: Plattsburgh to Potsdam", 
       "map": {
         "resource_state": 2, 
-        "id": "a308540631", 
-        "summary_polyline": "}y~eGt{~aNl@Lc@vImf@lAoCjPkL|YcIdg@wAz|@wO|e@}Aza@qDzXMp^gHxWahAvC{As{@ceAtAgBk@}BiIoGiByFvGyB@_HeJmEKyNyKuBuIJyMugAn@aPhBvp@tjC`AxQdGdK`g@fmBbFxGj@dMkQ~Fr@vLg@~QyCbAgEtIfG~tAoiAdGoYdJpAzUbInEuEdKg@|IxBhCm@bCgJbOmLlIgItUK`GoHlQeq@h]_IxJ_EdN_XpMkBfJbCld@c@~MiChKeP`AjEd_@aD~dAyBlIaKpIsAhKZkCV~FpGhHbA|EpDvlGeKt[cAd[uVr{@}Fpm@@zr@gHrUbAvDf_@k@nE|vFdGbfEvDp@cDz`@tB~{EcEnFyX~q@wAdfB}b@rqCmDhMkSxb@aMdeAwRvvB_^OyY|BExSgWfnB}VjeBaCfC`AcBbCvBmK|C}BnH@pHtGvL_A~Mup@fqEcYfaByB|CwJ|AcCpGyCfb@\\vGaCvStFxCmMl}@{EK{DjIX~Q}@rIo@vDyGdK_AlOmK|r@mOmEdJvCiAvF_GhB^tg@qKzd@iS~`@oSzW`HbLiEhCSfFlEJnBpRpQ~RuGdf@tk@~RiS`zA\\xEgA^mJ~j@wRzwAeCu@QwCsI|dAmc@lgCgi@nkDpy@hYmDn[~O`I"
+        "id": "a302691726", 
+        "summary_polyline": "suzoGt_j_MgN`AcAkFP{FnAsAaB_AW_G~@gCmAjBlA`Xs@zA|@h@gOnJaHjLqWro@wCxS`Cpm@zGhy@zF`aBbC~tBk@rS{Kxi@mBvVqNnNaHtBig@`@iV`Do_@n[y_@hRy_AbHe_ApTusA~EyUdDyg@hX{aAnp@uN~Ykb@`h@eInW_pAfkCqKrXsi@htBkJnW_Z`b@oVxg@ki@tj@u]`r@ko@hz@oYfi@{Wfw@it@drAeNr`@kPfWwMvi@{MxfAxF|p@tHdZp@zI{@rk@{H`]}A|ZxCnmAg@l`AdDbeA}Mjp@wYtcAsPvhAoAja@p@xrA_CrIAhQ}Jt_AoAh^wShdC}Ivj@sOvd@iKb}@_Kh_@g^fdAcLvR{ThS_u@luAyfApzBiCnKk@tN~m@niM|AtTdG~^qBfi@~IrjBlGhqCbb@lgLlKntFzZj}@`r@|dBvtDrjBIjAhDc@`VtF|s@hUjGbKn_AryBnDtMrK|vB|RzhMpNpdApUvyLbN~iA~H~{CvHr^jGncBhKxUzLhhBbgAhuE|AfBQ`F|Mjn@dAv@lGb^lVdg@fe@re@bWbs@|Q|yApO`s@tfBnmDtB`IMpImH~\\V~XdQhlFhPl|BiAnj@yFdr@t@vmAuAd`@mTf{As@zPdKhjBdu@txB~H|Y|Q|x@bDzu@rP|v@tt@nuBfk@pzAbBtAJfF|aA~{D|q@xp@tOvK}@iBj@hDtlA~cBfv@boA~CdCjnDltFtB~N_@nL"
       }, 
-      "total_elevation_gain": 90.8, 
-      "average_speed": 5.067, 
-      "moving_time": 16338, 
+      "total_elevation_gain": 874.9, 
+      "average_speed": 5.632, 
+      "moving_time": 26283, 
       "start_latlng": [
-        43.09, 
-        -79.13
+        44.71, 
+        -73.46
       ], 
-      "max_speed": 13.9, 
+      "max_speed": 14.7, 
       "end_latlng": [
-        43.26, 
-        -79.89
+        44.67, 
+        -74.99
       ]
     }, 
     "2015-07-22T16:30:52Z": {
@@ -1524,25 +1503,25 @@
         -117.83
       ]
     }, 
-    "2015-07-20T15:53:19Z": {
-      "distance": 43192.5, 
-      "name": "Day 79: Glenns Ferry to Mountain Home", 
+    "2015-07-08T14:28:43Z": {
+      "distance": 117378.0, 
+      "name": "Day 67: Price to Provo", 
       "map": {
         "resource_state": 2, 
-        "id": "a350427211", 
-        "summary_polyline": "yfeeGhvw~TyDo@U|Na[GdE|]kTlfC@`k@cHh`@oLpPaQjNyJ`DoO_CcZ_TwIvBmOvj@iQzUcHbx@gVdx@wWze@uaBxsBqCbVo@~y@ka@vs@a`@hz@uoBxyFwoBnBor@li@}k@dTaEvENrKbLv{@sKx`BcV|wEiv@`oPg@bnBoA`D`BvMEfNsaEb}CuaBU"
+        "id": "a342094597", 
+        "summary_polyline": "catpFf_ocTgDdHuF@yEiEc@cL_YsHcXMdQuJvEoVIyb@iBzAqBsLqFg@cvAfdAe|BjqCsVjSupEjNq]uFkh@wVuTgA_LxFSxGkBcDiNji@sR|O{z@bLq^mKgUdGwc@cVmV`OqQUqe@bb@sa@zKwObZi[d]yQ`Cey@bi@sSb[uC`\\pBi@iAuBwE|Rai@x`@eIhN{ObHgHdR_b@te@yRdb@u`@jWcr@bD}Kpb@iVf_@iMp@go@a\\sh@fe@ao@bbBwpApgEgPn{@mS|_@yqNd}LU~^wNxTaMje@{Br|@zD`[iG~aAzBtp@wLnf@sB`XlIrfA`IvWk@h^rK`i@tOfpBmDhtAeDdLwIvGgd@kDeU~IeY|a@_Kxn@yKh]mDqIbCfM{Vf}@{Cvu@iLvk@\\nZbT~fAkDbg@dN|a@yBjiBaTbx@c{@v~@sBbPfDd_@gBzQioAzyD}b@x|@c^faA`@xVmKh\\kCvbB_Mhc@kN|TsDxbA|Gp_B{Av~AtHvi@gC~bBgChWiXhu@gJjp@cRrM}u@d@}U|Ts{@re@oGvNuF~b@gW`d@wDti@wKjm@id@x}A{QhOu`@gBmOzJcMvaAcY|n@_QvLaPvU{]bPafA|cAaXrMel@dHu_A|f@cxE|B_d@bZok@nSeYh\\icAl@|Q_Am@lWxOp@a@lkD|EdB|B|KwCoMcg@Mm@uVm_@tEoc@mGouBxDkaAbTgB~X}d@TiZ~OmA|QqRjATzb@e^C[ot@al@a@"
       }, 
-      "total_elevation_gain": 256.9, 
-      "average_speed": 5.867, 
-      "moving_time": 7362, 
+      "total_elevation_gain": 1147.4, 
+      "average_speed": 5.575, 
+      "moving_time": 21054, 
       "start_latlng": [
-        42.96, 
-        -115.31
+        39.59, 
+        -110.84
       ], 
-      "max_speed": 12.1, 
+      "max_speed": 17.0, 
       "end_latlng": [
-        43.14, 
-        -115.69
+        40.23, 
+        -111.65
       ]
     }, 
     "2015-07-27T19:06:42Z": {
