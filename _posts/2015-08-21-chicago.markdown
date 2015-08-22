@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "Chicago"
+subtitle:   "Whizzing through the Windy City"
+date:       2015-08-21 19:30:00
+author:     "Varun"
+header-img: "img/post10/IMG_20150607_112743.jpg"
+---
+
+
+Fellow Faithful followers of Coolsville, another guest post for you to read!
+
+After trekking across Baltimore in the wee hours of the morning I jumped on a plane to the Windy City.  Then, after flying across a large section of the country (I know, not as cool as biking) with the sun rising at my back I finally landed in Chicago at 7:30 AM.  I had already been awake for 5 hours.  I headed to Wicker Park where my sister, Aneesha, lives as I figured my friends Mark, Debz, and special guest Alexx (making another appearance in this episode of Downtown Coolsville) were probably asleep.  As someone who doesn’t believe in times before 10:00 AM, this was a profound experience.
+
+Heading out from Aneesha’s loft, I met up with the three travelers for some breakfast at Lou Mitchell’s where we ate omelettes fluffier than baby rabbits.  The plan was to do some sightseeing around Millennium Park, home of The Bean and a couple of other cool architectural pieces.  Unfortunately, I typically get around on either two legs or four wheels, as opposed to my friends on their two wheels (why doesn’t anyone ever try four legs, tiger cavalry!).  At first we considered getting on the L, but getting their three bikes and gear on the train didn’t sound so good.  We then considered just walking, but hauling all of that stuff- Wait, this is a post on a biking blog!  Where are the bikes?!  As it turns out Chicago’s Department of Transportation runs a bike sharing program called Divvy and there was a stop pretty close to where we were.  To my friends’ surprise, I was down to and able to ride a bike (seriously how would I have forgotten how to ride a bike? I’M A PHYSICIST!).
+
+{% include figures.html 1src='/img/post10/IMG_20150605_130707.jpg' 1weight=12 %}
+
+With my impossibly-well-coordinated outfit and bike combo, we set off for the park.  To be fair, I hadn’t done very much riding in an urban area, let alone one as large as Chicago, but after a few blocks I think I had the hang of it.  I will say keeping up with the three practiced cyclists was not the easiest thing I’ve done, but I think that’s partially because the bikes have 3 gears which I like to call: “Am I moving?”, 2, and ‘OkayIGuessWe’reDoingSquatsNow’.  Whatever, I made it and was only a little tired.  At the park we saw a number of cool things such as a face wall/fountain, statues of heads in strange proportions, and of course, The Bean itself.
+
+{% include figures.html 1src='/img/post10/thebean.jpg' 1weight=4 2src='/img/post10/IMG_20150605_145047.jpg' 2weight=8 %}
+
+After leaving the bean and doing some walking around Lake Michigan and the Field Museum campus we decided it was time to go climbing.  We biked over to Brooklyn Boulders Chicago.  Getting around on the Divvy bike this time was definitely more interesting, as we rode through more traffic as well as a college campus (I think I got pretty good at dodging pedestrians).  Alexx and Mark mostly bouldered, while Debz and I decided we wanted to mostly top rope.  Debz and I were only able to climb a fraction of the routes, as we were only allowed to use the routes with auto-belayers (something about us not being able to tie knots, we’d be terrible boy scouts).  The gym also featured a small weight lifting area, where Debz and I hung out for a bit.  I tried to teach her how to properly do squats, but somehow both the barbell and Debz ended up on the ground.  We went back to just climbing.
+
+By the time we finished climbing, we were starving, so we grabbed our dinner and planned out the remainder of the night.  Since we were in Chicago, it made sense to try to find a place to hang out at that we wouldn’t be able to find in other cities, so we decided to go to Emporium, a bar near my sister’s.  However, this wasn’t just any bar.  Lining the walls of the establishment were dozens of old arcade games like Pac Man, Missile Command, Donkey Kong and numerous others.  That’s right, arcade bar.  Barcade.  To make it even more cool, there was a live “band” playing.  The band, Terrible Spaceship, was playing a set synchronized to scenes from Plan 9 from Outer Space.  Space.  Arcade.  Music.  Bar.  Barcade space opera.  I can’t say I really understood much of what was going on (and I don’t think anyone else could either), but between the games, libations, and out of this world musical montage, a good time was had.
+
+{% include figures.html 1src='/img/post10/IMG_20150605_232540.jpg' 1weight=12 %}
+
+
+The next day, the weather was much better than the previous day. Debz and I got brunch with Aneesha and her husband, Kirk.  To enjoy the nice weather we decided to have brunch at Milk and Honey in Wicker Park (a great breakfast spot if you find yourself in chicago).  After breakfast we went to the opening of the Bloomingdale Trail, an elevated linear park/trail running through a few miles of Chicago.  The festivities included a few vendors, a flag making area, and live music including a drum corps!  We enjoyed the sun some more and headed back, probably because Kirk and I were getting more sweaty than what is socially acceptable.
+
+We met up with Mark and Alexx again at Aneesha’s place and hung out with the star of the show, Roxie.  Weighing in at 3.5 pounds our questionably Mexican friend always pulls looks from passersby on the street.  She is also a dog.  When Roxie got bored of all of us, we went onto the roof to see the Chicago skyline.
+
+{% include figures.html 1src='/img/post10/IMG_20150606_144938.jpg' 1weight=6 2src='/img/post10/IMG_20150606_095824.jpg' 2weight=6 21src='/img/post10/skyline.jpg' 21weight=12 %}
+
+We then decided we wanted to go see the movie Tomorrowland, so we Ubered over to a theater, got our ridiculously overpriced snacks for the quintessential theater experience and watched.  I’d give it about a ‘Meh’ out of 10, so if you’d like to watch it wait for it to play on ABC Family instead of spending too much money.  Alexx’s bus back to NY was leaving later that night, so Mark and Alexx split off in order to make sure Alexx had enough time to get her bike all packed up before getting on the bus.
+
+While they were doing that, Debz and I met up with Aneesha and Kirk, as well as Kirk’s brother and his girlfriend to celebrate Kirk’s birthday!  The plan was to go Rickshaw Republic, a BYOB Indonesian restaurant, but the 1-1.5 hour wait to actually be able to eat did not sound appealing to us, especially Debz, who I think would have eaten a rock if it came to that (seriously she really loves rocks...weird).  To fix that we decided to wait it out at the sub/gyro shop next door, as cheese fries are the best appetizer for Indonesian cuisine.  Not too long later we were seated at Rickshaw Republic, which featured interesting decor including abstract paintings, fans, and dolls suspended from the ceiling. We chose our entrees more-or-less randomly off of the menu.  Despite that, it all turned out to be tasty, and we were able to celebrate in good company.
+
+{% include figures.html 1src='/img/post10/IMG_20150606_220548.jpg' 1weight=12 %}
+
+After dinner Mark joined up with all of us back at Aneesha’s place, but we were too tired and full to even make anything of the rest of the night, so we decided to just stay in for the night.  With all of us spending the night in either Aneesha’s living room or Kitchen, it felt like we had quite the slumber party going on.  Kirk calling out to us all individually and wishing us goodnight definitely solidified that feeling.
+
+The next morning we met up with one of Debz friends, Pietro, for breakfast at Wildberries.  Since that is quite a popular Sunday brunch spot, there was another long wait.  Pietro showed us around the area where we saw parts of the Chicago River and Navy Pier.  He then brought us up to the roof of his apartment complex where we enjoyed another magnificent view of Chicago’s skyline as well as Lake Michigan.  At Wildberries, we all swapped bits of different kinds of pancakes, and again the food was delicious.  Alas, Mark and Debz had to be on their way to Denver not too long after breakfast, so as usual I told my friends they’re crazy for doing this whole thing and sent them on their way.
+
+{% include figures.html 1src='/img/post10/IMG_20150607_112755.jpg' 1weight=6 2src='/img/post10/IMG_20150607_110317.jpg' 2weight=6 %}
+
+And so Downtown Coolsville rode off into the sunset- alright, it was overcast and the early afternoon, but you get the idea.  This isn’t goodbye, it’s see you later!
+
