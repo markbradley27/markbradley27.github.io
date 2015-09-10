@@ -9,6 +9,8 @@ header-img: "img/post11/IMG_20150608_171039.jpg"
 
 After our visit to Chicago, the next big destination was the Denver/Boulder area where our good college friend Mike Chan lives. Deb's friend Joe lived in Naperville, just west of Chicago, so he was the first stop on the next leg of our trip. It was a short ride so we got a late start, and mostly retraced the same bike paths we had taken into the city a few days prior. Joe was appalled to learn that we hadn't actually tried Chicago-style deep-dish pizza during our visit, so he insisted that we go get some. For dessert, some Not Your Father's (and not for kids!) Root Beer.
 
+{% include figures.html 1src="/img/post11/IMG_20150608_092508.jpg" 1weight=12 1caption="Joe!"%}
+
 The next morning, Joe decided to go into work late and took us to a cafe for breakfast. We had lined up a WarmShowers host for that night, so after breakfast we set out for Sterling, IL. The beginning of the ride took us through the outskirts of Chicago suburbs, but once we hit the farm fields of western Illinois, a strong headwind slowed us way down. We stopped at tiny Lee, IL for lunch, only to discover that the only place to get food was a pub whose kitchen wasn't open yet. Luckily we happened to be under an awning talking to one of the pub-goers right as a thunderstorm rolled through.
 
 {% include figures.html 1src="/img/post11/IMG_20150608_152357.jpg" 1weight=12 %}
