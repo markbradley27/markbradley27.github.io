@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "DAMBRAI"
+subtitle:   "Pleasantly surprised"
+date:       2015-09-24 9:00:00
+author:     "Mark"
+header-img: "img/post12/IMG_20150613_205633.jpg"
+---
+
+Throughout the next few days, we constantly heard from people about RAGBRAI, or “The Register’s Annual Great Bicycle Ride Across Iowa”, a 7 day party on wheels where thousands of riders explore all that small-town Iowa has to offer. Here, we give you DAMBRAI, or “Debz’ and Mark’s Beautiful Ride Across Iowa” (we did it in less than 5 days!).
+
+Our host Bruce in Port Byron joined us for the first 20 miles of our first day, helping us navigate through construction along bike paths and across the Mississippi river into Davenport, Iowa. After a quick lunch, the rest of the day was hot and humid along long stretches of rural road. Eventually, we made it to Iowa City where our hosts Anna and Gwen let us take welcome showers and made us homemade pizza for dinner! Later, Anna showed us around downtown Iowa City, where we checked out the community vegetable gardens, and got froyo for dessert.
+
+{% include figures.html 1src="/img/post12/IMG_20150610_205651.jpg" 1weight=6 2src="/img/post12/IMG_20150611_083011.jpg" 2weight=6 %}
+
+The next morning, we went to the local food co-op for breakfast before heading west. The forecast was calling for some nasty thunderstorms, so we really had no idea how far we’d get that day. After making it a few towns down the road, it started to sprinkle on us, so we took shelter in the local library. A few hours later, it looked like the rain would continue, but the thunder and lightning would swing around us, so we donned our rain gear and pushed on. The rain came and went as we rolled over hill after hill (isn’t Iowa supposed to be flat?). Eventually, it looked like we’d actually make it to the next WarmShowers host on our route, so with two hours notice we decided to give her a call. Susanne was incredibly hospitable, and said we were more than welcome at her place! After a quick meal, we set out to complete the last 20 miles to her place in Newton. As we got closer and closer, the sky got darker and darker, but luckily we got to her town without seeing any lightning. We were still a bit hungry, so we stopped in an Arby’s for a post-dinner snack. Within a minute, those clouds decided they couldn’t hold it any longer and started absolutely pouring. We let Susanne know we’d probably be a bit late, and tried to wait out the storm. After ten or fifteen minutes, the rain let up, so we jumped on the opportunity. The first few miles to her house were dry, the last few were not… We must have looked pretty pathetic when we showed up on her front step, because although we had discussed camping on her lawn, she let us sleep inside, use her shower, and hang up all our wet clothes! In the morning, she even prepared us some delicious avocado jalapeno toast before heading to work. Susanne was a lifesaver!
+
+{% include figures.html 1src="/img/post12/IMG_20150611_193241.jpg" 1weight=6 1caption="Ominous skies" 2src="/img/post12/IMG_20150611_221718.jpg" 2weight=6 2caption="Susanne! There should really be a halo above her head." %}
+
+After a brief forgotten-glove false-start the next morning, we rode the next 30 miles into Des Moines, which turned out to be nicer than expected! Some downtown food trucks provided a tasty lunch, and we met some other local cyclists while eating in a green, sculpture-filled park. After checking out the local library, Deb went off to do a capital tour while I enjoyed some coffee shop web browsing (and blog posting, believe it or not!). It turns out Des Moines has a pretty extensive bike path network, and we made record time biking through scenic woods and fields on our last 30 miles of the day. Our host Louise wasn’t home yet, but she had left snacks for us, and told us all about her many touring and hosteling adventures when she arrived. Okay Iowa, I see you, steppin’ up your game…
+
+{% include figures.html 1src="/img/post12/IMG_20150612_134744.jpg" 1weight=12 1caption="Downtown Des Moines" %}
+
+The next morning, Louise took us to a community breakfast at the local American Legion Post where we stuffed ourselves with pancakes, eggs, bacon, biscuits, and gravy! With full stomachs, we set out with no real goal in mind. The only WarmShowers hosts were further than we wanted to commit to, so we figured we’d go until we couldn’t and sleep where we could. The morning was mostly gravel roads, but the good kind where all the gravel is pushed to the side and you’re mostly biking on hard-packed dirt. Hill after rolling hill (Iowa is not flat.) provided nice little downhill sprints, and incredible views of windmill speckled horizons. After snacking in Anita and having lunch in Atlantic, the blanket of clouds even started to break up. By the evening, we were riding along beautiful green fields, enjoying one of the best sunsets we’d seen yet! Based on satellite images, we knew Treynor, IA had a baseball complex, so we planned on hopping the fence and sleeping in a dugout. As we were checking the map on the side of the road, a couple in a car pulled up, rolled down the window, and asked us where we were heading. Before we knew it, they had invited us to their place, given us our own beds to sleep on, and cooked us dinner (and breakfast the next morning)! Turns out they were RAGBRAI veterans, and had done some cross-country bike touring of their own!
+
+{% include figures.html 1src="/img/post12/IMG_20150613_125744.jpg" 1weight=6 2src="/img/post12/IMG_20150613_192152.jpg" 2weight=6 21src="/img/post12/IMG_20150613_204212.jpg" 21weight=6 22src="/img/post12/IMG_20150614_090243.jpg" 22weight=6 %}
+
+Conclusions: Iowans are awesome people, Iowa is a beautiful state, and hills really aren’t so bad!
+
