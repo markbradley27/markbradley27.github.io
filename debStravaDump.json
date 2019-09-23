@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 7063.5
+      "total": 8218.2
     }, 
     "distance": {
-      "dailyAverage": 73277.57777777777, 
-      "total": 659498.2000000001
+      "dailyAverage": 73148.48999999999, 
+      "total": 731484.9
     }, 
     "moving_time": {
-      "total": 140719
+      "total": 160651
     }
   }, 
   "rides": {
@@ -178,6 +178,27 @@
       "end_latlng": [
         43.51, 
         16.44
+      ]
+    }, 
+    "2019-09-23T09:40:18Z": {
+      "distance": 71986.7, 
+      "name": "Day 11: Split to Makarska", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2733742468", 
+        "summary_polyline": "w~phGo{icBRqDqBcCoA`@gJwG^aJxDsU~@ka@qSa~BqGmZsEue@JyIvHsi@wD{XxAkIiD{IZqGk@{N`@{IlCiGUwHpCwEtDe^fEeHv@aM|HoE`CsEb@_HvE_JV{JhE{L`A]jIdDfMmb@{YcZsOkHoKiA{IsLwIwD{CgDuGeBc@}A^iEcBmInCwIzNsu@tSg\\|E{NvX}[pCoJlSgZvXoi@tEsNRqP|E{KrD_Y|I}ZnJgLdKkC`XeWxK}Gc@c@xEaInBgMXgP~ImYfE}XhIkNhPw_@hIk^z@kI^wWuDqG_A_F`AeOfKy`@|HiMnBqP`Lc]bL_XlBmIbOq_@hBwWSyJp@aP]{TsCoJi@kH`Ew`@NoLeFwCoGIeDpE{AxHuHzTw@EjFmQdAoQfHiPgB{MrAqISyN|@qLpByHpAuNd@yTy@gEnAgOxByHh@aI@eEwAgGjEcPbBQjBqEtJue@pS_o@x@XlAsBrEcBtEyOAoDxIwWHiQgBsJv@mKK}ItCgIjKwe@nCoDzGma@_@{EiC_HuM_A_BjB}BnFkIj]@AsAuLb@yLbCyMRqJiAwI[}VqG}KpGm`@sD{F_@gGvAsIwAgQXkH~@_C]kHzBiDfLcFhB}H\\{LhAoE~GiFLCbFgMrAyLxCqKPwFvD_O|@sLr@{BzByA`EsQUaG~DoMIuI~E_KtFyWSwNnCeU@qNdDsQrBuC`@yKSuLgFeBo@yFjDg`@tCkEhFNbEuF]tFp@vCjT`PaBuLm@aJ|AwBJ_GfBw@fAoDE{Jn@jJgBbNhDx@UrFp@~EbGjKvDtBdDaFxAwFEnGwAzG^VpD_QhAgU`AtQtAoQnEeGnB}Qi@uE~F{FvCc@hDsFnHm[~Sgd@nHgZ|F}OlKaBjKmE|AzFjAVxFkOdKmBdK{IvChBtBeC|GqCcIlL|LuFhKr@r]qd@`OwHtCiFp@uNbGyFxEyN|EgHtFyNzHgc@lDkJ~DwFxF}DpXuH|CoK~DeFxC{HrC}NhIyHlEcMxIaFtZuc@~AcHSbC|BhBw@cFx@kDtBeFrHyHbIqWrBwBAxEpDh@BnB|BOb@vArMc@zBo@|KwK~OaE`Q{XbIwFDnA\\kCxF}D`FoL~LeGjFoK`D}LhK}LRaJzAyF_@P~KkGxFI`M{KdEsG~@aLxFkHtR_S~GaEdFmKpC}BrLqS`FiMhDqB`EAlH}PvDaAfBgDrNiLlQiFjDoI~DcCtEkJnFiRbCsD`AiEo@TgAcBdAoDgBcDt[ya@|@IfE~JlFdAzBqAL{JnBgHpScK}@iEwD{DmKbKlAbBtAo@"
+      }, 
+      "total_elevation_gain": 1154.7, 
+      "average_speed": 3.612, 
+      "moving_time": 19932, 
+      "start_latlng": [
+        43.51, 
+        16.44
+      ], 
+      "max_speed": 13.4, 
+      "end_latlng": [
+        43.29, 
+        17.02
       ]
     }, 
     "2019-09-20T05:13:44Z": {
