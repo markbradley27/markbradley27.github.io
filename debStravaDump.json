@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 8218.2
+      "total": 9274.1
     }, 
     "distance": {
-      "dailyAverage": 73148.48999999999, 
-      "total": 731484.9
+      "dailyAverage": 67354.35454545454, 
+      "total": 740897.9
     }, 
     "moving_time": {
-      "total": 160651
+      "total": 171181
     }
   }, 
   "rides": {
@@ -94,6 +94,27 @@
       "end_latlng": [
         44.99, 
         14.9
+      ]
+    }, 
+    "2019-09-24T08:46:54Z": {
+      "distance": 9413.0, 
+      "name": "Rest day hike up Vosac peak", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2736014331", 
+        "summary_polyline": "uohgG}f}fBAmAeAnAMGHaGq@{@Eq@DMk@LHq@g@TBL?YYCTe@]w@EgAKNEbAOFGWIBAe@?N_@MW[KRIYGe@\\k@?UlA}AJm@@Uo@FB}@FK{AE{@b@KTUGqBx@_@`@kAHAg@WIBgAo@XOWu@`@AO[LKi@sAFYNJ[_@CJKy@]YuA?]HW_AAh@UIO{@b@Cc@KM]PoA[ORu@GUDOZ[I[TUAWb@YOuBVi@Xa@Sa@Br@uAh@c@Ba@^]Xw@Ra@eAPi@IcBb@mA_@COFS`AaAg@S_A?HSa@YHS]eALe@CQg@o@QeBTg@HeAf@g@XcBd@VGU[Uh@GH[z@aA@WY?AgALKHe@b@Ep@_D|@kAGIQLCOPqBv@Gl@_@j@IF[TEMs@~@w@TsCTw@BqAKITkAKcAFc@GqANkAKgANa@UEWc@y@@{@]g@BoDeAq@l@IRVlA[f@V^G~@HFE`@FBOVpA~@c@h@CXpBDHn@a@b@ME?QP@ATEFb@_@Bc@g@[wAFd@gASSy@]Ve@MSNQMAFWQGNg@a@Mb@y@QUOk@N[l@s@`C^v@b@b@C~AZh@Wd@Vy@QNd@ENl@@OP@lBQ^Fd@St@FXPE?^[vC`@U[bBGpAO^BbBkA`ATN?XM?HTUGHL_Al@}AZOLNL]FXh@[l@P@UVMr@OLBRk@pBaA`BCNb@DCZ]n@a@RFZq@E^z@WYGT[HHLKHJRIIMJLZWHBXMHBNY?ELNJQBFT]HDNOTd@VIHLZKDb@b@Pb@@PIFFRKCVt@IDFTGL`@FM\\`A?p@HWj@oAr@@RbAd@dDa@DPb@M\\UOnAe@x@sB~BETbDAlA]jCe@z@KNX`A]FV`@g@NNF`@VWj@KDTSHd@DMr@f@`A`@VCX^RITx@@x@[@`@IXD@l@e@CT|@i@F\\r@e@HZSj@NFLb@z@Fh@a@zA]X[FJPSDZ\\i@nC[e@fA|@GIjAe@PMd@a@XLTi@j@?RLn@FMRTNGBLJC?VFKAVNGEb@VITuAFvAb@l@Ul@ZKKVPAX]Eh@PLPIGf@|@p@G|EMvA\\]b@eATp@Cb@LDHSHJFx@bA?|@|@TEZXRn@t@Mr@H"
+      }, 
+      "total_elevation_gain": 1055.9, 
+      "average_speed": 0.894, 
+      "moving_time": 10530, 
+      "start_latlng": [
+        43.3, 
+        17.03
+      ], 
+      "max_speed": 2.6, 
+      "end_latlng": [
+        43.3, 
+        17.03
       ]
     }, 
     "2019-09-16T07:52:08Z": {
