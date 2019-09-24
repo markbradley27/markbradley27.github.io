@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 8218.2
+      "total": 8028.7
     }, 
     "distance": {
-      "dailyAverage": 73148.48999999999, 
-      "total": 731484.9
+      "dailyAverage": 78696.39999999998, 
+      "total": 708267.6
     }, 
     "moving_time": {
-      "total": 160651
+      "total": 156652
     }
   }, 
   "rides": {
@@ -31,27 +31,6 @@
       "end_latlng": [
         44.12, 
         15.24
-      ]
-    }, 
-    "2019-09-17T06:47:40Z": {
-      "distance": 23217.3, 
-      "name": "Rest day ride to go climbing!", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2716873906", 
-        "summary_polyline": "qyrmGw_s|AVVOS{@IBk@jA}Et@_Cl@_DxCyJToAhA_Er@eEFw@JqCb@qEXiB`AoEViBlCeInA}EtBsM`BqG`AyEr@oBjB{D\\}EZyGEu@JeDzA}Kx@uMZsB|AmDv@aFf@gB~@cBxAuBf@oA`@gCFyEJgARu@l@cArBoBh@aAl@oC|@}EJ_BGqAQu@cAcBe@eAKq@?}@`@mA^YxEwAdA{@h@}@rBgGZcBBwD[_Dc@_C?eAJ[Z[z@MVDbAWVOn@}@pB}Gt@gDf@cDxAiTNkD@qDGaBFaBjD}K`AqD`EwMdAoE`@{BfBiMBgD]aEJeCn@sBdDsG~A_C|@o@^_@dAkBvAcHZmBEIH]tCaNp@oDn@aCrA_Dv@wAhFkH`BqCx@iBtAkBvBkAnFmB~Ac@n@KdDH~@GlA]bAo@hAqAvFwJ`BaDdAgDr@kAx@m@v@S~@o@r@iAvAeD`BeBzKmFbA{@`Bw@r@o@nA}AtCeE\\s@bDgEb@w@r@w@fFcH|BsC|AmCv@aBtAiDr@iA`B_Bt@i@tBq@LOlCqAt@m@z@}@vCwD`EsExA{ATo@^wATeEf@gDPu@|AcDhB}CpAoCvD}Gb@gA[?y@dCwDjH_DzE_AnBs@`CSzAWzDSvAo@|AcItJ{@z@gAxAwAjA{BhA{CrAk@`@mBzBwDdIqA|BiFfHsAdBaAbAgEvFsB~CaCjDcAlA_CdBuBx@kAv@wAj@eDjBiBxAkBpDw@nAo@j@_CnAq@z@iAhDk@rAoHtMqAxAwAl@sATgDOqANeIfCgBdAaAhAuC~F_ExFuA~A{ApCmArDQ~@sCdNsCzO]nAy@vA}ArAcAlAiEbIk@dBK`A?fAZbG?`BMdBwApJe@hCsApFkFrPqDhMMbBF`FKlD_AtMUlE[lC_@xBmBnHq@pBY`@m@ZgCZc@\\M`@Ed@Bt@l@`DR`C?lB[lC{BjH_@h@o@h@qD`A{@^a@^_@z@IbALhARh@h@t@l@pAPrAGnB_@hCy@nE_@bAcAvAoA`Aq@lAMj@Ix@K|EYvBOb@iA|Bo@~@gAtAOb@s@fFc@|Aw@`BSt@[hCI|CQtBo@tE{@xIw@pRIdAUbA{BrE_@|AaElRk@pE_A~Es@tBqBtEc@~Ac@hD}@pDaArMUhBkBxHi@|A}BjJ{DpNCZBRZPp@D"
-      }, 
-      "total_elevation_gain": 189.5, 
-      "average_speed": 5.806, 
-      "moving_time": 3999, 
-      "start_latlng": [
-        44.34, 
-        15.34
-      ], 
-      "max_speed": 11.4, 
-      "end_latlng": [
-        44.34, 
-        15.34
       ]
     }, 
     "2019-09-14T07:52:36Z": {
