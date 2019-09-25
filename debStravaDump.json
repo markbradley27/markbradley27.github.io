@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 8028.7
+      "total": 9269.1
     }, 
     "distance": {
-      "dailyAverage": 78696.39999999998, 
-      "total": 708267.6
+      "dailyAverage": 80231.65, 
+      "total": 802316.5
     }, 
     "moving_time": {
-      "total": 156652
+      "total": 177542
     }
   }, 
   "rides": {
@@ -178,6 +178,27 @@
       "end_latlng": [
         43.29, 
         17.02
+      ]
+    }, 
+    "2019-09-25T08:44:50Z": {
+      "distance": 94048.9, 
+      "name": "Day 13: Makarska to Neum", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2739256743", 
+        "summary_polyline": "cwfgG}j{fBJvAzBZdIiCm@eGdEcRlV}UlJqPnk@an@h@kFkCeJFmFvMgLnAkRbK{\\hDeFl^iHfGsFnJcRpD_CxWLdTmHbK}N`QzHpHUnRq\\rJeHX{EiC_RhAkFhMmE`G}MzRZjNyHnJwWj@aTfSuXdDeJl@sKaCqb@dHg]hTyV`IuA`MqJlMuEzGuJ|ODzOcFvZ{WlEyX~Ps_@dE_[zFsHjCsK~KgD?yC{FyM|EcUhB{XtHeHpLcXpFgTfPeElBgO`CcDjN[~IuH`IwBbLzFfIoLfJqGv@sE_BaJX}ChKoH~JwWOqPoCiPzK_XuCcS\\yIhLqM~AyELsGuCqNA_HdPco@lCeRbKePfFuY`FaKJaH_EcK?sCbE}DzFs@~C{DR{EoCyKl@wDhQsBtJcOEaGqEoJnE}PeGaLlEs]{@qTxHqAnU_I`HgLaBo[kCkOdAgKxHuEdQjGlG{ErAwRlRy[tDeLlAwYuDuSfGoRzYkNrc@}IlSwNnBaHv@em@nVaYF{I`Cc_@dCmJ|Ag[fDoLAyQfHoLhIsVzEoFpBcIfJsKdFwXxIwKjFeQjUiRpAqSpMeMlWnArf@iH`LoFxOyUlRoCvBgCzAoKiIiGe@qDjFyIdFeCfH}If@_DuAcDuLmEmE{N^kLiFe[~AcT~BkEfOqGlPmXjAoTsCyM{@e_@hA_Evb@qSdCtArEfKfF|@nO}PnBeP}Mq[`EwGn@kMbHaLy@{SmCoHHwI~JoRpEcC~@uC_CaJoAuRhN{PfAyGJoUjFaMzQyPdWv@pIaBlAoIwBqRnCyHbIcKpB_R[yVaC_FmHwEaAoDpCcOeAgQhEsZpDkDjAiItGgL`ImB|YaS|v@i\\dDiEf@kG_AqEea@}e@gFmQlk@f|CzJfWxYxe@rIvRpJiGlInBlKiM`j@c\\pVgNpRfCrMsQ~BeNQqUoJsL~AgGdTi]jVo@`SeJnWySjHqUbIsKtEcMbCeK@qHdHcGtCkHpA_U}EgEOsEbCmCdEQtN{PxLoe@vLcTAuEyDeMeOuLeC{FDkQeE}Xb@yOaF_Ng@iLmCgAmCf@bD_ArCzA~A~I|MpXdClSbMtO~F~BlJsCtKrEzQ{FlEzBChG}GpUeCbTl@`MmBhLX`LgF~LJpEhB|BlIK|O}JbMFvZic@`FqMfKgDpp@se@`FuIpGoVvCqTkBkQrH}JvG_WoAsOhFiSuDiJcAwNsDeDkOqBoAwCzBaGIfEdAzA|NzD?uAIxAeOeFq@gCj@}BfUoBnFuGgAcn@kFeOs@cJrBiA~EbFhFeAbCgDnCiLpOyItGeJfF_k@bIwHnBwIbEkDjGe`@Lm^gB}Rp@eGbJ{ErEuN`FiHfQt@vG}CqLhDsFlHvHiGpIu@"
+      }, 
+      "total_elevation_gain": 1240.4, 
+      "average_speed": 4.502, 
+      "moving_time": 20890, 
+      "start_latlng": [
+        43.29, 
+        17.02
+      ], 
+      "max_speed": 13.3, 
+      "end_latlng": [
+        42.92, 
+        17.62
       ]
     }, 
     "2019-09-20T05:13:44Z": {
