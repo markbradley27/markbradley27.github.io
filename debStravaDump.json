@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 9269.1
+      "total": 10522.6
     }, 
     "distance": {
-      "dailyAverage": 80231.65, 
-      "total": 802316.5
+      "dailyAverage": 77841.86363636363, 
+      "total": 856260.5
     }, 
     "moving_time": {
-      "total": 177542
+      "total": 190940
     }
   }, 
   "rides": {
@@ -73,6 +73,27 @@
       "end_latlng": [
         44.99, 
         14.9
+      ]
+    }, 
+    "2019-09-26T08:08:01Z": {
+      "distance": 53944.0, 
+      "name": "Day 14: Neum to Zavala", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2741387173", 
+        "summary_polyline": "ug~dGgkojBkEe@sH`Gz@eApAkCfCeCeMoA}FdHuB_Co@{BWyEw@uDF}Av@u@bF_@|DsIrD_Dp@iCcB_RyEcPgBsEYoCjC{RzEgKTkJeCqMaBi`@_AgFyDuGiI{F}EuFsCsJ{@yLt@aV{AwIaI{O{DuBcIH}CcAaC{CmFcMyCqC{GkCsCcEkBoIiKkdAkCqKiFeKmE_FoJcFmp@_J{DcAoEoCcI}JeBoEsBmKu@}L|Bqq@xIm|@LeYr@gMdAgGvHsYpFwi@tGyRvA}GhFwkA~@k@xDT?mE|@uICsE`AiKxCqLdFwJzAcIBwHzAyUbAoGbA}UO_DmDiIiN_d@{@cL_DcJEkCy@oFiA_AwBIzA_ArL}MhAmHNec@zAmE_F}@_AsEE}AnB_RIcBeAgDmCyEsIwEiEaECj@`G|Ip@lFyCrCoBxF_EhESbHu@|CyDpA}@|@IdBY?z@{DjD{Ab@yCg@_Sy@_ACiAo@e@u@nB^|CYIo@k@KgCd@eHa@sHpAsGvAqPjAgEpHqMpCyHhJ{CnDeCzDw@rCsCjBu@lB}DtCeBpA{BbFqBhAkBnI_EfCDpDyAxFOnSj@bRhDPTKfEuApDLRfEwIdGgIjO}XrLiHpP_NjH}DbFoHdEyL`EeIxFmXH}G_@}EcDqRcGmK_AgDUsNx@mHs@eM{AuHSkOmDiKcHuGo@uCGcEvCgN|@qBtA}ItGwPxBoJnFcK`CwKl@aEtBsFbA}M}@sFDeDbEkJl@oCzAwJ~BsX~BeGz@}EjCsZ`DsJhDkFdFeDzE[lKdGlCq@pBcDjAkFnDgJ`D_GnG_IzEaBtF[hDkCdEoAzAgBj@yCs@kId@_IWkB}BkHeD_EcB_ByAsEIuBnA_HPqF`B}H_A}GuByCyHeCcRtIuF`AiHqC_G}EaM_JsMs@qFp@wNnGcFhAqA_@kDwCqEg@_JuDwFkF}BeEaCeHcC}Mo@eLSiZyB{LLcFhA}HMmPjBwJxC_HpFuVfHkPtDeQr@mK~HyK`DqJnFwFdNkDjEqFvLHlCy@nDwBxEkHrNkLzKwAbFhArFu@lGj@|HcC`LcAbDlBjD|EtCtN~BnGvBvBjJ|DfDZzHeAnPdBtB]rKsGtB]vBl@vCxBnAdCRpCg@dFFvB|@`DzBbBpM{ChEb@hGeHxG}A~CwCZyAb@\\[_@n@l@xAeAnCE~CqApBx@xB|DhEbDvAX`G_AzFdGhFzCzB\\bAi@`AuErAsAbGA~FdAdDqAxDwCl@qAxByOfBuFzK{N~F}AxAiG~E{H`ByAlE_ArGb@jL|GjCf@^C^sAbBUNQ[N"
+      }, 
+      "total_elevation_gain": 1253.5, 
+      "average_speed": 4.026, 
+      "moving_time": 13398, 
+      "start_latlng": [
+        42.92, 
+        17.61
+      ], 
+      "max_speed": 14.5, 
+      "end_latlng": [
+        42.85, 
+        17.98
       ]
     }, 
     "2019-09-16T07:52:08Z": {
