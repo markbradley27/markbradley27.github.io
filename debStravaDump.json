@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 10522.6
+      "total": 10879.0
     }, 
     "distance": {
-      "dailyAverage": 77841.86363636363, 
-      "total": 856260.5
+      "dailyAverage": 75716.62499999999, 
+      "total": 908599.5000000001
     }, 
     "moving_time": {
-      "total": 190940
+      "total": 203006
     }
   }, 
   "rides": {
@@ -94,6 +94,27 @@
       "end_latlng": [
         42.85, 
         17.98
+      ]
+    }, 
+    "2019-09-20T05:13:44Z": {
+      "distance": 58338.0, 
+      "name": "Day 8: Backtracking to explore Krka National Park", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2725453840", 
+        "summary_polyline": "a{wiG_by_BYu@fKmK|AiGyAkEaF_C`AsBnF\\^iGcBwBg@gCo@cHaA}C\\aCxCqEfBmF|BmC~EoMfKwLy@qKiEaS_CeYqAmHBmBt@mBrQaOb@HnE{K|GwIzCiOvCwIv@u@uNqKuHoDeUiD{GsBiJ{FaJwJqBrCoDlAbAq@}A_CcF{Ds@}B]Zh@`Ag@|@d@b@VI}@gGbAnBw@RTs@e@bATm@x@lAaAa@mBnCcDnJW`CgJzH{MxHqEqCoIPqFwFsCgAcL`MgSjPiGxG_NvRgBnF_FoAYbG}FaGkKyFeDZaH}@wJ~@}P|KkDz@gHfE?hCTq@YoAmCdAa@vBfC|DQv@uH_JmViNiZ_Jem@iV{IyN{FsGsFeEaAkBeBqVLae@y@gEgGwL}FaFcM_CuDj@}ErEiCIyH}ImLyBwA}BiCsJYoFXoLlB{LdIuR~b@ms@j@mDMeU\\oAfBcBwEsMgBmU_B_KsKa\\eKmRsBFiYwGkC?_KkCcENiMrCqDCmZeGwC_ASgA_BWf@[k@Jh@Ko@ZjAHx@bBj^bIjF?zQwD`IdAl@l@BjAmFpK{qAxqBim@~{AaB|DwAzAuE[gE`D}@{@L{GbDuTfB}EQw@}BtAkCtIwDrFqDjIsCIVaOeFgBa@l@IlCqBzDuCzC}CdAOaLyFiDcBeHyBu@mFnCqJ_Ne@yARcBcDoCx@gDe@cAKyEwBeEI}BpE{YlAoEjBgCZyBfCiCnJmEdGqI`ScR~C}EDoFj@aBvEt@bIaE|A}BpGqOMYtCuCsDvEaFtMyCjDmGpDuFeA[jI}BhEoLfKeMzOuLfGoBnBUhBmB`DwFpXm@jH`CrGr@|H}@bC|CdCCpB~@pCtIrLhFcCfCpAh@bEh@nAlFrCPpAe@fD`@lDrDcAxBiChCwEHuC\\QlEhAOtN^t@lBGlDoHvE}GhCsIvBeARh@uApDw@nH{BhJUfJbAnA|EkDdET|BaD`o@w_BhtAmuBfDuGnCo@~\\dHhKbR~JbZbBvIrBdXhD`M_BnDPzTm@xDsc@lt@wIpTaAxHa@nOl@|FfDfKjBrAzInAbGnHxBjAhC[xDcEhCq@rH|@|HdDxH`MpBnGW`d@tAvUz@nDpKpJjDhE~HhMjn@xVrWvH`W|NzJjMz@fKdAfCPOkAaE|@qC_BmDv@iCcAEuAyA\\dA[|@rAnCf@|Ex@i@nAuCxDSdDjCdD|@pBNzDmApRhFnHgCfGsE`GqJvD|H`EC^y@?_Df@YI{@R`@w@n@[dE}DVpCy@^}DiAe@"
+      }, 
+      "total_elevation_gain": 724.2, 
+      "average_speed": 3.874, 
+      "moving_time": 15057, 
+      "start_latlng": [
+        43.71, 
+        15.86
+      ], 
+      "max_speed": 13.8, 
+      "end_latlng": [
+        43.73, 
+        15.89
       ]
     }, 
     "2019-09-16T07:52:08Z": {
@@ -222,25 +243,25 @@
         17.62
       ]
     }, 
-    "2019-09-20T05:13:44Z": {
-      "distance": 58338.0, 
-      "name": "Day 8: Backtracking to explore Krka National Park", 
+    "2019-09-27T08:54:12Z": {
+      "distance": 52339.0, 
+      "name": "Day 15: Zavala to Dubrovnik", 
       "map": {
         "resource_state": 2, 
-        "id": "a2725453840", 
-        "summary_polyline": "a{wiG_by_BYu@fKmK|AiGyAkEaF_C`AsBnF\\^iGcBwBg@gCo@cHaA}C\\aCxCqEfBmF|BmC~EoMfKwLy@qKiEaS_CeYqAmHBmBt@mBrQaOb@HnE{K|GwIzCiOvCwIv@u@uNqKuHoDeUiD{GsBiJ{FaJwJqBrCoDlAbAq@}A_CcF{Ds@}B]Zh@`Ag@|@d@b@VI}@gGbAnBw@RTs@e@bATm@x@lAaAa@mBnCcDnJW`CgJzH{MxHqEqCoIPqFwFsCgAcL`MgSjPiGxG_NvRgBnF_FoAYbG}FaGkKyFeDZaH}@wJ~@}P|KkDz@gHfE?hCTq@YoAmCdAa@vBfC|DQv@uH_JmViNiZ_Jem@iV{IyN{FsGsFeEaAkBeBqVLae@y@gEgGwL}FaFcM_CuDj@}ErEiCIyH}ImLyBwA}BiCsJYoFXoLlB{LdIuR~b@ms@j@mDMeU\\oAfBcBwEsMgBmU_B_KsKa\\eKmRsBFiYwGkC?_KkCcENiMrCqDCmZeGwC_ASgA_BWf@[k@Jh@Ko@ZjAHx@bBj^bIjF?zQwD`IdAl@l@BjAmFpK{qAxqBim@~{AaB|DwAzAuE[gE`D}@{@L{GbDuTfB}EQw@}BtAkCtIwDrFqDjIsCIVaOeFgBa@l@IlCqBzDuCzC}CdAOaLyFiDcBeHyBu@mFnCqJ_Ne@yARcBcDoCx@gDe@cAKyEwBeEI}BpE{YlAoEjBgCZyBfCiCnJmEdGqI`ScR~C}EDoFj@aBvEt@bIaE|A}BpGqOMYtCuCsDvEaFtMyCjDmGpDuFeA[jI}BhEoLfKeMzOuLfGoBnBUhBmB`DwFpXm@jH`CrGr@|H}@bC|CdCCpB~@pCtIrLhFcCfCpAh@bEh@nAlFrCPpAe@fD`@lDrDcAxBiChCwEHuC\\QlEhAOtN^t@lBGlDoHvE}GhCsIvBeARh@uApDw@nH{BhJUfJbAnA|EkDdET|BaD`o@w_BhtAmuBfDuGnCo@~\\dHhKbR~JbZbBvIrBdXhD`M_BnDPzTm@xDsc@lt@wIpTaAxHa@nOl@|FfDfKjBrAzInAbGnHxBjAhC[xDcEhCq@rH|@|HdDxH`MpBnGW`d@tAvUz@nDpKpJjDhE~HhMjn@xVrWvH`W|NzJjMz@fKdAfCPOkAaE|@qC_BmDv@iCcAEuAyA\\dA[|@rAnCf@|Ex@i@nAuCxDSdDjCdD|@pBNzDmApRhFnHgCfGsE`GqJvD|H`EC^y@?_Df@YI{@R`@w@n@[dE}DVpCy@^}DiAe@"
+        "id": "a2744058565", 
+        "summary_polyline": "usodGutvlBB[m@RaAxAyBIjGbDNdDjA`EvAk@xAb@fIzG`BtBb@|DfBzEtCpCdBFqB[qBkBqBqEs@}EoH_IqEkBuA\\iAaEIuCuGkE`Cf@f@iA~BcBlBiGnB{LSySmAeHeC{Dk@oBg@kHiGiQeD{FqCaDqAiIwEsHoCkNIqJ_CyJKeB^kH|BwKJaGr@aCpGoKtBkHzEwKtFmF|EkKpAkAnFiB`H}M~HsDnDwExIoAfFsHnGaDfLqPj@kCh@oInBwGbBmOhA_ClDiCbCiFdByGfGeM|BwKfFoPtAcUy@}EgC}GQwIpBqPNaSdAkLbB}L~B{IjCmDnVaLpNaM`R}JlLf@bEvBbFdA~HIlMxHrPs@vGTtL}BlHyE~EiHdKiF|AeEhBgBz@kBXmCGuGpAmDzHuDvEyEtLTvAk@vFuFv@cBv@eF]gK`BkDhE{@vHp@jCk@pBgBvBeGrAeB~QuDfBqAnAiEfDca@|DoMM}DeDiHNuJhA_DfFyBnAoBVwCc@wSd@yE`D{F|E{DjEmBtGTzGoGlDmJzEwJdBeMdAgDnLiUdI_IrB{DjAgILeF_@gIj@{DfH_I`Qgi@^wDk@}Ey@yB}C_Eq@oDb@cd@iBs^TuHvBaRh@mOn@aCzA}BvHsDtL_LrdB}bBhF{C|g@{S|@k@PcAtDuAmDrAqEcG@cAnEA|BgAxCxAQC`CeCpDSfAXhBbChDTjCfAn[rThD`ExCzJbDdFOMhP`ShF`EfD|DxSr]zGxRb^|r@vDtOHnEo@fSV~E|@fDxOxUrG^~GzH~@pBtB|KvDrHp@d@vASvEeFrCu@rCmDhAFf@oAh@v@\\fMpBvFhAfAjCN~FsCdBJxCnB~Cr@dGaB|B_CpAuCbBeT|AkDbDkAxMhCbDw@|LeTAm@Z@tMqT~CoDdCaKfEmC\\{B^_@bEmA`BfAjCeCnCm@pGgI|Eu@xRpBdDo@jF|A`BbCbCbB|AxClALbEwAdBHz@dB?fGrFbJnAbA`Gg@bJv@lNoAhHj@nE}@dF`DjEKdD|AjA}@l@uAzAgLbCgJ`D}SbBkFvAe@tI~D|BbGO~LfA~EfCrB~Dd@lCc@fDmBzATpDfKbH`H~FbRnCbCRjFcAtKaFpRcCrUy@|B}CnBgBdIC|AtAdN]zHwAbC{GlD_E`EmG|DkAfCcBfJcHtI_GnJ_AfESvJcAxIeEpOgEfLmB|IiA~Ju@pVs@xHCpHiE|\\KhHXX`@e@pA{FtE_JjAkGlCmEl@_D?cCbC}EXyCRbAUtA}BdFnDnFxBxFqCbG_@`CnAj@p@eAJwAh@Kb@j@[A"
       }, 
-      "total_elevation_gain": 724.2, 
-      "average_speed": 3.874, 
-      "moving_time": 15057, 
+      "total_elevation_gain": 356.4, 
+      "average_speed": 4.338, 
+      "moving_time": 12066, 
       "start_latlng": [
-        43.71, 
-        15.86
+        42.85, 
+        17.98
       ], 
-      "max_speed": 13.8, 
+      "max_speed": 11.7, 
       "end_latlng": [
-        43.73, 
-        15.89
+        42.64, 
+        18.1
       ]
     }
   }
