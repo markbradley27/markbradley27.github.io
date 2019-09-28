@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 10879.0
+      "total": 11747.5
     }, 
     "distance": {
-      "dailyAverage": 75716.62499999999, 
-      "total": 908599.5000000001
+      "dailyAverage": 75682.22307692307, 
+      "total": 983868.9
     }, 
     "moving_time": {
-      "total": 203006
+      "total": 219644
     }
   }, 
   "rides": {
@@ -96,25 +96,46 @@
         17.98
       ]
     }, 
-    "2019-09-20T05:13:44Z": {
-      "distance": 58338.0, 
-      "name": "Day 8: Backtracking to explore Krka National Park", 
+    "2019-09-13T06:55:06Z": {
+      "distance": 73730.8, 
+      "name": "Ljubljana to Razdrto", 
       "map": {
         "resource_state": 2, 
-        "id": "a2725453840", 
-        "summary_polyline": "a{wiG_by_BYu@fKmK|AiGyAkEaF_C`AsBnF\\^iGcBwBg@gCo@cHaA}C\\aCxCqEfBmF|BmC~EoMfKwLy@qKiEaS_CeYqAmHBmBt@mBrQaOb@HnE{K|GwIzCiOvCwIv@u@uNqKuHoDeUiD{GsBiJ{FaJwJqBrCoDlAbAq@}A_CcF{Ds@}B]Zh@`Ag@|@d@b@VI}@gGbAnBw@RTs@e@bATm@x@lAaAa@mBnCcDnJW`CgJzH{MxHqEqCoIPqFwFsCgAcL`MgSjPiGxG_NvRgBnF_FoAYbG}FaGkKyFeDZaH}@wJ~@}P|KkDz@gHfE?hCTq@YoAmCdAa@vBfC|DQv@uH_JmViNiZ_Jem@iV{IyN{FsGsFeEaAkBeBqVLae@y@gEgGwL}FaFcM_CuDj@}ErEiCIyH}ImLyBwA}BiCsJYoFXoLlB{LdIuR~b@ms@j@mDMeU\\oAfBcBwEsMgBmU_B_KsKa\\eKmRsBFiYwGkC?_KkCcENiMrCqDCmZeGwC_ASgA_BWf@[k@Jh@Ko@ZjAHx@bBj^bIjF?zQwD`IdAl@l@BjAmFpK{qAxqBim@~{AaB|DwAzAuE[gE`D}@{@L{GbDuTfB}EQw@}BtAkCtIwDrFqDjIsCIVaOeFgBa@l@IlCqBzDuCzC}CdAOaLyFiDcBeHyBu@mFnCqJ_Ne@yARcBcDoCx@gDe@cAKyEwBeEI}BpE{YlAoEjBgCZyBfCiCnJmEdGqI`ScR~C}EDoFj@aBvEt@bIaE|A}BpGqOMYtCuCsDvEaFtMyCjDmGpDuFeA[jI}BhEoLfKeMzOuLfGoBnBUhBmB`DwFpXm@jH`CrGr@|H}@bC|CdCCpB~@pCtIrLhFcCfCpAh@bEh@nAlFrCPpAe@fD`@lDrDcAxBiChCwEHuC\\QlEhAOtN^t@lBGlDoHvE}GhCsIvBeARh@uApDw@nH{BhJUfJbAnA|EkDdET|BaD`o@w_BhtAmuBfDuGnCo@~\\dHhKbR~JbZbBvIrBdXhD`M_BnDPzTm@xDsc@lt@wIpTaAxHa@nOl@|FfDfKjBrAzInAbGnHxBjAhC[xDcEhCq@rH|@|HdDxH`MpBnGW`d@tAvUz@nDpKpJjDhE~HhMjn@xVrWvH`W|NzJjMz@fKdAfCPOkAaE|@qC_BmDv@iCcAEuAyA\\dA[|@rAnCf@|Ex@i@nAuCxDSdDjCdD|@pBNzDmApRhFnHgCfGsE`GqJvD|H`EC^y@?_Df@YI{@R`@w@n@[dE}DVpCy@^}DiAe@"
+        "id": "a2705228592", 
+        "summary_polyline": "yv`xGuxuwAJwR{D}Cc_AuJd@f@oAJqMm^_GxAoAgGo@c@_IrD{FpFo@mBH_A_AbAb@Q@t@[@H]sEnSrCjo@fCnEhVnn@CnMVrBo@~IV|C_LfFw@hAlCxQ~A`RdAnFFvEy@fGhUxGhMjFb@`AWjFh@vFhDdIp\\vYVErAwGjKxExF|@h@`AvHnEnDu@lWljARrRdKrc@cDzBQz@bM|ZhF~TxDdLvwB~gNvDzJth@zcAjnBxlHnArCz~DroGlm@tiBrB~Al`ClzDjWxFhUaAFw@QfAShCZjC|Z|GjCpB`FzGbBkDlCcDzQSrIlA`BoAbINrCe@|EgEjAsEzAgB~HwExB?zAy@`JcJdKmGdB}DxB{NlFsHzCoBbAgFlBoFrFkC|@mCh@qFrBwIfEoKhEqGtHyB`C|AhA~BbEf@~HoHzIgDfCeDdE[vEeC~FAbJoFhKi@|FaEnFCnGqEfK{A|F{F|RuIvFkFbJa@xAuAbA_D~CiFxEs@vBeBXgBsBkAzBnAjBiDfGmE~J{JrLk@vBeBpFiO~@wMxDcHtCmI|HyOdC{KpCcCdKeFdB_FnDoEzDqJnC{AdDpApCwBjBGhAwCbDqDvCGzBeA`RwLr@EfMmIhWi@jDuF|FcBtNqPRLHxFfCdG`A|FnDvDlDzP^tLx@lBvC`AzAiA}@`A\\vA|A}@|CpEDc@mAs@_BsCfCsCdH~DxGsC~DhHjC`BfD`G`C`BlEl@dCvE|D~C`InKzGpGrFrBvBbCx@rDy@vFH`ClD|M|BlCb@zA_@zC`@bIY|Dn@hEvErRtQfk@`DhQvCrYxAtFhDtGzB|L`@|JrCvDT`Vg@lEd@~FxAbHFdF{AjHLtBiALiA{B]OEf@fEpJbAzFdDxJfB`BzQjFtJhWzGxGxDdGbDt@rC|G`A`I}CbVDzAlExMl@fJ~CfMr@\\tFqArI`@pKqJvAiDwAlFiJfNuB`BmElANZg@A`@t@a@[LeAEz@HQOSFpA?}Al@f@]a@[XDhAdALtC{@`@uBt@FpB{EzGoJpBmGbDvBrDbQRtGj@xDxGxMzBhD~@`@xEh[bBpCrDvCdApCFfN}@jOAxLwFdj@oDfTcE|\\qDdJ{DlDaDnHgBdWNrNbGjhAxO|w@hd@njAvEfOfHjOhAlFx@nb@hFzKV|AK|G_BvMbElXf@`LnC`RO`D_DtGMvAfCrNk@pHCxN~CrUgCrOFjNiAfMKtFzAtRnBfF|F|Hh@|B\\vIjDhK~@xXrAhSb@x@"
       }, 
-      "total_elevation_gain": 724.2, 
-      "average_speed": 3.874, 
-      "moving_time": 15057, 
+      "total_elevation_gain": 775.9, 
+      "average_speed": 5.884, 
+      "moving_time": 12531, 
       "start_latlng": [
-        43.71, 
-        15.86
+        46.05, 
+        14.53
       ], 
-      "max_speed": 13.8, 
+      "max_speed": 12.1, 
       "end_latlng": [
-        43.73, 
-        15.89
+        45.76, 
+        14.06
+      ]
+    }, 
+    "2019-09-28T11:42:48Z": {
+      "distance": 75269.4, 
+      "name": "Day 16: Dubrovnik to Kotor", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2747404504", 
+        "summary_polyline": "sfhcGsvnmBjE_K|@sFhCeEzBaLc@iQfAeXtCcRbEmLzBa`@zGiOvBiCxCuI`@}EnBsDxUsSRaKcAkQ|AkHpEsElCoWjGqWZwM`CuMTeP|G_h@rBu\\`G}KjCwIvJ}HvCqGGeZgAyTeCwQ{FyUmA_Mf@iSeB{Ol@gDbFgJn@iFcDkUKoEp@mDdCoDnHmErMkD|E}JlKcIxIeQlB{TfGeTtEwFbOsHxEoJfEeDzCwFfJu@nPhGfPsG~@f@fBbFjEvB`KUpM`Fn[_@fTaOfHkH|QaEbH}CpN}QrLiExEmDvSyYxDo@nObBxDaApDmDzHk^dXys@jHcm@fDaJtRy^xDeM|Msy@|@}ZfEyQfDiU`NyUzEeT|GcMjE}SpC_IbZaj@hMmQp]c{@rG}Tp[oi@~HgTtZ{bApDw[CsGoB{P`@kJtBwIzGkf@rBkID~@t@aErGgO|BePfEyPjGiMx@sO`EaLfB{KtDaHzF}XdCi[kAqMHgE|CeQjEgLhBsNrSw\\pN}OxDgH|HwFrCyItGmKfDcPhGeOnPcNjFoKnDqAtAqBtAuI~DaLhDySbJaSV}UxCoMGyKdFsD`ByBbCwKjNqZzAwRjG{[bF}JlGaU`KsNxc@gYfJyDlSgYlKiLnAgPnHoOk@qMHkPfH{JP}CcAuC|@cAFkBaI{KcNsVsFoRe@mFt@oFfHoTrBeCpD}M~MiJhA_LzF{J`DuPdJcUmBwQcCsIzEqXDeCaAsE?mJrAsHUqDoCaIgFwXiG{EcL?aAs@UmWuAwHB}IR}BjDyFbO_PdCmH~B_D`HiDlSsSdG_E`EeJtAiSl@eBzAaB|HgBrBwCz@gHxCuFEuK|E}Ts@iM`@_EvAaDVsEgAe_@kAkJp@uDlEgFRaEuAkCiE{AiA{AW_NaAeIwDiIv@qPY_ImFmR_B{JwDwGwAyGgCmv@yM}ZiLaKyAeCsGgT{[{n@}Lii@oA_SDeOcJwUo@yUwAaAmBb@oDfImEtCgGcBaOc@k@iBpAeAxAuhA}GOgDxD{OwGwNjAwHiGg@yCcLgHi@mCxGk_@ZgLhCaEdAoECqDfE}D|BqLvDuClAaG]qEgDuLdAiIWkJ`AqH~HmGvAqDh@aEm@mKrFcPnBeSnJsPvEgPb@mKtAcEtJoNfJyEhM_WbGsElFaM`DqN`GgBpKiIlJmEtCkEl@mFzBeGvKaAhE`HhF|CzBUnDwHpD}C|CJ~JfF`DqErFcCdDsEbLyClEaEnFx@xKqClY}BnFsF|C}@dEcFnDcAxCgKBaOa@_UeBgF_Bs@yCl@yEfIeATFgCfBa@^{Ag@s@j@wB~@p@^aA?r@ZY_@LFm@"
+      }, 
+      "total_elevation_gain": 868.5, 
+      "average_speed": 4.524, 
+      "moving_time": 16638, 
+      "start_latlng": [
+        42.65, 
+        18.1
+      ], 
+      "max_speed": 14.2, 
+      "end_latlng": [
+        42.42, 
+        18.77
       ]
     }, 
     "2019-09-16T07:52:08Z": {
@@ -138,25 +159,25 @@
         15.34
       ]
     }, 
-    "2019-09-13T06:55:06Z": {
-      "distance": 73730.8, 
-      "name": "Ljubljana to Razdrto", 
+    "2019-09-20T05:13:44Z": {
+      "distance": 58338.0, 
+      "name": "Day 8: Backtracking to explore Krka National Park", 
       "map": {
         "resource_state": 2, 
-        "id": "a2705228592", 
-        "summary_polyline": "yv`xGuxuwAJwR{D}Cc_AuJd@f@oAJqMm^_GxAoAgGo@c@_IrD{FpFo@mBH_A_AbAb@Q@t@[@H]sEnSrCjo@fCnEhVnn@CnMVrBo@~IV|C_LfFw@hAlCxQ~A`RdAnFFvEy@fGhUxGhMjFb@`AWjFh@vFhDdIp\\vYVErAwGjKxExF|@h@`AvHnEnDu@lWljARrRdKrc@cDzBQz@bM|ZhF~TxDdLvwB~gNvDzJth@zcAjnBxlHnArCz~DroGlm@tiBrB~Al`ClzDjWxFhUaAFw@QfAShCZjC|Z|GjCpB`FzGbBkDlCcDzQSrIlA`BoAbINrCe@|EgEjAsEzAgB~HwExB?zAy@`JcJdKmGdB}DxB{NlFsHzCoBbAgFlBoFrFkC|@mCh@qFrBwIfEoKhEqGtHyB`C|AhA~BbEf@~HoHzIgDfCeDdE[vEeC~FAbJoFhKi@|FaEnFCnGqEfK{A|F{F|RuIvFkFbJa@xAuAbA_D~CiFxEs@vBeBXgBsBkAzBnAjBiDfGmE~J{JrLk@vBeBpFiO~@wMxDcHtCmI|HyOdC{KpCcCdKeFdB_FnDoEzDqJnC{AdDpApCwBjBGhAwCbDqDvCGzBeA`RwLr@EfMmIhWi@jDuF|FcBtNqPRLHxFfCdG`A|FnDvDlDzP^tLx@lBvC`AzAiA}@`A\\vA|A}@|CpEDc@mAs@_BsCfCsCdH~DxGsC~DhHjC`BfD`G`C`BlEl@dCvE|D~C`InKzGpGrFrBvBbCx@rDy@vFH`ClD|M|BlCb@zA_@zC`@bIY|Dn@hEvErRtQfk@`DhQvCrYxAtFhDtGzB|L`@|JrCvDT`Vg@lEd@~FxAbHFdF{AjHLtBiALiA{B]OEf@fEpJbAzFdDxJfB`BzQjFtJhWzGxGxDdGbDt@rC|G`A`I}CbVDzAlExMl@fJ~CfMr@\\tFqArI`@pKqJvAiDwAlFiJfNuB`BmElANZg@A`@t@a@[LeAEz@HQOSFpA?}Al@f@]a@[XDhAdALtC{@`@uBt@FpB{EzGoJpBmGbDvBrDbQRtGj@xDxGxMzBhD~@`@xEh[bBpCrDvCdApCFfN}@jOAxLwFdj@oDfTcE|\\qDdJ{DlDaDnHgBdWNrNbGjhAxO|w@hd@njAvEfOfHjOhAlFx@nb@hFzKV|AK|G_BvMbElXf@`LnC`RO`D_DtGMvAfCrNk@pHCxN~CrUgCrOFjNiAfMKtFzAtRnBfF|F|Hh@|B\\vIjDhK~@xXrAhSb@x@"
+        "id": "a2725453840", 
+        "summary_polyline": "a{wiG_by_BYu@fKmK|AiGyAkEaF_C`AsBnF\\^iGcBwBg@gCo@cHaA}C\\aCxCqEfBmF|BmC~EoMfKwLy@qKiEaS_CeYqAmHBmBt@mBrQaOb@HnE{K|GwIzCiOvCwIv@u@uNqKuHoDeUiD{GsBiJ{FaJwJqBrCoDlAbAq@}A_CcF{Ds@}B]Zh@`Ag@|@d@b@VI}@gGbAnBw@RTs@e@bATm@x@lAaAa@mBnCcDnJW`CgJzH{MxHqEqCoIPqFwFsCgAcL`MgSjPiGxG_NvRgBnF_FoAYbG}FaGkKyFeDZaH}@wJ~@}P|KkDz@gHfE?hCTq@YoAmCdAa@vBfC|DQv@uH_JmViNiZ_Jem@iV{IyN{FsGsFeEaAkBeBqVLae@y@gEgGwL}FaFcM_CuDj@}ErEiCIyH}ImLyBwA}BiCsJYoFXoLlB{LdIuR~b@ms@j@mDMeU\\oAfBcBwEsMgBmU_B_KsKa\\eKmRsBFiYwGkC?_KkCcENiMrCqDCmZeGwC_ASgA_BWf@[k@Jh@Ko@ZjAHx@bBj^bIjF?zQwD`IdAl@l@BjAmFpK{qAxqBim@~{AaB|DwAzAuE[gE`D}@{@L{GbDuTfB}EQw@}BtAkCtIwDrFqDjIsCIVaOeFgBa@l@IlCqBzDuCzC}CdAOaLyFiDcBeHyBu@mFnCqJ_Ne@yARcBcDoCx@gDe@cAKyEwBeEI}BpE{YlAoEjBgCZyBfCiCnJmEdGqI`ScR~C}EDoFj@aBvEt@bIaE|A}BpGqOMYtCuCsDvEaFtMyCjDmGpDuFeA[jI}BhEoLfKeMzOuLfGoBnBUhBmB`DwFpXm@jH`CrGr@|H}@bC|CdCCpB~@pCtIrLhFcCfCpAh@bEh@nAlFrCPpAe@fD`@lDrDcAxBiChCwEHuC\\QlEhAOtN^t@lBGlDoHvE}GhCsIvBeARh@uApDw@nH{BhJUfJbAnA|EkDdET|BaD`o@w_BhtAmuBfDuGnCo@~\\dHhKbR~JbZbBvIrBdXhD`M_BnDPzTm@xDsc@lt@wIpTaAxHa@nOl@|FfDfKjBrAzInAbGnHxBjAhC[xDcEhCq@rH|@|HdDxH`MpBnGW`d@tAvUz@nDpKpJjDhE~HhMjn@xVrWvH`W|NzJjMz@fKdAfCPOkAaE|@qC_BmDv@iCcAEuAyA\\dA[|@rAnCf@|Ex@i@nAuCxDSdDjCdD|@pBNzDmApRhFnHgCfGsE`GqJvD|H`EC^y@?_Df@YI{@R`@w@n@[dE}DVpCy@^}DiAe@"
       }, 
-      "total_elevation_gain": 775.9, 
-      "average_speed": 5.884, 
-      "moving_time": 12531, 
+      "total_elevation_gain": 724.2, 
+      "average_speed": 3.874, 
+      "moving_time": 15057, 
       "start_latlng": [
-        46.05, 
-        14.53
+        43.71, 
+        15.86
       ], 
-      "max_speed": 12.1, 
+      "max_speed": 13.8, 
       "end_latlng": [
-        45.76, 
-        14.06
+        43.73, 
+        15.89
       ]
     }, 
     "2019-09-19T08:37:11Z": {
