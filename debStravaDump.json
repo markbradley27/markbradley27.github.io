@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 11747.5
+      "total": 13373.3
     }, 
     "distance": {
-      "dailyAverage": 75682.22307692307, 
-      "total": 983868.9
+      "dailyAverage": 74947.94285714286, 
+      "total": 1049271.2000000002
     }, 
     "moving_time": {
-      "total": 219644
+      "total": 240934
     }
   }, 
   "rides": {
@@ -31,6 +31,27 @@
       "end_latlng": [
         44.12, 
         15.24
+      ]
+    }, 
+    "2019-09-30T08:13:53Z": {
+      "distance": 65402.3, 
+      "name": "Day 17: Kotor to Donji Brceli", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2752285953", 
+        "summary_polyline": "ma}aGs|pqBr@LpFmI`EMxBtDeAn@h@Tz@{@gBr@l@}@fJzBvKxJv@tJtHzA@fHgCdIwO~PuHzBsEQOfAfAh@fNcA~^gNbR}QzPmGVcEqCmBKqHcFmIhCtCbE~@lHrKhJ|AaAvDmFvDzFDsEn@C`AlNOlBfCzBoBdBnCaB_BFkEf@vA~Ak@p@aDrA|@pGaMfCjBq@sBr@mFnGxDmFaEvFzDuFgG]aP_IqIoDs@eAeFmCX}OkJcHQoD}GwCLyGkDyR_DnLL~HrC`McBxY~MoQ_MqDyG_JbBaD_BnE`@xGiCrCRfChFfKjBnEzDwEcGmH{BpNdEkMiIjMzDfB]mN{F]o@jNhE}L}HxK~EdCmBpEW_K[eHyExFtB~GmAfLh@aUcDoEyBpE|@bLs@jJhB{HuDuQcDqBsFyBcAkHfB}RMh@mMaBoCaGaDuMgAaEuFiDDiHiDoDuG}Dz@sGkDaEZeBmUiCeHsCFjA}A_AmBaGeA}BzDiEu@QzAMsAqG@w@mC`@aGaCgJiMaOkNyMl@oHDoKnP_IpAkHrCoAhCmEnAaO_BgFeAiOgTe_@k\\oG{H|DjFqHKeAeLaCrDuMz@qGXeXzAmHbEcCrBbCh@a@kAaCiDa@cB`@qEdGsBlHcApRn@oNaA}JzGaMpIoF~B_Eo@}NzBuIAqB_PwVM{ElJcUrQUvNgGb@eDgCcHb@aKfHuH|DeAzHcLpFoV]yF|AaFbLuD`OIrHcHhKmQhMsK~@aIlLgNhCyPvIuD|A|GfAb@dOuGpHzAnDjDgDiHp@qIiFwJm@wJ`AhEhGtEzFX|P|KfNjCZoDgEkCaAuDmIsK`BcVX_f@~CwP`m@g_BUwDnDaDvBxDdH}Dm@sClFqErAfJc@_CpHGl@oBvVo@xHkOtKoJv@sCoFkLcKq@wCTdQiCnJwEjLZ|IkDpU`AvOyHvDf@jKtJfI|AbReCdNpEtMsBpQv@rQ{BrFv@vJhItD\\xDuAdMmL`DT`KvFfHiAvMb@~OwFvEhAvKjJnDRpKcF~QyNv@uJqA_D|DNpG}JXoNbYmVhLkPlFqC|DaL`EqElFg@tDdBxJqC`GqJ|D_DbIOvHoFnLrBbIiExDsGnQt@bHwNjAoMdE_@`HkE~HIxJmDjCuC`CeHxD~D{Ct@oBnHlCsCbAfB~GfAEbEdGpG~GsEfD{En@yCg@qFdAuFlJ]bEsDjFqAnJkKjIu@lBaCdOeCzIiNdL|G`EdJbFdBlA`CzCkEtDdDjG_GlCVtBgHpD_CjAiHzBwCcBgLxBkELuCrBcC~BkKxD{BzAeDp@uHO_N~@uDu@mI`CcGlBmQzEaI~EmQv@yJw@iHhEcIv@yFqAkCh@iBkEo@aAeCh@lBjCTHxA"
+      }, 
+      "total_elevation_gain": 1625.8, 
+      "average_speed": 3.072, 
+      "moving_time": 21290, 
+      "start_latlng": [
+        42.42, 
+        18.77
+      ], 
+      "max_speed": 13.3, 
+      "end_latlng": [
+        42.25, 
+        19.01
       ]
     }, 
     "2019-09-14T07:52:36Z": {
