@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 13373.3
+      "total": 13754.199999999999
     }, 
     "distance": {
-      "dailyAverage": 74947.94285714286, 
-      "total": 1049271.2000000002
+      "dailyAverage": 75844.16666666667, 
+      "total": 1137662.5
     }, 
     "moving_time": {
-      "total": 240934
+      "total": 258553
     }
   }, 
   "rides": {
@@ -94,6 +94,27 @@
       "end_latlng": [
         44.99, 
         14.9
+      ]
+    }, 
+    "2019-10-01T07:04:36Z": {
+      "distance": 88391.3, 
+      "name": "Day 19: Donji Brceli to Shkoder", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2754538350", 
+        "summary_polyline": "}uz`Gao_sB~@a@cBV~Aa@nDhAxBeBbCP|F_C`CgExAy@h@{BfGeBbBwFvAq@bG{KPoDhDuGBmFoBaNlDmFtByNZiNMsHc@gFeBkGDgFs@}CjDw\\`EcLYmGb@kGnDmGhFoStCyCfBeMxEqGVsFxFsMq@cKdAcDo@c@eCt@G{FaIkRRoFeA{DOiJyFmHgAoOqCKiFaGqGqL_EuKc@cQRuHiDmJCqHsEqKaImImToN^F`@cCd@Hk@Gx@F}@S?D|BOWj@d@o@aCA_AhCaGcF_Qea@_FoCyEGs^lNaFh@kRsDgF{E}A{EiBwNaH{OaAeIr@iJvGaJReEoKoOg^kbAuE{G{QqG{FyF_DsJwFq`@qMi^q_As|AySy_@}QyWuk@}`AoFmUs@sJAgJp@gM|AoJlNke@z@wGQsPcEoNyV{`@gGgH}M_IiO}BsEiCgIsLeAc@id@cn@kUuOqP{AGiBCjBqHi@r@gMkCc]NiPoByDcJ~CuBc@_@iArEcKUmDxD_ChCkEMeIl@{CnFaDzBiDpDub@vLmd@vAiL~AmSbFiQfAgL~DoGdAgEq@kWpAgHjDcZeGkUeBcRCaRkToDuN_@kK{CsUyRiL}NkD_BuKaQgx@}|Aa{@{w@yDmKgDyU_E_P}FuM~FX`PuAruBcZfRcD`\\qLpDsFvKcc@jMgOv@kHtDgJjB{L~IcDzDoG@_CoBaGa@iI{CcHmAsPoD_H\\_DdJcF~PgGpCiDrEiItACrFpDlBN`JwGrHwBnIjC~F~Fz@vBRzFpArB~B?jAuBTiHzCqOQiOj@{G[yB}H_NsEiPwCeEkCwHgEeF{BcVkB{BgG}CyDyPiEuKPgKm@}CcH_IiHgDQmB~@mIWuDgOkd@iIeL_IqHgE_IqMoh@kL}QoKmX}H{LyAwLr@uMtEmIzCwBrOwHfQoEjONlRfIvRJ|XgItSeAvImFdEcA|b@pAbGkCxKkOxCaCdTiHdDShE`BbK`NdNrLrIjG~Cp@xAfEpDh@dH|E~AbGfCxCjOrEpFtFfZxDjBs@lI`D~_Cl\\rBi@}@Nn@U?sAIxBh@l@noAtO~PrEtHGzfA{a@rEiF|DXlJsDtGoGfH}Cf`@y\\pv@yt@~Vy^`YsNpI_K`OsClLiIlJoEvWyFxLyGpNgFnMgK~^kIjiAse@~e@}Xn|@we@dMgIfHcHtNsDpMeIlDsEbPkItd@iS|q@_Tlg@iYj[mLc@oM|Bwe@[uWh}AhGnBa@hKlAdt@ZjAtPc@jd@nBzH~GrFfLjC?yElIcLe@i@v@w@mA@p@h@?jAs@Hp@E"
+      }, 
+      "total_elevation_gain": 380.9, 
+      "average_speed": 5.017, 
+      "moving_time": 17619, 
+      "start_latlng": [
+        42.25, 
+        19.01
+      ], 
+      "max_speed": 13.5, 
+      "end_latlng": [
+        42.07, 
+        19.51
       ]
     }, 
     "2019-09-26T08:08:01Z": {
