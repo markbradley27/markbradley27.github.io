@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 13754.199999999999
+      "total": 14083.599999999999
     }, 
     "distance": {
-      "dailyAverage": 75844.16666666667, 
-      "total": 1137662.5
+      "dailyAverage": 77071.12499999999, 
+      "total": 1233138.0
     }, 
     "moving_time": {
-      "total": 258553
+      "total": 275118
     }
   }, 
   "rides": {
@@ -31,6 +31,27 @@
       "end_latlng": [
         44.12, 
         15.24
+      ]
+    }, 
+    "2019-10-02T07:04:58Z": {
+      "distance": 95475.5, 
+      "name": "Day 20: Shkoder to Tirana", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2757235839", 
+        "summary_polyline": "}gx_Ggu`vBXCMXRKvG}Jn@yAnCaD~C{FtE_HhAGfApAbLpLfLvK~SfQp@bAnJjHbGbGxHnG`EhHzKjPnCdDbN`L|D~BdG|FdFdBdAj@n@kA`KgHdLeQbRwUn^i[tBeCz@cDLwHh@iGfDwPnBkE|I{LnCkHhGyTbA}Al@G~Dy@lEj@zEnBnHv@dItCdO~@`QP`JeC`Bu@nAgA|JoMb@_AvC}CtCoBxG{BzMeCjCgAhIkBtHcDhDaCpMwL|DkFzByErCkFvD_GpL}LxK_KjJ}GlTiQjZiUpEcCrK{D`NeDbWD|DYnFgCrC{BfDeE~FoFpCeBhCcArLoC|[}BpAEL\\l@a@nBYzAHHA`Bs@fC[`G_C~I}EnFeErEeFtGcJ`FkI`KmMfQsO|c@c_@vRoSlSoXrQ_[jGqMvKmRdIuK|KuLfIsG~WaQ`GyErS{R~aGsuEjFiDpG_DhMcEd_C}d@vIJrGbBrEdCbNvL|FtDjHbCdI~@lIOdGmAfGeChSkK`HuBxDMxL~BzDJbBh@tM~OvG`GSB~A`@xj@p[nQvJ|B~@lEZfD_AtEaE`KoH`KgG|@w@vCkGvAiBdAe@bGwE~HqErHkAvSaBr[mHtDEfAf@z@jAtKdZ\\hASLPCZb@|GdRzGlRtAlGb@`@jGgFxSuMhQ{IdYeP|ZaR~[aTjl@sZhb@eUzYiPhb@kTpPqJvm@y[dMqCrz@yMrZaEtaDof@`QsA~SBpdAhFfw@`D~nBlGpoDlPbQ^zKQ`P{A~{@yPATpGcBxx@{OnLqAfI_@lIGbJVrw@hG~i@hFbd@nAtFS`IgBxX}MlAUrEwCvnA}m@`@K\\\\@|@LsBzBuAz`A_e@`u@i_@b}@aa@rp@c`@p]eRvc@cWx|@{r@tEoChTqG~H_B~MuDpk@oQvNuDzv@wUzBaAdVqH~NyDv|@kXjy@gVv`@mK`TyMzLgI`b@eShUgKj`Ace@pDwAj@Ah@w@dCqA|NaHxGgCvD}BxLiFfBmAjdAqe@`Ey@jQmAlCcAxE_EvCoAfMsCx@Nd@b@p@lB~E|IrE~E^`AZJjHaEzFwE`KmGdAgApCqAlMaI\\N\\|Ap@f@t@W~AHC`AJP@iAx@mFNkCbByGGIdCsM~DkPlByGPITaAj@M`@}AImBTcBzDuP|FeTdAkGb@o@T{AlBcG`AeFnFgSn@aEpAiEr@aB|AaAI[He@k@aAAk@hDqM|@{F`BgFtGeWXaCnCoIhHsAVL?dDhAdH[I?d@w@FDu@W?"
+      }, 
+      "total_elevation_gain": 329.4, 
+      "average_speed": 5.764, 
+      "moving_time": 16565, 
+      "start_latlng": [
+        42.07, 
+        19.51
+      ], 
+      "max_speed": 10.4, 
+      "end_latlng": [
+        41.33, 
+        19.81
       ]
     }, 
     "2019-09-30T08:13:53Z": {
