@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 14083.599999999999
+      "total": 14994.599999999999
     }, 
     "distance": {
-      "dailyAverage": 77071.12499999999, 
-      "total": 1233138.0
+      "dailyAverage": 75369.35294117648, 
+      "total": 1281279.0
     }, 
     "moving_time": {
-      "total": 275118
+      "total": 297970
     }
   }, 
   "rides": {
@@ -52,6 +52,27 @@
       "end_latlng": [
         41.33, 
         19.81
+      ]
+    }, 
+    "2019-10-03T07:41:06Z": {
+      "distance": 48141.0, 
+      "name": "Day 21: Worst Ride Ever", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2760383609", 
+        "summary_polyline": "gyf{F_||wBuA?e@tDDnGnKdf@HlCjJbb@hM`s@HpCiArBT|ApBQhAlBpYdpAdBdKd`@roAbG|GrRjIhAvAzDnPfGlg@zBfKzf@vcA|@n@nm@is@bAu@~CXv@eEpCuB~BkOrEiFgCeU@wCtEmErBaErAaAbACfCrBzAg@pCh@cByEuCcDA{@bDiGz@_DtDmChBaD~BgHhJwd@tEgLVgSfDgRpF{EzBgE|AcAbCwKzQwTdUg[oIcMtBkK|DiFB{Ai@q@oAXyFgMkAyA}@E|CcFlHeCnIaHdBaFNqNwBwKtQiNzBCjHrErJtApEUpDnEzBiAzCuEvCe@bEPpCpEbPeAtIdAtJW~E`GvEtC`AJvA}Ah@DfGtIrMhOfAjGlKAfDoCdFoBxFmA`GEp@cFjOkD|TeUtEgBlKu@hDyBnIgJ|CgFjA}ErA_PvEoFfEXjAm@lEmNtAuKvDsD`DQhUrBlEz@jPxGpHaCnEoChO_@`LcJpJuDzGb@jBkBlRcCr@oAZaGhB_BxDs@vDnB`AQxAmAz@sBDeFZk@pEt@tC{@lG}MbI_IbCsAlC|ArA]No@a@uDb@`D~DnBnCbFt@JOtD|CpFtBdHvC~@tHrKpDeAc@\\Jf@Me@pCkBv@eCrH`AnDiDvH_DxFw@dEtBzGwEzAjALnEv@z@xEkAnEBnDyAjF}DjAkB`ATnHsA|Cj@tCc@lBn@bA_CtBkAvDaAlGCpGeDdEb@|OiEdBx@`BoAxBbBbIp@~D?~DkAjAr@vIe@xCxAdBcC|ClAdA_@`E|CBdCpBzDXBWmAn@gCvCrBgDgB[bCPjAuCsEXmASg@wDyCcBX}BkAxA{DhBMf@sEsCaF}BcAAk@r@yBgBsAToBuAkIgDoDb@kChD}Cx@sCpBU`DqHx@k@W_EXgBpA^jAxBTIhDeH`DYtD}BpBd@jAYtB}DbBcA`I[tDwAZIdCaDxK[hBbBhAw@bEb@lFiMkAwGsAwC\\_I`C}EbBw@lCvCzAt@r@[FgEiBuFn@wIrAuB{AuMZgD~CuGrDaDz@qClDQToIvAMx@h@NhCk@dEp@h@tOqEd@hBpDwHj@}DbBcCtAm@lBHrHcGvDUtAsHhBkBdC]lDmFlDq@nB|AjCkArDwFhCaBlNcSbDo@z@uCpCsElCqCxAWlFyInAs@f@_FxC_Eb@iEfBeGl@{CxBM`GeC|G`AlIiBjAXl@lA`A_B|CXdAdCxAd@lE{@pFd@nCcBj@qCeBmFBeDbEe@fC_B|CHhCiAdH^pEzBpEYvDj@rJiAnB`CvBeCbC\\lCuAtKcArCaBcAIh@DsBaM"
+      }, 
+      "total_elevation_gain": 911.0, 
+      "average_speed": 2.107, 
+      "moving_time": 22852, 
+      "start_latlng": [
+        41.33, 
+        19.81
+      ], 
+      "max_speed": 12.1, 
+      "end_latlng": [
+        41.07, 
+        19.9
       ]
     }, 
     "2019-09-30T08:13:53Z": {
