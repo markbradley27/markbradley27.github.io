@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 15211.699999999999
+      "total": 16915.7
     }, 
     "distance": {
-      "dailyAverage": 72478.96111111112, 
-      "total": 1304621.3
+      "dailyAverage": 73459.29473684212, 
+      "total": 1395726.6
     }, 
     "moving_time": {
-      "total": 303860
+      "total": 324402
     }
   }, 
   "rides": {
@@ -31,6 +31,27 @@
       "end_latlng": [
         44.12, 
         15.24
+      ]
+    }, 
+    "2019-09-23T09:40:18Z": {
+      "distance": 71986.7, 
+      "name": "Day 11: Split to Makarska", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2733742468", 
+        "summary_polyline": "w~phGo{icBRqDqBcCoA`@gJwG^aJxDsU~@ka@qSa~BqGmZsEue@JyIvHsi@wD{XxAkIiD{IZqGk@{N`@{IlCiGUwHpCwEtDe^fEeHv@aM|HoE`CsEb@_HvE_JV{JhE{L`A]jIdDfMmb@{YcZsOkHoKiA{IsLwIwD{CgDuGeBc@}A^iEcBmInCwIzNsu@tSg\\|E{NvX}[pCoJlSgZvXoi@tEsNRqP|E{KrD_Y|I}ZnJgLdKkC`XeWxK}Gc@c@xEaInBgMXgP~ImYfE}XhIkNhPw_@hIk^z@kI^wWuDqG_A_F`AeOfKy`@|HiMnBqP`Lc]bL_XlBmIbOq_@hBwWSyJp@aP]{TsCoJi@kH`Ew`@NoLeFwCoGIeDpE{AxHuHzTw@EjFmQdAoQfHiPgB{MrAqISyN|@qLpByHpAuNd@yTy@gEnAgOxByHh@aI@eEwAgGjEcPbBQjBqEtJue@pS_o@x@XlAsBrEcBtEyOAoDxIwWHiQgBsJv@mKK}ItCgIjKwe@nCoDzGma@_@{EiC_HuM_A_BjB}BnFkIj]@AsAuLb@yLbCyMRqJiAwI[}VqG}KpGm`@sD{F_@gGvAsIwAgQXkH~@_C]kHzBiDfLcFhB}H\\{LhAoE~GiFLCbFgMrAyLxCqKPwFvD_O|@sLr@{BzByA`EsQUaG~DoMIuI~E_KtFyWSwNnCeU@qNdDsQrBuC`@yKSuLgFeBo@yFjDg`@tCkEhFNbEuF]tFp@vCjT`PaBuLm@aJ|AwBJ_GfBw@fAoDE{Jn@jJgBbNhDx@UrFp@~EbGjKvDtBdDaFxAwFEnGwAzG^VpD_QhAgU`AtQtAoQnEeGnB}Qi@uE~F{FvCc@hDsFnHm[~Sgd@nHgZ|F}OlKaBjKmE|AzFjAVxFkOdKmBdK{IvChBtBeC|GqCcIlL|LuFhKr@r]qd@`OwHtCiFp@uNbGyFxEyN|EgHtFyNzHgc@lDkJ~DwFxF}DpXuH|CoK~DeFxC{HrC}NhIyHlEcMxIaFtZuc@~AcHSbC|BhBw@cFx@kDtBeFrHyHbIqWrBwBAxEpDh@BnB|BOb@vArMc@zBo@|KwK~OaE`Q{XbIwFDnA\\kCxF}D`FoL~LeGjFoK`D}LhK}LRaJzAyF_@P~KkGxFI`M{KdEsG~@aLxFkHtR_S~GaEdFmKpC}BrLqS`FiMhDqB`EAlH}PvDaAfBgDrNiLlQiFjDoI~DcCtEkJnFiRbCsD`AiEo@TgAcBdAoDgBcDt[ya@|@IfE~JlFdAzBqAL{JnBgHpScK}@iEwD{DmKbKlAbBtAo@"
+      }, 
+      "total_elevation_gain": 1154.7, 
+      "average_speed": 3.612, 
+      "moving_time": 19932, 
+      "start_latlng": [
+        43.51, 
+        16.44
+      ], 
+      "max_speed": 13.4, 
+      "end_latlng": [
+        43.29, 
+        17.02
       ]
     }, 
     "2019-10-02T07:04:58Z": {
@@ -117,25 +138,25 @@
         14.3
       ]
     }, 
-    "2019-09-23T09:40:18Z": {
-      "distance": 71986.7, 
-      "name": "Day 11: Split to Makarska", 
+    "2019-10-05T09:08:46Z": {
+      "distance": 91105.3, 
+      "name": "Day 23: Elbasan to Ohrid", 
       "map": {
         "resource_state": 2, 
-        "id": "a2733742468", 
-        "summary_polyline": "w~phGo{icBRqDqBcCoA`@gJwG^aJxDsU~@ka@qSa~BqGmZsEue@JyIvHsi@wD{XxAkIiD{IZqGk@{N`@{IlCiGUwHpCwEtDe^fEeHv@aM|HoE`CsEb@_HvE_JV{JhE{L`A]jIdDfMmb@{YcZsOkHoKiA{IsLwIwD{CgDuGeBc@}A^iEcBmInCwIzNsu@tSg\\|E{NvX}[pCoJlSgZvXoi@tEsNRqP|E{KrD_Y|I}ZnJgLdKkC`XeWxK}Gc@c@xEaInBgMXgP~ImYfE}XhIkNhPw_@hIk^z@kI^wWuDqG_A_F`AeOfKy`@|HiMnBqP`Lc]bL_XlBmIbOq_@hBwWSyJp@aP]{TsCoJi@kH`Ew`@NoLeFwCoGIeDpE{AxHuHzTw@EjFmQdAoQfHiPgB{MrAqISyN|@qLpByHpAuNd@yTy@gEnAgOxByHh@aI@eEwAgGjEcPbBQjBqEtJue@pS_o@x@XlAsBrEcBtEyOAoDxIwWHiQgBsJv@mKK}ItCgIjKwe@nCoDzGma@_@{EiC_HuM_A_BjB}BnFkIj]@AsAuLb@yLbCyMRqJiAwI[}VqG}KpGm`@sD{F_@gGvAsIwAgQXkH~@_C]kHzBiDfLcFhB}H\\{LhAoE~GiFLCbFgMrAyLxCqKPwFvD_O|@sLr@{BzByA`EsQUaG~DoMIuI~E_KtFyWSwNnCeU@qNdDsQrBuC`@yKSuLgFeBo@yFjDg`@tCkEhFNbEuF]tFp@vCjT`PaBuLm@aJ|AwBJ_GfBw@fAoDE{Jn@jJgBbNhDx@UrFp@~EbGjKvDtBdDaFxAwFEnGwAzG^VpD_QhAgU`AtQtAoQnEeGnB}Qi@uE~F{FvCc@hDsFnHm[~Sgd@nHgZ|F}OlKaBjKmE|AzFjAVxFkOdKmBdK{IvChBtBeC|GqCcIlL|LuFhKr@r]qd@`OwHtCiFp@uNbGyFxEyN|EgHtFyNzHgc@lDkJ~DwFxF}DpXuH|CoK~DeFxC{HrC}NhIyHlEcMxIaFtZuc@~AcHSbC|BhBw@cFx@kDtBeFrHyHbIqWrBwBAxEpDh@BnB|BOb@vArMc@zBo@|KwK~OaE`Q{XbIwFDnA\\kCxF}D`FoL~LeGjFoK`D}LhK}LRaJzAyF_@P~KkGxFI`M{KdEsG~@aLxFkHtR_S~GaEdFmKpC}BrLqS`FiMhDqB`EAlH}PvDaAfBgDrNiLlQiFjDoI~DcCtEkJnFiRbCsD`AiEo@TgAcBdAoDgBcDt[ya@|@IfE~JlFdAzBqAL{JnBgHpScK}@iEwD{DmKbKlAbBtAo@"
+        "id": "a2765502878", 
+        "summary_polyline": "}a_zFqqtyBa@{BnGaFdBlAhHgEuAqFb@}Bw@}BsCmc@cF_VgDkj@sMy`@oJka@cL{TwVsj@qc@yo@eh@g}@{aAy}@_HaMkDiLgA}HCeKdGq_@D_FyE}Z_As[_OwQiLiJeCaFqAkLb@mTiAePuEo]Z_[rMop@pCoQ}@sKqHsMqAyGhBcYhEgMTmRoBmE{FiDuGaf@oG_DqAiIwG_FeH_UcSaQeJuOwCsLwCcZcLuScI}B_HrJaEs@SeMlBoYsCgJsKqKw@wCfGyPt@eKaM}NsAsFzFeU_@wMnIqT_@qMdGcNxBeJzJaQ|ScE|BsBrCyJW_KGjBp@m@?bBt@OiB]?sAdCmLdBgTxE_LdIoK[yF`AeGvKwJfGsPpKmH`DkF`DsUjF{J_@aDcE_HIsHpBaHjLcNIaYpC}LrSaOpJ_@dOaEfBiCvC}OxIwKZuFqEiXdHgWpDsDjJ}BzHeHlRsKjUs`@`PnBhJ`HhDiAzAuGAwDsAiCsEuBcBqGRqJlHmf@`EuFbFyAdBkHbEyG~ZqLjAgCHeGnCaQzDaHxE{ClHsH~HYhDoKzGaCfCeHbGaGtDyMrIgIvR}K`CwMhV}r@nD}C~PoC~@uBSiGbAkDjPqD|D}DpCiMuE_HPkFnCeAxG`D|G{AlFsDbQu@|F_DbGeHjGeRnXoJpDeLpF{E`DiJpK{O|NqHxM}N`E}V_EoSsDsHxCiMu@d@pBqJaC}PiBaDp@wGwAiNt@wIoDaJbBiHSwFlCaS}BcKT_PdJu\\JcSgA}HxBuJoByHrAoCfGaB|AmDzIwBdOoKl@iDgAaJzDsGhFoO~Ia^[mKyMke@wFei@sRop@qGgm@Se_@bB{D|GsE~@eFe@{o@aD}My@sRL_j@{AwCeIyCkBR}@pBu@c@hJiPrQwLn@z@qBhG_@rFT~B~AtAzB[bCcObFgHpD`@fDtLjAFoAuJbCoJY_IeFiJc@wEyEqDoGlEuH?jJsCrIkW[cIfBePxAgGiB[wDtKwE|D{\\RyElDuEuBeFZuB_HoBcAoOvBsElGcD|Aw^iEiLeEyj@q\\wb@g@uRsH}GqFyDgIaPaDiD{BaDcJ{HqJch@wKkFmLqMaKoGkAy\\KyQcHge@xFuPgBygAe_@aq@eGgMaF{IoKrAmP|DyWr@qd@gYsLwLgVsOco@oLkaAg@_PfKwfA~Kq`BUgAmH_@wJuDjHwgBnBwFlGa@xNaH~Lwz@xJoc@vOy_@nVcXjlAcs@tj@qMfO{IrFyDnd@ug@pRu^kGo~@`EmFvQsd@dYwe@bGvDTyDfCeFl@wEbNnC~AsHlHoPoA}BdAwD"
       }, 
-      "total_elevation_gain": 1154.7, 
-      "average_speed": 3.612, 
-      "moving_time": 19932, 
+      "total_elevation_gain": 1704.0, 
+      "average_speed": 4.435, 
+      "moving_time": 20542, 
       "start_latlng": [
-        43.51, 
-        16.44
+        41.12, 
+        20.1
       ], 
-      "max_speed": 13.4, 
+      "max_speed": 15.1, 
       "end_latlng": [
-        43.29, 
-        17.02
+        41.11, 
+        20.81
       ]
     }, 
     "2019-09-15T04:43:36Z": {
