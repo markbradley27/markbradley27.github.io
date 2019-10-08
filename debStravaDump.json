@@ -1,36 +1,36 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 17949.100000000002
+      "total": 18575.9
     }, 
     "distance": {
-      "dailyAverage": 73649.39499999999, 
-      "total": 1472987.9000000001
+      "dailyAverage": 73772.69047619047, 
+      "total": 1549226.5000000002
     }, 
     "moving_time": {
-      "total": 340983
+      "total": 358674
     }
   }, 
   "rides": {
-    "2019-09-18T06:58:40Z": {
-      "distance": 70571.9, 
-      "name": "Day 6: Tribanj to Zadar", 
+    "2019-09-26T08:08:01Z": {
+      "distance": 53944.0, 
+      "name": "Day 14: Neum to Zavala", 
       "map": {
         "resource_state": 2, 
-        "id": "a2719882560", 
-        "summary_polyline": "mxrmG}~r|A{A}@~Lud@nEi^lEcMlHw_@jDkIlAcXlCkZrB_FhA}GpEeIr@sLxEwFlBcKDsD}BgFEyBtIcFbD{I`@eF_A_KdGgDdDuMjCeZHgN|Kk_@xC}NjAiKSoMjGaMjEoF|Jcf@vRe[xLmEnGAfEoC|LmVzEoDjEsHtSsLdZ_a@`IqOrK_G~O}QrB}NhNmWhCyJrFmd@?wLaAeS^oHvAmGnJgQ|R}PxC}L~LmK`C_FzAsMpDuO\\_PbEu][{GsEkP{@oH`@_VeA{RhBgSBuIbLia@FyKxA_NlDsNpAkQv@aDfDyElIuDrGcLnG_DlF{F`N|BhB{@^}ViA}ByDoCc@aC`A}BrGAdBgAx@wD@kLh@eBdAEp@jABdJjAjRxBfDvCn@hDyA`PkW~BsBdKiDbNyJbOeAfEb@xExIfKtLt@vDv@pR`HrAtCxNhFpGbDlAdEGfWoFjPi@pGkDtBChC`BjKxMrIpEl@jG}BjZiBdFsA~KmDlKyBnMsIlSgFzDuK^}A|A}C|FaGsCuEjA_IlXoK~QcE`{@_\\z`BkA|OqGfMsJ~KoBjGK`IgErGWlIuEm@}CxH`@`MXbXtE_CgAxKxFb@hK~FjFh@nD`D`Jz@pD|AnA~EiAzMZpRhEhNvMvG`GjGzAfCvEzP`DvC~@vCdEzCvGv@jNr[hDxBsb@|}BmAjMwH|QwN`XqHnHxC~D`BdGnNxAzClGnG|CdMlQvCdP~B~TzBfIqC`IAhIuAdCV|SjAlAdKDrCoIlJdGjDvGxB~IxRlQvE|HlDfCzNl[hKlKa@\\`@JPMzJdOfYpf@xCzCjFdBpElGnCfHh@fFuC~MvAn]tGrO`HjHhDjHhPvkAyDh]zBxIlAjNsBhIJdSiGhWoBzP@dO}ApMGhXbB`\\QvCrKjMxEvIhYpY`UbA|GrHnLi@|WbG|oC|_Bb_@r_@lj@bs@zEvClIvBrExG~EbAnJmBjE`EdG~AdGjGrN]tFfDrGXvj@zd@pQeAdDuCpBlIrCpDlHuA|HyGhCpEr@BhCqCj@`@tF{Cp@}AzEgDCw@Jf@_IjGmFhBiD~CsCuEx@pCn@P@u@SAs@n@~@?LuAm@z@kCuEeBoHuD`@|CjFq@w@iBaEzD_@nClKr@KrAfCl@g@c@LDtDwCnFoAqEuAgBT_B`DcBfAhEjA|@fD}D~Bk@h@Ze@m@oBt@[sCu@c@eCrGp@h@zAkBPb@uH`JtLdSyIpMrFrJbXeQTeAaAnBmV~OkFgJvHsMuKgS`BaCg@gBz@s@}AsCyCcOm@gUn@@"
+        "id": "a2741387173", 
+        "summary_polyline": "ug~dGgkojBkEe@sH`Gz@eApAkCfCeCeMoA}FdHuB_Co@{BWyEw@uDF}Av@u@bF_@|DsIrD_Dp@iCcB_RyEcPgBsEYoCjC{RzEgKTkJeCqMaBi`@_AgFyDuGiI{F}EuFsCsJ{@yLt@aV{AwIaI{O{DuBcIH}CcAaC{CmFcMyCqC{GkCsCcEkBoIiKkdAkCqKiFeKmE_FoJcFmp@_J{DcAoEoCcI}JeBoEsBmKu@}L|Bqq@xIm|@LeYr@gMdAgGvHsYpFwi@tGyRvA}GhFwkA~@k@xDT?mE|@uICsE`AiKxCqLdFwJzAcIBwHzAyUbAoGbA}UO_DmDiIiN_d@{@cL_DcJEkCy@oFiA_AwBIzA_ArL}MhAmHNec@zAmE_F}@_AsEE}AnB_RIcBeAgDmCyEsIwEiEaECj@`G|Ip@lFyCrCoBxF_EhESbHu@|CyDpA}@|@IdBY?z@{DjD{Ab@yCg@_Sy@_ACiAo@e@u@nB^|CYIo@k@KgCd@eHa@sHpAsGvAqPjAgEpHqMpCyHhJ{CnDeCzDw@rCsCjBu@lB}DtCeBpA{BbFqBhAkBnI_EfCDpDyAxFOnSj@bRhDPTKfEuApDLRfEwIdGgIjO}XrLiHpP_NjH}DbFoHdEyL`EeIxFmXH}G_@}EcDqRcGmK_AgDUsNx@mHs@eM{AuHSkOmDiKcHuGo@uCGcEvCgN|@qBtA}ItGwPxBoJnFcK`CwKl@aEtBsFbA}M}@sFDeDbEkJl@oCzAwJ~BsX~BeGz@}EjCsZ`DsJhDkFdFeDzE[lKdGlCq@pBcDjAkFnDgJ`D_GnG_IzEaBtF[hDkCdEoAzAgBj@yCs@kId@_IWkB}BkHeD_EcB_ByAsEIuBnA_HPqF`B}H_A}GuByCyHeCcRtIuF`AiHqC_G}EaM_JsMs@qFp@wNnGcFhAqA_@kDwCqEg@_JuDwFkF}BeEaCeHcC}Mo@eLSiZyB{LLcFhA}HMmPjBwJxC_HpFuVfHkPtDeQr@mK~HyK`DqJnFwFdNkDjEqFvLHlCy@nDwBxEkHrNkLzKwAbFhArFu@lGj@|HcC`LcAbDlBjD|EtCtN~BnGvBvBjJ|DfDZzHeAnPdBtB]rKsGtB]vBl@vCxBnAdCRpCg@dFFvB|@`DzBbBpM{ChEb@hGeHxG}A~CwCZyAb@\\[_@n@l@xAeAnCE~CqApBx@xB|DhEbDvAX`G_AzFdGhFzCzB\\bAi@`AuErAsAbGA~FdAdDqAxDwCl@qAxByOfBuFzK{N~F}AxAiG~E{H`ByAlE_ArGb@jL|GjCf@^C^sAbBUNQ[N"
       }, 
-      "total_elevation_gain": 804.7, 
-      "average_speed": 4.017, 
-      "moving_time": 17570, 
+      "total_elevation_gain": 1253.5, 
+      "average_speed": 4.026, 
+      "moving_time": 13398, 
       "start_latlng": [
-        44.34, 
-        15.34
+        42.92, 
+        17.61
       ], 
-      "max_speed": 13.5, 
+      "max_speed": 14.5, 
       "end_latlng": [
-        44.12, 
-        15.24
+        42.85, 
+        17.98
       ]
     }, 
     "2019-09-23T09:40:18Z": {
@@ -115,6 +115,27 @@
       "end_latlng": [
         42.25, 
         19.01
+      ]
+    }, 
+    "2019-09-18T06:58:40Z": {
+      "distance": 70571.9, 
+      "name": "Day 6: Tribanj to Zadar", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2719882560", 
+        "summary_polyline": "mxrmG}~r|A{A}@~Lud@nEi^lEcMlHw_@jDkIlAcXlCkZrB_FhA}GpEeIr@sLxEwFlBcKDsD}BgFEyBtIcFbD{I`@eF_A_KdGgDdDuMjCeZHgN|Kk_@xC}NjAiKSoMjGaMjEoF|Jcf@vRe[xLmEnGAfEoC|LmVzEoDjEsHtSsLdZ_a@`IqOrK_G~O}QrB}NhNmWhCyJrFmd@?wLaAeS^oHvAmGnJgQ|R}PxC}L~LmK`C_FzAsMpDuO\\_PbEu][{GsEkP{@oH`@_VeA{RhBgSBuIbLia@FyKxA_NlDsNpAkQv@aDfDyElIuDrGcLnG_DlF{F`N|BhB{@^}ViA}ByDoCc@aC`A}BrGAdBgAx@wD@kLh@eBdAEp@jABdJjAjRxBfDvCn@hDyA`PkW~BsBdKiDbNyJbOeAfEb@xExIfKtLt@vDv@pR`HrAtCxNhFpGbDlAdEGfWoFjPi@pGkDtBChC`BjKxMrIpEl@jG}BjZiBdFsA~KmDlKyBnMsIlSgFzDuK^}A|A}C|FaGsCuEjA_IlXoK~QcE`{@_\\z`BkA|OqGfMsJ~KoBjGK`IgErGWlIuEm@}CxH`@`MXbXtE_CgAxKxFb@hK~FjFh@nD`D`Jz@pD|AnA~EiAzMZpRhEhNvMvG`GjGzAfCvEzP`DvC~@vCdEzCvGv@jNr[hDxBsb@|}BmAjMwH|QwN`XqHnHxC~D`BdGnNxAzClGnG|CdMlQvCdP~B~TzBfIqC`IAhIuAdCV|SjAlAdKDrCoIlJdGjDvGxB~IxRlQvE|HlDfCzNl[hKlKa@\\`@JPMzJdOfYpf@xCzCjFdBpElGnCfHh@fFuC~MvAn]tGrO`HjHhDjHhPvkAyDh]zBxIlAjNsBhIJdSiGhWoBzP@dO}ApMGhXbB`\\QvCrKjMxEvIhYpY`UbA|GrHnLi@|WbG|oC|_Bb_@r_@lj@bs@zEvClIvBrExG~EbAnJmBjE`EdG~AdGjGrN]tFfDrGXvj@zd@pQeAdDuCpBlIrCpDlHuA|HyGhCpEr@BhCqCj@`@tF{Cp@}AzEgDCw@Jf@_IjGmFhBiD~CsCuEx@pCn@P@u@SAs@n@~@?LuAm@z@kCuEeBoHuD`@|CjFq@w@iBaEzD_@nClKr@KrAfCl@g@c@LDtDwCnFoAqEuAgBT_B`DcBfAhEjA|@fD}D~Bk@h@Ze@m@oBt@[sCu@c@eCrGp@h@zAkBPb@uH`JtLdSyIpMrFrJbXeQTeAaAnBmV~OkFgJvHsMuKgS`BaCg@gBz@s@}AsCyCcOm@gUn@@"
+      }, 
+      "total_elevation_gain": 804.7, 
+      "average_speed": 4.017, 
+      "moving_time": 17570, 
+      "start_latlng": [
+        44.34, 
+        15.34
+      ], 
+      "max_speed": 13.5, 
+      "end_latlng": [
+        44.12, 
+        15.24
       ]
     }, 
     "2019-09-14T07:52:36Z": {
@@ -222,25 +243,25 @@
         17.62
       ]
     }, 
-    "2019-09-26T08:08:01Z": {
-      "distance": 53944.0, 
-      "name": "Day 14: Neum to Zavala", 
+    "2019-10-08T08:00:18Z": {
+      "distance": 76238.6, 
+      "name": "Day 26: Kor\u00e7a to Kastoria", 
       "map": {
         "resource_state": 2, 
-        "id": "a2741387173", 
-        "summary_polyline": "ug~dGgkojBkEe@sH`Gz@eApAkCfCeCeMoA}FdHuB_Co@{BWyEw@uDF}Av@u@bF_@|DsIrD_Dp@iCcB_RyEcPgBsEYoCjC{RzEgKTkJeCqMaBi`@_AgFyDuGiI{F}EuFsCsJ{@yLt@aV{AwIaI{O{DuBcIH}CcAaC{CmFcMyCqC{GkCsCcEkBoIiKkdAkCqKiFeKmE_FoJcFmp@_J{DcAoEoCcI}JeBoEsBmKu@}L|Bqq@xIm|@LeYr@gMdAgGvHsYpFwi@tGyRvA}GhFwkA~@k@xDT?mE|@uICsE`AiKxCqLdFwJzAcIBwHzAyUbAoGbA}UO_DmDiIiN_d@{@cL_DcJEkCy@oFiA_AwBIzA_ArL}MhAmHNec@zAmE_F}@_AsEE}AnB_RIcBeAgDmCyEsIwEiEaECj@`G|Ip@lFyCrCoBxF_EhESbHu@|CyDpA}@|@IdBY?z@{DjD{Ab@yCg@_Sy@_ACiAo@e@u@nB^|CYIo@k@KgCd@eHa@sHpAsGvAqPjAgEpHqMpCyHhJ{CnDeCzDw@rCsCjBu@lB}DtCeBpA{BbFqBhAkBnI_EfCDpDyAxFOnSj@bRhDPTKfEuApDLRfEwIdGgIjO}XrLiHpP_NjH}DbFoHdEyL`EeIxFmXH}G_@}EcDqRcGmK_AgDUsNx@mHs@eM{AuHSkOmDiKcHuGo@uCGcEvCgN|@qBtA}ItGwPxBoJnFcK`CwKl@aEtBsFbA}M}@sFDeDbEkJl@oCzAwJ~BsX~BeGz@}EjCsZ`DsJhDkFdFeDzE[lKdGlCq@pBcDjAkFnDgJ`D_GnG_IzEaBtF[hDkCdEoAzAgBj@yCs@kId@_IWkB}BkHeD_EcB_ByAsEIuBnA_HPqF`B}H_A}GuByCyHeCcRtIuF`AiHqC_G}EaM_JsMs@qFp@wNnGcFhAqA_@kDwCqEg@_JuDwFkF}BeEaCeHcC}Mo@eLSiZyB{LLcFhA}HMmPjBwJxC_HpFuVfHkPtDeQr@mK~HyK`DqJnFwFdNkDjEqFvLHlCy@nDwBxEkHrNkLzKwAbFhArFu@lGj@|HcC`LcAbDlBjD|EtCtN~BnGvBvBjJ|DfDZzHeAnPdBtB]rKsGtB]vBl@vCxBnAdCRpCg@dFFvB|@`DzBbBpM{ChEb@hGeHxG}A~CwCZyAb@\\[_@n@l@xAeAnCE~CqApBx@xB|DhEbDvAX`G_AzFdGhFzCzB\\bAi@`AuErAsAbGA~FdAdDqAxDwCl@qAxByOfBuFzK{N~F}AxAiG~E{H`ByAlE_ArGb@jL|GjCf@^C^sAbBUNQ[N"
+        "id": "a2773139753", 
+        "summary_polyline": "ssyvFim{}B{@TiE|NY|AFbE_^vEcFrC}BgAi@jHiCxHuGbQiBnByD_B^QmHhHMqFtKwNeCuEoGgGkDw@_Qc@eNd@oIaKRq@qZsWeMcNqTm[mReRsXg`@iBi@}BiG_KkMmJ}Dka@uGmFiBeHuFySwVo\\sYeK}G{PcEqDsBcJ}KiQqX}D_EatA{z@cFwH{BaIyDkt@wAcKmAcDyIsMyCqLiGgPeQg`Cw@yH}CiPB_IrBsIjDmIpUm{@LeLwBgLhIgNfAeG`@}OpJuPbOqR`BuDLyBx~Aw`BxhB{mBdhDulDdGsFlLuDpFwG`P{MrAV~HtKlNjJrP`OrG|BfWvCjTtE~AfA`CxFnBfA~J~@nDaApHqFlJe@~Bl@~@fAjF`RbAbBtFdDlN_@t@v@t@tIh@xApHrGfJbCpAzAjHnDpLaAnGnFrEzGjJbHzB`@dMu@dO~FvOhPlLzH~HrLjHvDtAxC~C~CxArGx@bA~@O`BoCtJyBtM|@pDaClCiEfBq@tBDfF`D`CsAfEgFrJSvW}JbN}F`JoAjCtBbEThBiE`Aq@v\\xQ`EpA`MjCrI}@tNigAuAqCh@iCyBgGs@oKwAcBi@gCr@}GrByDEsBaAoAa@aGnBo@r@wAnFgA?o@cCgCVg@dDlAvC_Al@cAB_CvE}Bs@sChAcBe@wCPuB`DsAhA{B|BP~DgDkAiLtD}HToGpFgFnAcElFwG`EwBzImHiBaE]uCpAXvIaBvQeNbHwHjRyOdH_V~Ygl@zU_r@y@oC}H}CwNmOeIiCXoAdCr@tAY`GiJs@{@eDjAw@Yy@qCwBgPrA{HbE{G}FeQ`@_C~B_An@wAAwF}@yDkHwJkJwIuFt@qH}@c@oCx@}FK{A{NqSaAsKgEsHKcD`AeELiDEmLs@eIJqGd@wCdCaE?_HuDoK_NgPoEsYoE_Gm@kBXaCjDuCfC_HhE{BrAwDc@cD}EmHcA[k@cHj@_EeAiNR_CjDeKdByPoAkdAuFiYkAyCsLmOyIuGiFiOiGqGIiQtSo\\pLyYnQuSbJ{VrLcb@AgCuAcGsEcKs@iWl@oNb@iBr@c@hOEXc@yOctAmBiAe@}uAFiApAkAqAHTh@x@y@nA}HOqA_ByDdD_M`AwJtB}DCyOrCuWj@kBlCwCzAiD]uVRsDnDeZdCiFVmDdAuBDaAgAsD|BkLvE_OrG_MbJuKjGmCjBH`CkFp@{EuBuRN}Mi@oGmG{RwHiJoF_RFmGvFoZfAw]SiC{@cAgAGoHnFuEtAuHyFqJtByF?cDoDyByHyGLa]sNkEkHyCsYbIsLo@r@Cw@Vd@vAuAuAtAYa@"
       }, 
-      "total_elevation_gain": 1253.5, 
-      "average_speed": 4.026, 
-      "moving_time": 13398, 
+      "total_elevation_gain": 626.8, 
+      "average_speed": 4.309, 
+      "moving_time": 17691, 
       "start_latlng": [
-        42.92, 
-        17.61
+        40.6, 
+        20.79
       ], 
-      "max_speed": 14.5, 
+      "max_speed": 13.7, 
       "end_latlng": [
-        42.85, 
-        17.98
+        40.52, 
+        21.26
       ]
     }, 
     "2019-09-13T06:55:06Z": {
