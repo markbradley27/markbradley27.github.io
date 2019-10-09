@@ -1,78 +1,36 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 18575.9
+      "total": 19691.4
     }, 
     "distance": {
-      "dailyAverage": 73772.69047619047, 
-      "total": 1549226.5000000002
+      "dailyAverage": 75193.84090909091, 
+      "total": 1654264.5000000002
     }, 
     "moving_time": {
-      "total": 358674
+      "total": 384755
     }
   }, 
   "rides": {
-    "2019-09-26T08:08:01Z": {
-      "distance": 53944.0, 
-      "name": "Day 14: Neum to Zavala", 
+    "2019-09-18T06:58:40Z": {
+      "distance": 70571.9, 
+      "name": "Day 6: Tribanj to Zadar", 
       "map": {
         "resource_state": 2, 
-        "id": "a2741387173", 
-        "summary_polyline": "ug~dGgkojBkEe@sH`Gz@eApAkCfCeCeMoA}FdHuB_Co@{BWyEw@uDF}Av@u@bF_@|DsIrD_Dp@iCcB_RyEcPgBsEYoCjC{RzEgKTkJeCqMaBi`@_AgFyDuGiI{F}EuFsCsJ{@yLt@aV{AwIaI{O{DuBcIH}CcAaC{CmFcMyCqC{GkCsCcEkBoIiKkdAkCqKiFeKmE_FoJcFmp@_J{DcAoEoCcI}JeBoEsBmKu@}L|Bqq@xIm|@LeYr@gMdAgGvHsYpFwi@tGyRvA}GhFwkA~@k@xDT?mE|@uICsE`AiKxCqLdFwJzAcIBwHzAyUbAoGbA}UO_DmDiIiN_d@{@cL_DcJEkCy@oFiA_AwBIzA_ArL}MhAmHNec@zAmE_F}@_AsEE}AnB_RIcBeAgDmCyEsIwEiEaECj@`G|Ip@lFyCrCoBxF_EhESbHu@|CyDpA}@|@IdBY?z@{DjD{Ab@yCg@_Sy@_ACiAo@e@u@nB^|CYIo@k@KgCd@eHa@sHpAsGvAqPjAgEpHqMpCyHhJ{CnDeCzDw@rCsCjBu@lB}DtCeBpA{BbFqBhAkBnI_EfCDpDyAxFOnSj@bRhDPTKfEuApDLRfEwIdGgIjO}XrLiHpP_NjH}DbFoHdEyL`EeIxFmXH}G_@}EcDqRcGmK_AgDUsNx@mHs@eM{AuHSkOmDiKcHuGo@uCGcEvCgN|@qBtA}ItGwPxBoJnFcK`CwKl@aEtBsFbA}M}@sFDeDbEkJl@oCzAwJ~BsX~BeGz@}EjCsZ`DsJhDkFdFeDzE[lKdGlCq@pBcDjAkFnDgJ`D_GnG_IzEaBtF[hDkCdEoAzAgBj@yCs@kId@_IWkB}BkHeD_EcB_ByAsEIuBnA_HPqF`B}H_A}GuByCyHeCcRtIuF`AiHqC_G}EaM_JsMs@qFp@wNnGcFhAqA_@kDwCqEg@_JuDwFkF}BeEaCeHcC}Mo@eLSiZyB{LLcFhA}HMmPjBwJxC_HpFuVfHkPtDeQr@mK~HyK`DqJnFwFdNkDjEqFvLHlCy@nDwBxEkHrNkLzKwAbFhArFu@lGj@|HcC`LcAbDlBjD|EtCtN~BnGvBvBjJ|DfDZzHeAnPdBtB]rKsGtB]vBl@vCxBnAdCRpCg@dFFvB|@`DzBbBpM{ChEb@hGeHxG}A~CwCZyAb@\\[_@n@l@xAeAnCE~CqApBx@xB|DhEbDvAX`G_AzFdGhFzCzB\\bAi@`AuErAsAbGA~FdAdDqAxDwCl@qAxByOfBuFzK{N~F}AxAiG~E{H`ByAlE_ArGb@jL|GjCf@^C^sAbBUNQ[N"
+        "id": "a2719882560", 
+        "summary_polyline": "mxrmG}~r|A{A}@~Lud@nEi^lEcMlHw_@jDkIlAcXlCkZrB_FhA}GpEeIr@sLxEwFlBcKDsD}BgFEyBtIcFbD{I`@eF_A_KdGgDdDuMjCeZHgN|Kk_@xC}NjAiKSoMjGaMjEoF|Jcf@vRe[xLmEnGAfEoC|LmVzEoDjEsHtSsLdZ_a@`IqOrK_G~O}QrB}NhNmWhCyJrFmd@?wLaAeS^oHvAmGnJgQ|R}PxC}L~LmK`C_FzAsMpDuO\\_PbEu][{GsEkP{@oH`@_VeA{RhBgSBuIbLia@FyKxA_NlDsNpAkQv@aDfDyElIuDrGcLnG_DlF{F`N|BhB{@^}ViA}ByDoCc@aC`A}BrGAdBgAx@wD@kLh@eBdAEp@jABdJjAjRxBfDvCn@hDyA`PkW~BsBdKiDbNyJbOeAfEb@xExIfKtLt@vDv@pR`HrAtCxNhFpGbDlAdEGfWoFjPi@pGkDtBChC`BjKxMrIpEl@jG}BjZiBdFsA~KmDlKyBnMsIlSgFzDuK^}A|A}C|FaGsCuEjA_IlXoK~QcE`{@_\\z`BkA|OqGfMsJ~KoBjGK`IgErGWlIuEm@}CxH`@`MXbXtE_CgAxKxFb@hK~FjFh@nD`D`Jz@pD|AnA~EiAzMZpRhEhNvMvG`GjGzAfCvEzP`DvC~@vCdEzCvGv@jNr[hDxBsb@|}BmAjMwH|QwN`XqHnHxC~D`BdGnNxAzClGnG|CdMlQvCdP~B~TzBfIqC`IAhIuAdCV|SjAlAdKDrCoIlJdGjDvGxB~IxRlQvE|HlDfCzNl[hKlKa@\\`@JPMzJdOfYpf@xCzCjFdBpElGnCfHh@fFuC~MvAn]tGrO`HjHhDjHhPvkAyDh]zBxIlAjNsBhIJdSiGhWoBzP@dO}ApMGhXbB`\\QvCrKjMxEvIhYpY`UbA|GrHnLi@|WbG|oC|_Bb_@r_@lj@bs@zEvClIvBrExG~EbAnJmBjE`EdG~AdGjGrN]tFfDrGXvj@zd@pQeAdDuCpBlIrCpDlHuA|HyGhCpEr@BhCqCj@`@tF{Cp@}AzEgDCw@Jf@_IjGmFhBiD~CsCuEx@pCn@P@u@SAs@n@~@?LuAm@z@kCuEeBoHuD`@|CjFq@w@iBaEzD_@nClKr@KrAfCl@g@c@LDtDwCnFoAqEuAgBT_B`DcBfAhEjA|@fD}D~Bk@h@Ze@m@oBt@[sCu@c@eCrGp@h@zAkBPb@uH`JtLdSyIpMrFrJbXeQTeAaAnBmV~OkFgJvHsMuKgS`BaCg@gBz@s@}AsCyCcOm@gUn@@"
       }, 
-      "total_elevation_gain": 1253.5, 
-      "average_speed": 4.026, 
-      "moving_time": 13398, 
+      "total_elevation_gain": 804.7, 
+      "average_speed": 4.017, 
+      "moving_time": 17570, 
       "start_latlng": [
-        42.92, 
-        17.61
+        44.34, 
+        15.34
       ], 
-      "max_speed": 14.5, 
+      "max_speed": 13.5, 
       "end_latlng": [
-        42.85, 
-        17.98
-      ]
-    }, 
-    "2019-09-23T09:40:18Z": {
-      "distance": 71986.7, 
-      "name": "Day 11: Split to Makarska", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2733742468", 
-        "summary_polyline": "w~phGo{icBRqDqBcCoA`@gJwG^aJxDsU~@ka@qSa~BqGmZsEue@JyIvHsi@wD{XxAkIiD{IZqGk@{N`@{IlCiGUwHpCwEtDe^fEeHv@aM|HoE`CsEb@_HvE_JV{JhE{L`A]jIdDfMmb@{YcZsOkHoKiA{IsLwIwD{CgDuGeBc@}A^iEcBmInCwIzNsu@tSg\\|E{NvX}[pCoJlSgZvXoi@tEsNRqP|E{KrD_Y|I}ZnJgLdKkC`XeWxK}Gc@c@xEaInBgMXgP~ImYfE}XhIkNhPw_@hIk^z@kI^wWuDqG_A_F`AeOfKy`@|HiMnBqP`Lc]bL_XlBmIbOq_@hBwWSyJp@aP]{TsCoJi@kH`Ew`@NoLeFwCoGIeDpE{AxHuHzTw@EjFmQdAoQfHiPgB{MrAqISyN|@qLpByHpAuNd@yTy@gEnAgOxByHh@aI@eEwAgGjEcPbBQjBqEtJue@pS_o@x@XlAsBrEcBtEyOAoDxIwWHiQgBsJv@mKK}ItCgIjKwe@nCoDzGma@_@{EiC_HuM_A_BjB}BnFkIj]@AsAuLb@yLbCyMRqJiAwI[}VqG}KpGm`@sD{F_@gGvAsIwAgQXkH~@_C]kHzBiDfLcFhB}H\\{LhAoE~GiFLCbFgMrAyLxCqKPwFvD_O|@sLr@{BzByA`EsQUaG~DoMIuI~E_KtFyWSwNnCeU@qNdDsQrBuC`@yKSuLgFeBo@yFjDg`@tCkEhFNbEuF]tFp@vCjT`PaBuLm@aJ|AwBJ_GfBw@fAoDE{Jn@jJgBbNhDx@UrFp@~EbGjKvDtBdDaFxAwFEnGwAzG^VpD_QhAgU`AtQtAoQnEeGnB}Qi@uE~F{FvCc@hDsFnHm[~Sgd@nHgZ|F}OlKaBjKmE|AzFjAVxFkOdKmBdK{IvChBtBeC|GqCcIlL|LuFhKr@r]qd@`OwHtCiFp@uNbGyFxEyN|EgHtFyNzHgc@lDkJ~DwFxF}DpXuH|CoK~DeFxC{HrC}NhIyHlEcMxIaFtZuc@~AcHSbC|BhBw@cFx@kDtBeFrHyHbIqWrBwBAxEpDh@BnB|BOb@vArMc@zBo@|KwK~OaE`Q{XbIwFDnA\\kCxF}D`FoL~LeGjFoK`D}LhK}LRaJzAyF_@P~KkGxFI`M{KdEsG~@aLxFkHtR_S~GaEdFmKpC}BrLqS`FiMhDqB`EAlH}PvDaAfBgDrNiLlQiFjDoI~DcCtEkJnFiRbCsD`AiEo@TgAcBdAoDgBcDt[ya@|@IfE~JlFdAzBqAL{JnBgHpScK}@iEwD{DmKbKlAbBtAo@"
-      }, 
-      "total_elevation_gain": 1154.7, 
-      "average_speed": 3.612, 
-      "moving_time": 19932, 
-      "start_latlng": [
-        43.51, 
-        16.44
-      ], 
-      "max_speed": 13.4, 
-      "end_latlng": [
-        43.29, 
-        17.02
-      ]
-    }, 
-    "2019-10-02T07:04:58Z": {
-      "distance": 95475.5, 
-      "name": "Day 20: Shkoder to Tirana", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2757235839", 
-        "summary_polyline": "}gx_Ggu`vBXCMXRKvG}Jn@yAnCaD~C{FtE_HhAGfApAbLpLfLvK~SfQp@bAnJjHbGbGxHnG`EhHzKjPnCdDbN`L|D~BdG|FdFdBdAj@n@kA`KgHdLeQbRwUn^i[tBeCz@cDLwHh@iGfDwPnBkE|I{LnCkHhGyTbA}Al@G~Dy@lEj@zEnBnHv@dItCdO~@`QP`JeC`Bu@nAgA|JoMb@_AvC}CtCoBxG{BzMeCjCgAhIkBtHcDhDaCpMwL|DkFzByErCkFvD_GpL}LxK_KjJ}GlTiQjZiUpEcCrK{D`NeDbWD|DYnFgCrC{BfDeE~FoFpCeBhCcArLoC|[}BpAEL\\l@a@nBYzAHHA`Bs@fC[`G_C~I}EnFeErEeFtGcJ`FkI`KmMfQsO|c@c_@vRoSlSoXrQ_[jGqMvKmRdIuK|KuLfIsG~WaQ`GyErS{R~aGsuEjFiDpG_DhMcEd_C}d@vIJrGbBrEdCbNvL|FtDjHbCdI~@lIOdGmAfGeChSkK`HuBxDMxL~BzDJbBh@tM~OvG`GSB~A`@xj@p[nQvJ|B~@lEZfD_AtEaE`KoH`KgG|@w@vCkGvAiBdAe@bGwE~HqErHkAvSaBr[mHtDEfAf@z@jAtKdZ\\hASLPCZb@|GdRzGlRtAlGb@`@jGgFxSuMhQ{IdYeP|ZaR~[aTjl@sZhb@eUzYiPhb@kTpPqJvm@y[dMqCrz@yMrZaEtaDof@`QsA~SBpdAhFfw@`D~nBlGpoDlPbQ^zKQ`P{A~{@yPATpGcBxx@{OnLqAfI_@lIGbJVrw@hG~i@hFbd@nAtFS`IgBxX}MlAUrEwCvnA}m@`@K\\\\@|@LsBzBuAz`A_e@`u@i_@b}@aa@rp@c`@p]eRvc@cWx|@{r@tEoChTqG~H_B~MuDpk@oQvNuDzv@wUzBaAdVqH~NyDv|@kXjy@gVv`@mK`TyMzLgI`b@eShUgKj`Ace@pDwAj@Ah@w@dCqA|NaHxGgCvD}BxLiFfBmAjdAqe@`Ey@jQmAlCcAxE_EvCoAfMsCx@Nd@b@p@lB~E|IrE~E^`AZJjHaEzFwE`KmGdAgApCqAlMaI\\N\\|Ap@f@t@W~AHC`AJP@iAx@mFNkCbByGGIdCsM~DkPlByGPITaAj@M`@}AImBTcBzDuP|FeTdAkGb@o@T{AlBcG`AeFnFgSn@aEpAiEr@aB|AaAI[He@k@aAAk@hDqM|@{F`BgFtGeWXaCnCoIhHsAVL?dDhAdH[I?d@w@FDu@W?"
-      }, 
-      "total_elevation_gain": 329.4, 
-      "average_speed": 5.764, 
-      "moving_time": 16565, 
-      "start_latlng": [
-        42.07, 
-        19.51
-      ], 
-      "max_speed": 10.4, 
-      "end_latlng": [
-        41.33, 
-        19.81
+        44.12, 
+        15.24
       ]
     }, 
     "2019-10-03T07:41:06Z": {
@@ -96,90 +54,6 @@
         19.9
       ]
     }, 
-    "2019-09-30T08:13:53Z": {
-      "distance": 65402.3, 
-      "name": "Day 18: Kotor to Donji Brceli", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2752285953", 
-        "summary_polyline": "ma}aGs|pqBr@LpFmI`EMxBtDeAn@h@Tz@{@gBr@l@}@fJzBvKxJv@tJtHzA@fHgCdIwO~PuHzBsEQOfAfAh@fNcA~^gNbR}QzPmGVcEqCmBKqHcFmIhCtCbE~@lHrKhJ|AaAvDmFvDzFDsEn@C`AlNOlBfCzBoBdBnCaB_BFkEf@vA~Ak@p@aDrA|@pGaMfCjBq@sBr@mFnGxDmFaEvFzDuFgG]aP_IqIoDs@eAeFmCX}OkJcHQoD}GwCLyGkDyR_DnLL~HrC`McBxY~MoQ_MqDyG_JbBaD_BnE`@xGiCrCRfChFfKjBnEzDwEcGmH{BpNdEkMiIjMzDfB]mN{F]o@jNhE}L}HxK~EdCmBpEW_K[eHyExFtB~GmAfLh@aUcDoEyBpE|@bLs@jJhB{HuDuQcDqBsFyBcAkHfB}RMh@mMaBoCaGaDuMgAaEuFiDDiHiDoDuG}Dz@sGkDaEZeBmUiCeHsCFjA}A_AmBaGeA}BzDiEu@QzAMsAqG@w@mC`@aGaCgJiMaOkNyMl@oHDoKnP_IpAkHrCoAhCmEnAaO_BgFeAiOgTe_@k\\oG{H|DjFqHKeAeLaCrDuMz@qGXeXzAmHbEcCrBbCh@a@kAaCiDa@cB`@qEdGsBlHcApRn@oNaA}JzGaMpIoF~B_Eo@}NzBuIAqB_PwVM{ElJcUrQUvNgGb@eDgCcHb@aKfHuH|DeAzHcLpFoV]yF|AaFbLuD`OIrHcHhKmQhMsK~@aIlLgNhCyPvIuD|A|GfAb@dOuGpHzAnDjDgDiHp@qIiFwJm@wJ`AhEhGtEzFX|P|KfNjCZoDgEkCaAuDmIsK`BcVX_f@~CwP`m@g_BUwDnDaDvBxDdH}Dm@sClFqErAfJc@_CpHGl@oBvVo@xHkOtKoJv@sCoFkLcKq@wCTdQiCnJwEjLZ|IkDpU`AvOyHvDf@jKtJfI|AbReCdNpEtMsBpQv@rQ{BrFv@vJhItD\\xDuAdMmL`DT`KvFfHiAvMb@~OwFvEhAvKjJnDRpKcF~QyNv@uJqA_D|DNpG}JXoNbYmVhLkPlFqC|DaL`EqElFg@tDdBxJqC`GqJ|D_DbIOvHoFnLrBbIiExDsGnQt@bHwNjAoMdE_@`HkE~HIxJmDjCuC`CeHxD~D{Ct@oBnHlCsCbAfB~GfAEbEdGpG~GsEfD{En@yCg@qFdAuFlJ]bEsDjFqAnJkKjIu@lBaCdOeCzIiNdL|G`EdJbFdBlA`CzCkEtDdDjG_GlCVtBgHpD_CjAiHzBwCcBgLxBkELuCrBcC~BkKxD{BzAeDp@uHO_N~@uDu@mI`CcGlBmQzEaI~EmQv@yJw@iHhEcIv@yFqAkCh@iBkEo@aAeCh@lBjCTHxA"
-      }, 
-      "total_elevation_gain": 1625.8, 
-      "average_speed": 3.072, 
-      "moving_time": 21290, 
-      "start_latlng": [
-        42.42, 
-        18.77
-      ], 
-      "max_speed": 13.3, 
-      "end_latlng": [
-        42.25, 
-        19.01
-      ]
-    }, 
-    "2019-09-18T06:58:40Z": {
-      "distance": 70571.9, 
-      "name": "Day 6: Tribanj to Zadar", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2719882560", 
-        "summary_polyline": "mxrmG}~r|A{A}@~Lud@nEi^lEcMlHw_@jDkIlAcXlCkZrB_FhA}GpEeIr@sLxEwFlBcKDsD}BgFEyBtIcFbD{I`@eF_A_KdGgDdDuMjCeZHgN|Kk_@xC}NjAiKSoMjGaMjEoF|Jcf@vRe[xLmEnGAfEoC|LmVzEoDjEsHtSsLdZ_a@`IqOrK_G~O}QrB}NhNmWhCyJrFmd@?wLaAeS^oHvAmGnJgQ|R}PxC}L~LmK`C_FzAsMpDuO\\_PbEu][{GsEkP{@oH`@_VeA{RhBgSBuIbLia@FyKxA_NlDsNpAkQv@aDfDyElIuDrGcLnG_DlF{F`N|BhB{@^}ViA}ByDoCc@aC`A}BrGAdBgAx@wD@kLh@eBdAEp@jABdJjAjRxBfDvCn@hDyA`PkW~BsBdKiDbNyJbOeAfEb@xExIfKtLt@vDv@pR`HrAtCxNhFpGbDlAdEGfWoFjPi@pGkDtBChC`BjKxMrIpEl@jG}BjZiBdFsA~KmDlKyBnMsIlSgFzDuK^}A|A}C|FaGsCuEjA_IlXoK~QcE`{@_\\z`BkA|OqGfMsJ~KoBjGK`IgErGWlIuEm@}CxH`@`MXbXtE_CgAxKxFb@hK~FjFh@nD`D`Jz@pD|AnA~EiAzMZpRhEhNvMvG`GjGzAfCvEzP`DvC~@vCdEzCvGv@jNr[hDxBsb@|}BmAjMwH|QwN`XqHnHxC~D`BdGnNxAzClGnG|CdMlQvCdP~B~TzBfIqC`IAhIuAdCV|SjAlAdKDrCoIlJdGjDvGxB~IxRlQvE|HlDfCzNl[hKlKa@\\`@JPMzJdOfYpf@xCzCjFdBpElGnCfHh@fFuC~MvAn]tGrO`HjHhDjHhPvkAyDh]zBxIlAjNsBhIJdSiGhWoBzP@dO}ApMGhXbB`\\QvCrKjMxEvIhYpY`UbA|GrHnLi@|WbG|oC|_Bb_@r_@lj@bs@zEvClIvBrExG~EbAnJmBjE`EdG~AdGjGrN]tFfDrGXvj@zd@pQeAdDuCpBlIrCpDlHuA|HyGhCpEr@BhCqCj@`@tF{Cp@}AzEgDCw@Jf@_IjGmFhBiD~CsCuEx@pCn@P@u@SAs@n@~@?LuAm@z@kCuEeBoHuD`@|CjFq@w@iBaEzD_@nClKr@KrAfCl@g@c@LDtDwCnFoAqEuAgBT_B`DcBfAhEjA|@fD}D~Bk@h@Ze@m@oBt@[sCu@c@eCrGp@h@zAkBPb@uH`JtLdSyIpMrFrJbXeQTeAaAnBmV~OkFgJvHsMuKgS`BaCg@gBz@s@}AsCyCcOm@gUn@@"
-      }, 
-      "total_elevation_gain": 804.7, 
-      "average_speed": 4.017, 
-      "moving_time": 17570, 
-      "start_latlng": [
-        44.34, 
-        15.34
-      ], 
-      "max_speed": 13.5, 
-      "end_latlng": [
-        44.12, 
-        15.24
-      ]
-    }, 
-    "2019-09-14T07:52:36Z": {
-      "distance": 62429.5, 
-      "name": "Day 2: Razdrto to Lupa", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2709542972", 
-        "summary_polyline": "mzgvGkxxtAKk@e@vNdA~CfE~Ef@jCK~E?iIaFqGu@oC|@cVfFxIhEbO~ElElIvAjLsNtS__@hJyJxBo@hArArCvIfAxO_@jJjAlI~AnEvCpCj^jKfo@|HfGhCnQbNnEbK~BzIzFt\\~@rKKvDnAfDrArL`EbIrBzHgAby@@hYgCrZwI`h@tJdRxBrClDfAzMyDx\\HlHp@`K~FzGwB~CXtNpRtFlLbCrMhAx]vCnI`GlChM{AvFtBbOtSzVfQ|InMxHpR~DpFxFbCpQl@b@~AsAzBJpAdHq@rHnIjGhE`MrBlI{AxD}IrBcCjHmBvK_IfMqDtAuBGkMbCwPmDsSMkLlAmEzFaBzDoGoA}FmFgCm@b@~@WfDfCv@s@iEsKF_Kj@wAhFeAtA}ApCoFbEuNjG{FpA{MhDy@tByDMiJd@uHvAaHzB{EW{C\\_Cc@gChDgKsCgKpAqL]cM{DcTsFsEeChGs@R_AsDh@{JoD_GaC}GqB|IjDkQbBmEvKaHtBiDn@sCdAmSn@qa@~Ei]dFuXUgG{AsFmAcBqFgBqF{EcAiCo@mHL_GnCaOpBkDfGmDr@uCKsDsBoEiLwFcCmCgAwD@}Dv@gEpBgCbKBnBaCMqGqF{GaBgF?}K|HgU~NoRbImSj@oFSuMnBaQlDsJzBcQ|DsOdO{^rGkWj@yFlBmHa@yJhEyMzFmXo@kKPwBlAuBxCgB~NkC`GoGbBeEtCo_@CmGaE}ScByQb@kVhAmGfDgElFmUhBUrG|F`EkBbAaCn@kIxGqRfBoDrAqH~Vgf@hFkE|Jp@jGeB~DyFsC{]XcEhE}P`NcI`N{ArIuExDOfDaCpDIdA_A`@cCc@qGeD}H_CuPlAkJnA{BrBs@vMx@nMoGzO_]|@}CEwDyCqJnHuXvEqIpA_@bRhBxI{HjBm@j\\`@bKyM`FyPv@uFhEuGnAaGdD}D?qHpA{CvEyDpM{EpHcOz@qHc@yFNuD}@_DVsDhFaNZj@}@xAjArAOf@Rk@y@Ih@pBEuAm@t@iBSjAAc@GfBZqAP`@Fn@gBYKd@Hn@wBy@_CdCeGGu@|AmAa@gCp@mB`Ai@EiD|F{GxF}Kd@uHpBeDrK}GhIoBrGDxA}DpGiAjHiI|G|Cr@hBtAe@bNpFrMpIrMrEbF_DxCyNbBoDdIsDdFeJ`BsAxJi@vO{JlSnDjI{DbFpCrCDxEwB`DsJrAIfEzBvEkEbPnHv[jHvBxApEfJ`Cv@hHeI|EeP`EwCfRuCjDgFnKgEnJyOnMeJtIqUfG_WjHcPjcC}cAraAsWdQqiA"
-      }, 
-      "total_elevation_gain": 546.1, 
-      "average_speed": 5.215, 
-      "moving_time": 11970, 
-      "start_latlng": [
-        45.76, 
-        14.06
-      ], 
-      "max_speed": 14.1, 
-      "end_latlng": [
-        45.47, 
-        14.3
-      ]
-    }, 
-    "2019-10-05T09:08:46Z": {
-      "distance": 91105.3, 
-      "name": "Day 23: Elbasan to Ohrid", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2765502878", 
-        "summary_polyline": "}a_zFqqtyBa@{BnGaFdBlAhHgEuAqFb@}Bw@}BsCmc@cF_VgDkj@sMy`@oJka@cL{TwVsj@qc@yo@eh@g}@{aAy}@_HaMkDiLgA}HCeKdGq_@D_FyE}Z_As[_OwQiLiJeCaFqAkLb@mTiAePuEo]Z_[rMop@pCoQ}@sKqHsMqAyGhBcYhEgMTmRoBmE{FiDuGaf@oG_DqAiIwG_FeH_UcSaQeJuOwCsLwCcZcLuScI}B_HrJaEs@SeMlBoYsCgJsKqKw@wCfGyPt@eKaM}NsAsFzFeU_@wMnIqT_@qMdGcNxBeJzJaQ|ScE|BsBrCyJW_KGjBp@m@?bBt@OiB]?sAdCmLdBgTxE_LdIoK[yF`AeGvKwJfGsPpKmH`DkF`DsUjF{J_@aDcE_HIsHpBaHjLcNIaYpC}LrSaOpJ_@dOaEfBiCvC}OxIwKZuFqEiXdHgWpDsDjJ}BzHeHlRsKjUs`@`PnBhJ`HhDiAzAuGAwDsAiCsEuBcBqGRqJlHmf@`EuFbFyAdBkHbEyG~ZqLjAgCHeGnCaQzDaHxE{ClHsH~HYhDoKzGaCfCeHbGaGtDyMrIgIvR}K`CwMhV}r@nD}C~PoC~@uBSiGbAkDjPqD|D}DpCiMuE_HPkFnCeAxG`D|G{AlFsDbQu@|F_DbGeHjGeRnXoJpDeLpF{E`DiJpK{O|NqHxM}N`E}V_EoSsDsHxCiMu@d@pBqJaC}PiBaDp@wGwAiNt@wIoDaJbBiHSwFlCaS}BcKT_PdJu\\JcSgA}HxBuJoByHrAoCfGaB|AmDzIwBdOoKl@iDgAaJzDsGhFoO~Ia^[mKyMke@wFei@sRop@qGgm@Se_@bB{D|GsE~@eFe@{o@aD}My@sRL_j@{AwCeIyCkBR}@pBu@c@hJiPrQwLn@z@qBhG_@rFT~B~AtAzB[bCcObFgHpD`@fDtLjAFoAuJbCoJY_IeFiJc@wEyEqDoGlEuH?jJsCrIkW[cIfBePxAgGiB[wDtKwE|D{\\RyElDuEuBeFZuB_HoBcAoOvBsElGcD|Aw^iEiLeEyj@q\\wb@g@uRsH}GqFyDgIaPaDiD{BaDcJ{HqJch@wKkFmLqMaKoGkAy\\KyQcHge@xFuPgBygAe_@aq@eGgMaF{IoKrAmP|DyWr@qd@gYsLwLgVsOco@oLkaAg@_PfKwfA~Kq`BUgAmH_@wJuDjHwgBnBwFlGa@xNaH~Lwz@xJoc@vOy_@nVcXjlAcs@tj@qMfO{IrFyDnd@ug@pRu^kGo~@`EmFvQsd@dYwe@bGvDTyDfCeFl@wEbNnC~AsHlHoPoA}BdAwD"
-      }, 
-      "total_elevation_gain": 1704.0, 
-      "average_speed": 4.435, 
-      "moving_time": 20542, 
-      "start_latlng": [
-        41.12, 
-        20.1
-      ], 
-      "max_speed": 15.1, 
-      "end_latlng": [
-        41.11, 
-        20.81
-      ]
-    }, 
     "2019-09-15T04:43:36Z": {
       "distance": 102352.0, 
       "name": "Day 3: Lipa to Senj", 
@@ -201,25 +75,46 @@
         14.9
       ]
     }, 
-    "2019-10-01T07:04:36Z": {
-      "distance": 88391.3, 
-      "name": "Day 19: Donji Brceli to Shkoder", 
+    "2019-09-28T11:42:48Z": {
+      "distance": 75269.4, 
+      "name": "Day 16: Dubrovnik to Kotor", 
       "map": {
         "resource_state": 2, 
-        "id": "a2754538350", 
-        "summary_polyline": "}uz`Gao_sB~@a@cBV~Aa@nDhAxBeBbCP|F_C`CgExAy@h@{BfGeBbBwFvAq@bG{KPoDhDuGBmFoBaNlDmFtByNZiNMsHc@gFeBkGDgFs@}CjDw\\`EcLYmGb@kGnDmGhFoStCyCfBeMxEqGVsFxFsMq@cKdAcDo@c@eCt@G{FaIkRRoFeA{DOiJyFmHgAoOqCKiFaGqGqL_EuKc@cQRuHiDmJCqHsEqKaImImToN^F`@cCd@Hk@Gx@F}@S?D|BOWj@d@o@aCA_AhCaGcF_Qea@_FoCyEGs^lNaFh@kRsDgF{E}A{EiBwNaH{OaAeIr@iJvGaJReEoKoOg^kbAuE{G{QqG{FyF_DsJwFq`@qMi^q_As|AySy_@}QyWuk@}`AoFmUs@sJAgJp@gM|AoJlNke@z@wGQsPcEoNyV{`@gGgH}M_IiO}BsEiCgIsLeAc@id@cn@kUuOqP{AGiBCjBqHi@r@gMkCc]NiPoByDcJ~CuBc@_@iArEcKUmDxD_ChCkEMeIl@{CnFaDzBiDpDub@vLmd@vAiL~AmSbFiQfAgL~DoGdAgEq@kWpAgHjDcZeGkUeBcRCaRkToDuN_@kK{CsUyRiL}NkD_BuKaQgx@}|Aa{@{w@yDmKgDyU_E_P}FuM~FX`PuAruBcZfRcD`\\qLpDsFvKcc@jMgOv@kHtDgJjB{L~IcDzDoG@_CoBaGa@iI{CcHmAsPoD_H\\_DdJcF~PgGpCiDrEiItACrFpDlBN`JwGrHwBnIjC~F~Fz@vBRzFpArB~B?jAuBTiHzCqOQiOj@{G[yB}H_NsEiPwCeEkCwHgEeF{BcVkB{BgG}CyDyPiEuKPgKm@}CcH_IiHgDQmB~@mIWuDgOkd@iIeL_IqHgE_IqMoh@kL}QoKmX}H{LyAwLr@uMtEmIzCwBrOwHfQoEjONlRfIvRJ|XgItSeAvImFdEcA|b@pAbGkCxKkOxCaCdTiHdDShE`BbK`NdNrLrIjG~Cp@xAfEpDh@dH|E~AbGfCxCjOrEpFtFfZxDjBs@lI`D~_Cl\\rBi@}@Nn@U?sAIxBh@l@noAtO~PrEtHGzfA{a@rEiF|DXlJsDtGoGfH}Cf`@y\\pv@yt@~Vy^`YsNpI_K`OsClLiIlJoEvWyFxLyGpNgFnMgK~^kIjiAse@~e@}Xn|@we@dMgIfHcHtNsDpMeIlDsEbPkItd@iS|q@_Tlg@iYj[mLc@oM|Bwe@[uWh}AhGnBa@hKlAdt@ZjAtPc@jd@nBzH~GrFfLjC?yElIcLe@i@v@w@mA@p@h@?jAs@Hp@E"
+        "id": "a2747404504", 
+        "summary_polyline": "sfhcGsvnmBjE_K|@sFhCeEzBaLc@iQfAeXtCcRbEmLzBa`@zGiOvBiCxCuI`@}EnBsDxUsSRaKcAkQ|AkHpEsElCoWjGqWZwM`CuMTeP|G_h@rBu\\`G}KjCwIvJ}HvCqGGeZgAyTeCwQ{FyUmA_Mf@iSeB{Ol@gDbFgJn@iFcDkUKoEp@mDdCoDnHmErMkD|E}JlKcIxIeQlB{TfGeTtEwFbOsHxEoJfEeDzCwFfJu@nPhGfPsG~@f@fBbFjEvB`KUpM`Fn[_@fTaOfHkH|QaEbH}CpN}QrLiExEmDvSyYxDo@nObBxDaApDmDzHk^dXys@jHcm@fDaJtRy^xDeM|Msy@|@}ZfEyQfDiU`NyUzEeT|GcMjE}SpC_IbZaj@hMmQp]c{@rG}Tp[oi@~HgTtZ{bApDw[CsGoB{P`@kJtBwIzGkf@rBkID~@t@aErGgO|BePfEyPjGiMx@sO`EaLfB{KtDaHzF}XdCi[kAqMHgE|CeQjEgLhBsNrSw\\pN}OxDgH|HwFrCyItGmKfDcPhGeOnPcNjFoKnDqAtAqBtAuI~DaLhDySbJaSV}UxCoMGyKdFsD`ByBbCwKjNqZzAwRjG{[bF}JlGaU`KsNxc@gYfJyDlSgYlKiLnAgPnHoOk@qMHkPfH{JP}CcAuC|@cAFkBaI{KcNsVsFoRe@mFt@oFfHoTrBeCpD}M~MiJhA_LzF{J`DuPdJcUmBwQcCsIzEqXDeCaAsE?mJrAsHUqDoCaIgFwXiG{EcL?aAs@UmWuAwHB}IR}BjDyFbO_PdCmH~B_D`HiDlSsSdG_E`EeJtAiSl@eBzAaB|HgBrBwCz@gHxCuFEuK|E}Ts@iM`@_EvAaDVsEgAe_@kAkJp@uDlEgFRaEuAkCiE{AiA{AW_NaAeIwDiIv@qPY_ImFmR_B{JwDwGwAyGgCmv@yM}ZiLaKyAeCsGgT{[{n@}Lii@oA_SDeOcJwUo@yUwAaAmBb@oDfImEtCgGcBaOc@k@iBpAeAxAuhA}GOgDxD{OwGwNjAwHiGg@yCcLgHi@mCxGk_@ZgLhCaEdAoECqDfE}D|BqLvDuClAaG]qEgDuLdAiIWkJ`AqH~HmGvAqDh@aEm@mKrFcPnBeSnJsPvEgPb@mKtAcEtJoNfJyEhM_WbGsElFaM`DqN`GgBpKiIlJmEtCkEl@mFzBeGvKaAhE`HhF|CzBUnDwHpD}C|CJ~JfF`DqErFcCdDsEbLyClEaEnFx@xKqClY}BnFsF|C}@dEcFnDcAxCgKBaOa@_UeBgF_Bs@yCl@yEfIeATFgCfBa@^{Ag@s@j@wB~@p@^aA?r@ZY_@LFm@"
       }, 
-      "total_elevation_gain": 380.9, 
-      "average_speed": 5.017, 
-      "moving_time": 17619, 
+      "total_elevation_gain": 868.5, 
+      "average_speed": 4.524, 
+      "moving_time": 16638, 
       "start_latlng": [
-        42.25, 
-        19.01
+        42.65, 
+        18.1
       ], 
-      "max_speed": 13.5, 
+      "max_speed": 14.2, 
       "end_latlng": [
-        42.07, 
-        19.51
+        42.42, 
+        18.77
+      ]
+    }, 
+    "2019-10-04T08:45:39Z": {
+      "distance": 23342.3, 
+      "name": "Day 22: Little jaunt to Elbasan", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2762235156", 
+        "summary_polyline": "oytyFmmmxBg@HOMSkBGiB@oDNsE|@}MDoBE{B_@wEg@mKA_BNkCbAgGLkAd@iLAkBUcCsAmP@mBf@mDh@yAf@w@vEqDbCeCrBiCbBwChBiCrAaB|C{CjKcJhM{HvL}GbBmAvC}ChEkFbEqHhAaCz@kCb@mBn@_BhCwFzCmFh@sAl@iCdAsJJ}DIcAe@}Ba@gAe@{@cD{EwAcEgAwEc@eCw@oC]gBQ{CDcBP_Bp@cDCIZ}@J{@p@aCjAiChAcBPOFSM?g@l@i@CIRKBcAfC`A{BRIJQb@FNCdCwB`DgDdC_D|IyMv@oBf@yBNeBb@eKBeBCoEMuDKkHS{Ci@mFAc@i@}Dq@yC[{@i@_A}A}AoPoL}D}CeKaHu@SqAEmB^_AHcCOuB{@yEsDe@UuBm@wBMe@o@PIU?Qd@YPmDKyBe@mB_Aw@k@y@{@uD}EcAgAqJeGeDwCkBqDqBkC{AqA}@e@y@s@o@iA]}@aAsD_@y@}@gAsAo@m@GkAB_B`@gBN_AUu@c@oEmEcA{A{BsCwEeDuCqAuAkAg@w@u@iBy@uA}D}DyBsDeC{ByAyB{@sBqC_Kg@kA_@k@u@{@kGeFoHqIcBcBqIqGiAwAu@wAc@qAU}@WmBIkB?gBz@gNFqCAeAi@cIUwBa@{B_B{EkE}Jm@qC_@cESw@a@aA{AcBkHuF{@y@aC_Du@qAmCwDwA}Cu@}BcAeFo@_EyB{KcB}JDsC~@oBrByJtAgGj@{EF}A@uDOgDMaAm@yL]}Di@iLe@_G_Eqq@YaDg@aEm@}CeBcGcAkCiDeH}FwM_EmIk@{Aw@{AyAiD{@}B_BuGs@mEu@yCWoB{@kEaBiJAg@F_@G_@Wg@m@wC[_Ag@sCy@uDYwB@Yu@yC{C_OUcB@mBGQm@_@[aAAi@a@uBEwAQq@BIQ]@_@KU@e@e@{@m@sBw@cEOc@Gk@Qg@Ag@q@cDCIU?aFrBAGVKTHFk@CFT?FKWUEHCr@OG{AeBO[Ow@e@iAe@G{AmAy@u@iAwA_B{G[y@QiA}@kE_B_Do@aBs@mA{CmHg@w@i@sByCuHk@}BQ_@YcBSq@QgAGCu@uDe@_Dk@}B[Ok@RAGz@U@OUa@]?qGbDU?SMe@}@Y@g@\\cAjAsCrBATVlBJZGUMGAX?COFNG"
+      }, 
+      "total_elevation_gain": 217.1, 
+      "average_speed": 3.963, 
+      "moving_time": 5890, 
+      "start_latlng": [
+        41.07, 
+        19.9
+      ], 
+      "max_speed": 10.4, 
+      "end_latlng": [
+        41.12, 
+        20.1
       ]
     }, 
     "2019-09-25T08:44:50Z": {
@@ -264,151 +159,46 @@
         21.26
       ]
     }, 
-    "2019-09-13T06:55:06Z": {
-      "distance": 73730.8, 
-      "name": "Ljubljana to Razdrto", 
+    "2019-10-05T09:08:46Z": {
+      "distance": 91105.3, 
+      "name": "Day 23: Elbasan to Ohrid", 
       "map": {
         "resource_state": 2, 
-        "id": "a2705228592", 
-        "summary_polyline": "yv`xGuxuwAJwR{D}Cc_AuJd@f@oAJqMm^_GxAoAgGo@c@_IrD{FpFo@mBH_A_AbAb@Q@t@[@H]sEnSrCjo@fCnEhVnn@CnMVrBo@~IV|C_LfFw@hAlCxQ~A`RdAnFFvEy@fGhUxGhMjFb@`AWjFh@vFhDdIp\\vYVErAwGjKxExF|@h@`AvHnEnDu@lWljARrRdKrc@cDzBQz@bM|ZhF~TxDdLvwB~gNvDzJth@zcAjnBxlHnArCz~DroGlm@tiBrB~Al`ClzDjWxFhUaAFw@QfAShCZjC|Z|GjCpB`FzGbBkDlCcDzQSrIlA`BoAbINrCe@|EgEjAsEzAgB~HwExB?zAy@`JcJdKmGdB}DxB{NlFsHzCoBbAgFlBoFrFkC|@mCh@qFrBwIfEoKhEqGtHyB`C|AhA~BbEf@~HoHzIgDfCeDdE[vEeC~FAbJoFhKi@|FaEnFCnGqEfK{A|F{F|RuIvFkFbJa@xAuAbA_D~CiFxEs@vBeBXgBsBkAzBnAjBiDfGmE~J{JrLk@vBeBpFiO~@wMxDcHtCmI|HyOdC{KpCcCdKeFdB_FnDoEzDqJnC{AdDpApCwBjBGhAwCbDqDvCGzBeA`RwLr@EfMmIhWi@jDuF|FcBtNqPRLHxFfCdG`A|FnDvDlDzP^tLx@lBvC`AzAiA}@`A\\vA|A}@|CpEDc@mAs@_BsCfCsCdH~DxGsC~DhHjC`BfD`G`C`BlEl@dCvE|D~C`InKzGpGrFrBvBbCx@rDy@vFH`ClD|M|BlCb@zA_@zC`@bIY|Dn@hEvErRtQfk@`DhQvCrYxAtFhDtGzB|L`@|JrCvDT`Vg@lEd@~FxAbHFdF{AjHLtBiALiA{B]OEf@fEpJbAzFdDxJfB`BzQjFtJhWzGxGxDdGbDt@rC|G`A`I}CbVDzAlExMl@fJ~CfMr@\\tFqArI`@pKqJvAiDwAlFiJfNuB`BmElANZg@A`@t@a@[LeAEz@HQOSFpA?}Al@f@]a@[XDhAdALtC{@`@uBt@FpB{EzGoJpBmGbDvBrDbQRtGj@xDxGxMzBhD~@`@xEh[bBpCrDvCdApCFfN}@jOAxLwFdj@oDfTcE|\\qDdJ{DlDaDnHgBdWNrNbGjhAxO|w@hd@njAvEfOfHjOhAlFx@nb@hFzKV|AK|G_BvMbElXf@`LnC`RO`D_DtGMvAfCrNk@pHCxN~CrUgCrOFjNiAfMKtFzAtRnBfF|F|Hh@|B\\vIjDhK~@xXrAhSb@x@"
+        "id": "a2765502878", 
+        "summary_polyline": "}a_zFqqtyBa@{BnGaFdBlAhHgEuAqFb@}Bw@}BsCmc@cF_VgDkj@sMy`@oJka@cL{TwVsj@qc@yo@eh@g}@{aAy}@_HaMkDiLgA}HCeKdGq_@D_FyE}Z_As[_OwQiLiJeCaFqAkLb@mTiAePuEo]Z_[rMop@pCoQ}@sKqHsMqAyGhBcYhEgMTmRoBmE{FiDuGaf@oG_DqAiIwG_FeH_UcSaQeJuOwCsLwCcZcLuScI}B_HrJaEs@SeMlBoYsCgJsKqKw@wCfGyPt@eKaM}NsAsFzFeU_@wMnIqT_@qMdGcNxBeJzJaQ|ScE|BsBrCyJW_KGjBp@m@?bBt@OiB]?sAdCmLdBgTxE_LdIoK[yF`AeGvKwJfGsPpKmH`DkF`DsUjF{J_@aDcE_HIsHpBaHjLcNIaYpC}LrSaOpJ_@dOaEfBiCvC}OxIwKZuFqEiXdHgWpDsDjJ}BzHeHlRsKjUs`@`PnBhJ`HhDiAzAuGAwDsAiCsEuBcBqGRqJlHmf@`EuFbFyAdBkHbEyG~ZqLjAgCHeGnCaQzDaHxE{ClHsH~HYhDoKzGaCfCeHbGaGtDyMrIgIvR}K`CwMhV}r@nD}C~PoC~@uBSiGbAkDjPqD|D}DpCiMuE_HPkFnCeAxG`D|G{AlFsDbQu@|F_DbGeHjGeRnXoJpDeLpF{E`DiJpK{O|NqHxM}N`E}V_EoSsDsHxCiMu@d@pBqJaC}PiBaDp@wGwAiNt@wIoDaJbBiHSwFlCaS}BcKT_PdJu\\JcSgA}HxBuJoByHrAoCfGaB|AmDzIwBdOoKl@iDgAaJzDsGhFoO~Ia^[mKyMke@wFei@sRop@qGgm@Se_@bB{D|GsE~@eFe@{o@aD}My@sRL_j@{AwCeIyCkBR}@pBu@c@hJiPrQwLn@z@qBhG_@rFT~B~AtAzB[bCcObFgHpD`@fDtLjAFoAuJbCoJY_IeFiJc@wEyEqDoGlEuH?jJsCrIkW[cIfBePxAgGiB[wDtKwE|D{\\RyElDuEuBeFZuB_HoBcAoOvBsElGcD|Aw^iEiLeEyj@q\\wb@g@uRsH}GqFyDgIaPaDiD{BaDcJ{HqJch@wKkFmLqMaKoGkAy\\KyQcHge@xFuPgBygAe_@aq@eGgMaF{IoKrAmP|DyWr@qd@gYsLwLgVsOco@oLkaAg@_PfKwfA~Kq`BUgAmH_@wJuDjHwgBnBwFlGa@xNaH~Lwz@xJoc@vOy_@nVcXjlAcs@tj@qMfO{IrFyDnd@ug@pRu^kGo~@`EmFvQsd@dYwe@bGvDTyDfCeFl@wEbNnC~AsHlHoPoA}BdAwD"
       }, 
-      "total_elevation_gain": 775.9, 
-      "average_speed": 5.884, 
-      "moving_time": 12531, 
+      "total_elevation_gain": 1704.0, 
+      "average_speed": 4.435, 
+      "moving_time": 20542, 
       "start_latlng": [
-        46.05, 
-        14.53
-      ], 
-      "max_speed": 12.1, 
-      "end_latlng": [
-        45.76, 
-        14.06
-      ]
-    }, 
-    "2019-09-28T11:42:48Z": {
-      "distance": 75269.4, 
-      "name": "Day 16: Dubrovnik to Kotor", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2747404504", 
-        "summary_polyline": "sfhcGsvnmBjE_K|@sFhCeEzBaLc@iQfAeXtCcRbEmLzBa`@zGiOvBiCxCuI`@}EnBsDxUsSRaKcAkQ|AkHpEsElCoWjGqWZwM`CuMTeP|G_h@rBu\\`G}KjCwIvJ}HvCqGGeZgAyTeCwQ{FyUmA_Mf@iSeB{Ol@gDbFgJn@iFcDkUKoEp@mDdCoDnHmErMkD|E}JlKcIxIeQlB{TfGeTtEwFbOsHxEoJfEeDzCwFfJu@nPhGfPsG~@f@fBbFjEvB`KUpM`Fn[_@fTaOfHkH|QaEbH}CpN}QrLiExEmDvSyYxDo@nObBxDaApDmDzHk^dXys@jHcm@fDaJtRy^xDeM|Msy@|@}ZfEyQfDiU`NyUzEeT|GcMjE}SpC_IbZaj@hMmQp]c{@rG}Tp[oi@~HgTtZ{bApDw[CsGoB{P`@kJtBwIzGkf@rBkID~@t@aErGgO|BePfEyPjGiMx@sO`EaLfB{KtDaHzF}XdCi[kAqMHgE|CeQjEgLhBsNrSw\\pN}OxDgH|HwFrCyItGmKfDcPhGeOnPcNjFoKnDqAtAqBtAuI~DaLhDySbJaSV}UxCoMGyKdFsD`ByBbCwKjNqZzAwRjG{[bF}JlGaU`KsNxc@gYfJyDlSgYlKiLnAgPnHoOk@qMHkPfH{JP}CcAuC|@cAFkBaI{KcNsVsFoRe@mFt@oFfHoTrBeCpD}M~MiJhA_LzF{J`DuPdJcUmBwQcCsIzEqXDeCaAsE?mJrAsHUqDoCaIgFwXiG{EcL?aAs@UmWuAwHB}IR}BjDyFbO_PdCmH~B_D`HiDlSsSdG_E`EeJtAiSl@eBzAaB|HgBrBwCz@gHxCuFEuK|E}Ts@iM`@_EvAaDVsEgAe_@kAkJp@uDlEgFRaEuAkCiE{AiA{AW_NaAeIwDiIv@qPY_ImFmR_B{JwDwGwAyGgCmv@yM}ZiLaKyAeCsGgT{[{n@}Lii@oA_SDeOcJwUo@yUwAaAmBb@oDfImEtCgGcBaOc@k@iBpAeAxAuhA}GOgDxD{OwGwNjAwHiGg@yCcLgHi@mCxGk_@ZgLhCaEdAoECqDfE}D|BqLvDuClAaG]qEgDuLdAiIWkJ`AqH~HmGvAqDh@aEm@mKrFcPnBeSnJsPvEgPb@mKtAcEtJoNfJyEhM_WbGsElFaM`DqN`GgBpKiIlJmEtCkEl@mFzBeGvKaAhE`HhF|CzBUnDwHpD}C|CJ~JfF`DqErFcCdDsEbLyClEaEnFx@xKqClY}BnFsF|C}@dEcFnDcAxCgKBaOa@_UeBgF_Bs@yCl@yEfIeATFgCfBa@^{Ag@s@j@wB~@p@^aA?r@ZY_@LFm@"
-      }, 
-      "total_elevation_gain": 868.5, 
-      "average_speed": 4.524, 
-      "moving_time": 16638, 
-      "start_latlng": [
-        42.65, 
-        18.1
-      ], 
-      "max_speed": 14.2, 
-      "end_latlng": [
-        42.42, 
-        18.77
-      ]
-    }, 
-    "2019-09-16T07:52:08Z": {
-      "distance": 104391.0, 
-      "name": "Day 4: Senj to Tribanj", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2714068366", 
-        "summary_polyline": "mctqGq}|yA|CqEnp@aJhYgi@dDqX~AvEB|]tO|BpKgXti@sp@}@gNbB{DvNxC`FdHpI}I~A{P~LvJrKoF~Iv@hEaFrFJtC_IxInD~NcNhJZ~HmGx\\dWvJ{HvGnDpHyCbD`OpGtDnf@`F|f@hBrC~Cf@dKfYlFfKzNlGuDpLd@nO~HhPiKtJlGbMoA|KpH~m@dGna@eMdZ|LzOeBtWrDzK~T~u@dEhJxErk@gBnNsT~ElAnAlJ`EpBh_@cOfK|CvMqBpE`DfHb[`W~JvVkV`UlLtXv@lYqVdUc@~AtCkDpHXxDzRbVxH_@dKvHbRqKtO`PjSzAzFaCpFaNtI~BhPaLx^xF~GjItL{JtGtG~TrCrTqIUiObBwBvDp@dHxRbXtIrZ_H|QjH|WuB~H_SxDcD|PiAbUvE`[eCjOiOpPe_@~d@_JzFwLlLhE`PwHrn@eBnYyQzP}D`JpRld@aW~[fJpWkZdQrHhGi@zZcR|R_Zzg@ii@h`@i]tk@iQxPf@vKsMrM`EnFiUfSeEp_@i^`p@sNl\\sh@~Rs@fIsMhNcDvT{[pPvIrf@oc@pK|BbTsDjg@cs@|`@{XzIc@vKfJpOoNfI}@`N{NdZ_m@n^iFvPw^pa@{`@pEeKdXwQjMkBrBsOt\\_XhBee@xm@oe@~JiOfAuUzHqItBoIh[yKfJaR|\\y`@v\\sw@~F_X|B?xGpMpEqEvCaMbJFfHsHw@_DdA|BpKiLqKqK`CcI[_IfLg@bVeUtQql@uG_RxM`@|S}Z_HyUpS~ClXkYRuLpHsG_AqIfPxCnHgUzEnFjDgCxCwThItChH}HlC_K`GzBfWyOvFaItDcQ`LObGeR`C{UbNa[AaKzDsGtBkUxK`BjBsIbKuFG_UnIsBbRcPvB_HvKoBbRuQnByHcFeTtUqF~QcTvA}LaAwPxYaAlDaFZsKhIx@zEsDj@gFuKsXtNbAdLcM_E}GxRgNnG_QvZaKlZqWhIcRRwNjE{Kc@wGlHmCjSsq@lj@yh@lSgL`[_VrIwKDoJ|G{@zJmL|AmIdFqAZ}M`NNlFyMhVwQxB}NtDxFjDKh^y`@vAiStKsA|EuQvFmCxKwKzAcP|Lo@dGqPrLeHhAkJfTuLpJmSli@u_@bCoLyFeM~NK~LsQg@kKoJmNzMgEnFsLa@qE_KmG|HwDrAcJ`IsJxAeJoDqI~KeCRaRv[gGaGoUzBuDfKFzG}GiB{HxEwIoC{S|`@cp@bOwk@`Tk]|CCuDLHnF_Bj@jAX"
-      }, 
-      "total_elevation_gain": 1424.5, 
-      "average_speed": 4.789, 
-      "moving_time": 21798, 
-      "start_latlng": [
-        45.0, 
-        14.9
-      ], 
-      "max_speed": 12.8, 
-      "end_latlng": [
-        44.34, 
-        15.34
-      ]
-    }, 
-    "2019-09-20T05:13:44Z": {
-      "distance": 58338.0, 
-      "name": "Day 8: Backtracking to explore Krka National Park", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2725453840", 
-        "summary_polyline": "a{wiG_by_BYu@fKmK|AiGyAkEaF_C`AsBnF\\^iGcBwBg@gCo@cHaA}C\\aCxCqEfBmF|BmC~EoMfKwLy@qKiEaS_CeYqAmHBmBt@mBrQaOb@HnE{K|GwIzCiOvCwIv@u@uNqKuHoDeUiD{GsBiJ{FaJwJqBrCoDlAbAq@}A_CcF{Ds@}B]Zh@`Ag@|@d@b@VI}@gGbAnBw@RTs@e@bATm@x@lAaAa@mBnCcDnJW`CgJzH{MxHqEqCoIPqFwFsCgAcL`MgSjPiGxG_NvRgBnF_FoAYbG}FaGkKyFeDZaH}@wJ~@}P|KkDz@gHfE?hCTq@YoAmCdAa@vBfC|DQv@uH_JmViNiZ_Jem@iV{IyN{FsGsFeEaAkBeBqVLae@y@gEgGwL}FaFcM_CuDj@}ErEiCIyH}ImLyBwA}BiCsJYoFXoLlB{LdIuR~b@ms@j@mDMeU\\oAfBcBwEsMgBmU_B_KsKa\\eKmRsBFiYwGkC?_KkCcENiMrCqDCmZeGwC_ASgA_BWf@[k@Jh@Ko@ZjAHx@bBj^bIjF?zQwD`IdAl@l@BjAmFpK{qAxqBim@~{AaB|DwAzAuE[gE`D}@{@L{GbDuTfB}EQw@}BtAkCtIwDrFqDjIsCIVaOeFgBa@l@IlCqBzDuCzC}CdAOaLyFiDcBeHyBu@mFnCqJ_Ne@yARcBcDoCx@gDe@cAKyEwBeEI}BpE{YlAoEjBgCZyBfCiCnJmEdGqI`ScR~C}EDoFj@aBvEt@bIaE|A}BpGqOMYtCuCsDvEaFtMyCjDmGpDuFeA[jI}BhEoLfKeMzOuLfGoBnBUhBmB`DwFpXm@jH`CrGr@|H}@bC|CdCCpB~@pCtIrLhFcCfCpAh@bEh@nAlFrCPpAe@fD`@lDrDcAxBiChCwEHuC\\QlEhAOtN^t@lBGlDoHvE}GhCsIvBeARh@uApDw@nH{BhJUfJbAnA|EkDdET|BaD`o@w_BhtAmuBfDuGnCo@~\\dHhKbR~JbZbBvIrBdXhD`M_BnDPzTm@xDsc@lt@wIpTaAxHa@nOl@|FfDfKjBrAzInAbGnHxBjAhC[xDcEhCq@rH|@|HdDxH`MpBnGW`d@tAvUz@nDpKpJjDhE~HhMjn@xVrWvH`W|NzJjMz@fKdAfCPOkAaE|@qC_BmDv@iCcAEuAyA\\dA[|@rAnCf@|Ex@i@nAuCxDSdDjCdD|@pBNzDmApRhFnHgCfGsE`GqJvD|H`EC^y@?_Df@YI{@R`@w@n@[dE}DVpCy@^}DiAe@"
-      }, 
-      "total_elevation_gain": 724.2, 
-      "average_speed": 3.874, 
-      "moving_time": 15057, 
-      "start_latlng": [
-        43.71, 
-        15.86
-      ], 
-      "max_speed": 13.8, 
-      "end_latlng": [
-        43.73, 
-        15.89
-      ]
-    }, 
-    "2019-09-19T08:37:11Z": {
-      "distance": 88443.8, 
-      "name": "Day 7: Zadar to Sibenik", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2722753899", 
-        "summary_polyline": "}qglGuf_|AXnSdH|ReFlInByAcALtAT}@FH[_@Bv@Pa@Ef@k@y@t@Xa@e@Ij@Qu@?n@Vi@Zj@AAADk@a@pBVmBi@UtJsKvFqBpIqGyBmFjBD}BBj@c@r@Ec@?k@Hv@Ei@t@{@eE|EyC`QsTdI}I~VsWdEmPrA_e@~KU_@sOlCaQpz@o|@v@WzAlCbAKjCaLcBoKR{A`MaIv]uJd_@wP`D{DgGsM_CaLxSyEbMkMjLeFzMsJpZ{KfZqZ`F}KhEoXvBoFtIgHnKsQdNmCrQiN``@kj@hCwHjJ{OjPym@b[oz@n}@chAjIcMfk@_d@t{@qi@`GmH`IaQ]gBbAb@|OiYhQu`@rEoGxWkPn^q_@lF{BhOcApF}CrWa^zCxBfCqIzIuMlNkHnDeEhE_L`E}Cj@{CGuKtIkUzHgg@`DoG~FsIRcCiCqCo@cFlAuHlJcQrZk\\fBwLtJyNfEmBjNqLnB{FbEuDbAgDlFcHhE{NKqAeAe@iAuCCaDvCmDfBvByAoC|FkHlDcIr_@coAjRme@bFea@vImYzTy_@dw@c~@pRic@|r@evAzM{NfI}D`^sIvPeOzVc\\hMka@|Q_QdEqKzLuMjT}`@rK}YzLwUdsAsoEtk@qv@va@gn@vFeOvOeo@xAkPtB_A|CaMvLwFdGyIjJlApBu@`IkV`IsDzCuEvAsFHyGiDiR|CmKGsBnFmHnb@acA`Ses@hByLbAqRrAaFjRuXnHiPdDqSWy`@`JeP~AuVxRmf@rPaNzF{IfFg\\fM{W|DuUfFeLxDeOpPsP~JmWpP_ZhAi@u@FdLo[tW{]pIwUjPwZ`Mu`@pVed@lBgLt@mOtDaBde@u^vVs_@tHcN|A_F`H{WpAwJiAmLoL__@_Fuj@x@yQtGmc@g@eXZoAe@aYjA_I~Km_@~N}Y|AmPmAiOiXqlAsAcbA~BgT~XkpArBk[jAmH`CmGjJcMvFi@pBiBk@k@eB~@g@{Ag@t@GhBPuBn@Di@[jAtBjA_B~@t@x\\wKdCkDhEkQnJqEdF_IhMcEbOjBlJoD`I_JhEeJxBy@jHcId@qMnF}HlK{LhQkNdMyMvAE`IlG~HC`FhChMaHxGqGp@bAd@rKWyIv@cErS{EhBb@?{@xCsC`RjP|F|BfZ~E`HnDvKjKoGdXeIvK_DdIqWnUnBjJnCbZ|D`Rx@bMyJhM{E|LoChCmGhOdCvQ|BfCs@fFcFH_ArBtDpB`BpBTnDw@nDiK`KaGvJcLlChA\\"
-      }, 
-      "total_elevation_gain": 570.0, 
-      "average_speed": 4.508, 
-      "moving_time": 19619, 
-      "start_latlng": [
-        44.12, 
-        15.24
-      ], 
-      "max_speed": 12.6, 
-      "end_latlng": [
-        43.71, 
-        15.86
-      ]
-    }, 
-    "2019-09-21T08:53:30Z": {
-      "distance": 76023.9, 
-      "name": "Day 9: Sibenik to Split", 
-      "map": {
-        "resource_state": 2, 
-        "id": "a2728717654", 
-        "summary_polyline": "}r|iGok_`BLwAYcAgD|FiAo@qHbKKt@mFzDsFtAyM}BiIdBaGDgElGeDi@cDgGFyAr@iA}@}@k@_CCuCiBPiDqFmC}BsVcNcIoCrA_MaE_PfAkFj@qJdBuICiNx@mDhF}IfC{IjJwMnO{_@fJyLlLaW|HuLvRa_@vEwG~EqRzJ{QKw@qEwFIoIRuErDuOhDeU\\_JUeMnA_MBwTx@mMk@aE}GaWMsBd@yItDyQpE}IhGuR~KgVhDo`@|B_KvD}IfYeb@tNgW|MmPpD{IhH_IxPwM|T_[jRaf@nF{Sr@}RzC{Ov@_f@tBmHv@uKq@qMbBeHGuLjGkv@e@cLfBuLDcIxEcf@fCkf@nD{^tL}e@M_KzAaBnJgUtHPpJ}I|Ez@pA[bEcDzAeExA{AbIGbG}D~P_BrCeMl@sKpHuXjDyEnEgCzB{DvHkCzCkPlHfB|ChNLvE`FpDzAzBjF~@dEc@pGp@jFmBzGcBzFLvNeFpFGdRsNrL{OlBaGvBqQzCmMbKeSrFoHhF}NtBwSg@qG|AoQJeK^_CvM_\\bJeJfJiShGyDz@qAvFwWlDwGdAoFtBuEbByGxAwLFmEbFgOjB{Ob@_OkAiGV{Ob@iMk@aJbDsPoAiRxIe_@dEm`@TwJhLcp@|I_Rp@eKdCuNfDsKtB{J\\_XxDsJhC{TrB}Hj@Kj@t@hH`UbDjC`Ay@tBuMjAwBdV_GnFqCxDh@|DdCfH`NzHmJxBcAzFhA`Rk@bUx@rXkFxL_AbPiKvKuNrPmH~GcAlHtBhCHvL}JzGbExACpAmB`A}ElDiLlC{CpIyCp@{@CuB}BkDg@yCzAcNdGwApEfCxHvAlBJpAw@NoDyCkI}AkAyGu@_@[Do@rOuClAd@xCzDlEnAbEk@`DaClAyFhEyHGiH}AcQxAqQ~G}UjBoE|GeIlDUbIbEdB}@n@yAFwD{C_KGqFrAgOrFmMfAoLr@iBtKyDfIyGlPeCnN_IbKoJvFcIrKcJzOeGnBeBtCeEdB~@jAhI|AnEtUz_@l@LNiEnEaQn@}FI{KkAsHgWk|@kH{RuH_PuHs[sCsE}]w[{BsEsJe`@{BkXsJwRyBsHyBeXsFu\\oAkXkIiYe@yJvAkZ_Beo@fAci@rAkZtRsyAnAwd@pBk_@`Isp@b@mJeAmkBt@eO~K_m@xVyjBxAm]oBot@HwGdDwKxEaLrDeGpCgIhIga@jGqUnBcTdBwDrEoDbA@~K~KdInEzP~Yz@pDD~BcF~iAb@tJzA|CxDxBzSWnBNtEz@UhaAZ`Ft@lD|G`M~FdGlGnJh[nOtC`K?dEdB`Ag@~C"
-      }, 
-      "total_elevation_gain": 884.3, 
-      "average_speed": 4.636, 
-      "moving_time": 16398, 
-      "start_latlng": [
-        43.73, 
-        15.89
+        41.12, 
+        20.1
       ], 
       "max_speed": 15.1, 
       "end_latlng": [
-        43.51, 
-        16.44
+        41.11, 
+        20.81
       ]
     }, 
-    "2019-10-04T08:45:39Z": {
-      "distance": 23342.3, 
-      "name": "Day 22: Little jaunt to Elbasan", 
+    "2019-10-09T06:20:41Z": {
+      "distance": 105038.0, 
+      "name": "Day 27: Kastoria to Kipoureio", 
       "map": {
         "resource_state": 2, 
-        "id": "a2762235156", 
-        "summary_polyline": "oytyFmmmxBg@HOMSkBGiB@oDNsE|@}MDoBE{B_@wEg@mKA_BNkCbAgGLkAd@iLAkBUcCsAmP@mBf@mDh@yAf@w@vEqDbCeCrBiCbBwChBiCrAaB|C{CjKcJhM{HvL}GbBmAvC}ChEkFbEqHhAaCz@kCb@mBn@_BhCwFzCmFh@sAl@iCdAsJJ}DIcAe@}Ba@gAe@{@cD{EwAcEgAwEc@eCw@oC]gBQ{CDcBP_Bp@cDCIZ}@J{@p@aCjAiChAcBPOFSM?g@l@i@CIRKBcAfC`A{BRIJQb@FNCdCwB`DgDdC_D|IyMv@oBf@yBNeBb@eKBeBCoEMuDKkHS{Ci@mFAc@i@}Dq@yC[{@i@_A}A}AoPoL}D}CeKaHu@SqAEmB^_AHcCOuB{@yEsDe@UuBm@wBMe@o@PIU?Qd@YPmDKyBe@mB_Aw@k@y@{@uD}EcAgAqJeGeDwCkBqDqBkC{AqA}@e@y@s@o@iA]}@aAsD_@y@}@gAsAo@m@GkAB_B`@gBN_AUu@c@oEmEcA{A{BsCwEeDuCqAuAkAg@w@u@iBy@uA}D}DyBsDeC{ByAyB{@sBqC_Kg@kA_@k@u@{@kGeFoHqIcBcBqIqGiAwAu@wAc@qAU}@WmBIkB?gBz@gNFqCAeAi@cIUwBa@{B_B{EkE}Jm@qC_@cESw@a@aA{AcBkHuF{@y@aC_Du@qAmCwDwA}Cu@}BcAeFo@_EyB{KcB}JDsC~@oBrByJtAgGj@{EF}A@uDOgDMaAm@yL]}Di@iLe@_G_Eqq@YaDg@aEm@}CeBcGcAkCiDeH}FwM_EmIk@{Aw@{AyAiD{@}B_BuGs@mEu@yCWoB{@kEaBiJAg@F_@G_@Wg@m@wC[_Ag@sCy@uDYwB@Yu@yC{C_OUcB@mBGQm@_@[aAAi@a@uBEwAQq@BIQ]@_@KU@e@e@{@m@sBw@cEOc@Gk@Qg@Ag@q@cDCIU?aFrBAGVKTHFk@CFT?FKWUEHCr@OG{AeBO[Ow@e@iAe@G{AmAy@u@iAwA_B{G[y@QiA}@kE_B_Do@aBs@mA{CmHg@w@i@sByCuHk@}BQ_@YcBSq@QgAGCu@uDe@_Dk@}B[Ok@RAGz@U@OUa@]?qGbDU?SMe@}@Y@g@\\cAjAsCrBATVlBJZGUMGAX?COFNG"
+        "id": "a2775559807", 
+        "summary_polyline": "q|hvFofx`C]fAr@l@pI{JfXiACwEeFcOkD{Z|AuE|E}EfOeIhf@Q|DeHA{HiGyQ[{NyFsBoH{KwEaBaD{FqFqRkBP@FqSnGuEpDc[nh@aEbQ}WdGwEjC{BnEaA`GvAlCjHlGtGvAlLjFbB|Ck@pi@wB~Haa@rOwNfLsFfIgLzBi@oCb@rAw@s@q@nAuh@kWyEkEaIgO{e@}JyZg_@oNcJ_DqGoDck@cIu^HoPuDmWw@clAvSq[~FqFdP}GxNoY|Fc`@`Ma`@xRiOrC^dJjMrMzEfJbHtFv@vK~Ihs@bKrPlFfVvNpi@rBzZ_SfQgFlLPhf@vKpGgDrBoDxNwF`bAjdAxMiGnMaBxYbPnKnC|MoNtc@}]I{JT~HbEiE`T_]lWmg@vHmIfJaD`SN|GyArGwDvLsMfLiDxMhAnU|ObFNxCsBdHsOxFeHni@}YfPoWjFs@zDcDnF{K~@eXbJwV|DaXlE}N`LiQl@f@i@a@xJqUbIgNxg@yd@lQ{k@xLiNxbAkWxvAuo@vuD}_AlnA~B`KbHbSj]jGpGtMdEpO{@rImE`x@wp@bMuW`E_R`DeGbt@kiAlH_I|PqKlDaKQ`DdSvCnNhAtFi@nCkDvGhC`F_@dNdIlMY~MnEpGyDfKuAdUnLlUdDzBlC`Nt_@fBxLtEnDhDaE`HiBeAcS|EkTvCwAxHnCdDw@fFtF_AiKzDhFjEXlFoCrFeI`EbDtI?~IxEDfKeJhWeCtLh@zB`GuEzHeMfKyD|KHrGqCxHlAbOmFtQzCfLpDjNaMfN}UvG_D~NY`[mNlQqU|IyWfXcGzBaJ|DkFnUch@nPyOr]mTtFoKjIeJbMmZrF_XnMiB|EyFxFaBpBaFJuEjNhFzLgGlQsBjAv@pDaFrAp@cBmFzWqv@rE}UIAdDgC|SjChKbHb]~YxS~]jOfN`KjZrJpb@`TtObC@xPgJlLiMlN@nZaY|Gq@pCrB`Pb\\z@tJdGhO`BzLrJ`PtNnO~BCrG}IxDs@vy@nLrh@xDbJ`E|NhS~EnU~N|SjNp\\rE`WdBzUlC]d@tDdEUkAQr@f@_@MM@DJj@FtBa@sCJYT|A~PnDlFk@|LvQdIjt@xm@nPdG~O|L`PxYtJr[|YfUnf@ju@rHfSb@dLpHvNdSzErJ`HvXpE~ThJr`@cDdMzCdDi@rBaE|@i]bHcVdD}VmHex@bBqDtH_ExDfChBxFvFlAjHvUnGdIjEF~R}NlG_@n[|YhXnd@n_@fFlNbMzI~BtKD|C_CjAkExDk@tPxN`@vBwA[aClCdCuChApB"
       }, 
-      "total_elevation_gain": 217.1, 
-      "average_speed": 3.963, 
-      "moving_time": 5890, 
+      "total_elevation_gain": 1115.5, 
+      "average_speed": 4.027, 
+      "moving_time": 26081, 
       "start_latlng": [
-        41.07, 
-        19.9
+        40.52, 
+        21.26
       ], 
-      "max_speed": 10.4, 
+      "max_speed": 14.8, 
       "end_latlng": [
-        41.12, 
-        20.1
+        39.99, 
+        21.38
       ]
     }, 
     "2019-10-07T08:56:15Z": {
@@ -432,6 +222,195 @@
         20.79
       ]
     }, 
+    "2019-09-16T07:52:08Z": {
+      "distance": 104391.0, 
+      "name": "Day 4: Senj to Tribanj", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2714068366", 
+        "summary_polyline": "mctqGq}|yA|CqEnp@aJhYgi@dDqX~AvEB|]tO|BpKgXti@sp@}@gNbB{DvNxC`FdHpI}I~A{P~LvJrKoF~Iv@hEaFrFJtC_IxInD~NcNhJZ~HmGx\\dWvJ{HvGnDpHyCbD`OpGtDnf@`F|f@hBrC~Cf@dKfYlFfKzNlGuDpLd@nO~HhPiKtJlGbMoA|KpH~m@dGna@eMdZ|LzOeBtWrDzK~T~u@dEhJxErk@gBnNsT~ElAnAlJ`EpBh_@cOfK|CvMqBpE`DfHb[`W~JvVkV`UlLtXv@lYqVdUc@~AtCkDpHXxDzRbVxH_@dKvHbRqKtO`PjSzAzFaCpFaNtI~BhPaLx^xF~GjItL{JtGtG~TrCrTqIUiObBwBvDp@dHxRbXtIrZ_H|QjH|WuB~H_SxDcD|PiAbUvE`[eCjOiOpPe_@~d@_JzFwLlLhE`PwHrn@eBnYyQzP}D`JpRld@aW~[fJpWkZdQrHhGi@zZcR|R_Zzg@ii@h`@i]tk@iQxPf@vKsMrM`EnFiUfSeEp_@i^`p@sNl\\sh@~Rs@fIsMhNcDvT{[pPvIrf@oc@pK|BbTsDjg@cs@|`@{XzIc@vKfJpOoNfI}@`N{NdZ_m@n^iFvPw^pa@{`@pEeKdXwQjMkBrBsOt\\_XhBee@xm@oe@~JiOfAuUzHqItBoIh[yKfJaR|\\y`@v\\sw@~F_X|B?xGpMpEqEvCaMbJFfHsHw@_DdA|BpKiLqKqK`CcI[_IfLg@bVeUtQql@uG_RxM`@|S}Z_HyUpS~ClXkYRuLpHsG_AqIfPxCnHgUzEnFjDgCxCwThItChH}HlC_K`GzBfWyOvFaItDcQ`LObGeR`C{UbNa[AaKzDsGtBkUxK`BjBsIbKuFG_UnIsBbRcPvB_HvKoBbRuQnByHcFeTtUqF~QcTvA}LaAwPxYaAlDaFZsKhIx@zEsDj@gFuKsXtNbAdLcM_E}GxRgNnG_QvZaKlZqWhIcRRwNjE{Kc@wGlHmCjSsq@lj@yh@lSgL`[_VrIwKDoJ|G{@zJmL|AmIdFqAZ}M`NNlFyMhVwQxB}NtDxFjDKh^y`@vAiStKsA|EuQvFmCxKwKzAcP|Lo@dGqPrLeHhAkJfTuLpJmSli@u_@bCoLyFeM~NK~LsQg@kKoJmNzMgEnFsLa@qE_KmG|HwDrAcJ`IsJxAeJoDqI~KeCRaRv[gGaGoUzBuDfKFzG}GiB{HxEwIoC{S|`@cp@bOwk@`Tk]|CCuDLHnF_Bj@jAX"
+      }, 
+      "total_elevation_gain": 1424.5, 
+      "average_speed": 4.789, 
+      "moving_time": 21798, 
+      "start_latlng": [
+        45.0, 
+        14.9
+      ], 
+      "max_speed": 12.8, 
+      "end_latlng": [
+        44.34, 
+        15.34
+      ]
+    }, 
+    "2019-09-21T08:53:30Z": {
+      "distance": 76023.9, 
+      "name": "Day 9: Sibenik to Split", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2728717654", 
+        "summary_polyline": "}r|iGok_`BLwAYcAgD|FiAo@qHbKKt@mFzDsFtAyM}BiIdBaGDgElGeDi@cDgGFyAr@iA}@}@k@_CCuCiBPiDqFmC}BsVcNcIoCrA_MaE_PfAkFj@qJdBuICiNx@mDhF}IfC{IjJwMnO{_@fJyLlLaW|HuLvRa_@vEwG~EqRzJ{QKw@qEwFIoIRuErDuOhDeU\\_JUeMnA_MBwTx@mMk@aE}GaWMsBd@yItDyQpE}IhGuR~KgVhDo`@|B_KvD}IfYeb@tNgW|MmPpD{IhH_IxPwM|T_[jRaf@nF{Sr@}RzC{Ov@_f@tBmHv@uKq@qMbBeHGuLjGkv@e@cLfBuLDcIxEcf@fCkf@nD{^tL}e@M_KzAaBnJgUtHPpJ}I|Ez@pA[bEcDzAeExA{AbIGbG}D~P_BrCeMl@sKpHuXjDyEnEgCzB{DvHkCzCkPlHfB|ChNLvE`FpDzAzBjF~@dEc@pGp@jFmBzGcBzFLvNeFpFGdRsNrL{OlBaGvBqQzCmMbKeSrFoHhF}NtBwSg@qG|AoQJeK^_CvM_\\bJeJfJiShGyDz@qAvFwWlDwGdAoFtBuEbByGxAwLFmEbFgOjB{Ob@_OkAiGV{Ob@iMk@aJbDsPoAiRxIe_@dEm`@TwJhLcp@|I_Rp@eKdCuNfDsKtB{J\\_XxDsJhC{TrB}Hj@Kj@t@hH`UbDjC`Ay@tBuMjAwBdV_GnFqCxDh@|DdCfH`NzHmJxBcAzFhA`Rk@bUx@rXkFxL_AbPiKvKuNrPmH~GcAlHtBhCHvL}JzGbExACpAmB`A}ElDiLlC{CpIyCp@{@CuB}BkDg@yCzAcNdGwApEfCxHvAlBJpAw@NoDyCkI}AkAyGu@_@[Do@rOuClAd@xCzDlEnAbEk@`DaClAyFhEyHGiH}AcQxAqQ~G}UjBoE|GeIlDUbIbEdB}@n@yAFwD{C_KGqFrAgOrFmMfAoLr@iBtKyDfIyGlPeCnN_IbKoJvFcIrKcJzOeGnBeBtCeEdB~@jAhI|AnEtUz_@l@LNiEnEaQn@}FI{KkAsHgWk|@kH{RuH_PuHs[sCsE}]w[{BsEsJe`@{BkXsJwRyBsHyBeXsFu\\oAkXkIiYe@yJvAkZ_Beo@fAci@rAkZtRsyAnAwd@pBk_@`Isp@b@mJeAmkBt@eO~K_m@xVyjBxAm]oBot@HwGdDwKxEaLrDeGpCgIhIga@jGqUnBcTdBwDrEoDbA@~K~KdInEzP~Yz@pDD~BcF~iAb@tJzA|CxDxBzSWnBNtEz@UhaAZ`Ft@lD|G`M~FdGlGnJh[nOtC`K?dEdB`Ag@~C"
+      }, 
+      "total_elevation_gain": 884.3, 
+      "average_speed": 4.636, 
+      "moving_time": 16398, 
+      "start_latlng": [
+        43.73, 
+        15.89
+      ], 
+      "max_speed": 15.1, 
+      "end_latlng": [
+        43.51, 
+        16.44
+      ]
+    }, 
+    "2019-09-20T05:13:44Z": {
+      "distance": 58338.0, 
+      "name": "Day 8: Backtracking to explore Krka National Park", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2725453840", 
+        "summary_polyline": "a{wiG_by_BYu@fKmK|AiGyAkEaF_C`AsBnF\\^iGcBwBg@gCo@cHaA}C\\aCxCqEfBmF|BmC~EoMfKwLy@qKiEaS_CeYqAmHBmBt@mBrQaOb@HnE{K|GwIzCiOvCwIv@u@uNqKuHoDeUiD{GsBiJ{FaJwJqBrCoDlAbAq@}A_CcF{Ds@}B]Zh@`Ag@|@d@b@VI}@gGbAnBw@RTs@e@bATm@x@lAaAa@mBnCcDnJW`CgJzH{MxHqEqCoIPqFwFsCgAcL`MgSjPiGxG_NvRgBnF_FoAYbG}FaGkKyFeDZaH}@wJ~@}P|KkDz@gHfE?hCTq@YoAmCdAa@vBfC|DQv@uH_JmViNiZ_Jem@iV{IyN{FsGsFeEaAkBeBqVLae@y@gEgGwL}FaFcM_CuDj@}ErEiCIyH}ImLyBwA}BiCsJYoFXoLlB{LdIuR~b@ms@j@mDMeU\\oAfBcBwEsMgBmU_B_KsKa\\eKmRsBFiYwGkC?_KkCcENiMrCqDCmZeGwC_ASgA_BWf@[k@Jh@Ko@ZjAHx@bBj^bIjF?zQwD`IdAl@l@BjAmFpK{qAxqBim@~{AaB|DwAzAuE[gE`D}@{@L{GbDuTfB}EQw@}BtAkCtIwDrFqDjIsCIVaOeFgBa@l@IlCqBzDuCzC}CdAOaLyFiDcBeHyBu@mFnCqJ_Ne@yARcBcDoCx@gDe@cAKyEwBeEI}BpE{YlAoEjBgCZyBfCiCnJmEdGqI`ScR~C}EDoFj@aBvEt@bIaE|A}BpGqOMYtCuCsDvEaFtMyCjDmGpDuFeA[jI}BhEoLfKeMzOuLfGoBnBUhBmB`DwFpXm@jH`CrGr@|H}@bC|CdCCpB~@pCtIrLhFcCfCpAh@bEh@nAlFrCPpAe@fD`@lDrDcAxBiChCwEHuC\\QlEhAOtN^t@lBGlDoHvE}GhCsIvBeARh@uApDw@nH{BhJUfJbAnA|EkDdET|BaD`o@w_BhtAmuBfDuGnCo@~\\dHhKbR~JbZbBvIrBdXhD`M_BnDPzTm@xDsc@lt@wIpTaAxHa@nOl@|FfDfKjBrAzInAbGnHxBjAhC[xDcEhCq@rH|@|HdDxH`MpBnGW`d@tAvUz@nDpKpJjDhE~HhMjn@xVrWvH`W|NzJjMz@fKdAfCPOkAaE|@qC_BmDv@iCcAEuAyA\\dA[|@rAnCf@|Ex@i@nAuCxDSdDjCdD|@pBNzDmApRhFnHgCfGsE`GqJvD|H`EC^y@?_Df@YI{@R`@w@n@[dE}DVpCy@^}DiAe@"
+      }, 
+      "total_elevation_gain": 724.2, 
+      "average_speed": 3.874, 
+      "moving_time": 15057, 
+      "start_latlng": [
+        43.71, 
+        15.86
+      ], 
+      "max_speed": 13.8, 
+      "end_latlng": [
+        43.73, 
+        15.89
+      ]
+    }, 
+    "2019-10-02T07:04:58Z": {
+      "distance": 95475.5, 
+      "name": "Day 20: Shkoder to Tirana", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2757235839", 
+        "summary_polyline": "}gx_Ggu`vBXCMXRKvG}Jn@yAnCaD~C{FtE_HhAGfApAbLpLfLvK~SfQp@bAnJjHbGbGxHnG`EhHzKjPnCdDbN`L|D~BdG|FdFdBdAj@n@kA`KgHdLeQbRwUn^i[tBeCz@cDLwHh@iGfDwPnBkE|I{LnCkHhGyTbA}Al@G~Dy@lEj@zEnBnHv@dItCdO~@`QP`JeC`Bu@nAgA|JoMb@_AvC}CtCoBxG{BzMeCjCgAhIkBtHcDhDaCpMwL|DkFzByErCkFvD_GpL}LxK_KjJ}GlTiQjZiUpEcCrK{D`NeDbWD|DYnFgCrC{BfDeE~FoFpCeBhCcArLoC|[}BpAEL\\l@a@nBYzAHHA`Bs@fC[`G_C~I}EnFeErEeFtGcJ`FkI`KmMfQsO|c@c_@vRoSlSoXrQ_[jGqMvKmRdIuK|KuLfIsG~WaQ`GyErS{R~aGsuEjFiDpG_DhMcEd_C}d@vIJrGbBrEdCbNvL|FtDjHbCdI~@lIOdGmAfGeChSkK`HuBxDMxL~BzDJbBh@tM~OvG`GSB~A`@xj@p[nQvJ|B~@lEZfD_AtEaE`KoH`KgG|@w@vCkGvAiBdAe@bGwE~HqErHkAvSaBr[mHtDEfAf@z@jAtKdZ\\hASLPCZb@|GdRzGlRtAlGb@`@jGgFxSuMhQ{IdYeP|ZaR~[aTjl@sZhb@eUzYiPhb@kTpPqJvm@y[dMqCrz@yMrZaEtaDof@`QsA~SBpdAhFfw@`D~nBlGpoDlPbQ^zKQ`P{A~{@yPATpGcBxx@{OnLqAfI_@lIGbJVrw@hG~i@hFbd@nAtFS`IgBxX}MlAUrEwCvnA}m@`@K\\\\@|@LsBzBuAz`A_e@`u@i_@b}@aa@rp@c`@p]eRvc@cWx|@{r@tEoChTqG~H_B~MuDpk@oQvNuDzv@wUzBaAdVqH~NyDv|@kXjy@gVv`@mK`TyMzLgI`b@eShUgKj`Ace@pDwAj@Ah@w@dCqA|NaHxGgCvD}BxLiFfBmAjdAqe@`Ey@jQmAlCcAxE_EvCoAfMsCx@Nd@b@p@lB~E|IrE~E^`AZJjHaEzFwE`KmGdAgApCqAlMaI\\N\\|Ap@f@t@W~AHC`AJP@iAx@mFNkCbByGGIdCsM~DkPlByGPITaAj@M`@}AImBTcBzDuP|FeTdAkGb@o@T{AlBcG`AeFnFgSn@aEpAiEr@aB|AaAI[He@k@aAAk@hDqM|@{F`BgFtGeWXaCnCoIhHsAVL?dDhAdH[I?d@w@FDu@W?"
+      }, 
+      "total_elevation_gain": 329.4, 
+      "average_speed": 5.764, 
+      "moving_time": 16565, 
+      "start_latlng": [
+        42.07, 
+        19.51
+      ], 
+      "max_speed": 10.4, 
+      "end_latlng": [
+        41.33, 
+        19.81
+      ]
+    }, 
+    "2019-09-30T08:13:53Z": {
+      "distance": 65402.3, 
+      "name": "Day 18: Kotor to Donji Brceli", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2752285953", 
+        "summary_polyline": "ma}aGs|pqBr@LpFmI`EMxBtDeAn@h@Tz@{@gBr@l@}@fJzBvKxJv@tJtHzA@fHgCdIwO~PuHzBsEQOfAfAh@fNcA~^gNbR}QzPmGVcEqCmBKqHcFmIhCtCbE~@lHrKhJ|AaAvDmFvDzFDsEn@C`AlNOlBfCzBoBdBnCaB_BFkEf@vA~Ak@p@aDrA|@pGaMfCjBq@sBr@mFnGxDmFaEvFzDuFgG]aP_IqIoDs@eAeFmCX}OkJcHQoD}GwCLyGkDyR_DnLL~HrC`McBxY~MoQ_MqDyG_JbBaD_BnE`@xGiCrCRfChFfKjBnEzDwEcGmH{BpNdEkMiIjMzDfB]mN{F]o@jNhE}L}HxK~EdCmBpEW_K[eHyExFtB~GmAfLh@aUcDoEyBpE|@bLs@jJhB{HuDuQcDqBsFyBcAkHfB}RMh@mMaBoCaGaDuMgAaEuFiDDiHiDoDuG}Dz@sGkDaEZeBmUiCeHsCFjA}A_AmBaGeA}BzDiEu@QzAMsAqG@w@mC`@aGaCgJiMaOkNyMl@oHDoKnP_IpAkHrCoAhCmEnAaO_BgFeAiOgTe_@k\\oG{H|DjFqHKeAeLaCrDuMz@qGXeXzAmHbEcCrBbCh@a@kAaCiDa@cB`@qEdGsBlHcApRn@oNaA}JzGaMpIoF~B_Eo@}NzBuIAqB_PwVM{ElJcUrQUvNgGb@eDgCcHb@aKfHuH|DeAzHcLpFoV]yF|AaFbLuD`OIrHcHhKmQhMsK~@aIlLgNhCyPvIuD|A|GfAb@dOuGpHzAnDjDgDiHp@qIiFwJm@wJ`AhEhGtEzFX|P|KfNjCZoDgEkCaAuDmIsK`BcVX_f@~CwP`m@g_BUwDnDaDvBxDdH}Dm@sClFqErAfJc@_CpHGl@oBvVo@xHkOtKoJv@sCoFkLcKq@wCTdQiCnJwEjLZ|IkDpU`AvOyHvDf@jKtJfI|AbReCdNpEtMsBpQv@rQ{BrFv@vJhItD\\xDuAdMmL`DT`KvFfHiAvMb@~OwFvEhAvKjJnDRpKcF~QyNv@uJqA_D|DNpG}JXoNbYmVhLkPlFqC|DaL`EqElFg@tDdBxJqC`GqJ|D_DbIOvHoFnLrBbIiExDsGnQt@bHwNjAoMdE_@`HkE~HIxJmDjCuC`CeHxD~D{Ct@oBnHlCsCbAfB~GfAEbEdGpG~GsEfD{En@yCg@qFdAuFlJ]bEsDjFqAnJkKjIu@lBaCdOeCzIiNdL|G`EdJbFdBlA`CzCkEtDdDjG_GlCVtBgHpD_CjAiHzBwCcBgLxBkELuCrBcC~BkKxD{BzAeDp@uHO_N~@uDu@mI`CcGlBmQzEaI~EmQv@yJw@iHhEcIv@yFqAkCh@iBkEo@aAeCh@lBjCTHxA"
+      }, 
+      "total_elevation_gain": 1625.8, 
+      "average_speed": 3.072, 
+      "moving_time": 21290, 
+      "start_latlng": [
+        42.42, 
+        18.77
+      ], 
+      "max_speed": 13.3, 
+      "end_latlng": [
+        42.25, 
+        19.01
+      ]
+    }, 
+    "2019-09-14T07:52:36Z": {
+      "distance": 62429.5, 
+      "name": "Day 2: Razdrto to Lupa", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2709542972", 
+        "summary_polyline": "mzgvGkxxtAKk@e@vNdA~CfE~Ef@jCK~E?iIaFqGu@oC|@cVfFxIhEbO~ElElIvAjLsNtS__@hJyJxBo@hArArCvIfAxO_@jJjAlI~AnEvCpCj^jKfo@|HfGhCnQbNnEbK~BzIzFt\\~@rKKvDnAfDrArL`EbIrBzHgAby@@hYgCrZwI`h@tJdRxBrClDfAzMyDx\\HlHp@`K~FzGwB~CXtNpRtFlLbCrMhAx]vCnI`GlChM{AvFtBbOtSzVfQ|InMxHpR~DpFxFbCpQl@b@~AsAzBJpAdHq@rHnIjGhE`MrBlI{AxD}IrBcCjHmBvK_IfMqDtAuBGkMbCwPmDsSMkLlAmEzFaBzDoGoA}FmFgCm@b@~@WfDfCv@s@iEsKF_Kj@wAhFeAtA}ApCoFbEuNjG{FpA{MhDy@tByDMiJd@uHvAaHzB{EW{C\\_Cc@gChDgKsCgKpAqL]cM{DcTsFsEeChGs@R_AsDh@{JoD_GaC}GqB|IjDkQbBmEvKaHtBiDn@sCdAmSn@qa@~Ei]dFuXUgG{AsFmAcBqFgBqF{EcAiCo@mHL_GnCaOpBkDfGmDr@uCKsDsBoEiLwFcCmCgAwD@}Dv@gEpBgCbKBnBaCMqGqF{GaBgF?}K|HgU~NoRbImSj@oFSuMnBaQlDsJzBcQ|DsOdO{^rGkWj@yFlBmHa@yJhEyMzFmXo@kKPwBlAuBxCgB~NkC`GoGbBeEtCo_@CmGaE}ScByQb@kVhAmGfDgElFmUhBUrG|F`EkBbAaCn@kIxGqRfBoDrAqH~Vgf@hFkE|Jp@jGeB~DyFsC{]XcEhE}P`NcI`N{ArIuExDOfDaCpDIdA_A`@cCc@qGeD}H_CuPlAkJnA{BrBs@vMx@nMoGzO_]|@}CEwDyCqJnHuXvEqIpA_@bRhBxI{HjBm@j\\`@bKyM`FyPv@uFhEuGnAaGdD}D?qHpA{CvEyDpM{EpHcOz@qHc@yFNuD}@_DVsDhFaNZj@}@xAjArAOf@Rk@y@Ih@pBEuAm@t@iBSjAAc@GfBZqAP`@Fn@gBYKd@Hn@wBy@_CdCeGGu@|AmAa@gCp@mB`Ai@EiD|F{GxF}Kd@uHpBeDrK}GhIoBrGDxA}DpGiAjHiI|G|Cr@hBtAe@bNpFrMpIrMrEbF_DxCyNbBoDdIsDdFeJ`BsAxJi@vO{JlSnDjI{DbFpCrCDxEwB`DsJrAIfEzBvEkEbPnHv[jHvBxApEfJ`Cv@hHeI|EeP`EwCfRuCjDgFnKgEnJyOnMeJtIqUfG_WjHcPjcC}cAraAsWdQqiA"
+      }, 
+      "total_elevation_gain": 546.1, 
+      "average_speed": 5.215, 
+      "moving_time": 11970, 
+      "start_latlng": [
+        45.76, 
+        14.06
+      ], 
+      "max_speed": 14.1, 
+      "end_latlng": [
+        45.47, 
+        14.3
+      ]
+    }, 
+    "2019-10-01T07:04:36Z": {
+      "distance": 88391.3, 
+      "name": "Day 19: Donji Brceli to Shkoder", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2754538350", 
+        "summary_polyline": "}uz`Gao_sB~@a@cBV~Aa@nDhAxBeBbCP|F_C`CgExAy@h@{BfGeBbBwFvAq@bG{KPoDhDuGBmFoBaNlDmFtByNZiNMsHc@gFeBkGDgFs@}CjDw\\`EcLYmGb@kGnDmGhFoStCyCfBeMxEqGVsFxFsMq@cKdAcDo@c@eCt@G{FaIkRRoFeA{DOiJyFmHgAoOqCKiFaGqGqL_EuKc@cQRuHiDmJCqHsEqKaImImToN^F`@cCd@Hk@Gx@F}@S?D|BOWj@d@o@aCA_AhCaGcF_Qea@_FoCyEGs^lNaFh@kRsDgF{E}A{EiBwNaH{OaAeIr@iJvGaJReEoKoOg^kbAuE{G{QqG{FyF_DsJwFq`@qMi^q_As|AySy_@}QyWuk@}`AoFmUs@sJAgJp@gM|AoJlNke@z@wGQsPcEoNyV{`@gGgH}M_IiO}BsEiCgIsLeAc@id@cn@kUuOqP{AGiBCjBqHi@r@gMkCc]NiPoByDcJ~CuBc@_@iArEcKUmDxD_ChCkEMeIl@{CnFaDzBiDpDub@vLmd@vAiL~AmSbFiQfAgL~DoGdAgEq@kWpAgHjDcZeGkUeBcRCaRkToDuN_@kK{CsUyRiL}NkD_BuKaQgx@}|Aa{@{w@yDmKgDyU_E_P}FuM~FX`PuAruBcZfRcD`\\qLpDsFvKcc@jMgOv@kHtDgJjB{L~IcDzDoG@_CoBaGa@iI{CcHmAsPoD_H\\_DdJcF~PgGpCiDrEiItACrFpDlBN`JwGrHwBnIjC~F~Fz@vBRzFpArB~B?jAuBTiHzCqOQiOj@{G[yB}H_NsEiPwCeEkCwHgEeF{BcVkB{BgG}CyDyPiEuKPgKm@}CcH_IiHgDQmB~@mIWuDgOkd@iIeL_IqHgE_IqMoh@kL}QoKmX}H{LyAwLr@uMtEmIzCwBrOwHfQoEjONlRfIvRJ|XgItSeAvImFdEcA|b@pAbGkCxKkOxCaCdTiHdDShE`BbK`NdNrLrIjG~Cp@xAfEpDh@dH|E~AbGfCxCjOrEpFtFfZxDjBs@lI`D~_Cl\\rBi@}@Nn@U?sAIxBh@l@noAtO~PrEtHGzfA{a@rEiF|DXlJsDtGoGfH}Cf`@y\\pv@yt@~Vy^`YsNpI_K`OsClLiIlJoEvWyFxLyGpNgFnMgK~^kIjiAse@~e@}Xn|@we@dMgIfHcHtNsDpMeIlDsEbPkItd@iS|q@_Tlg@iYj[mLc@oM|Bwe@[uWh}AhGnBa@hKlAdt@ZjAtPc@jd@nBzH~GrFfLjC?yElIcLe@i@v@w@mA@p@h@?jAs@Hp@E"
+      }, 
+      "total_elevation_gain": 380.9, 
+      "average_speed": 5.017, 
+      "moving_time": 17619, 
+      "start_latlng": [
+        42.25, 
+        19.01
+      ], 
+      "max_speed": 13.5, 
+      "end_latlng": [
+        42.07, 
+        19.51
+      ]
+    }, 
+    "2019-09-19T08:37:11Z": {
+      "distance": 88443.8, 
+      "name": "Day 7: Zadar to Sibenik", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2722753899", 
+        "summary_polyline": "}qglGuf_|AXnSdH|ReFlInByAcALtAT}@FH[_@Bv@Pa@Ef@k@y@t@Xa@e@Ij@Qu@?n@Vi@Zj@AAADk@a@pBVmBi@UtJsKvFqBpIqGyBmFjBD}BBj@c@r@Ec@?k@Hv@Ei@t@{@eE|EyC`QsTdI}I~VsWdEmPrA_e@~KU_@sOlCaQpz@o|@v@WzAlCbAKjCaLcBoKR{A`MaIv]uJd_@wP`D{DgGsM_CaLxSyEbMkMjLeFzMsJpZ{KfZqZ`F}KhEoXvBoFtIgHnKsQdNmCrQiN``@kj@hCwHjJ{OjPym@b[oz@n}@chAjIcMfk@_d@t{@qi@`GmH`IaQ]gBbAb@|OiYhQu`@rEoGxWkPn^q_@lF{BhOcApF}CrWa^zCxBfCqIzIuMlNkHnDeEhE_L`E}Cj@{CGuKtIkUzHgg@`DoG~FsIRcCiCqCo@cFlAuHlJcQrZk\\fBwLtJyNfEmBjNqLnB{FbEuDbAgDlFcHhE{NKqAeAe@iAuCCaDvCmDfBvByAoC|FkHlDcIr_@coAjRme@bFea@vImYzTy_@dw@c~@pRic@|r@evAzM{NfI}D`^sIvPeOzVc\\hMka@|Q_QdEqKzLuMjT}`@rK}YzLwUdsAsoEtk@qv@va@gn@vFeOvOeo@xAkPtB_A|CaMvLwFdGyIjJlApBu@`IkV`IsDzCuEvAsFHyGiDiR|CmKGsBnFmHnb@acA`Ses@hByLbAqRrAaFjRuXnHiPdDqSWy`@`JeP~AuVxRmf@rPaNzF{IfFg\\fM{W|DuUfFeLxDeOpPsP~JmWpP_ZhAi@u@FdLo[tW{]pIwUjPwZ`Mu`@pVed@lBgLt@mOtDaBde@u^vVs_@tHcN|A_F`H{WpAwJiAmLoL__@_Fuj@x@yQtGmc@g@eXZoAe@aYjA_I~Km_@~N}Y|AmPmAiOiXqlAsAcbA~BgT~XkpArBk[jAmH`CmGjJcMvFi@pBiBk@k@eB~@g@{Ag@t@GhBPuBn@Di@[jAtBjA_B~@t@x\\wKdCkDhEkQnJqEdF_IhMcEbOjBlJoD`I_JhEeJxBy@jHcId@qMnF}HlK{LhQkNdMyMvAE`IlG~HC`FhChMaHxGqGp@bAd@rKWyIv@cErS{EhBb@?{@xCsC`RjP|F|BfZ~E`HnDvKjKoGdXeIvK_DdIqWnUnBjJnCbZ|D`Rx@bMyJhM{E|LoChCmGhOdCvQ|BfCs@fFcFH_ArBtDpB`BpBTnDw@nDiK`KaGvJcLlChA\\"
+      }, 
+      "total_elevation_gain": 570.0, 
+      "average_speed": 4.508, 
+      "moving_time": 19619, 
+      "start_latlng": [
+        44.12, 
+        15.24
+      ], 
+      "max_speed": 12.6, 
+      "end_latlng": [
+        43.71, 
+        15.86
+      ]
+    }, 
+    "2019-09-23T09:40:18Z": {
+      "distance": 71986.7, 
+      "name": "Day 11: Split to Makarska", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2733742468", 
+        "summary_polyline": "w~phGo{icBRqDqBcCoA`@gJwG^aJxDsU~@ka@qSa~BqGmZsEue@JyIvHsi@wD{XxAkIiD{IZqGk@{N`@{IlCiGUwHpCwEtDe^fEeHv@aM|HoE`CsEb@_HvE_JV{JhE{L`A]jIdDfMmb@{YcZsOkHoKiA{IsLwIwD{CgDuGeBc@}A^iEcBmInCwIzNsu@tSg\\|E{NvX}[pCoJlSgZvXoi@tEsNRqP|E{KrD_Y|I}ZnJgLdKkC`XeWxK}Gc@c@xEaInBgMXgP~ImYfE}XhIkNhPw_@hIk^z@kI^wWuDqG_A_F`AeOfKy`@|HiMnBqP`Lc]bL_XlBmIbOq_@hBwWSyJp@aP]{TsCoJi@kH`Ew`@NoLeFwCoGIeDpE{AxHuHzTw@EjFmQdAoQfHiPgB{MrAqISyN|@qLpByHpAuNd@yTy@gEnAgOxByHh@aI@eEwAgGjEcPbBQjBqEtJue@pS_o@x@XlAsBrEcBtEyOAoDxIwWHiQgBsJv@mKK}ItCgIjKwe@nCoDzGma@_@{EiC_HuM_A_BjB}BnFkIj]@AsAuLb@yLbCyMRqJiAwI[}VqG}KpGm`@sD{F_@gGvAsIwAgQXkH~@_C]kHzBiDfLcFhB}H\\{LhAoE~GiFLCbFgMrAyLxCqKPwFvD_O|@sLr@{BzByA`EsQUaG~DoMIuI~E_KtFyWSwNnCeU@qNdDsQrBuC`@yKSuLgFeBo@yFjDg`@tCkEhFNbEuF]tFp@vCjT`PaBuLm@aJ|AwBJ_GfBw@fAoDE{Jn@jJgBbNhDx@UrFp@~EbGjKvDtBdDaFxAwFEnGwAzG^VpD_QhAgU`AtQtAoQnEeGnB}Qi@uE~F{FvCc@hDsFnHm[~Sgd@nHgZ|F}OlKaBjKmE|AzFjAVxFkOdKmBdK{IvChBtBeC|GqCcIlL|LuFhKr@r]qd@`OwHtCiFp@uNbGyFxEyN|EgHtFyNzHgc@lDkJ~DwFxF}DpXuH|CoK~DeFxC{HrC}NhIyHlEcMxIaFtZuc@~AcHSbC|BhBw@cFx@kDtBeFrHyHbIqWrBwBAxEpDh@BnB|BOb@vArMc@zBo@|KwK~OaE`Q{XbIwFDnA\\kCxF}D`FoL~LeGjFoK`D}LhK}LRaJzAyF_@P~KkGxFI`M{KdEsG~@aLxFkHtR_S~GaEdFmKpC}BrLqS`FiMhDqB`EAlH}PvDaAfBgDrNiLlQiFjDoI~DcCtEkJnFiRbCsD`AiEo@TgAcBdAoDgBcDt[ya@|@IfE~JlFdAzBqAL{JnBgHpScK}@iEwD{DmKbKlAbBtAo@"
+      }, 
+      "total_elevation_gain": 1154.7, 
+      "average_speed": 3.612, 
+      "moving_time": 19932, 
+      "start_latlng": [
+        43.51, 
+        16.44
+      ], 
+      "max_speed": 13.4, 
+      "end_latlng": [
+        43.29, 
+        17.02
+      ]
+    }, 
     "2019-09-27T08:54:12Z": {
       "distance": 52339.0, 
       "name": "Day 15: Zavala to Dubrovnik", 
@@ -451,6 +430,48 @@
       "end_latlng": [
         42.64, 
         18.1
+      ]
+    }, 
+    "2019-09-26T08:08:01Z": {
+      "distance": 53944.0, 
+      "name": "Day 14: Neum to Zavala", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2741387173", 
+        "summary_polyline": "ug~dGgkojBkEe@sH`Gz@eApAkCfCeCeMoA}FdHuB_Co@{BWyEw@uDF}Av@u@bF_@|DsIrD_Dp@iCcB_RyEcPgBsEYoCjC{RzEgKTkJeCqMaBi`@_AgFyDuGiI{F}EuFsCsJ{@yLt@aV{AwIaI{O{DuBcIH}CcAaC{CmFcMyCqC{GkCsCcEkBoIiKkdAkCqKiFeKmE_FoJcFmp@_J{DcAoEoCcI}JeBoEsBmKu@}L|Bqq@xIm|@LeYr@gMdAgGvHsYpFwi@tGyRvA}GhFwkA~@k@xDT?mE|@uICsE`AiKxCqLdFwJzAcIBwHzAyUbAoGbA}UO_DmDiIiN_d@{@cL_DcJEkCy@oFiA_AwBIzA_ArL}MhAmHNec@zAmE_F}@_AsEE}AnB_RIcBeAgDmCyEsIwEiEaECj@`G|Ip@lFyCrCoBxF_EhESbHu@|CyDpA}@|@IdBY?z@{DjD{Ab@yCg@_Sy@_ACiAo@e@u@nB^|CYIo@k@KgCd@eHa@sHpAsGvAqPjAgEpHqMpCyHhJ{CnDeCzDw@rCsCjBu@lB}DtCeBpA{BbFqBhAkBnI_EfCDpDyAxFOnSj@bRhDPTKfEuApDLRfEwIdGgIjO}XrLiHpP_NjH}DbFoHdEyL`EeIxFmXH}G_@}EcDqRcGmK_AgDUsNx@mHs@eM{AuHSkOmDiKcHuGo@uCGcEvCgN|@qBtA}ItGwPxBoJnFcK`CwKl@aEtBsFbA}M}@sFDeDbEkJl@oCzAwJ~BsX~BeGz@}EjCsZ`DsJhDkFdFeDzE[lKdGlCq@pBcDjAkFnDgJ`D_GnG_IzEaBtF[hDkCdEoAzAgBj@yCs@kId@_IWkB}BkHeD_EcB_ByAsEIuBnA_HPqF`B}H_A}GuByCyHeCcRtIuF`AiHqC_G}EaM_JsMs@qFp@wNnGcFhAqA_@kDwCqEg@_JuDwFkF}BeEaCeHcC}Mo@eLSiZyB{LLcFhA}HMmPjBwJxC_HpFuVfHkPtDeQr@mK~HyK`DqJnFwFdNkDjEqFvLHlCy@nDwBxEkHrNkLzKwAbFhArFu@lGj@|HcC`LcAbDlBjD|EtCtN~BnGvBvBjJ|DfDZzHeAnPdBtB]rKsGtB]vBl@vCxBnAdCRpCg@dFFvB|@`DzBbBpM{ChEb@hGeHxG}A~CwCZyAb@\\[_@n@l@xAeAnCE~CqApBx@xB|DhEbDvAX`G_AzFdGhFzCzB\\bAi@`AuErAsAbGA~FdAdDqAxDwCl@qAxByOfBuFzK{N~F}AxAiG~E{H`ByAlE_ArGb@jL|GjCf@^C^sAbBUNQ[N"
+      }, 
+      "total_elevation_gain": 1253.5, 
+      "average_speed": 4.026, 
+      "moving_time": 13398, 
+      "start_latlng": [
+        42.92, 
+        17.61
+      ], 
+      "max_speed": 14.5, 
+      "end_latlng": [
+        42.85, 
+        17.98
+      ]
+    }, 
+    "2019-09-13T06:55:06Z": {
+      "distance": 73730.8, 
+      "name": "Ljubljana to Razdrto", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2705228592", 
+        "summary_polyline": "yv`xGuxuwAJwR{D}Cc_AuJd@f@oAJqMm^_GxAoAgGo@c@_IrD{FpFo@mBH_A_AbAb@Q@t@[@H]sEnSrCjo@fCnEhVnn@CnMVrBo@~IV|C_LfFw@hAlCxQ~A`RdAnFFvEy@fGhUxGhMjFb@`AWjFh@vFhDdIp\\vYVErAwGjKxExF|@h@`AvHnEnDu@lWljARrRdKrc@cDzBQz@bM|ZhF~TxDdLvwB~gNvDzJth@zcAjnBxlHnArCz~DroGlm@tiBrB~Al`ClzDjWxFhUaAFw@QfAShCZjC|Z|GjCpB`FzGbBkDlCcDzQSrIlA`BoAbINrCe@|EgEjAsEzAgB~HwExB?zAy@`JcJdKmGdB}DxB{NlFsHzCoBbAgFlBoFrFkC|@mCh@qFrBwIfEoKhEqGtHyB`C|AhA~BbEf@~HoHzIgDfCeDdE[vEeC~FAbJoFhKi@|FaEnFCnGqEfK{A|F{F|RuIvFkFbJa@xAuAbA_D~CiFxEs@vBeBXgBsBkAzBnAjBiDfGmE~J{JrLk@vBeBpFiO~@wMxDcHtCmI|HyOdC{KpCcCdKeFdB_FnDoEzDqJnC{AdDpApCwBjBGhAwCbDqDvCGzBeA`RwLr@EfMmIhWi@jDuF|FcBtNqPRLHxFfCdG`A|FnDvDlDzP^tLx@lBvC`AzAiA}@`A\\vA|A}@|CpEDc@mAs@_BsCfCsCdH~DxGsC~DhHjC`BfD`G`C`BlEl@dCvE|D~C`InKzGpGrFrBvBbCx@rDy@vFH`ClD|M|BlCb@zA_@zC`@bIY|Dn@hEvErRtQfk@`DhQvCrYxAtFhDtGzB|L`@|JrCvDT`Vg@lEd@~FxAbHFdF{AjHLtBiALiA{B]OEf@fEpJbAzFdDxJfB`BzQjFtJhWzGxGxDdGbDt@rC|G`A`I}CbVDzAlExMl@fJ~CfMr@\\tFqArI`@pKqJvAiDwAlFiJfNuB`BmElANZg@A`@t@a@[LeAEz@HQOSFpA?}Al@f@]a@[XDhAdALtC{@`@uBt@FpB{EzGoJpBmGbDvBrDbQRtGj@xDxGxMzBhD~@`@xEh[bBpCrDvCdApCFfN}@jOAxLwFdj@oDfTcE|\\qDdJ{DlDaDnHgBdWNrNbGjhAxO|w@hd@njAvEfOfHjOhAlFx@nb@hFzKV|AK|G_BvMbElXf@`LnC`RO`D_DtGMvAfCrNk@pHCxN~CrUgCrOFjNiAfMKtFzAtRnBfF|F|Hh@|B\\vIjDhK~@xXrAhSb@x@"
+      }, 
+      "total_elevation_gain": 775.9, 
+      "average_speed": 5.884, 
+      "moving_time": 12531, 
+      "start_latlng": [
+        46.05, 
+        14.53
+      ], 
+      "max_speed": 12.1, 
+      "end_latlng": [
+        45.76, 
+        14.06
       ]
     }
   }
