@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 21265.700000000004
+      "total": 22562.000000000004
     }, 
     "distance": {
-      "dailyAverage": 73954.15652173912, 
-      "total": 1700945.6000000003
+      "dailyAverage": 73773.18749999999, 
+      "total": 1770556.5000000002
     }, 
     "moving_time": {
-      "total": 400935
+      "total": 415276
     }
   }, 
   "rides": {
@@ -304,6 +304,27 @@
       "end_latlng": [
         43.73, 
         15.89
+      ]
+    }, 
+    "2019-10-13T12:59:08Z": {
+      "distance": 69610.9, 
+      "name": "Day 31: Metsovo to Kastraki", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2786519409", 
+        "summary_polyline": "uivqFsnh`Ci@tG}MoAqIbQeO~EnOZtNvHjQ~Ba]tA{N_CyFjDiEpGuAzMHfJyKELvYnAxQiH`CkFpOmIDkGrDgNViOmNd@wKaEkHmR_DaG_LeJaFeGeKj@wFmBuHfFeJfDwV?}PyGePhCwG^oLpBeHuAs@sDbGwEmM|BgEpAqNzFcAh@oKdF{ChDyJpGsA|GgRsAgMeF}Gj@qGiAyDtA}ElEgBzBmGdEcA`FmFvA{LzH{AtC{FuAqG~Ec@p@wAw@aImD{DNgHaAyGf@cHcA}AwFy@kFvFyLdFu@eA~AyFqAiGuG~@_FwJaRp@wIsDgDvHsMKiC`BkI}BmBgF^cE}A_OvHaAm@mGhL}UxCcLiAsDaFeAmAkDaC]gAgInCqGsB{GjCyHwAsFfC}R]wWrF{O|@mKxD_F_D{HhDcEtA}O}AqIiJ_DeEuGsHeCa@sCjEiHjHcA|CeKjC}CrQoIxCsGRsG_HoLeOiIuHkKeECkEef@vAyGdKoFhAwCc@gEqCcE}AyRvBkMhI}RyAkMnBiIb@oPhBe@pIlE`BwFlJyCdF_GtFyAbJfFhA?F{AoEkC}DyEwRCkI_HyA{EN}McEuHkDqB~KhCzDdIv@eEsH_LaE}I{C`AoCyBsG?qEjD_DoBqGEuChFoBmCeCHqCvGuCuNoEeDsAqDkQc@mD}DgIvEHiI_GuL?mC`BqDtNkKvMu@vK`EtE}CxAyIsDq\\z@{FjF_GhReAnEkPrJcJaL}PgFUe@kBrK}FxIDhAmIc@iNhKLlJcAfEuCTeIjHeHJeG~BeBbDoOdDgHdFoEdEuQ~FgDfO{RvBuFj@gCg@eQbL_TlIoWaBcM}LkV|@sDdFyBJsIoBmFIyMyD{D_BkHgMeLwAwLn@iKlBaHm@kE`EkGhG}BeAqD}FkF_@}CnAcL~DgApAiCx@qKu@sJpDcE`DaJ_Fm@cFiCCsAlDcAZyC{F}IlJeLh@gFdFCpOuQRaHbHqEbCsIDuHnGiHc@}ExA{CrKcJvFnEbGmApBgNqCmJzDcC`C{EtFqVvXe\\tRik@jWuJDeDmCsGdB}Kq@yOlD}ErFo@xD{DF_CwCiJhB{Gc@}J~EwFoAmHfEyHgEqJFuHqAwIhIeSfNgI|JaBdHsJ`DuL^{GyGaSk@kGpBqD`LqEtD{E^sCwBiMhSwAjH{KaAiJt@cHm@aImOCw@{GsFmFj@oClH~@bBcCgG{TjM}EbAgJdOmTxAuKxCqaAnc@qu@jReNYqCqLkZ}DkbAd@}JnN{f@~MaUrNqC|LJhHkD`Ky@`MeKhFkShKyKxCFdKhGpBWE_[xKgVkDrGuAiAcAmJoJqIsEaAqEcGuCoRpIhBM|FuAi@bDnA"
+      }, 
+      "total_elevation_gain": 1296.3, 
+      "average_speed": 4.854, 
+      "moving_time": 14341, 
+      "start_latlng": [
+        39.77, 
+        21.18
+      ], 
+      "max_speed": 14.8, 
+      "end_latlng": [
+        39.71, 
+        21.61
       ]
     }, 
     "2019-10-02T07:04:58Z": {
