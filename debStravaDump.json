@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 23019.800000000003
+      "total": 23812.000000000004
     }, 
     "distance": {
-      "dailyAverage": 73366.52799999999, 
-      "total": 1834163.2000000002
+      "dailyAverage": 75122.46923076922, 
+      "total": 1953184.2000000002
     }, 
     "moving_time": {
-      "total": 428782
+      "total": 451445
     }
   }, 
   "rides": {
@@ -472,6 +472,27 @@
       "end_latlng": [
         42.64, 
         18.1
+      ]
+    }, 
+    "2019-10-15T09:07:10Z": {
+      "distance": 119021.0, 
+      "name": "Day 33: Karditsa to Agii Apostoli", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2791742133", 
+        "summary_polyline": "{sgoFcxwdCnC@pBoTCoFzJ_~@sCcHsBiR_Bi]JoRs@k[_Hck@sc@eeFuLmtBaDe\\}AiFCgDuAaAwb@iiAq_@o|@tIuA_E_}A_Dw\\oQ_v@Bg`@sDaIsKqNkj@ef@nqBynEaBqKvHy\\h\\kdA|B_DCwGw@uFgDcFyCuIcLiOwIcWoLkOcD{GcF{Xc@mGTgCtDiH`w@ql@jPmSrNgZlIgWbJ_O~DaLbLsc@`E{Y|d@myAfAsLrA]SwOpCu]lB_u@jBoRpv@{tD[yBgMgW{AsIgHfAoAswDaIivASs\\pNui@j@gXUcHjGc]bFuq@jLyt@vV}v@dNu]vFoS`P}`@|Mwg@lWu\\lC}AkWqOiR_Yd@kTvB_QxA}_@{@qQtAePAoJtBsO{@uHeE{IqJu_AoAwDqDiEWsj@zRy@nRaIjM}IfZ}MrHwCvLkBjs@w_@if@ckB}@iIzA_K|o@snAfZsg@lCcHLwGsBsHgPaKmG{I{Iwf@iAciAz@ok@z@mFdJgYZcE}Aqa@D{q@bHab@pVgf@jEeL|H{s@lLql@b^keBnZkeA~Aui@bLw[dO{Ul}@k_AdVw]pw@}y@fGa@n@fPr@rAhV|BpDlBhCjHrBvJOdL|EvKGjCnCnHTbDhOpDjSiDu@yA{EeBr@_H`ByBtKgGhCqHrEgF`FaDzF?tFaB|I_IbEiAnXoWvMqGzHuHdLa[zGkKiB_@lDcM[uCf@oIc@_IrEkQdAoQjBeL}Ewc@hAoCjBkTvCiJjDsFdAiFGyHqG{[q@qNN{L}CkR~RaMfCOjFzAkAoEvFbDrM@lFsAjOsRfR{RjDkNzKwUvD_SjAkNpEmMNsGdEqYhIg[dIaNnHeRrLqQjJoRrNa^hW_g@PoCjR{Od@wD~Do@z@oBn@_FJor@_Gk@PiDfFoALuVvCCLzHlBfBtAtDz@c@fBqFUiY\\aDdCuCbReGtBiQ|b@gt@rt@cdBvIcK|CmGht@chBt@qEDcL~@uDh|@mcBtjC{qEfl@cjAhBqFq@{LnHaX|FiFz\\eLlDcC`QaYt`Act@fNeUns@uWv{@cn@pAeClBsJlDgFzAwF|DqA|AsFjC`ApEmEzIqS^uBzCsLjF}AtBaDxCChElDbF_Ce@aA{D`CuAoDcCcBQ}CjA}BMaCbCkE{Bs@mCbCeAaAK{AxA{HcByFjMqHfL{RrDqBfE`@xDiH~AaApEa@lBhE`DoDbB`AjCiAzJtBdMrMbD`Az@pAq@hE^v@fCKdEcCxQ`AvGzA^WSkDBjB"
+      }, 
+      "total_elevation_gain": 792.2, 
+      "average_speed": 5.252, 
+      "moving_time": 22663, 
+      "start_latlng": [
+        39.37, 
+        21.92
+      ], 
+      "max_speed": 15.1, 
+      "end_latlng": [
+        39.03, 
+        22.95
       ]
     }, 
     "2019-10-14T08:35:43Z": {
