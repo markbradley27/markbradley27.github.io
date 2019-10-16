@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 23812.000000000004
+      "total": 24841.900000000005
     }, 
     "distance": {
-      "dailyAverage": 75122.46923076922, 
-      "total": 1953184.2000000002
+      "dailyAverage": 76894.41481481481, 
+      "total": 2076149.2
     }, 
     "moving_time": {
-      "total": 451445
+      "total": 477180
     }
   }, 
   "rides": {
@@ -52,6 +52,27 @@
       "end_latlng": [
         41.07, 
         19.9
+      ]
+    }, 
+    "2019-10-16T04:47:16Z": {
+      "distance": 122965.0, 
+      "name": "Day 34: Middle of Nowhere to Thiva", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2793684258", 
+        "summary_polyline": "u_gmFyq`kC~D~AdJiAjOcFtYcB`VdElM_AfNpL|AeKhJ_LbEDlFeCfCrArC_ElCj@fB}AFmGnCgGf@eE_DcK`AuLdIiHjJaNdBsGSv@ZiF`FbDhJkGhC@vBbBjC`H~I~H|S`Gx_@m_@xFVx[qJnN|AtIdDlVcRj[oFfIoHvEyPpGyB~FVtDfJj@`FrH_D~GtBdSlKMrCiEbDn@nFhEuCrLGnY}GPhDVInCEzFgEtBStIaMfAsDzHmJpSmb@xK{[jHwyAnCevA`KcqAfKwd@g@uJa@wCjIaCl@aJjTgxAvYsDxHyGrUvApQfIV{@rDQ`MzM|Eq@b@|Dx@t@nCoEtCaNdFDvIaMvIvCpLmHbDrPPxKvBnGjDfTP`P~F~Qn[rDnIyBnGf@vHmBdHbAfm@yHdFZvHbC@|KjEvYb[sLh_@}Cte@_Qf\\uHb@XgDhAXc@_A[IPjArDNfIjB}@jCh@nr@tWzQzAr]tIfX~DtcC`Y`g@jCpn@xKj~@jFfp@pIzMKf{@nGthA}@vXsFbGyBdPgLtC@`L_Q|OySfFoGrECxNoLhLD|BgQxFeKp{@}{@e@Pk@`ArA|AjKwHpdAwb@|NqAd\\|BzCpCrC}CfJ{B|lDso@d_@eBlGtCdFg@pA_C`@yL|BmD~l@gYxIv@|BcHlHwE~nBy}@dMsHtHwJ`x@efBvCuKdh@cuEhFs[|@gP|O_gA`FwW~A}XxA{ArIn@pB_Ef@_EzD}FBiPjAeFsAmCFmEoGqVpD`ApHlGzKDvHjCbOpQ~DVpCsArCsG`@sNpE}WZeSrCmNvGaC~@yC~G{DrEqKnBkQ|FiPjOkKbM{AtQiR~CgAhTf@lD`BdCxG\\nSbBpCjFrCzAiGtF{DtFgHJvAqC~CErDxExR|F`K|JdJni@rNzJnGzHfJzEdA~AtFYrGj@tHfQzk@vFbClSu@tFbAfG|G|GdS|EvDlHN|UuK~e@{Bg@AqH\\KfBr@n@|b@yA`dC`j@t_A`@hYfDbBo@|HlMrB`A~FBtDaGjCaHhD}An{CT`UcBjGaEtDkItOwcApSsDnZcNr^yIjf@sFvMgKnW|b@xHla@`CtDbFvAnk@{@v[|Q`EzYjHbO~@nHtoCjlGlGdDrLaExH~AhCtBtCjGrMnC~NlRj\\fIrI_v@fD{HjEmVvBqXWec@v@mU`FoXfCoGjr@{~@x{@ckCnE}PxLojAzLg`C~t@axF|\\ksB^}h@gAgm@d@oVzCk_@QgVy@qGkHwQ}DoS|CqTlB_[lJoQwEcD"
+      }, 
+      "total_elevation_gain": 1029.9, 
+      "average_speed": 4.778, 
+      "moving_time": 25735, 
+      "start_latlng": [
+        39.03, 
+        22.95
+      ], 
+      "max_speed": 16.8, 
+      "end_latlng": [
+        38.33, 
+        23.32
       ]
     }, 
     "2019-09-15T04:43:36Z": {
