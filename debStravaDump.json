@@ -1,14 +1,14 @@
 {
   "stats": {
     "total_elevation_gain": {
-      "total": 24841.900000000005
+      "total": 25864.000000000004
     }, 
     "distance": {
-      "dailyAverage": 76894.41481481481, 
-      "total": 2076149.2
+      "dailyAverage": 76885.0357142857, 
+      "total": 2152781.0
     }, 
     "moving_time": {
-      "total": 477180
+      "total": 495540
     }
   }, 
   "rides": {
@@ -451,6 +451,27 @@
       "end_latlng": [
         43.71, 
         15.86
+      ]
+    }, 
+    "2019-10-17T10:12:24Z": {
+      "distance": 76631.8, 
+      "name": "Day 35: FINAL DAY! WE MADE IT TO ATHENS!!", 
+      "map": {
+        "resource_state": 2, 
+        "id": "a2796212725", 
+        "summary_polyline": "kw|hFocimCtFjCfCw@zDaDr@dDb@NhCqF`OI\\tHxTJj@cCfB_AMiCzCaA`Hr@vHzBhU?|Bh@vCkElNkJpTwCjVwH`n@q\\zRkOFmAwAqBm_@ud@w`@{i@pRyp@tE{LfHkNtJym@{@eZXeQyBuQw@qWkIaUO}KeJg_@`_@q@nQ\\bSmGlNqCzEaD`HsLn@}D`EoJbAcGd@aLnHuGpAgCrBcIrBcRnL_ZvAqB`FgS|DuJXyFhFgX`MwXeBwE_@gT{CyEY{DbOyi@vEeJJyRnCkUxIgRdB}IOgC^sA`NgLtE_VhGkJfKmJdCgAKmCfBaB`AyDThFb@ZKyClBmEzHoFtBgDvFiBtCwCxNAvHiAw@hCzAzDj@vGa@hXp@|H|CdClEw@`Dz@jH~MvA`AxCqC`G}NxOuEjEeFd@kDmAgUjNw^zCkOl@iGc@oTb@aDhUqXrRma@nGcSnG}G~@}GMqFp@{BvAyAnLsApEwElaFm`O|@gA|Ci@hHG|PpL~IxBpD_ACs@cGiCaPwTS_BfAmAtBSM{EjBwAtJeApFxDtAc@nCyIrDqC`FaN`CuCrBkNjFuAe@yHn@sLg@pIn@mEA_Gw@yJpCiZSbCfAyMfDqNc@{FLeJjCiUlFsM|H_QdLm]pCuCn@kErBwEpB_AxDMrAv@rC|FxGQdIqL~JsE`@sAWgDX}A`JmAfBuAz@qKKoGh@cBrDe@v@qFQwSqAiFfIG~BkA~Dz@~G}Jf@gD`@YbCr@pKuAtC~@zDwDzDi@~IjAb@_BCqDSkBu@]J{@`Ap@fBhIdAJfCyAbBb@pC~CjDpAnCpDrB^tBiApHCt@uE~@oAhExC|FZ~HmIjEyB|CiFtDlJzIzI`BdFfF[xBaA`A_ExCaBJuAqFqAg@oEaHv@aDiCGoAzBqEPuDgFt@U{FeA}BsEsD{DrAY}@TkD[g@}I\\iCfBQ_@dC{BjPaGfF~BnEwB|D|@fN}FdHp@pAi@rHyOKsTxBmFjJE|RoOtOG@_AhK}GzDcT}BsNzAsUtAaDdJ_FjEuU`I{FxAMdA_BdRqH|HmLxa@}WhQcOfOuOdNeWbRwWdF_FvL}GbBd@xAeCvTqKjHuApWAvXfCdL}DbJyFlFaAvErB~Q|NnJzDvV~T~OlRfZtNd@AFw@nQuCU}GlR{Dp[s@nHsBvGr@bJg@rSaFxGzBdCpD~Aa@dN`GvJtPxMpKpy@cfAzSuKde@s[vJyDdTyNxF~MjNcK~F~B|AtEnCRn[iJ`CwDfD_MhFc@C_GzIq@nFjLrDbF~BmDbFkFnJoM~LmR`BlDe@|@"
+      }, 
+      "total_elevation_gain": 1022.1, 
+      "average_speed": 4.174, 
+      "moving_time": 18360, 
+      "start_latlng": [
+        38.33, 
+        23.32
+      ], 
+      "max_speed": 13.2, 
+      "end_latlng": [
+        37.96, 
+        23.73
       ]
     }, 
     "2019-09-23T09:40:18Z": {
