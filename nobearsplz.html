@@ -1,0 +1,127 @@
+---
+layout: page
+title: "No Bears Please!"
+description: "Pedaling Alaska"
+header-img: "img/TODO"
+---
+
+<style type="text/css">
+    html, body, #map-canvas { height: 500px; margin: 0; padding: 0;}
+</style>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyCFgDopYb6dFRv8NAycFYLYnwPOaCeRHws"></script>
+<script type="text/javascript" src="/js/moment.js"></script>
+<script type="text/javascript">
+    function initialize() {
+        var bounds = new google.maps.LatLngBounds(
+            new google.maps.LatLng(46, 13),
+            new google.maps.LatLng(37, 26)
+        );
+
+        var mapOptions = {
+            mapTypeId: google.maps.MapTypeId.TERRAIN
+        };
+        var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        map.fitBounds(bounds);
+
+        var xmlhttp = new XMLHttpRequest();
+        var url = "/AKStravaDump.json";
+
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                var stravaDump = JSON.parse(xmlhttp.responseText);
+                appendRoute(stravaDump, map);
+            }
+        }
+        xmlhttp.open("GET", url, true);
+        xmlhttp.send();
+
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+    var endpointMarkers = [];
+    function appendRoute(stravaDump, map) {
+        var endpoints = [];
+        for (var rideDate in stravaDump.rides) {
+            var ridePath = new google.maps.Polyline({
+                path: google.maps.geometry.encoding.decodePath(stravaDump.rides[rideDate].map.summary_polyline),
+                map: map,
+                geodesic: true,
+                strokeColor: '#FF0000',
+                strokeOpacity: 1.0,
+                strokeWeight: 2
+            });
+
+            var rideJustDate = rideDate.substring(0, 10);
+            if (endpoints[rideJustDate]) {
+                if (moment(rideDate) > moment(endpoints[rideJustDate].date)) {
+                    endpoints[rideJustDate] = {
+                        date: rideDate,
+                        endpoint: stravaDump.rides[rideDate].end_latlng,
+                    }
+                }
+            }
+            else {
+                endpoints[rideJustDate] = {
+                    date: rideDate,
+                    endpoint: stravaDump.rides[rideDate].end_latlng,
+                }
+            }
+        }
+
+        for (justDate in endpoints) {
+            var endLatLng = new google.maps.LatLng(endpoints[justDate].endpoint[0], endpoints[justDate].endpoint[1]);
+            var endMarker = new google.maps.Marker({
+                position: endLatLng,
+                map: map,
+                visible: false,
+            });
+            endpointMarkers.push(endMarker);
+        }
+
+        console.log(stravaDump);
+        document.getElementById("totalDistance").innerHTML = numberWithCommas(parseInt(stravaDump.stats.distance.total / 1609.34)) + " miles";
+        document.getElementById("averageDailyDistance").innerHTML = numberWithCommas((stravaDump.stats.distance.dailyAverage / 1609.34).toFixed(1)) + " miles";
+        document.getElementById("totalElevation").innerHTML = numberWithCommas(parseInt(stravaDump.stats.total_elevation_gain.total * 3.28084)) + " feet";
+        var totalMovingTime = moment.duration(stravaDump.stats.moving_time.total, 'seconds');
+        document.getElementById("totalMovingTime").innerHTML = parseInt(totalMovingTime.asHours()) + ":" + ("0" + totalMovingTime.minutes()).slice(-2) + ":" + totalMovingTime.seconds();
+    }
+
+    function toggleMarkers(show) {
+        for (marker in endpointMarkers) {
+            endpointMarkers[marker].setVisible(show);
+        }
+    }
+
+    function numberWithCommas(x) {
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    }
+</script>
+
+<div id="map-canvas"></div>
+<form>
+    <input type="checkbox" onclick="toggleMarkers(this.checked)"><span style="font-size: 14px">&nbspShow overnight stops</span></input>
+</form>
+
+<table>
+    <tr>
+        <td>Total distance:</td>
+        <td id="totalDistance"></td>
+    </tr>
+    <tr>
+        <td>Daily average:</td>
+        <td id="averageDailyDistance"></td>
+    </tr>
+    <tr>
+        <td>Total elevation:</td>
+        <td id="totalElevation"></td>
+    </tr>
+    <tr>
+        <td>Total moving time:</td>
+        <td id="totalMovingTime"></td>
+    </tr>
+</table>
+
+<hr>
+
+{% include disqusComments.html %}
