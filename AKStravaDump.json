@@ -1,4 +1,37 @@
 {
   "rides": {
+    "2021-07-14T18:53:40Z": {
+      "name": "Alaska: Day 1",
+      "distance": 85810.7,
+      "moving_time": 19790,
+      "total_elevation_gain": 508.8,
+      "start_latlng": [
+        70.2,
+        -148.47
+      ],
+      "end_latlng": [
+        69.2,
+        -148.81
+      ],
+      "map": {
+        "id": "a5634356441",
+        "summary_polyline": "atmkLt}ei[k@kCgDw{@Ey@_@^k@eIk@WoGvE{D|AaB}AmAyFm@mHg@{QsDuw@gF_g@aBoJeE_KgBiBaZyNp@_GfAoN`Aw^i@oK}E{TcAiM{@glAAgV^sFl@BjCdHbClEnGxIz@pBzCPr@sAU_@Hb@TIF_A@r@]h@`@aCEdA{@c@A\\ZGCLO?ZCMGQfAFvA~@`ExAzBWcAu@MmYgd@eAg@_@bBb@bsAd@jW`AvJrE~Sh@fKeA`_@cAhMeA~GV}@GzBtX~KtBhBtEjHd@Ht@cDrUqjAlAaIx@mLdD_cAf@gGfBkFhHeEbBMrA~@hA`Ct@pDb@xEP|MDjt@h@|HpAlEth@`s@dE~DvFd@b]iGrG~@pHhFvHrM`o@~cBzD`JzBpDhEzBpkA~QbKwAbRiF`DJtCpAdOdT|tAfxBvHlMUjDA_APz@OMf@{B|@jAjpAlqBdDfDjEdCz{A`e@xFdE~DxFvy@|nBr`@|lAhFhNxiAfxBjq@`oAtd@ds@dEvHdhC|xHjQvh@bC|F~BtDlEnEfm@fh@`DbArQRrDpCfL`T|CdDbUtAdJtEnEdEdFrI|ChI|Rby@|DjMrDpIzF~HftsAamKdB{@ba@s^zgAeo@zBf@fF{G`tBalAhJmG|PuItc@}Wr@CnCaCxfAen@pCaC|O{H~tCkbBnHoB~Ch@|WxNtFxB`nA|t@jEzF`CrGdBdJtBlSfMtlBtI~jAjNffB|CvUvJz`@\\NnCfIdNtd@vEzLzDvFtKxLpt@zv@bD~FjBdG|Gn\\fDhN~J`h@dAzMXSFl@]QxB`s@zA~QjBlM\\PjHjRjCjJxBvLpXrvCtCtQhB|EbBdCxDrB|RjGbq@h`@dHjGb[j]zUjX~IhHpk@hYli@p\\nr@rd@jKbBfwBwMrBmBvBqDnBwFdBwH`Jc|@vBoNfAeEBuARJfBkFvTsb@h@AtAaAeErEdEuIfJ{OzFwEjDsA~bAkNtOa@vPxD~RfN|JzLbNxUzTle@lQr^pUrc@dPbSxGlGv@xA|WbZmq@yu@mHyLuf@scAT`@Cz@IYX\\ZbASRZa@lArBzb@h|@`GvJ`}@ncAbv@zy@|MjHpHdArxBiGrIf@`j@lR~_DplAvFhDjGrI`@L^Ib@_Cg@xAc@JH|@pj@dz@^FrE~H|l@l}@rVz]OfAVfCIkEQKhG~I|A|ANSk@BcH{J]SIrBSr@UQz@`@GzBLmBMPx@sC~A~B",
+        "resource_state": 2
+      },
+      "average_speed": 4.336,
+      "max_speed": 14.1
+    }
+  },
+  "stats": {
+    "distance": {
+      "total": 85810.7,
+      "dailyAverage": 85810.7
+    },
+    "total_elevation_gain": {
+      "total": 508.8
+    },
+    "moving_time": {
+      "total": 19790
+    }
   }
 }
