@@ -1,5 +1,47 @@
 {
   "rides": {
+    "2021-07-20T21:18:39Z": {
+      "name": "Alaska Day 7!",
+      "distance": 70197.3,
+      "moving_time": 20271,
+      "total_elevation_gain": 1020.4,
+      "start_latlng": [
+        66.6,
+        -150.72
+      ],
+      "end_latlng": [
+        66.1,
+        -150.15
+      ],
+      "map": {
+        "id": "a5665944768",
+        "summary_polyline": "a_nuKhq|v[b@zA`ZtI|CjEbChIlDvZjOb`BJ~ClEr`@bIhiAtEfh@pB`MzBnI|Trm@xK|[jBlHpPlgAlEfV~BzH`EjIdRbU`KhN|CjCtElHr@IbGnH~D`ChFDnDeAlFmE`MoRrAkAQ}B}A{@yAXo@lAAfAE}@rAeDRj@|BT|@fBtv@cdAbg@u`@pCsAXhA_@m@h@x@Dc@Ib@Wy@{@@fV{QhE}H`N{a@nDwIjImVpvAs`E~Zot@jPwZp@uBrPe[jIgQ~B}CjJuQpMyWjOuYdH_MDm@fEeHhFaLpTk`@xA_Eh@iD\\Zh@q@zMgV`l@giAtEiQdBaJjAwJpBqXzBqg@fBaR`CiMhEqLbDoFfDcCjSwTnEaGzB{AlCaEnIoJlNmMoABAr@Tk@r@GrAeAJSYUxAMzIuFvGiC`DaDjEmBhSgNpu@mt@|JkN~A{@l@yAk@{@WPnAu@f@XnB_FxHsKxZ{j@hHgO~HgVfu@wnC`Jc[l@aA|CmNdEsN|Tw}@nYcgAjOgh@nEcR|A{JlF}UhDiLpHmZhGq\\xCkLtBmGbLgc@|R}x@lEmM|FaIhBqAhDq@rEKxFtBdTjDvBWbFcCdD}CfCkEnLmWvJiVjMmYhGqM`HyK^cBRF^MlQaUhJcQrHeU|Roh@d]{`A`C{DIkANk@hBoAs@uHoBkAsBzI{@iC}@hADpFXyBj@k@ItA_@bAYGBXQ_@ImEt@_B^?d@bCLLNg@lBkI\\|AGh@SGVArAPv@~Fn@LdDkD]OiAtBzi@cm@~JoKtFqElG{Bp\\mFnCcBtDaEzHyPzJ_WpEiJvWcn@z@sCzLuW~H}R|d@quAlFoSbC{HnAuAhEiInD_EjC{Abw@aNhHqB`C{B|GcKr_@{s@vUqa@nN}YtIkNj_@as@rK}Qj@eBdCeDnAkDxm@shAbHwHxPwHlFoFfBeDxAkFpDcHl[s{@lHaOjPuStAeD~b@gm@`p@e`AZ?zC}D|C{BpEy@?kBTMTgChCx@xAjDn@JfBSdDkDfE_MlCmQvDaX|DsO`}@upCta@enAr_AgwCjC_I~DaJxx@ucA|HuHtnAib@hOwEp@P|AmA|R{GpHqAfU_@bFiB`IuJ|\\{h@rM_RjJsOtNkS|_@cl@rdAwz@hS{MnQePnEgCxBc@jkBkMWs@m@L@{@Od@`@COc@MXrBfA|E{@nE_DxYe^lFgE~[o\\vb@uS@_@^kBP_CoAk@?^",
+        "resource_state": 2
+      },
+      "average_speed": 3.463,
+      "max_speed": 17.2
+    },
+    "2021-07-19T21:19:26Z": {
+      "name": "Alaska Day 6!",
+      "distance": 99019.8,
+      "moving_time": 25495,
+      "total_elevation_gain": 1132.6,
+      "start_latlng": [
+        67.25,
+        -150.18
+      ],
+      "end_latlng": [
+        66.6,
+        -150.72
+      ],
+      "map": {
+        "id": "a5665943141",
+        "summary_polyline": "oinyK|hrs[yBdSvE~OxZltBbYzhAfE`IzEzEt~@x\\tG~EtGpAbGvHvInSzFpYtWdiCpGlTzMfSuGwKsAk@`MvQhDnCnp@tZlIhGlcAxjA~UjU`IpMrGpRzJdTfArGpl@b~AlF~WtBnQhIhmAjBxL|DhN`hBp}CvIbJ|FV`UiHp]zB|EoGnEl@dNgRjCqAzHjGpM}Ent@kj@xIiBp}A}YbEl@zb@jXl_AfMkBo@jj@lDt|Bx@zFgGxBeH~B_AzGoKpEaDnXfBTaBL|BfDU~EaEzEgQ|Eqk@~EwYhAmDj@\\a@SxBiGj]uu@|~AmiBnt@_tA|DiDlD?pTrP|JrAbH}I|T{d@uYrj@uGzC_GqBc@lI{Bx@NvAM_BL`BMiBpB?v@kJvHvBjKwL|F}N@mCvI{]~@nB`@sAv@pC|HaBtFzFlLpSbOnM?pGndA~uA~]lv@bjA~rDlBdEqCoHvOnc@nL|c@rWzx@tFj\\p^jxCfOdf@fDrGrEnOu@k@hFnQxElJ|AeCaArCFbBpQzh@x_@jc@ze@pCfJrEhhApjAtY~\\_@gBlIfMrGtEtGbJjHnPxD~MxQf}@_@V~CvO`Kr\\nEfJnx@flAtClHxBvMj@hNgCxsA|@tVdEnOhq@neBrIfQv]x^rThl@zUrQnLp[kIeWvBtM~U|p@zFxKbqAruAbZpa@dPbY|f@dgCzIzSpTtWpGlUlRf{AvObjC`F~[xEfPf]t{@~^n|@zHbLfNGnQeTjFa@fFtEjI|a@`H|LjuA`t@hi@rI|a@yNpHx@vEtDb`@~d@~@~Cx`@vg@bNtFjMuFvJ}Odp@oiCbGySzC{@xCpEzB`Ld@|JeDn`@pCIzE|H`Ey@lGlCdBmBn@_FSaJcMmoAi@eJVgKv@qDu@bDSeOyCyBg@LXx@d@{@rCpDLvb@bDdUtHpeAs@~EiBhC{N}DmE_HmBdAbBjCnAfJjQta@vIbp@|BnHfDpEKvC|JsHlE}PrGmg@|Eks@aAg~@rFoW~C_GpDkCtoBqBjFjFd\\jj@vH~CrEkAdD{DvXkq@b@NdKiRvGNhKdS|FhF`FNrQoGdDeJrDed@|AiEvBuA|DfBjNdX~FvH`MzIzDUzCmC~JuRfFaGq@eB[pAhBXpOiGg@hBKiA\\t@vAqBbK`C|QhNxNp@`EbDxIzNrNUtN|HxFyAfRuQze@H|HpDtCnCrb@t[|jBb|AzI`BlXwB`F|ChRha@v`@vbA|AdKlDn{@lEtStExFvd@lPdCO`@dBZ}B",
+        "resource_state": 2
+      },
+      "average_speed": 3.884,
+      "max_speed": 18.1
+    },
     "2021-07-18T19:06:22Z": {
       "name": "Alaska Day 4 \ud83d\ude43",
       "distance": 58007.9,
@@ -108,14 +150,14 @@
   },
   "stats": {
     "distance": {
-      "total": 360880.89999999997,
-      "dailyAverage": 72176.18
+      "total": 530098.0,
+      "dailyAverage": 75728.28571428571
     },
     "total_elevation_gain": {
-      "total": 2694.8
+      "total": 4847.8
     },
     "moving_time": {
-      "total": 94999
+      "total": 140765
     }
   }
 }
