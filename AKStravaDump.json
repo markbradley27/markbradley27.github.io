@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2021-07-25T17:23:16Z": {
+      "name": "Alaska Day 12!!",
+      "distance": 92376.0,
+      "moving_time": 32550,
+      "total_elevation_gain": 1180.8,
+      "start_latlng": [
+        65.31,
+        -148.21
+      ],
+      "end_latlng": [
+        64.84,
+        -147.84
+      ],
+      "map": {
+        "id": "a5688311520",
+        "summary_polyline": "ktrmKrmrg[y@hCh@zC`EyEjJzGhK~@`FwBnFgLdIkfAsAqk@jBm^~AgLjHoR~LkKdUjZzBKfCcE`Dq|@fIub@`Bwk@nQexBfEuOtVy\\xIyGf`@oG`KeUbNsRhDsAh^dShQ`P|KpRvIjI|cA~m@pH[fj@yTtZch@`MiKxIiBlXbBzb@lx@fMlDzGeIxRug@pCsJ`DyWj@mKwCk^[eZtB}t@dCsErC?dSl^xFzCfEyCvM}_AhNkt@|Bc`@fAwDlCsA?aEhCcAfHbb@tIpOrCsErEoAlc@ao@bm@oRpDwFlByWkGa}AuCgNiHiP_NeT{BwOpAme@hOy`@zByRVoSwCyh@r@yy@kA}f@oK{j@wJcFqBgJdDuq@uEyn@^mLbB}DxB_@fKlFhSxUxFw@nCyHp@cKaBgd@p@eJzGaNxOwPtIqQ`CeN~Be`@|B{JlPwN|Qc\\hUys@bXmJ~KiQlA{LgAaNc_@gz@wB{Pj@wO~M{e@nC{XZwViCqdBxBwy@pBkRpOwi@pIcJvYzJfS{LfDhBzLpRtKEjHgLz]uz@`Kyb@jIoj@l@{SkBkp@dImo@vLqj@bYmo@xMgp@jBu}ApD}Y|Ksg@dGmMh]kWzD_HhPye@~Kug@x|@qhCpEeDdNBm@iAdAeFuAUb@f@x@t@}AzB`@zB~MKdGeE`E}IbGg`@rt@suGfLi[d_@eb@s@xBx{AqfAfJzA`Q~U~JdCdn@ca@jc@nBdPkD`c@}ZxVse@`i@{ZdEaKxLgn@vDkHpHaGrJ[fWlMvHrMnTjl@rD~AdEsFpC_d@jFaLpESf\\nU~LrExOjC`Q_Ct_@oPldAoq@dIgK~S_g@rJaIbKzFjW|v@lWdvAhFpO|FxIfKvDhq@_GrG_FrFuK|R_y@fAaH{Ar@k@yBlEJ`wAygE`L_QrJcGpZdCnOtQdc@`dAnnApgCxG`e@~F|iBjEbYfI|Vni@jk@n[`l@lH|IvL|Dj`@a@n@pFe@biB_@pBcD`@LlE|AbAo@sGx@`FkBOKqB|D@B|kAdHrf@lAQd@bChNaFnFdTfn@vZdDwXvIaEzAbHm@|@~@bPuAj]_FwCwMzc@uB|c@rCb_@jM~\\fJxh@sE`G_Ita@RvO~ErItTvAvBdLb@fMaIx]IpPsFrBnB|AGjRbFtOf@nTpMTzApDbDv@Otp@mC~EId^NlWCh\\zCJKlr@qAxe@mIn]eFhy@eJxd@zBmO}L}ACeZ_BA",
+        "resource_state": 2
+      },
+      "average_speed": 2.838,
+      "max_speed": 18.7
+    },
     "2021-07-24T23:16:43Z": {
       "name": "Le Sigh",
       "distance": 49930.1,
@@ -234,14 +255,14 @@
   },
   "stats": {
     "distance": {
-      "total": 723940.9,
-      "dailyAverage": 65812.8090909091
+      "total": 816316.9,
+      "dailyAverage": 68026.40833333334
     },
     "total_elevation_gain": {
-      "total": 8080.7
+      "total": 9261.499999999998
     },
     "moving_time": {
-      "total": 203408
+      "total": 235958
     }
   }
 }
