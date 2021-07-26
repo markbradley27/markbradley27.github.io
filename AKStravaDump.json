@@ -42,27 +42,6 @@
       "average_speed": 3.756,
       "max_speed": 13.6
     },
-    "2021-07-23T00:48:39Z": {
-      "name": "Hike to Tolovana hot springs",
-      "distance": 15937.3,
-      "moving_time": 13049,
-      "total_elevation_gain": 431.2,
-      "start_latlng": [
-        65.31,
-        -149.09
-      ],
-      "end_latlng": [
-        65.27,
-        -148.85
-      ],
-      "map": {
-        "id": "a5687444128",
-        "summary_polyline": "eormKxp~l[?ZPRV[vDR`Cx@|@Oj@yAp@uE\\qAz@w@hEe@j@q@v@qB|@oFCQj@oBi@qGBo@JI`Af@TUtAiCpCyD`@iAd@a@zAwB`DaFrCyFjCsEtC{DbBmETmAx@uBl@uCVoDb@cC~AwO\\u@bB}G~@{Bh@w@pBoHdBqDRSJc@KP?NLEx@wCRkCt@qBhA_CdBaBr@InAqArEiBn@qA\\?Th@\\WL`@Pu@|Bw@x@sBvCmFLu@f@oAt@[|@eBbB_CrA_DjAeD|@iBrAiB`@eAbAoFNiBBwCl@wEn@wAr@}Cj@kBFkBMkDOoAF_BKu@B_ASyDTaBPaHh@iEnAoHvBmEz@qCJ{@PCVaA\\m@?UGBRM`@aA`AiCx@cAb@{AzBaDzAa@^_AXUf@qAV[Tu@PMb@yALEVkBj@}Ab@yBr@oFpB{IRyA\\s@vAoGf@kBT[L{Ar@uDr@}CFgA\\cAdAiFI@B[f@gBn@uExBsIVcChAsEVsBb@gAZqBNSt@gDrDcTv@yBj@uCNuAzCmLtAgHXKFQICFCBi@LBHYDm@rBcHrAgJhAqEDaAv@mE`@cFz@yEHsA~CqLpAyIjBiDdC}CbAsCVoA^a@Xw@r@_AVw@dAcB^gAR{A`AaAt@qBh@w@XOLk@bA{AvBkFdAaB`AcCX[rCwIVmAXiD^iGHuGK}EM_ABkAm@qCKsEf@wCAsA`B_LV}FRwFXqAPiBE_BSuAS]O{Ak@cBc@m@[sAc@o@sCsKsAyDQoAWu@qBmKUcBgAqDQiCs@kFcAaOUs@g@aEYuE\\y\\IeLNiALwCT[|@oCjAeALYXgFB_AIGM}A^eBLmCBoFT_DCwAMi@HqBC_ENaDIkFDcBOyDPsCy@cGm@}CmAgD_@eDmBcEiCeHMaAMGY_BYw@WuCd@aU^}BHgC_@{V@eMSeMTaEWeDe@qBG_DFcEw@oFTcEz@wDX}BHaDEeDZiCn@}CAaAYoAImBg@eD?}CXkEnAoHFwBMoBEyDa@{DeBwLUu@c@iDk@wFNeBhAqA|AcGp@{ABg@q@eD]q@u@]c@kB[cF`@eBJw@KsAa@}@mBiAk@{Be@gDe@iCWaDAmCZiDAqAL_BAsBJHf@uAt@wHq@iC[EO[a@mAq@w@Jm@Z[VcCdAmAb@d@TOLe@?cAJa@d@Qj@`BJFCMGtAHYz@?NoARI{s@awAARDu@Al@FBYi@aAH",
-        "resource_state": 2
-      },
-      "average_speed": 1.221,
-      "max_speed": 2.7
-    },
     "2021-07-22T18:56:06Z": {
       "name": "Day 9!!",
       "distance": 35978.5,
@@ -255,14 +234,14 @@
   },
   "stats": {
     "distance": {
-      "total": 816316.9,
-      "dailyAverage": 68026.40833333334
+      "total": 800379.6,
+      "dailyAverage": 72761.78181818181
     },
     "total_elevation_gain": {
-      "total": 9261.499999999998
+      "total": 8830.3
     },
     "moving_time": {
-      "total": 235958
+      "total": 222909
     }
   }
 }
