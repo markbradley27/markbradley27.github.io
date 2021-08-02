@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2021-08-01T20:46:25Z": {
+      "name": "Day 19!!",
+      "distance": 87461.7,
+      "moving_time": 19743,
+      "total_elevation_gain": 590.6,
+      "start_latlng": [
+        62.31,
+        -145.22
+      ],
+      "end_latlng": [
+        61.73,
+        -145.0
+      ],
+      "map": {
+        "id": "a5724996680",
+        "summary_polyline": "iqi{JptiuZJPObCp@vBFbAu@rFD`A~D~ObDhQxDv\\pP|iCVhItAjN~DfTxAzKzEte@l@rM|ChyAp@xKnJpdAPrNs@|@}AxGhB|Hv@dAI|SNzSbDd\\lJrt@z@jFvApHjJb_@zDjMxElIvI`IdB`CbDdLjB`NnGtl@VzLXlB|Jz@xGnGtCxErRdk@bIhRjFzGpc@zb@vBdDlDrIpC|K`B~LbCjZ^r@MfA~Rd`CfCnRjCzJ`CpFrc@vv@hGtGrjAt~@bGbE~HlDjdAtSrmBng@fLI~k@gK|FAhF|@`q@lQ~FrEvPlVlC~B`D~ApaDlu@|DxB`GpFzlAj{A~DlEbEtBzOVt{BiCjtA_InAvAh@zAWx@CU@L@w@Mf@PHQHD_APe@DLQf@LDQMFf@[qAAlAIm@C`AOa@HUHr@K[NEKp@Li@YGXM]HTHUOTG[?RN[SMQh@Ta@[XTKE@C\\\\a@k@`@H?Za@I`@^Wq@FJO]AMPJLh@EA@BWc@EKFVT\\Ya@Ab@VBYCXBv@^FT`AjBh@@VzBRC@q@RHXxo@Kj@cAVz@Bb@m@HeH?kKUoYs@oPHeAfEoDdEqFhcAs_Bta@u|@~Ziq@dG{J}ArAMh@Pk@|AgAlIuDvBcBJYc@]aAcI`A`J^^pH{DzD{@`\\LfJw@hHiC|iAql@pGgB~C`@pOxGpz@nc@p@El@fAtBxA|D~AdEn@dB]xBo@vD}CtE}JtV{cAf`@yeCtCyI~NeVnC{GnCyLdSgoAjCaMp`@kuAjG_MbG{FrE_CzDi@diBSpUu@pMaF~d@aXhcA{j@fM_Mrh@um@vDoFpE{Hlg@acAdTic@?s@n@]pBkEVGfAgDrEwHtIyJlD_CdK_D~g@oAvOu@lHwAvp@sc@`h@kQdFeE~CsD|GeL|CkHfV{q@dDyGhJsJMARGAa@S?d@m@xCcCxFaGzBwCv_BmiAtf@s_@bkHijF\\RvA}@vm@sb@xG_D~`A{NjJqEnFeGpFoKrj@m_BzE{KlEmGxDgD~EeChSoDnKpA`MzIlFvBpIEjDgAhCgBvAkBgGlEdASjEqDzj@}r@ZoAGg@NH`@mAjEuDAk@?l@bCwAxDkFfAo@lCgD`JkMrIqNfp@{pAbFqG`GwEvJcChg@kAj\\qFfHY|Dp@v[~M`j@xNfOdChUlBhi@|MzONru@yIxJZZsDoAwWEsm@m@eSodAkyNoHghAsB{U{e@{zGQeETt@r@q@",
+        "resource_state": 2
+      },
+      "average_speed": 4.43,
+      "max_speed": 14.7
+    },
     "2021-07-31T20:34:58Z": {
       "name": "Alaska Day 18!",
       "distance": 52003.9,
@@ -318,14 +339,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1177270.3000000003,
-      "dailyAverage": 78484.68666666669
+      "total": 1264732.0000000002,
+      "dailyAverage": 79045.75000000001
     },
     "total_elevation_gain": {
-      "total": 11492.0
+      "total": 12082.6
     },
     "moving_time": {
-      "total": 303971
+      "total": 323714
     }
   }
 }
