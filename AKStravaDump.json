@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2021-08-05T17:42:09Z": {
+      "name": "Day 23!",
+      "distance": 121554.0,
+      "moving_time": 29570,
+      "total_elevation_gain": 982.4,
+      "start_latlng": [
+        61.67,
+        -145.18
+      ],
+      "end_latlng": [
+        61.08,
+        -146.11
+      ],
+      "map": {
+        "id": "a5746778001",
+        "summary_polyline": "kikwJp{auZ[jB`@zA`NvOrKzI`GxDZ{FeAcFyAc@h@xA]Pf@U]dFb@Wc@b@VyADu@y@gElC|E?xGp@`BrfAl[h^`YtXdBbUhWvb@jOhX~^ne@h[tkAvTxz@jn@lhApSvq@da@hfA|Xd]xWrl@pDd_@uBjS`Ap]zIz`AwTr[w@hFiChr@cp@hOk`@n\\ac@jVmi@ra@ut@fx@_uBrXcoBfCqJdFuI~f@am@jPiWpJwFjF[nHmKLsClCmCNiEjBqBl@cFnB{Bt@}FnJuXdP{WdLsStTml@zR{^|EgHdFgCpiAuKrNhIrXrYnGtKbeApjCfFvTpM||@tEpPvjBxsDbd@hkC`Z~p@rOjg@xGnc@vN~_@lTfpAtm@bgB|K|UrW`]InAl@KrB`Dnv@|rAze@jsAni@jl@bM`GtfBnQrNoDhFaGzEeKpo@yyB~K}Yf`@ml@vJ}HrL}DlmAcKNrANuAhKkAh`@o@~d@jU|XfTfKpKzTtN`RtBvf@}F`EdCpSzXrGtTvD~h@tLdw@hBvdCpA`RlCpMrRbm@dPp_@b`@dwAzEjLjc@fg@zhA|p@~HxJbGlNdEzR~NtmAtDp]pDno@hBrm@`D~dBiAhd@qHlmAr@~kB{@jp@dOjkBfHjhClFto@fJfeBpEzh@jEdSrO~YfEdQzHbjArNhoApFtv@vAnPf@j@hEdo@bD`aBdB~VK}AvBpIjJ`RhCpLfFbrA|ArS`DfJ`JdL|C`M~IzyAbBfhAjIbbAtG|Spp@piAJtBgB|Db@Fk@y@xCgDhKzPpGbG`_@vIzJpKnU|l@nI~XdL|OjDbJhDxQzDvd@nBpJxHrUvCtFxG|GhG`C|H?nGmCjIuJnXqj@dO}RTuB|GqMnFkQbCNAsKfBuMdAcTV{u@xDwr@\\}UcLifCDoJvC_SxGeJjIIjGfIjBtGbAxJdMd~C|PzjCgTraG^jq@bEbx@dTtzBxHzqAbEtThNtc@rJd`@rI|g@v]feCnZtkAlBl`@nAbo@rAxMvCxJ~ArI`H~CnPaCnEjChDpFrCzOpClFjAo@e@_ApB`DdOdAxVrYnE^vLwHhJqBzGfF`FMZpAjF`A`EpK`DvYPlE_@\\l@]pD`LlD|CrKvClPjMnIdRjC|MnApPCpVaTjzCmAx[_DplHoAbs@qFd}@kQ|sAwBzYEdQzDfcBkH`mAaBtg@mKlhA{MfqBuFrk@iD~@uBrD}InAFuAo@j@~Bl@~DcBoBkBKmFPfGlDpAm@e@",
+        "resource_state": 2
+      },
+      "average_speed": 4.111,
+      "max_speed": 13.3
+    },
     "2021-08-04T20:23:49Z": {
       "name": "Hike and ride combo",
       "distance": 33181.3,
@@ -402,14 +423,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1459485.7,
-      "dailyAverage": 76815.03684210526
+      "total": 1581039.7000000002,
+      "dailyAverage": 79051.98500000002
     },
     "total_elevation_gain": {
-      "total": 13771.9
+      "total": 14754.3
     },
     "moving_time": {
-      "total": 382155
+      "total": 411725
     }
   }
 }
