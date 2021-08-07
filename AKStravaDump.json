@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2021-08-07T14:27:29Z": {
+      "name": "Ride to ferry, for continuity",
+      "distance": 2216.1,
+      "moving_time": 935,
+      "total_elevation_gain": 19.1,
+      "start_latlng": [
+        61.13,
+        -146.34
+      ],
+      "end_latlng": [
+        61.12,
+        -146.37
+      ],
+      "map": {
+        "id": "a5753785327",
+        "summary_polyline": "aobtJfxe|ZACF?JFlAxBx@t@NHVB\\AD@DDBX?v@HLZ@PKFBBOp@Oh@Ab@YH?NIFK\\CNJFHJOd@QF@DFDNFvAPzBFhDH`CJzAJx@@lADLDB?jADdBB`DIdFEj@?XPh@P^bArAN`@P~@LlB\\nJRnD@v@NdDXzEFrEDd@JXVL`@Al@HDDJNBJ@ZGvBD~AANJxALlDb@vB?CE@?HHXBZLJA@CACLrAaGgB|FDACILQLAB@HETCEGGHDCAKCEA??CI?ACBMRUMAIG?\\Db@HDHEd@GPcA]J_A~@FE@K@ADBBP?EADAA@?J\\@YB@DGQh@C\\J`@BZ?b@@v@BRGjC@N\\KPCR@VG@@?JCC?PECFPCg@DO?NEC?ILc@",
+        "resource_state": 2
+      },
+      "average_speed": 2.37,
+      "max_speed": 6.8
+    },
     "2021-08-06T18:14:32Z": {
       "name": "We hit VALDEZ baby!",
       "distance": 39836.0,
@@ -444,14 +465,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1620875.7000000002,
-      "dailyAverage": 77184.55714285716
+      "total": 1623091.8000000003,
+      "dailyAverage": 73776.90000000001
     },
     "total_elevation_gain": {
-      "total": 14800.099999999999
+      "total": 14819.199999999999
     },
     "moving_time": {
-      "total": 426387
+      "total": 427322
     }
   }
 }
