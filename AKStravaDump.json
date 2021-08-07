@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2021-08-06T18:14:32Z": {
+      "name": "We hit VALDEZ baby!",
+      "distance": 39836.0,
+      "moving_time": 14662,
+      "total_elevation_gain": 45.8,
+      "start_latlng": [
+        61.08,
+        -146.11
+      ],
+      "end_latlng": [
+        61.13,
+        -146.34
+      ],
+      "map": {
+        "id": "a5751148729",
+        "summary_polyline": "y{wsJp`yzZh@x@h@mBpBsArBn@oBvYFzS|@xTjCl[MhTqM`uAaIlmC}ApQyOf|@cCbJoJxU{`AtwB_g@liAo~BpmF{hA~dDaGlVcQj`BoDhf@g@`Po@toB_@zGVxGz@~Aw@uA]iCu@Sr@e@g@bAHl@t@Mr@~Dd@CfBdLtBjGx_@jh@g@bBItF~B|@WBw@_CYsEb@kAvAfCx@VrAwDyD`OvDeNuDxMRg@lDoMoD|L~DoPDpBS^y@uB{@kAEpB_@pK`@mN~C|DqCwE|@nD]pB\\iCaAiCbAzCsAtHBvaAbN^IsBh@i@s@hAr@tFD}EGdFLsFW_AJf@u@z@_BE[{c@yHi@zO|Ab@m@RsE[{Bo@nCmOae@`AzCq@hDvDlHhBdMTle@S|DM}@h@m@i@@dAVW_@VH[Db@i@?KDBGl@Fo@Sj@Zm@c@JKMVt@W{@f@rA]kB[Nz@^q@}@~@p@K`AKGuAyEvAtCXtAB@}BiH`AlDw@}Cp@bCaAoDfAzCZxCgAuEBz@pA`D{@{De@HG}BC\\T`CWiDv@fESuFc@BbAnFi@sDQZb@jBq@aF`BtHzG{]oJhW^b@F@m@y@l@l@aA[TC\\zIf@xBnCXbAqAUoMk@i@GWp@|AYhN_D]@kHTqAh@V[@pBwF@hA`@It@sGl@}BZPlF~HxB~d@p@MCjCJqCx@UYtAa@G^aA]^UzB_Cgh@yCmF^yCEsFaBu^aJ|AWuA{Bm@qCgEr@zAcE|LfEuMaCkDn@\\tAxD{BqFbCxEEs@sBeBnB`Bg@@kAhDWjGc@\\b@MWnRiAGJ_Ao@f@z@Ro@G`Ab@Qm@LtA`Ar@BxRTyASDh@tApBSTyASNAg@Z|B?zQSvD_@JVBYIl@f@g@g@vAgB?bAAy@^j@_@MEG@q@UPPUzBX?lPW~ARf@dEg@d@y@l@XDT{@wBAyYNgLjA}GgCcEgC]m@\\CxKb@`H`@nB\\C[R]KEcUd@yApCx@vGtJhBrEjBf`@fA|Ar@WsA?c@wBgBy`@mCiFVgJuBca@cInBs@iAiBg@aFcIdBnBlBrElCp@p@dB~E_BjABLp@lAtf@M|@qCaBcAdFSvm@pMl@n@wABwC`BVQsA^FO\\QfA}AiBoB}a@gCgGDuK_Bs^wIbBa@qAuC}AoDiG",
+        "resource_state": 2
+      },
+      "average_speed": 2.717,
+      "max_speed": 25.0
+    },
     "2021-08-05T17:42:09Z": {
       "name": "Day 23!",
       "distance": 121554.0,
@@ -423,14 +444,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1581039.7000000002,
-      "dailyAverage": 79051.98500000002
+      "total": 1620875.7000000002,
+      "dailyAverage": 77184.55714285716
     },
     "total_elevation_gain": {
-      "total": 14754.3
+      "total": 14800.099999999999
     },
     "moving_time": {
-      "total": 411725
+      "total": 426387
     }
   }
 }
