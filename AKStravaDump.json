@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2021-08-18T20:39:37Z": {
+      "name": "FINAL RIDING DAY IN ALASKA",
+      "distance": 87022.8,
+      "moving_time": 23083,
+      "total_elevation_gain": 1093.6,
+      "start_latlng": [
+        64.56,
+        -149.09
+      ],
+      "end_latlng": [
+        64.86,
+        -147.79
+      ],
+      "map": {
+        "id": "a5816549963",
+        "summary_polyline": "kk`iKvm~l[g@yBk@`@Gd[uV@DhAa@lIdKDr@qJjNDb@`AO`Bmr@`m@eDjEcE`OeExh@eCzIeCtD}JvGqFhA_wAo@qKeBwFyD}j@ck@iJ}P_HoYkH}u@eGi[i}@mtB{IqMee@}_@yIsLqH_OuKq[_Iy_@}e@koDeJcn@oDcQmlCkeJaP}d@sHsXaIa]uC_T_Duk@wUyfBkBaJwOeg@q@cF]sMdB}WJcQuE}h@eEuq@eLuk@kMei@_WwaAoO_e@kNgaAqJm]yAgCHbDrA|Dr@[qRgt@cKer@gMaa@wDiSwKk~@o@sTRsYbEir@dEi\\hJqe@`KqOtB}G~@wHJqHe@kKiD_V_@kKdDuf@a@}T}CcPkVas@sBgQSgPjFe`A|AuJ~GmRfBgIlAcOEoM{@iLqOw}@uBis@eJ{pA[oYhC_{@kAcYyWijC{DwRqPec@}Fi]sAgN}Cur@x@kl@cI_dAUqPzBiUdNwf@|@iLH_Ns@wKuAeIaUgt@eByRVaPtCeQ|[ej@vDcL|BgPh@eOw@}u@Bmg@z@}\\rEc`Ae@aTia@apB_HmWwHmKsQ}FmEgDaFuI}CmKsCgRqf@ajEcEiTaFoLs_@{m@qEqDoTcJgHoLcDaLwB_NyBut@}BmPcFmM_Y{a@kEqLeDiQyWotBi@cNZc\\}@kPia@i{B{K{`AOmo@^gZtCePvJ}QzCgJjByT]kUiBaLcc@q_BiBiPeCif@kHof@u@_a@sBkPcDgIoMePeC_FmW}aAih@uhAaEsOoDuSmCu_@u@e{@wAkXgZorB{AaQq@gSFk[fHsdB_@qO_Eo]WmRb@iIjI{q@P{Kc@mMcB{KmMgb@oDgSu`@{vC{Cqn@eB}MyBuGcKgMwC_Hgy@mfDmB}SoP_eDwBmSeFoRuGmJuk@wWcEqDqe@_{@iIwIkK}CmT`@mFcCsC_DcBjIt@ZbBjFoByHl@sIyFaVoAgRJ_R`Dkr@TgZo@mRmAq~ByDs|@qFqg@_Jef@kL}_@gUkf@}DmOgDwSeBqVy@}eBqBqUuGwa@_BeZDaNbAiRrB_OxBuIjE{Jpk@s{@`DgGvB{JpBsCkAsVCqeFr@{@F{DMmCo@}@DyXc@}Lo@gAiX`As@qAiKn@cDgd@SgR}Jyl@XuBqA{Fs@oI_AeNYgTNiD`@hA\\m@c@?^VKdAO_AP|AZwBOxBYKGfAGwCN`ECuEf@uAGvD_@wBc@H^Z",
+        "resource_state": 2
+      },
+      "average_speed": 3.77,
+      "max_speed": 14.5
+    },
     "2021-08-17T19:31:59Z": {
       "name": "Day 35!!!! ",
       "distance": 114296.0,
@@ -656,14 +677,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2505431.6999999997,
-      "dailyAverage": 83514.38999999998
+      "total": 2592454.4999999995,
+      "dailyAverage": 83627.56451612902
     },
     "total_elevation_gain": {
-      "total": 21248.499999999996
+      "total": 22342.1
     },
     "moving_time": {
-      "total": 642954
+      "total": 666037
     }
   }
 }
