@@ -25,7 +25,7 @@ header-img: "img/IMG_20150521_201020.jpg"
         map.fitBounds(bounds);
 
         var xmlhttp = new XMLHttpRequest();
-        var url = "/stravaDump.json";
+        var url = "/strava-dumps/stravaDump.json";
 
         xmlhttp.onreadystatechange = function() {
             if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
