@@ -1,5 +1,509 @@
 {
   "rides": {
+    "2023-12-15T20:53:30Z": {
+      "name": "Waterfall walk",
+      "distance": 14467.2,
+      "moving_time": 12623,
+      "total_elevation_gain": 146.7,
+      "start_latlng": [
+        -42.92,
+        -72.71
+      ],
+      "end_latlng": [
+        -42.92,
+        -72.71
+      ],
+      "map": {
+        "id": "a10390581554",
+        "summary_polyline": "bp}dG`qwzL_@gCRmDTb@\\}AAcDTsDOaAc@g@iCIo@oA_@uBBy@j@oB_BmF_@kCr@u[zAsBw@wCEeFgBeCe@qCDaAvA{E^mBMUERHUOQP?E\\[IFJe@RFLlAk@m@f@F^}@bDe@|Df@pCd@Rp@xALrGb@h@\\?ZuAk@~DqA`BQhDk@hVThBbBfGa@rEbAvB~Cv@d@jBs@bLYnAb@zCUxCNIIG[tDb@gBZA[H?CJAQBZX_@HK~@u@dPlBRIUGPDm@HXMVpA}B]Dk@vBGk@G^?WHFUQ`@N[J@ADUFDCOKl@\\g@Yo@TfA@|@AUGTJs@Id@Bs@M@Bx@?y@Fr@CaAG?AhA@i@De@AhBULFsCDdAFq@Jh@SRBq@CBBCNp@UiCDxAb@U]R@a@@VTA[N\\B[ARE?WQGC~@BsBLO]lBPc@?XYPJDIe@Na@UPR`AF{@Ab@HKe@t@\\wA@r@A\\@k@KBDzAXgCMlAMg@BzB]uBNhAFaADXJm@QfACeA?DXPUWTKMtAJACuAMn@@KD|@D_@Sm@F|@Fe@K]GtBRuBO~AHo@E`APeDUrCNwAUzBPmAG\\DW?c@EVHLBv@MmB@z@?o@@p@@k@H`@HYQa@AV@_@Kp@JkAOxBJm@Ce@HLI|@Dm@Cb@Fc@KPDo@?x@C_@De@Gl@GQBd@L[CG@JKRJFK[FPDSGZCBFMBUGVF[I\\FOG\\Ng@ER@n@BgACf@HgAGtAB{@EZMaBRtAGIEXH}@Av@?m@[Xf@?Qf@\\mAWz@NKOTJYCKL@DdAYoAFJ_@NgASv@sPNE]ZBjAZOGQX@U\\Gc@Q?\\TBFE{@@v@KBFa@e@hBm@hP^_CrACK_@JB[`@D]NB[M^RMM\\g@EXDmAM`BC~@EiARWHb@_@Mn@n@nBdGUwCgBaGn@{BPDoAtDWd@TIBN?l@?i@?JKNJoAMLLNS`At@eEAd@EWWd@?|Ae@WZV?h@IGNC|AmFy@fAqAbDj@d@YmAb@h@i@a@RTKMj@UJuAf@UJc@cAxBMbBQs@RbAKgDUqCk@}Ao@e@ZTx@vGIhBKIAWVCPHi@@v@Fg@Cb@CASQ@DXB[a@?vChAP`Ax@?[LPO}@Kk@{@oAYEg@DLYA\\IYK`@CUj@RGQC",
+        "resource_state": 2
+      },
+      "average_speed": 1.146,
+      "max_speed": 13.506
+    },
+    "2023-12-14T12:09:01Z": {
+      "name": "Day 4 Carretera Austral",
+      "distance": 40505.6,
+      "moving_time": 10909,
+      "total_elevation_gain": 607.5,
+      "start_latlng": [
+        -42.71,
+        -72.58
+      ],
+      "end_latlng": [
+        -42.92,
+        -72.71
+      ],
+      "map": {
+        "id": "a10381182908",
+        "summary_polyline": "huucGle_zLFo@Hx@HHYZKj@DzEc@jAqAdBaAn@y@zAi@f@_@Ls@vAaBf@c@|@OlA?r@O`@BrAa@|@[tBH`Ab@jAFdDAqCk@gDRgB`@u@Fy@Ga@Na@PqBj@yAzAu@j@cA|BsBRm@x@i@HWpA}AP]LiAGgCHi@dARRk@J?|K|JnFvDjAnA\\bAPhCEt@o@tCH`An@t@v@Z~@Ad@^`@rAAfBn@`Cn@bAx@f@`AtB`@pAjBxB`@bAxAzBVvAYfCQ~Ga@^dAv@lGtJfJdH`FdA`A?t@_Ah@aBZeD^aBj@o@^CzH\\hCYHBb@fBd@d@nFF~@_@zAr@zD|@rEjChATf@OdAcAn@{D^s@fHuCfAgBxA{Dj@{@tCkAhAK~APdBl@tNrGr@d@nAfCfCdDnBtDnCtAzBbBzBFx@^hAdArApCbBr@v@x@n@BrACrAPr@h@nBhClAx@j@r@z@NvGhDxAdBbCf@vCK`JrHrCnAzG`ExHbHtBp@vFx@~Bx@pKhHhEdCh@p@hBdAnKhHzE`ErDdChUpJpAfAd@p@~EdN`@v@t@r@pCtA|KzDrGpD`HhFzg@|]xAlAnBbAbF~DzV~PlItG~CvBGILECHjE|C|@pAj@pBbDl\\n@dGVnArA~EdD`K`KvYlIhWdBrDnClKfUbzAtHdh@lFb\\pH`e@pAzIxD~Op^~sAjA~Fn@dEdJvkAh@tInCj^rE~q@N`HD~XC~KMtIQxC_AxHgLfy@k@vGCnCJvGhApX^rMf@pEbAvEl@lBpM|]jC~FpAfC~@nAvHnG`^pZ`QfP~GrFt\\zSfe@hObBXhC@dVcBpPwCjAiAdAkCfA}AtQwO`As@jLuLjAqAxAeCjRya@`Ucg@tT}_@h@eBp@a@lHsMdA}Bp@iBZuA~BcPvCkPzAuGt@_CnTk\\`OcSvDcGbV{i@|JoU|[os@bBcBpTmNv@y@pDyFr@cC`AqIxAuF|@{CfBcDhAaDhAyBd@a@j@Hh@\\`CrCdIxBnGMrDJjHn@|@Gz@m@`@gAl@yGh@qDByALo@fAwCzAaBf@gAPoAAyBPo@TWt@WdCMhBk@bADlCx@ZEFWKeAVqER_@hPdBH[CoAGZNRQC@~@TKBdAGFf@w@a@z@Vg@i@PNO?{@AKOGNOi@IXh@Cm@HDGIJJIFBl@Ac@Fx@K{@MxAFiAIVHk@EXHMDhB",
+        "resource_state": 2
+      },
+      "average_speed": 3.713,
+      "max_speed": 17.746
+    },
+    "2023-12-13T15:06:06Z": {
+      "name": "Mostly a ferry \ud83d\ude06",
+      "distance": 97586.6,
+      "moving_time": 22159,
+      "total_elevation_gain": 514.4,
+      "start_latlng": [
+        -41.97,
+        -72.47
+      ],
+      "end_latlng": [
+        -42.71,
+        -72.58
+      ],
+      "map": {
+        "id": "a10381182636",
+        "summary_polyline": "nkd_GdgjyLw@gA?[xFwHaA_Ed@q@~Au@n@H_@j@s@Gp@JLg@A^[Pn@UxAuAjE}IjCsBtJyMpDiHtCuHpIcLnG}HxBuDbJ}QzIsHtHaCnFeCrVmGjIs@~DJxKqAxN@tIi@`Df@lCo@lEA~D|@rAa@fCNhFlAxDm@v\\vBhm@|AfQfBjj@rJlESjHnCzFf@|I`FdN|AfNnFfDCd~@xUbERbIbBhCtAbDb@t[fLzHpBdJ|EGQvYzGrAUlS`FtO|BrTjGtPpA~Nv@|MQrNhAllAj@|x@lAx}@dCxMUdCl@`HT~HHbG]nB`@lbA`A`UOpj@bAz|@l@zcAjCn]k@|N^fPzCx[hLjm@v_@pSbOtCtAlT`DvTtAd\\Ubl@eGhPgC|}AgMrOcBjTkA|mAkEhYMbTVhDb@hCW|Fx@nTk@|KZ|Br@zJyAnLSlP@zF\\thABr|@mBnZcBpl@qKta@oGnaB{ZtiBmh@d{@{WxW{J|UyHpJ_CtVyI|m@aR`TuFpJ_BzCaB~FyA`HoCp{@eTdoAyTt@m@dOaEv_@sFhD?~FsBj[sEbiCqYdZwFjSoCv[{BlFmApEWjCkAlWoEtNw@rPOxZhAnQ|C`YdLlHtDjLxIpEdCtDbAlE^~ASz@u@MDBXpDfCp@jB|uI`pOAUAn@\\bA~AvAfCg@l@Bh@n@jBfRt@tM~AlGRrCv@vB|BlOF`Cv@lDRhDx@hFx@bOKbSShERbIKdzAe@rNLfLu@~iAXvk@a@lOh@tXlBlS`CbHdP|V`GzGhEnGhA`CRzBjGtAnFo@rAjBvB`@bOw@tKuAxGgEtBsBnHyIbSgOdL}JlGkDd\\_Hdm@sGvJyBnZiE|y@aRlSgGvJgDnAcA\\qAVwE?oFj@iFZs@xCuAnGuAj@ErGrC|@|AbFbMjFhGrg@hY|KlAjIuAxF]zHyBtL}GvCy@dC_CnC{@|BsBll@o\\nFsAdP{AvEXtJjAta@YvNLN^][xJI|M~@?V^yBq@TwGq@mAUCe@h@a@\\o@p@Wf@Fg@L`A{ANrAtAAMNn@Bp@w@PeAd@h@`@c@aBd@aIHc@^y@hCz@C~BvBrG@@g@JZk@d@@VlDTnHkBpf@?tf@s@hAiK|CgEnAy@zG[dQpA`CuBjCMfAgAtE^rDy@x]GdFR`LbAhYqFhCgBfByBz@SjPWjMzDpM~Hr[lWvUnFrCbBtCzCi@b@i@{@a@x@FQ",
+        "resource_state": 2
+      },
+      "average_speed": 4.404,
+      "max_speed": 15.67
+    },
+    "2023-12-12T17:50:51Z": {
+      "name": "Ride to Rio Blanco from Hornopiren",
+      "distance": 36562.9,
+      "moving_time": 14306,
+      "total_elevation_gain": 226.9,
+      "start_latlng": [
+        -41.97,
+        -72.47
+      ],
+      "end_latlng": [
+        -41.97,
+        -72.47
+      ],
+      "map": {
+        "id": "a10374285009",
+        "summary_polyline": "pkd_GdgjyL?JKC_AqAeG|I_@DcCeEyLwLwJcLGUF[bFsIO@q@pAQ?cHmIqCcEwGaUmJiE_GqGmN_EuLwIY_AViVKkC{@kEqBwDiNiQywBckCqCaEM{ANiBz[ufAL{@vAgc@`@wA~BmCr@yAj@aH`EwQ|Cm[nDoKl@cA|BwAfA[`ABhDhABO?NoAs@v@JNIIMAYNUOMRF?B?k@UnAJMSFF^w@ACJxDlAZ\\Dh@eDhIoErQyBfPmD~\\~AxKt@rOjBjIhD`M|AlClD~BtA`C|DrArC`DtQt@xGhC|M|C|PpHr[tK`YrBpQrB{NkBq[_C}]wLkOwGoMuCwGmCyBUgGBoEa@kDsDeDw@iA{BmAg@eB{AoAeBsA}DyDwOi@mDAqCo@eJmA{GIsArCsX~BcRtCqMpB}GzBaFBo@Oc@g@_@qGkBiA@cDhBo@~@}DbL_Dv[uDbPu@fIa@dAqCdDa@xAkBre@{]zjAjnCzeDdBxDr@`ECpYb@~AhM`JxMrD`GrG`JdE|EjQcCrBmCvD{@rB}DtGzCuEy@v@{AsBnAgEo@gAx@oBa@n@LXQ_@^g@LJMWp@cBs@q@?a@tB}EfC{A|EzPfKxMK?vCrCVAIOLXKa@H^Ka@DRGODRIKOV^LNf@fDvDdBjCgCtFDb@`KvK`@DvBvDZJpDeEtBcDLJbA{A\\s@MFVHDd@Oi@I?}AvBf@jAb@\\]eABwA^dDCe@I?NZu@W^Bc@]\\XYL`@S_@?_@`@d@g@bA[}@V@Wf@`@_@a@BNMDFDMWDQERT?YCP?AQJXUu@Nr@Sa@BT\\Lv@SoA\\GSN]@NIx@GOj@WIHAWUKNVJ[Cg@KTJgFJnDIPQ`BA{DDXITFzAOTJoADRARULJT@iBcA}GDW?Mj@rIZ~BKuAFXCTIKD`@IaAJB@l@RuA`@]QvA}@BiAiDxAbCHp@EQNJMa@Bg@LnBA_BHH?d@_@^\\_@Co@CPVK]hBJcBMJGnAHCOk@NZEcALRDb@CQG`@KANIEND_@If@a@uARBDfAD\\Au@@p@JwAKzARu@Qx@_@TXSQDRIQC?YNL?YBXAs@DfAQoAFh@Po@Ef@L`@v@YeA\\f@E[DLHIMc@XLO?_@HCCPHOIPLc@GHG^Lq@Id@J_@ShALAAUXjB@c@k@cAx@jAUFEMFGQ@Bi@H@WSBXJg@Yc@EH?[ZtAFK",
+        "resource_state": 2
+      },
+      "average_speed": 2.556,
+      "max_speed": 10.688
+    },
+    "2023-12-11T12:49:40Z": {
+      "name": "Day 2 Carretera Austral",
+      "distance": 83389.4,
+      "moving_time": 24975,
+      "total_elevation_gain": 716.7,
+      "start_latlng": [
+        -41.8,
+        -72.73
+      ],
+      "end_latlng": [
+        -41.97,
+        -72.47
+      ],
+      "map": {
+        "id": "a10366512323",
+        "summary_polyline": "vzb~Flm{zLsH}KdMmJbFnGxFZrBtBdMd[rChBcAgAnAP{AOxClDrCr\\dT~ZlStXdJpQrd@`vAfK~Ng@nHd@~Dd[`_AlZ`p@nNvMxJ`PfG~CnE_AvLxCxEm@~K}ThHuJpI}FfGu@jFbG~KdSfB|XbDxRdCtCb]dPhBk@dDgGjP_@|P{LjGiHnF}P`DB`LtFvAkAbAqEfDb@jCkAbBfOpBnt@lBbHlPpYvVhTvkAzz@|E~KClDwDtImIvD_@bEfP~RrI`HxItM|E`YbBh\\~FhKfQbStGrNvSlG`EFrRmInIiKp[wBv@oA`@oHtAwCzGcGbHiBhEcT~NiLnIsPlLaM~Zs~@z@oFtBgExB}XwCuEwAwPvJm\\dKyRbCgJlJThQ}EvIJ~FpB~AnB~DvUdFbM`\\t_@xMsBzd@qKdn@eD|DqCdBiGh@qO|Gq^L}HgA_Jb@uR~GjBpGo@nTqTdFwIs@mMgCkEa@kFfDm]_CcHsBeSx@iHyBaDQsD|D}PrOu\\^gDuCyF{RcHy@y@RsAtQ`CzHi@`FcHxIoa@vTwd@vFmG|D|AlCUzSmQ~MsWhJ}J`BaEzCqQ`Pk[pDaQm@oCoCk@k@kJyCeIsB_NgE{AOcAbAwAzJoBpM}IxHiA~b@eZbXuNpFoAr@{Hi@eMnBqH~GwJrAqMrB{ErRiPeC{IhJoIkCwNcHmAaF{VuCqBwDj@sIfHcPt@uQjIeHkAmHcEwMmAwXvBoXtJ_B_DUkSrAuHfJiEgDsFmeBgSyBmB_A_EaIYkOwHiEi@yE_KReI}AcAeTe]VkHyI}DnD{DpVeFvWqHzOoStSaPpYah@rUkVxReNbMmWpHgW~AeQhWss@~B_CfHk@tCkBdFqTGyQxDaGb@qCs@cFmHkKuE}KwP}RiKuQoFiE_Owd@wVah@sDwNwGqK?eTs@gDmPyJsP}\\{IwIqCgLl@qTmIaQuKyCuUFqTkPs]iAuUiHa_@u`@kHsM{IgIiRyWsDaKsEey@FaKeHgZoIaUpAia@c@qOv@a_@mGyTbAsXuM_b@l@wK~AaChPw@xN`BzG_B|CoF~JaAzOwMbGyN~FwDxHiOtj@ww@c@dAh@J_A@eBpDvHlJaExF{BqD|ByD~@nBj@Ts@y@AyCZdC_@cA\\v@aAt@KLl@aAg@eC|@lDgAkAvFoII{@m@dD}DfFtAr@W^WmB^pBeAoAkCxC}C}D{CxDqO{PxCmFkBwBo@|@p@C{@cCpC~DmBnG`M|Mn@XpDqCzBzDjCgDpBbAMfAS_FC`CHt@h@y@}@IHz@hApDy@sCWmAAcINnJQu@",
+        "resource_state": 2
+      },
+      "average_speed": 3.339,
+      "max_speed": 16.816
+    },
+    "2023-12-10T17:28:07Z": {
+      "name": "Day 1 Carretera Austral",
+      "distance": 62443.5,
+      "moving_time": 15968,
+      "total_elevation_gain": 550.2,
+      "start_latlng": [
+        -41.48,
+        -72.91
+      ],
+      "end_latlng": [
+        -41.8,
+        -72.73
+      ],
+      "map": {
+        "id": "a10363193927",
+        "summary_polyline": "v`e|Fjj~{LpDcYb@aB~@oAp@fCxM`DTUh@yJrAqBrAKvBd@xAs@bD`B`FeBlGy@lCmBjBkCZyAxBsDp@sG`CcK|@{ItCuNhC{ClCu@vDmEnCmAj@s@J{@yCwPK{Ny@iCaEiFmBkKqDaEsJqAeFmDgAqBeAeFyAeDmQaTk@mAy@yEQwFb@cK`F_V~CVn@YW`@`ALjDuAnCoGrDuHSaIBaCP?SIAl@NOUi@s@}MmDb@kI}G{B[oDfFo\\t@a@UkAuOcA_VSyQnAwhB~@_CrIwJjGoCzAaBpJaR~Syd@jM_HdLwAzAcAxJ{QxGkHzE_OpHwHxBuKrDkHjEiFbDsH~AqEzF}X|GkIhF{LbHaVl@cA\\Ne@]bDgHbBoKtQcWbDyFz]kfAnAaBxCuAp@cAXgBO{AkCcEo@iCSiEb@qBnJ_M~J_It@oAJoBc@gBuFeCk@qAEcAx@_Pb@cCtAyB~HeHfCqIU{BsF_GQiBTyAfNgWvMwLdS}CxBkA`GiEhJQ`ZkDbCqAbMaMvCuA|L{@jDJfOvSlPjEtC_@nNgFjUu@dHsBlVoNjGwBjByAlFwBzGcH|H{@|B}@~S_QbXcWnFkGvY{c@lHmMZcOwGwX@oB`@mAbBNfEfF`TdGrHjEbBb@rDo@pDD`MgBpIkGxDgExCiF~ByMxAcDt@cDLwBc@uHHqBdB}Gx@_HvCmJjImb@JqVnB{Z`DiJlLiHhCqDn@cCjBaO~DuPJkC[iFT{BzS{U~BEbVbDn\\r_@tNzLbDr@jGqA|BHhG|DjJtI`DvAxGh@`KwAdPa@xT}HlIwAbDt@fFtEhEj@|Fw@xFyBtAuBtAuFlAgAbKHbDfBjAJ~FwEvIyBrEo@fGYxOoJbA@jE|B~CD`Bg@`HkKhCmFvFoCpCiF`DsBtPe\\hHwJtE}D~C}@`BsB|Cg@lBeAlHeHnBk@xIuFbDcA~E_G`IiEjGqHbKoJvGTxDhDrAfCk@vG_@XoAQuB`BM~B]VDlEg@fIlJ|e@jAxDzAlCtBfBzFdBhw@zI~Q~@zYMp_@`DjLJ~UiC|a@{A|KeBdG}A|JcFrIqJnBaDjIuWz@w@pCa@Jc@l@OnFvFhG|@vCrEpCvMr@|JMxInGxLhEhAxZd@tFdA~JbEfBlCfEdOnIjDtF|JnDlAxCrC|Pf^pSjf@fF|Hjd@~]hLdNdFxEzNvTzBfClPpKlIfJjPzN`VlRvSpNhB|CzFhS~FrGhFzC`X`F`EtCxAfDpAdGxA|N{@xAkAK_BzAlBvDTnNn@~I{ApCcC`C{FYwFuGmGbE}CtCKfAzHtIUTLU",
+        "resource_state": 2
+      },
+      "average_speed": 3.911,
+      "max_speed": 14.556
+    },
+    "2023-12-09T22:34:10Z": {
+      "name": "Ride to warmshowers host and a lil walk with him too!",
+      "distance": 11052.7,
+      "moving_time": 6393,
+      "total_elevation_gain": 200.9,
+      "start_latlng": [
+        -41.47,
+        -72.96
+      ],
+      "end_latlng": [
+        -41.48,
+        -72.91
+      ],
+      "map": {
+        "id": "a10359502908",
+        "summary_polyline": "xlc|Ffjh|LB@d@e@TMJB`@`@b@NnATJK^mApCqHBWK]@Uf@wAXgACGoEkDOY?UDM~@sBZ}@Dc@?U]g@[q@YW?GHK?O}@{BU}@k@yAE_@I[s@gBWcA{BwGiAuDi@kAa@oA[WKk@Bg@KmAA{@KsAS}AOgBI_@OkAB[Ao@WaBA]@UDQAQEO@WI[KKEQWkD[_DWyBCiAQgB?YHKxAQHMB_@MeAMyBQgAEaAMoAm@qJSmBCuA[mDCaAMs@m@kJcAqLCu@MaAAo@SuDUiBa@}BK{AFgHAoJDw@?mFHgKDo@Lg@N_@d@y@Tk@He@@i@AIGAAHDRYNWOqAqBwCuDk@[sBa@_@UYWi@wASa@a@YDBw@MN_BAcAa@wE{@mHUoCa@iDk@_GC}@QgB@y@Hm@T_AVu@r@}CJUb@qBhAaEx@kDj@aB~CeF|AmCn@qAvBmDfA}A|DoGlFcIp@u@nC_BvMyGrAQfB?t@PxCbBz@L|@Al@JDDDRKTOhAInADj@?r@DVC\\DBFRHFJ^PFFVPNb@p@Td@\\d@vA~BdBzDnAlBvBbCpCvB`@Xr@n@hBpBPLh@h@L\\Ff@AjADj@AjAKXY^_@r@W~@]bDOv@?VEh@GRKv@Ot@Ex@EZUv@BRCp@On@Ez@Gh@Or@AVENEBDGa@?CIJKDDa@AGCGF?HSFBFn@ULDNADJCJ@XCHKPO|@Dx@Ab@A?KeBOh@E^CJAAWrAQX]nAAVKT@VEd@GHSF_@MSi@?SCQIGMa@MUAMQu@OMI@mAz@QGM[C_@s@wAGWUS[w@Yg@}@{@?OEEBPr@v@Zb@Xt@LHBNRRVr@Zj@HX@RLRJFLAn@m@RIL@R`@Jh@b@`AHf@JTNn@HJ?TLDFFPn@GEEMEa@@i@Lm@B_APu@XaATe@\\yABWFQHe@BCFQ@URWDa@IEAMGBm@EKLC??ECLDIF@KDBBKAD@?BD?@AWMD@Hh@@IESEA?HC@DIJ?EG@ECPDAa@AAC\\Fq@Wp@VFQBAIAHTI@FKC?@KC?A@FACL@GEAJFCHVEBC]FGJBN?ILMR@UNGGHBEMBJCAQH@IHILA?EKXLH@FEYKBAHCYIEH@EI?BH@NCD?BJJAe@@b@Ba@HAD?GMMNVUIHFROBIEJ[MG@ZLCABRDBR@NH[_@CF?GBBA@QDNS",
+        "resource_state": 2
+      },
+      "average_speed": 1.729,
+      "max_speed": 8.794
+    },
+    "2023-12-08T16:21:00Z": {
+      "name": "Puerto Varas to Puerto Montt",
+      "distance": 31432.0,
+      "moving_time": 12377,
+      "total_elevation_gain": 315.3,
+      "start_latlng": [
+        -41.32,
+        -72.98
+      ],
+      "end_latlng": [
+        -41.47,
+        -72.96
+      ],
+      "map": {
+        "id": "a10355273711",
+        "summary_polyline": "`jd{Ffwm|LuFlAy@}E_@Tb@z@a@n@SCAYYPQg@R^~Ao@kBh@~AUa@kEb@^zBkAdDZv@y@pCb@b@i@~D{AdFsDfDsFdLcWr@s@|DsArGeN`EkCp@y@}@x@zAaBzAgEfHk`@hD_XXmETUb@JSDLNfP`CdHvBtK\\d@t@vIiElPqKzNoGbKuA`D_AfAmBj@c@`DHfCk@zOsHbCaDd@BnAfAj@@dBeBnHkDzS{K`P{@lCg@fWuLp]sQdj@qGvBm@tJcIfCqC|Ow^xC_G`CgBzHcDfBiBz@aCfHk[fC{VjAiBzOqMtCEVWJaAvAJrzAo\\XzBP?B{AKADUPzFDa@|AKIKWZz@rB]vCPjAqBoPMpBQDRp@J@Ba@?r@LE{@e@B_BFNrAe@Qj@m@@O[@Z_AqBwAgBvC`Gs@s@]i@|AbA?VEFBg@Df@j@Ha@X]C?j@@s@TQa@}@@b@JL?[P`@e@_@d@`@]WLDIc@Fh@K?LAEy@WgBX`D[_B\\~AHSG^OWFKEPMsBrHyBfBMdIl@fBGlLuCdEuCtAL`G|BxFQdHx@fH_ClPw@dCyAzF{FpB_AliAyOrKs@jFy@hCb@xKzFvDxAfDtB~Br@jNtGpCjBNIbf@hUfJjGxIbBzGtBrAz@vA|BpBfHFfDObAjAZ|@b@zEhK`AnEHjEkAzVx@p@g@`MfFt@`At@VjAo@dGLx@f@v@xPbFzI~BzA|BYjHFlAPOj@oC^q@xCY\\hDpB_@Be@rBe@KkBLe@c@cH\\_@_@ISe@_AyKW[gBF@c@dEwHm@{KM?Kn@g@Fh@UPP^zHMfBXh@d@pDd@RtBQj@VN^bCdAkAxBYvBe@v@VMSVXz@cAlDQnEL`ClBzIDxArAdFF~AfA~Cr@bFlAfAdAhB`@LFl@fAhAhBnCT|@j@`@vElHjQxQZfBSVe@G_CkCaAg@_CzDaAhEoG}AaA`DcCOuDfKsA?wAq@s@j@SGLJw@Ix@BIFO}@JXi@fB~@YW{@HSKF[ETSUEAd@Vo@?`@MERA?Pf@}@I`Aq@DXIJIDPYCv@e@e@XLDYLKG@ON?WGPJAd@Tn@?WF|AVg@@i@gAkBb@b@LKaAhC_@VXQj@}AKl@Gg@Lo@R\\]WGSVXSRLS`@Vd@SgAHTCAj@c@uBb@fAQGRB[m@TdAFFNt@MiA",
+        "resource_state": 2
+      },
+      "average_speed": 2.54,
+      "max_speed": 15.354
+    },
+    "2023-12-07T10:04:29Z": {
+      "name": "The \"I forgot I started recording my morning walk\" activity \ud83d\ude06",
+      "distance": 13189.8,
+      "moving_time": 11633,
+      "total_elevation_gain": 98.5,
+      "start_latlng": [
+        -41.32,
+        -72.98
+      ],
+      "end_latlng": [
+        -41.32,
+        -72.98
+      ],
+      "map": {
+        "id": "a10348480351",
+        "summary_polyline": "xld{Flwm|L`AZd@m@zEzAj@E`@\\\\Sx@V`@O^^EU_ACGu@b@qDVaAAuATmBj@qAEoC|AmCJoAx@iAlFeMvCoGxAaAvAU`Ai@pEkKlAoBlDmB~AoBzB{HNcBjFeYrEvAl@IxBr@FOU_BHp@MCAVOF^LWHHAET@Ms@]eHwBS^oCtPyC~NyAxDaApA_ChAeB`BwFlMgD~@iA~@gMtYwAfBeBnAsBpBeGxCBtAi@dG[TJKu@CkBWZ~AZo@WSLKESCXQCn@AYR@BLC[CN@KAJEKA?CK?DAHHCOJAE\\J?SMd@TGr@Pe@SW]`@d@UIP@_@GDLJIIWPV@a@Lb@YJCmAFVe@Jp@IDHa@SURKnCj@bC@n@f@lAKZw@FqAm@SU_@d@FRj@LeB?^JCGQ`@Na@I`@H]GGGC?RFME`@t@KUINj@`@~@?c@nBn@dA`CHHFU?tAJJl@hAE\\V_@GWi@MrAc@CTGf@XEMy@IRz@dA`@BOu@t@?i@Ab@B[_@G?\\~@m@Kk@MUgAMWc@mAZAeAy@I]]s@FqAi@[NcLwAEZPPF]XDWDEKb@Xe@DL^TDANDOUe@NEg@[h@\\UUDPTFa@a@N?c@BVFEJZa@UNHFIC?BB?KGZMSHHG?XQEXUYV?D^AILZg@b@NqAQDTBe@ATIDHHMKHEGNNDCQGHBMFHB@MBh@Rg@Ff@@@^]CRi@w@Nl@GDE_@KQ@JmAO|AIUh@e@tB^@`@^PIxA`Cn@\\q@LVO_@D`@?]FLMKDLSP@[NEMBLb@UUJTKh@RqAKGNDOOJPCt@G[e@W^oBZuFVsAMmADq@KHbBo@J_@}@@Ia@J\\`@A?T`@OD`@VPMZ^RUtBWIOb@wAg@WtC_C]E`@[G@|AMj@a@NcC_@KVJZr@C?r@Dc@]WYD?z@Ri@Db@L?AI[_@XGWWN?SHDSEPWA\\AU@`@KQHLKKd@?YQZHDGSDr@Iu@BZFHBw@JCIAP?UDJEBJMGHTh@XARSm@HNKb@Mg@Q@Wi@TP@Oq@C^?QFXLKQHCg@Ml@LU@RN?SYBXPEONZOKTDSDHU[PXCIP\\DR`@He@OIBAUDXXCY[IXTIGCKLQW?TCOBJJKOHRKDNCKEHKCX\\JO`@Rk@MAS|@?g@RUWGJEa@ALK\\\\]YJB",
+        "resource_state": 2
+      },
+      "average_speed": 1.134,
+      "max_speed": 5.322
+    },
+    "2023-12-06T11:58:31Z": {
+      "name": "Day 2 around Lago Llanquihue",
+      "distance": 85507.2,
+      "moving_time": 26822,
+      "total_elevation_gain": 1234.5,
+      "start_latlng": [
+        -41.01,
+        -72.72
+      ],
+      "end_latlng": [
+        -41.32,
+        -72.98
+      ],
+      "map": {
+        "id": "a10340724596",
+        "summary_polyline": "puhyFpuzzL]j@w@aAaBNZmEeC`RcHxTcAtBeGc@_R`l@s@p]`DpONzEaJ~_AcCfD_NlG_GvGyO`e@mWnh@rIn\\A~PoCzb@_Il]iVrp@aUhc@qn@~c@{InEi`@bHoJvCkCfEzBvE}BrEn@a@DAoIhCcDhEyH~U}Gbg@mDpg@aCjs@gApLkEbKwRpHoCzEyU~}@oDzV}Cxi@Vro@xIjBpJxHn^|f@vQrZ~F^jX{G`SiVpA}DfGeD`I`DfJ|@T{CiA{@U`DrK~BPjG|I|EpBpDzD~B`BjGE|BgKxEsA~Hr@jYpGlV~KpZ|ZjQ~O|UlEdUn@hKlDrKkCpXNbDjJdMhCrHdEtGvLrJ~JhOrRvKdMHvItDxf@zKdZzW~QdErGg@vTsLlGmOvHqFvJ}MtOoYCiDwCcB@_BhX{i@dXyV`LiRdIcDbG_JnBiG`F}B~IeAnTbElp@yYpNcK~OmFfDtMzIpSs@Ul@d@|@tG|GhVC|IkH`FcAvE`Ij\\`BnLvAbBlF~@pH~KnFhYfE|HjByAeB~A~D~Gz@xEzMlRuBqAd@W~JtJxJxFtRrUff@`jArDpGbJpFrBhCf@jGmCxBgBjEj@pBnDv@CjNpCfKo@dEdAbHEzXsDdLJvB`PzZlBnAlk@n@zb@vOjFWvKyE~A^fGfUrAxNtOjk@dPzgAbFxFpBrHdCdD\\nGbDrM|IfMvRr[zF~ClKhCj\\?o@`BBcAvL{ABrBRoAfF_AC|AByBrF}Ax@qAn]sLvLoSjMsMhD}FfBoJ[qGoMgo@qA{\\\\{Ic@eDtAeUSkHr@yOfDqPX{DeBkMUsL`FkHG_F`F}QxIkLfK_X~Wo`@tL}KxLkEhTIjYpBhf@l^vb@x^tg@tgAvEt@vKdGbB`D@pAiAdCEnR_D`VnAtQe@|IkBlG}I`Ou@fIyBbEoCx@_@tAjBnUeA`Z|@zMj@dFpA|C^xF`DdCr@`GpOjA~EvCvBDpBw@jMoNpFeDzDc@nRbBtD`D~DhHpHlH`EzGfFfOnDbTfFbM`KvEdL\\dQgE|DiCfNgTzBeFvFy[rH}M`CwHhCmUzSc\\nB?bLhFzLObPuElEaC~GcEzTaCpLgIrQpDrZ{KtAjDj^iN\\\\p@e@~@}Ca@b@JnCz@vBzKiIc@uC`OeKdn@GjT`YlEjCrCbJxD~AjO|OfDfA|`@vGnRzAtxA_Ab@a@v@_K`BsFwBa@jBAAiAeCa@vE^xGaMhQik@jA}In@}ThF_Cl\\sEeE_c@vJcCiA{LxBUc@\\`Ap@m@mA",
+        "resource_state": 2
+      },
+      "average_speed": 3.188,
+      "max_speed": 15.703
+    },
+    "2023-12-05T12:10:54Z": {
+      "name": "Day 1 Riding around Lago Llanquihue",
+      "distance": 92268.6,
+      "moving_time": 23374,
+      "total_elevation_gain": 922.1,
+      "start_latlng": [
+        -41.33,
+        -72.97
+      ],
+      "end_latlng": [
+        -41.01,
+        -72.72
+      ],
+      "map": {
+        "id": "a10335553285",
+        "summary_polyline": "~_g{Fhej|LuHcCbEe]{@qm@gCeKeE}DsBQBtAxAfBoA{Aq@cDog@gE}GoFiEcJsA{J}IypBcYqeAHkMxUkhBfEm}@kAmLyKgV{Kme@eCeE{D{Bu\\yAkFcAaEgCaGeGkZ}g@m[cXyGs@yq@rGaE}BoPaWgBoEwAyJk_@m`DqEeHk\\kTgCwC}AwEkCyYcBkG[_@aAlA?bAz@rAZaAe@oAP{A}y@oyA}B{FwAmJ_@aqAkAeGc]efA_BoDiDmDmx@{c@cGoG}o@_~Ai[kp@kBeHkC_U_BkGg]io@gQo_A_@oOnDuf@]g~@oB_SdBgLbCuGxCoPRqOxIw[|@eW|O_h@vCsMzR_zB|K{p@HeFyAyU@_I~VqeAkCSjCGl@{CjPgkBVcI{@mKcg@wgDgI}g@iMyo@kGkIqX{MsDyCeB}CcE}MlAa@AAeAh@dA_@sADqEoLaRoYwEmGoFwDoBoDQ}ChBsJda@_jBr@mF?gHij@shCqCmFgWkZ~VbZpDpHbh@b`Cj@bF@xFq@tFee@rtBu@d@iKmBoEpCd@|EIG_@aEuDj@sHgHwLu@yEtBgEOkG`KqKjAgBbEwDfA}Ao@eBsE{@k@gIi@_Dl@_DfGmF`DiDpGyG~FkG`@mIdGaB~KkEnF_BzMaK~JsAzJmA`CyKfAkBtAkBtJaEbIvAjJQvBwEzCoBnGeErBqBdFyD`QkCjDwHfEwFrMqDbAmUsCcCzAoDlIcBfBkTvCyBi@aFsEyGtEaCNaBcAcEgHyBi@qH~H}EvCm@vA@xF{CnCh@vHw@rF[i@_@rAn@xDcJjTeDt@}Cs@sDbHaCgC_A?kA`Cm@hEyDFaCrBh@dIcB~AsB|EuE[eAl@a@|A`@tF_@`BsGvBa@tHyA|HwBlJeCnEXjF`C|Ee@jE}PrM_DlGkL|IcAnC}@xKeCrDeZtKd@|BiAmBmZ`OgCN{GuA_D|@aAtCB`Lq@rFwA|BkHzC{@pA_FxWqChHqElGcDzAaJXkb@yJkIMuKmBg}@b_@mPeAoCj@q^rh@ilAn`AgUvVqP`ZqIxFgp@~Lwj@{Guo@vAiGsG_Pg^h@vBiH}XaEkBgXjEmDpDmE~AuBnEuE\\_FjDi@xAHi@_E`JmFxB_JGwJvCkEnDyTbXeDfG_g@ldBiChGaVfXkOfFiD|E}V|z@WfGfBbNiFdTtm@ts@nR`i@fJhg@fC~FnDx@@nA~AsFfG`@lGwRnAc@{@GxCaOrBYj@|@Xc@e@w@ZRc@JdAPaA]BA",
+        "resource_state": 2
+      },
+      "average_speed": 3.947,
+      "max_speed": 17.814
+    },
+    "2023-12-03T12:00:42Z": {
+      "name": "I did a stupid, stubborn thing \ud83d\ude05",
+      "distance": 26375.6,
+      "moving_time": 7837,
+      "total_elevation_gain": 233.9,
+      "start_latlng": [
+        -41.43,
+        -73.1
+      ],
+      "end_latlng": [
+        -41.33,
+        -72.97
+      ],
+      "map": {
+        "id": "a10324683678",
+        "summary_polyline": "ba{{Fd`d}LGBEXsCIWQQc@DWJE@Ic@MwFKoSYuC@_@EOMEc@f@sDf@kFjBkO\\aChAiJdAwI@e@Ry@?]VqABo@PmAVwA~@eJPcARsBVqAvAqMb@{C`@_Eb@uCPuBpB}OJqAn@{EnAkLd@{Cj@cGdAkIfAsLtAgLZwCCQOLW~@q@b@{AT}H`CmHjBUNqGlIq@Zg@Gm@g@o@UuCk@wAK{BXgCXyBhAgBr@cATeG}AoCRw@?WGUSOeAKO{BGe\\f@{ORq@PCFHJEVDi@GQQEeFJ{ONoGa@mD_@eDKy@Q_J{@yBE{@T{MdIiB`Aw@VgBR{H^_OnA_FJcBGqC@q@X[?u@`@}@Ni@?oMqHuT_M_FiCoAw@kCmAePeJ}BaBcBaAwCsC_@g@yCuBuAk@]U{AYkDwAeE_CqZwQof@qZqAsAgAy@iAoAeCkBeAyAc@_@IAu@cAgAw@qCwAkEmCyI{EaAs@aBs@iDoBaBu@[GD?AFCCaAiAqDwBcCqAiAsAg@u@qDoIoEqJy@yAkA_DkA_CkAsC}BoEMq@m@{Gc@uCIkA_@mCw@}GQcA[aAaCsDgD{DiAeAgE{CcCwAuAg@qAYi@CwAa@_LwBoE_AmA]o@CyDNyTZWR_AJJEo@QmBJBCmCDsAMgBs@qDmAYE}ANcCn@yEfBuCz@eFnB{BeCOa@yByB[SeBoB_@W{@yAi@o@@EsAuAk@}@qAkA]o@WSMWy@m@Uc@WW[e@m@s@m@a@_AqAGOBAY]IYIOGAFB]u@k@mCM{BAg@BCEa@K}EDiCDu@IuGH}BBkBCm@Hi@Z{@^_BJ_A?u@UyBsBuGI{@BkAj@oCLeBMoDKmMBcFC?EeB@yCGoDSg[a@kSK}J?}Ed@GbGEpDQf@DVKxAA~@MjCDj@IjDAn@KPM@SGkLE_B?cFGiJHgA`@e@Le@B{Ae@OmHcAaBKcB_@DiBLiABcANyANw@vFeM|AcEdDuHdDgH|@w@^Sx@gAvAcDz@gCr@}ElA_GnAqHf@_CnAuHn@eGpBuPFiDEs@Bo@a@aIDKFJz@CHG?c@?d@BDq@@WHIKG_@Fa@Ey@BQhAKAM@TKHy@QMVAhDHn@E\\NjGBrDEpAmApKqAtKe@lCd@@`Cz@`ANx@`@p@PTPH?BKEAGQTDLIGSk@l@PUdEyIyC~GIR@b@AGBABYc@]?RNBPT?HSO@L",
+        "resource_state": 2
+      },
+      "average_speed": 3.366,
+      "max_speed": 12.61
+    },
+    "2023-12-02T14:36:15Z": {
+      "name": "Another Santiago Cruise",
+      "distance": 27920.8,
+      "moving_time": 9048,
+      "total_elevation_gain": 160.9,
+      "start_latlng": [
+        -33.43,
+        -70.61
+      ],
+      "end_latlng": [
+        -33.43,
+        -70.61
+      ],
+      "map": {
+        "id": "a10318774411",
+        "summary_polyline": "dj_kEtd~mLj@|CE\\}HnByIdJ_@r@Xx@z@lEdBxKlAvElBlFzCfFjAlAfKlDzJhChAjAOl@J`@nHdEtExDd@g@r@bAj@Ln@n@Xb@Bh@\\TpElFh@~@ZLb@jBTh@NJ~@YAd@nA|DHTd@b@z@xDlAvDf@v@Nj@D^MdBF~@G~B\\pCNHv@IhA|G~BpFf@z@RJfDnExAnCe@YIAEN?MQh@QHgB_@DSVL~@B{@[\\Z@XFBUoBFBa@ILKJh@i@o@PNKSQ@PCA`@b@f@`@@g@U[NBT@Q?LdAnAg@M?If@e@AQV_@\\IF@CL\\T`B|Bd@a@HVJ@hHyGvFwE`HoD^l@|BfRjCdHb@zCTHj@]rKyApFeB`D_@vBs@zLiBxHoA~B]jGkAbBa@nGq@`A[dY}Ez@UdEs@rFs@hX_Fx@zSd@|GtSy@?Cj@RRM~@GLBFj@@dCvCWD{@Im@@oA{@_BM?{@bBQIcAV_AIQPPEQyBw@aU?gAE?@n@K_EMOms@bMmBLuGxAaABkHxAoPjCqA`@aAB{Cr@eAFgRdDeHz@{GnAo@^mCb@mC`AiCj@iBEYTsA\\sCXI^NxDTdA_@fBDpAVvAt@pGRr@@|@b@nCh@|Hf@dCb@fD}@EsRnBwEx@uDJIHQlCPdBX^vCy@bEq@THVd@@l@d@`CXdBd@dEd@bCH|AZxBvAdI~AhKr@nGlAzGz@`IlAlG^~@~AnL}@JqCf@kG^{@XqD\\mHf@eEH_ATgDLqGl@ZjF@xATrALlEJfA?tA`@bFRpGh@pIExCHfACRM?Oc@QYkA]Ib@c@l@XCP_@n@d@GD@Q@LgAZ`@EQg@@YQ@`@Bm@Mb@BOGVBiZwYKu@QyEUmU?wFQaFCuNKSS{KMwL?MLCKgAEkB_@RoAJqEVwAEyBdAyE^mEgA}E]i@_@Se@As@Jo@rAuAt@WuCqWRQdLoBd@sBPqA|Bc@Lw@\\Cj@cEJIjBXSEJq@FMS[hBwLLa@f@uDTu@pFi^fCiQb@}DlAmHjA{IB_AUMgA?PyEk@iD}HgT}@{CkBmDuH_J?Un@eAuDkDcKsGESLk@e@Ya@q@aNqD}FmBgAo@aCuDaAoBaCyGa@eBd@gAhByBPa@zHaJl@cA`B_ArEsApA}@oAaGo@aE?gA[}AZoBA]w@gDc@mA",
+        "resource_state": 2
+      },
+      "average_speed": 3.086,
+      "max_speed": 9.432
+    },
+    "2023-12-01T22:06:16Z": {
+      "name": "Santiago nightlife cruise",
+      "distance": 16817.2,
+      "moving_time": 4543,
+      "total_elevation_gain": 71.2,
+      "start_latlng": [
+        -33.43,
+        -70.61
+      ],
+      "end_latlng": [
+        -33.43,
+        -70.61
+      ],
+      "map": {
+        "id": "a10316423696",
+        "summary_polyline": "bw_kEjq}mLBHA\\@ITCBMLMTCn@_@^ED@AB|HmBvTmGpHqB`Ds@~ClRBd@Nz@vBtP\\rAlAdDn@hC`@pCBZAVJB^CPIjAY\\IJBZOZEBBv@xHh@vIhAtMNnAb@xBRnCb@lCN~AvA`Kf@jAz@pATp@TdAz@|G?JSLkDn@i@TYF_@EGSKaAUE?I@JE??D@GG?FFMBH?AMMBDKOGBAFPJAISFLBCKDD??HCC?JE@GAJIF??ECJAQKCLJO`@c@b@S{@BG?HBWNAh@JLF@JJYGEB@GLBWBDAi@POdCc@nCk@|@MzCw@nDo@`@MCBdHsApCc@jBe@`JeB`Co@tC_@KFvAg@lAM`@|C?FYLsA\\aJdBwBXm@T}A^yEp@mHzAmA`@WTATf@hC@l@x@vEA^Xx@l@~Dr@~Dp@tHAJB@Lr@\\fCbAbGZrCCH{BdA_CpAi@No@d@{Al@yBlAk@N_@j@c@Xa@f@qAhA_An@YZoF|Eg@j@QlAKZkAhAMB}BI}@KwDC}@Mu@PYCa@wBHgCAgBGI_@?FMCIAuEBkA?G_@IMKEa@D{@W_@WQNs@NsABaBAEOIUJI?U]kB@_CXgAA_AFwBXu@R{Ed@QWGu@SqAUoC@[MuA?]PO~Bw@v@QLFBFJ|BLfA\\xEl@bGHf@B`@CzBGp@GjBDVRDb@GtCE~Bn@bB`@LLBJEb@?WL_@zCr@p@DLO@}@BMh@G|BPt@d@\\d@C~HMRu@?EHBTV`AMMMu@Wg@SGk@@i@PIIa@eB?cBDcAEMECIBEnCM~Dk@pGCpBMRI?oBq@_FoAcB]IEEUIGM?MPG@wA_@{@?Y@GD?RHB?SJGGPAECNNCb@DFLADDB~@Ff@TbCJNe@Dg@ZaBHs@p@aF\\yBFOAUb@_DJ[vBwNJaATaAEe@IOgAIGCGOJaABuADg@Eg@c@eCm@kBsAgD{E{Mc@yAm@sAu@qAkA_BaDkDgAuAEO@Ol@{@AEiCeCq@g@qBuAeDkBcBoAEQLc@AMi@a@S]}CcAuG_BsHeCg@W_@]sByCmAaCm@{Ay@cCm@aCOc@aAkF_@_Dk@}Bq@kDKS{@iDkAsCcAmBGSFWZ_@fCqB|BsBRAHDZn@NNH@xAcAlAk@v@k@rAc@b@Y`AYp@a@jAa@HM?Ii@qCDWnEkAHNDn@AVQPc@zAJg@MP",
+        "resource_state": 2
+      },
+      "average_speed": 3.702,
+      "max_speed": 10.278
+    },
+    "2023-12-01T11:47:05Z": {
+      "name": "Back to Santiago! (Again)",
+      "distance": 54491.4,
+      "moving_time": 11145,
+      "total_elevation_gain": 226.6,
+      "start_latlng": [
+        -33.68,
+        -70.34
+      ],
+      "end_latlng": [
+        -33.43,
+        -70.61
+      ],
+      "map": {
+        "id": "a10312396081",
+        "summary_polyline": "tpplE~}ilLDPq@GU[_AIMONk@dAaAMyBHWC]Xi@EOwDnEeDnCsI~Ik@|@aAxC}@dAaGjDuFrA_DvA}@l@uAdBuAl@mGb@yEhAgBz@oIOsMr@yNe@cHs@gCg@eAb@uC`CeCx@uC`@mIZuRAuP\\iF|GwAf@s_AyEun@eEgBLiDjBcBF}BIy@W_ZiQ{DuAsHeAiF]id@pA}C~@sCnBy[x`@uCvCi@fAqEbNyBxJu@~@eDpCmJdHmHpIeArBsIzSsGx_@kBdP}D`Zkg@lvAqT~l@q@`Da@pEGtQ_@tFQr@c@p@wDdCc@v@[hAgCh^i@rR]fG{@`FgArFSrJcCfZD`DbBvXb@jEDrCgBfHw@zFE`BTfEIdC_CrLmA~KiBpEcA|Gv@vMrGro@r@bGdAjFb@j@nBlAnAnAhHnPjCdEhAp@lAVnAPnBA`A\\tLhMdB~Bh@jBjH`^JdBCjBuArQDhIN`A~BjGfAvGv@bBxCzDvCvEvBtFxC`ErIpU|@lA`JtH~BvCrEfItB`Gr@jC\\lDLrEIxBk@nEC`Bb@~l@HjZhApqAXvFx@zHXfF?~AYlIQ|@a@v@cDnCs@fAsEfKsFbOaCrDuDrCaRrOy]`VkWb[eMnLaEnCaZzMmDbAuCBcKw@gKWkGZ{FtAoBTcIi@qBVEXL^|Br@sAk@SBGWDFJ_@O}AFdAPl@KGCVpBMbE`@PN^`TsDRoN|NGZj@`GAfAVrDv@bGhK`fAxAtNV`@nAONLJ|B`CdTJ~AENgFz@eE\\c@`@Hb@GFoGp@e@Z{CXiD@iDb@eFv@m@GqBZyDR_UjCyc@zDoKhDwHtCaZ|J{Q|GuLtD}BbAii@nPyClAaFpAgFfB{Ap@{@d@gApAaI~Lw@z@gBzC]a@K?wB~AuCdD_PvOo@v@IEeCyHm@w@?c@wAxBcCnCk@bA}FhHkBvCyAjB}BfCe@`AkDrEkAlAq@pAaCbDoCzCaBjCFZk@HC[g@y@aAh@eHvAaOfB{BHwGdAuCHyD`@qBj@wAHs[|EgAAoEn@MKy@gMg@kNOg@AyA[YuXpA}@XwB`Bu@LgdAdDsSNmADSPkBVkMX{MxDsPh@aGOuTxIO_@dCwh@GW}Ho@k@[iRyAcOvDsVrFk@X_Er@OPqAN[Tg@AoC|@cDv@yEz@_@Ze@?qFnAiBd@]Vk@AqB^iItBKW@]a@wCyCkKqCyTwCwPMKaGtAaa@|KoBl@{HtBURP`ACV",
+        "resource_state": 2
+      },
+      "average_speed": 4.889,
+      "max_speed": 12.47
+    },
+    "2023-11-30T10:43:26Z": {
+      "name": "Day 4 Cajon del Maipo",
+      "distance": 64417.5,
+      "moving_time": 19622,
+      "total_elevation_gain": 900.4,
+      "start_latlng": [
+        -33.83,
+        -70.12
+      ],
+      "end_latlng": [
+        -33.68,
+        -70.34
+      ],
+      "map": {
+        "id": "a10311134687",
+        "summary_polyline": "tnmmEtn~jLAt@~AH`ByPlCaNbDgKjBiCxIkUQ{MkBmSE{K|@kEnFmEFiDk@}Cf@aGg@}KtDgFIkJx@kDmKuN_AqJjBoLfC{ExBeB`@qBcEmEyDqJqAoPOcJgCcMt@oGfCqK?{CYgAqBiAoB{GiByQgBeFsB{QEqDvCkH|D@`Ag@l@y@`@sFeEu_@XcKbBiJw@_GFcE{HgO}AgLiFePmA}KJoIaLkTwC}KqFsM{@{HqDiEf}@kcEvEV~ZqB`O}DtEuCiCfBvJiB~ITnUwHbFaCzLaBfGqC~FkGnAUhC`BxDkD|AiEg@mCXWoBkBwAD[m@f@t@\\a@Xx@c@y@k@PRPNw@~@^fBdBSj@h@nBuEjJqA\\sCgB_HpG_HdD}I~@oXxIsEbCmPJePtFsNnB_[t@_H|AyDvBa]pF{UbQaE|GmHrXKbLsAlIIxIfDpIzB`Aj@vGaC`MiCpEm@vD?lGjCjIdG`HdE`MpKfKl@vGvK`[rKvTEjKt@zCH~CzFrQbAtJdIpQp@jM_B`IYlJ`Ev\\AdEWjCqAtAuE^kD~HvBdUpBdGhB|QhC~HtBpA@tDuClLm@lFfCxLN`KvArPrBzFdGtH_@fBgCxBgCvF}AjIZdI|@rCzIjKTdAy@~CF`KkCbCc@jB`@nKg@hGl@jCAxCeF`EkA~EB|Kv@`NlA~La@nIyKtTcD~JoDfQwA`QiFbKyCvJwBlM{EvE}CWuCnAw@xDmHfQ_DpLk@dL}@nENrBfBlEDvMlBlIsEdJcBhMOtBbB~QiBjMG`JwCrJFfIbCtOHvIn@~DwDxYvAlQuAbLwCfLkEvJTdFiAdFvDzYsBzFkAvL~AhTe@dJoAbDc@rH^vESbGbAzGGvD^rCUlHg@lFyCxI_EvEmC`JkGjKeEh@mAjGaDjHeA|EmJ`IqGpDoAjE{FhBuNh@gSvF_Je@gF|Aq]rc@uB`FqEzByDpKeEbBeCdNS`Ih@lIkItHmCpGyBzAwD`f@aBtAiIjBcGbPsHtOUxG}Bb]DhHsA`HwHnJaDjGqEpSmHdJgDjLyFvDia@rOeVtRmXpFi^bCsG`CeRVwGtDsAtEAnEr@bDhEfEhAnDu@jBsGlCoAzBqAvGUxFuAdGl@u@R`ArAAqAAW_A_@Z{AhEsCpDoJbUoGpEiPzGqGnG_CdGc@fE|@za@mDxR{JdPa]~`@[LFm@e@SRh@y@iAv@rA`@k@QlA{CpDgClFsApOwFlJkR`P}D~A{dA~Mce@tCax@xHaWjA}G~DoMtLyLsBuRjDsJpKo@lBFbDwAzBcA\\~BYeAnA~Bs@l@ZeBgAaC^rCOpAz@",
+        "resource_state": 2
+      },
+      "average_speed": 3.283,
+      "max_speed": 14.746
+    },
+    "2023-11-29T17:08:47Z": {
+      "name": "Day 3 Cajon del Maipo",
+      "distance": 17592.4,
+      "moving_time": 5855,
+      "total_elevation_gain": 536.5,
+      "start_latlng": [
+        -33.77,
+        -70.27
+      ],
+      "end_latlng": [
+        -33.82,
+        -70.12
+      ],
+      "map": {
+        "id": "a10303043816",
+        "summary_polyline": "x`cmEjq{kLc@@]e@E]b@o@fA_ATk@j@[DMOWYIyARSEOPO@ASLYv@gAZOBTJJ?K_@Oy@`AQAAS|@gBf@_CbAwCx@iGAUn@{AtA_Cb@sA`@w@zAqAz@gA`Ak@f@s@x@sBbAmFL}AImGNwBNeA?yBNwCNwDx@gHDy@CoBFaArBwEz@wA~C{G~DkLv@cBj@_@lEk@tAa@ZQj@m@`@y@RkAH{AD_Cv@wOl@yFb@}BLU|@_@d@]dAwBl@}Bb@q@pAy@tCsBnA{AVk@Dm@Ce@s@iFEs@\\iILkAp@}BV{Bv@_Cf@]bB[p@e@v@{Bh@wBrAgCx@y@tBo@\\W\\k@ZsAf@aATSn@aAjBoB|BaDrA{ApHaKh@i@fEaG^c@n@_@`Bm@hBa@lE^|CDnEmB`DYpGqBzBO|ISlB_@xCeAh@w@T{AfA_BbCyA~As@tCsC`CiAjBaCPk@L}AN{@Vo@p@oAh@gBx@uA^eBLqA^oATUXEnATXAz@c@~@}BpBcDTg@h@w@DYRUh@cBVsAr@mBj@aA@M~@s@pA_BhAkDn@yBf@aAVgBL{B@cCNqB?aA[qBCq@HsBIwAWgBg@wC?o@TqEWwCCsAXaETeBH]r@qAF_@d@iIMuEWoCIaCk@oDEq@Ba@^mALcDZcDd@qAz@eBLk@Ba@Eg@_@gBS_Bm@kBEaCa@sAa@oBOkAAcAP_B~@kD[sBCeAVy@hA{AnAmDp@eCP}Ab@iAhAoDNu@@uA`@aBF_Bf@}BAi@W{BGuB{@}FEcA~@{D^oDjAsHTiD?Sg@yBK}@IwEFwAs@cDW}Bq@aDKeACaAHeCGgEt@eDpAeCNy@@cBOqARiDf@sDh@sCVoC?_@UuBg@mCBaAe@_EAaANaBJWFcA^eBDo@Cw@Jq@dAmDr@cBTa@p@i@\\e@J_@Bm@Ga@Yo@g@iBc@{CDyBNuBY}E_@oA{@sAS}@E_ALeARi@\\iBDmAFIDu@BiCJgBT_B^}ALWt@kCZqAzAwDn@_CtDcIJuANc@Ve@f@c@hBe@GSVPhBP^?p@k@b@m@dBsAV[^}@JyA`@aB|@qFhAaDlAyEv@iBfBuBj@gBXoAG]WWOAa@?s@\\c@l@gB|@i@@o@[J??OE?JGRBK_@HiA",
+        "resource_state": 2
+      },
+      "average_speed": 3.005,
+      "max_speed": 13.374
+    },
+    "2023-11-28T10:16:21Z": {
+      "name": "Day 2 Cajon de Maipo",
+      "distance": 92829.0,
+      "moving_time": 30589,
+      "total_elevation_gain": 1903.0,
+      "start_latlng": [
+        -33.77,
+        -70.27
+      ],
+      "end_latlng": [
+        -33.77,
+        -70.27
+      ],
+      "map": {
+        "id": "a10297775973",
+        "summary_polyline": "z`cmEdp{kLg@v@m@gAdE_F_E`@@cBrF{TvD}H`GkGzBsInBsm@~Qyc@nImBhB}BhDod@|BgB`CiGxI}Hq@yJlCoUtEwC|DiKnE}BzXaa@eBcKcK{AtGeFxCqSc@cLxAoPpCcHx@}IqA_TyNmTqG_PaL}p@l@yL{@}PyJuRcO_i@qK_Ei@gBsGqBgCmD_LiA_E}C}@sCgCpA{eA_T{R{JgCmBwFuMaI_Lo@uEyHcByJuGeDgF{NqEiO_@{K}H{KaCi@uAlBoBkDkEzDmHiDQyAvDiE~CgHcHsBgIqCaArAk@qBw@oD|AuCwO_AbEyAGkB{AeCuGxA_EWoEkHsAaEeCyCqMcBlCgK^gFwJyHiDyIk@_NgJq~@_Pg]a^uG}NnB}ByB|A{h@if@eOaRG{BoKaH_TuQiOaQ{e@s\\wDmHuCwVoNah@_Tsa@_EeCmMkAo_@lBiH_GsKyCeRtCcHnENiVuGaLe@wEeBgCzByPcM{IoGiM_FiRgHsg@qKyH_EkI_AiR|CoKrE}EEyEsEs]aKuWVsPyHaTiDmDsBaHcHoKyQb@eIyEsa@ky@H{SwUiTm`@el@sLw@wGqEeh@udAmDiKcGwf@pHmi@xp@ghAlTuX`@gFqBSpBX[nEe`@li@}a@vq@iChHuGpg@|Fhe@hDdKxh@neArGhEvLt@z`@fm@fU|RCbUla@rx@|HpE|RSjJzSzDbEhH|RSfQhKzWlE~]JhE}BdAsF`P`ApSxF~IxInG|G~`@GnDtEvQxClDzBnHtMpJ{BxPtCdJlGfK@hV~GgEpQoCtKtCpH~Fx^}AzEvCPsB~Fj@`EtCtOxXnRfr@zBrSbEhIjd@h[bQvR~JbGjT`R?lCvNdQre@ja@fM~V~[p\\l}@hOtNtJrKx@jHrD`ElJzKk@xAqCfDlNlE~BjGz@ZdEwAfE`BbBZtDnCrBfAQdA{DjClPhDuBvB|@eBp@bDx@bB~HhHhHxEgD|AuD`DTkEpHvD`EyB~Bj@jA`L|BrLhIrNVxIhCfEhBfCzEbEhAlBvCrJ~Bn@`F`R~[jV`M|bAbSbCZpAqAlGtHrK`ApE`F~FhD`KxDdO`i@~J|Rr@bQu@jJ|Lbu@vFjM`OlTtApSq@vIeDpIaBfTr@dH{CjS{GjFpKjA`BbK{X~`@sExBgEdL_F~CgBbN^|PsI~HoCzGwBzAkD|d@wL`FkQbb@|Qib@fLeExDwe@bGkJhGmEsGdEoCxGyB`BqDhe@mLpEeQza@iC|o@wB`IeMzQcFrT@|AvDYcE~EnAN",
+        "resource_state": 2
+      },
+      "average_speed": 3.035,
+      "max_speed": 19.86
+    },
+    "2023-11-27T12:31:36Z": {
+      "name": "Day 1 of Cajon de Maipo",
+      "distance": 67308.8,
+      "moving_time": 15090,
+      "total_elevation_gain": 966.3,
+      "start_latlng": [
+        -33.43,
+        -70.61
+      ],
+      "end_latlng": [
+        -33.77,
+        -70.27
+      ],
+      "map": {
+        "id": "a10292450073",
+        "summary_polyline": "~p_kEbw}mLR@?{AhBw@y@}DWsElbA_Uds@wG|s@oDjBYfAq@`EGdR`AxgA|Bp@[NqIXUxgCnFjIcAxFiCxL{HzkA}v@bj@c_@xD_D~JsLvE{CdKyDb_@iKdSyGrOaDd@m@fGsAlLyEbLsCh[oKt@LdBs@b@b@SPk@_@oDxAKv@]BJ`@RiAMc@rDtCIRTP~@aAVRRg@oAaBu@n@Vb@S]JXQ^}@qAkB|As@Ub@JAWRIMQINh@GjL_EnAoCzD{A~KiItSgQlJqH`a@_ZbOsNnCe@zEf@lOXvAWHeCj@SvLdAxPf@jb@{Q|CsBvIkIzEkHrPoShH{EdBmBtV_PxEeErMaJbCoD~J}WvG_K`AsDDyLyAaQQ_HIeMBsY]wFmA_aBXcD~A_FLsCaCoOwI_UkHwHmKkTwEiH}CsC{DuMy@{@yCoAmAgBqAgHmCqHMwHt@cJxAi@pBwBbJsAvNYx@]b@eAIwCN{@vJwH`KkQ}TaR_BmBY_AF{HeEmJaA}D{AaA{@_Ek@kAeDeEsF_DePyL_FcJaAwDeFsMkDmBqGiQkBiHGeB\\cEXmQkAgKVuKvDgQ|Ak_A`B}CrAmI~A}BfFgLdBgChCcHx@iEdCmFxDsFpD_D`AyBrAeKrEkKjMsg@pAgIVyEpGc`@|EuS|G_c@l@{B`B_DtCcNj@_JU{CgBoIJmHWuNP{BnCkJJgBEgE`A_A|Ds@vCeBpEgEjCyDvCmIxAoGfKgVpLiHrDaE~CGvI}AlIGx@bArClAtMdAf`@tH`Hg@~MzCnEc@hCpAzIzAj@v@~@hEfGxEbF`BdQoA~OUtATfBzAbAVx]w@bBDjIzBnq@DrAa@tC{CfAc@fLs@nBo@hPaBtEFvaAsi@pAiB|GePnVuHpHgGrAgE?kB]{AqAqBqLeIHe@`EeFvAgAxMkCfCMvCZjE~AhAA~BeBdImIrFmD`Be@nRm@nq@cG`HcAnPk@d\\wCx|@iLpCy@vQgOtDcEnCyF~@oM~B{Fzc@{i@~IeNxA_GzAkLB}C_@cFFoLa@{Gj@yEhAeDvBoDhE{D~CcBdKcDvHaGfCoFbAoDvA{Bv@sChD_FrAmEzA_NhAyF|@wA|DmAtBwBN_Ba@iAcAmAwDeC[s@UmFJkCj@yBv@sAdDiCrBo@`QSrF{Bf\\{BzNaBpFyBjEc@xUeSxIaEzKwDdHoB`GyDnAaCzBmIdEaEfBiDrBwHv@sESKm@lGoB`HaAvBn@V_@EBj@lAc@vATkElEqCbBQv@rDwBz@l@b@SHa@S?T^Ok@Yf@iA]aBj@",
+        "resource_state": 2
+      },
+      "average_speed": 4.46,
+      "max_speed": 14.678
+    },
+    "2023-11-25T14:49:13Z": {
+      "name": "Lunch Ride",
+      "distance": 10991.0,
+      "moving_time": 3131,
+      "total_elevation_gain": 102.6,
+      "start_latlng": [
+        -33.45,
+        -70.69
+      ],
+      "end_latlng": [
+        -33.43,
+        -70.61
+      ],
+      "map": {
+        "id": "a10280854432",
+        "summary_polyline": "bcekEvjmnLESNCJLFj@MJu@Lg@PYBYHECSA]N@D?ASCIIEKe@uEBWQa@MsAWiBO{@Su@O[I}@QaAA]UyAOm@Ea@a@iCEk@s@uEKgAI_@ACC@AGGq@[{BSu@IMK]U[_@u@GWCc@CCOy@a@}DK]?WKm@BKCEOGI_@C[gAsGUmBSmA_AqDk@oEYaAOcB_@aB[}BSu@_@sBOg@k@sDk@yCMy@a@cBSeAWqBU}D]eD?[A@UeB[{AC[WiBMuAg@_DEa@DTGUI}@]eCCGEBCK?UIaAWaBSwBSeAIw@c@_C]_Cg@gCeAsGOoAi@qBIy@EMGCMFWAODBSAi@IcCEYKMG?_@H_D\\q@ByALgAVCD@CEASCgBLSDoAJcAFaB^i@?a@FyBB}@FSHWC]Py@N}@DeAAOCm@J{CXkARw@DoARa@@EMMw@WwDOsAIgCEi@@YCW?}@Kw@UmCCKGAc@DKG?IFc@C_AGm@Da@?[EIYCIGUB]Ve@Ie@BKCACJe@?MIKQKSSCK?MNu@TKEEC?CCAKDUCC_@IGECG@KVwAd@}CJs@A[Ru@Fe@HOA@@UPq@v@aGh@_DHk@A@@Ql@wDRoBv@qFPs@AQBSXaBFm@RiARwA\\oBReBTmAh@eE@_@GWGEOEu@?AGHqCA]Dc@C_@Qk@W_B[aAa@cAoGkQc@aAIu@a@s@Wo@c@y@c@i@e@s@g@k@kAgAy@eAoAqAKOCMcA{@_@Wg@g@iBiAg@_@{A_A_Aa@a@UWSk@SUEIIIUIEQGo@ME?CCIQ@IJCJIlAqAJUBa@?IKGu@QgCu@gEcAaIgCy@c@a@]GGVRo@q@iAgBg@{@cAqBcBeFa@eB?ISc@i@gDQq@[sC[oAYuAQmAk@oBKWOs@WcAi@kAQ[Wq@u@aBQWc@}@{@{AOK`@[FGBOv@k@\\c@A@LKZMNU\\Oj@i@Pc@\\MB@HN?^BNXNN\\j@x@DLPTTNFLCDLVNW\\Y@ITONKnAi@r@c@ZWhAa@d@]RKr@S\\GbBs@FQAIQo@U}A@GTSh@OVKbAUp@UD?DD?FETLn@ERBCGC[F",
+        "resource_state": 2
+      },
+      "average_speed": 3.51,
+      "max_speed": 9.038
+    },
+    "2023-11-24T12:59:31Z": {
+      "name": "Morning Ride",
+      "distance": 35414.9,
+      "moving_time": 13460,
+      "total_elevation_gain": 41.8,
+      "start_latlng": [
+        -33.05,
+        -68.94
+      ],
+      "end_latlng": [
+        -32.89,
+        -68.83
+      ],
+      "map": {
+        "id": "a10279702909",
+        "summary_polyline": "p{uhEd_xcLg@[NuC@cK~AaFeDmEsAeDg@_EGiKQcCo@sBwCaEe@cBBwPa@iIyNa_Aa@{HUiOcAwEmBsDsCuCmIoE}AoAmReV]]MFs@|AU|A_@xXk@lSG`@eA`A^r@Dl@g@zYc@HCf@Ck@[W@eAE]YTNO@XWOJFELLO@TV^MVMg@?^Jy@PYSEDaAb@ECPg@@C}@n@qAy@`C^pAMy@I~@]_@PLXSSh@DOJPe@e@d@n@SAT?SICS@RJCXDk@KZjA`@`@Nx@M_A\\@RYVkD`@sVgAw@aA[yIuF{EoDToAMyA^uCr@w^ViD`AqE`DsGXQpABd@_@PqAO{@cAiAgB@m@[oDcJo@]{BmCgNuRs@_@_CcEyEgGs@iBoEuFeHsK_FyEcCiDmDmCBu@aBgBuGoL{FyG{EmEzBpBNOXwBsC_AB_AKI_IgCCYpF}VO[_FyAWYwLaDmKwEmVgFkWqDiS]yg@wMsb@{Iif@_S_UgFsNkFgR{KeAiA}C{AqCw@{Iw@w@Nm@OuRNy@uAsAEc@p@mBCqb@_HoA_AuKyEoC_EyK}NaByCsHmDmXuPJwS{WuQqKyExAmNmGuAcBw@]Da@|Ay@pHoEeBzBhARf@SIPA@U[Ysp@qXqH}BsPhTeAz@Rh@_@h@Ej@k@Xk[pa@QjABjAuCrD_@PDv@qBvTiApJQPmbEer@EsGNeATmM?kId@mUUeARBK?`@r@zD`An@Kv@?tAh@hEb@bAQb@w@|@g@zA{A\\oAbBNZR^b@vBEvCe@tBNBh@Pm@XJJtB[`Ha@DMdA[Lo@|B_@i@Kj@UG?q@a@q@o@_@}BgDHKKRC[ENFRLKSKVBITOQLDAc@OXLCO@@UNHKLHE?YQVNSCl@PJUa@LZHYMXAe@PHMb@DWE]@N@]Bz@Ic@F\\AYLFOTD_@Hn@AUMNLUa@?FARFIOFb@O[T`@IPRI]LNGKcAKRR_@A^n@tAxBp@kBO}A}@@gCTHAGCLEKRJUKPb@Sc@NxBL?Uy@CPPYSVJJDa@?VAMOBLUKRHN?UIJAEJJ?OKLLSIXJYMPNL?MKFFQKBTLKYOZNWFLCQIDz@hA~BfAyBoA]B]u@@WQ\\K{Aj@kB~@hGuA{AANLKKVNIEKENLAQ@?]?VFSMH@BR@UAHFDAASEEGXHU@VKCRCQCHIENJ?GWCNHU?^@[?BMJJM",
+        "resource_state": 2
+      },
+      "average_speed": 2.631,
+      "max_speed": 8.75
+    },
+    "2023-11-23T13:47:40Z": {
+      "name": "Mountain Refuge down to Mendoza Suburbs",
+      "distance": 112662.0,
+      "moving_time": 20564,
+      "total_elevation_gain": 511.6,
+      "start_latlng": [
+        -33.61,
+        -69.54
+      ],
+      "end_latlng": [
+        -33.05,
+        -68.94
+      ],
+      "map": {
+        "id": "a10271447740",
+        "summary_polyline": "lkclEb|mgLt@mA{@eLlAeNzCwFL{AcAmBR_F_B_F_@aPyCeOjBqFSyC`ByI[}BfA_BIuFpA|FUvAn@|@BbFvAeDR}Ba@uA\\}AWsA`@cDo@qD^sASwC`@cAQ{CZJ\\rEpA|CAtAdBtD^Ou@cBEaTYyA_Ag@tAwBIaHaCiDfBkAp@mBRv@oAbDrCh@lAdEhAn@dA{@t@iIjA}BdAsF]EwAtEyArAlAmD|@qSvAoGjFtAfDq@fLrB~@mATTeLwO{BiFqG_GyBaH{@sJ?gFdC}P_DlFgBhHa@K}@wFzAiCr@}EpBeFbA_PIeS}@aCOmFbA{@mBeCIcBj@mB~DgBU_Fp@cF_@OeDnCkAHhB}M?sGwCcFcLsJgAmC}@iLdA{Ik@gFuAgBeFsBiBeBkFkHm@mBm@cE?cF{BcFOwHmAaJiBoF_CeQc@yHwAeEJy@fDwDfFcSqCmQSuIoAgDuDyD{IsWkBkTiCeLRm@pAy@oH_PB}LWyF_DcPoA{AkCiH}Eme@gMeXcEoOUuEiIsRnBcMdC_JrNgYtVic@|EoWxA}UoAOwSuPeOw]_HsR}HyIwBuBuHuDaHyGmKqO_P{P{FkAa`@kYcKuEmCoDwHs^yGwq@gHsT}Baw@cVulAcBw@{wAcFeC_Aw]cTcVwFwNzAiD_AsHiLc\\ov@y`@_r@{Hsk@{]}p@{JcPgJaIcGkTyB}DgD{Bc\\qMz@{Zk@oDanCwfDuJkOqaC{sAoUwNctDoxC{l@_d@chC_fAwYsRybA}]aAgBgEIi[yJaCmCqEeKmDmDeRcc@oBuC`HaMHyAkS_Kk@mAq@vAp@kALfBwCvLhG~CaAk@zCwMOe@_y@w\\cDsBwAdBaeAzo@uCd@i@bBcOnIg@s@nAiNSqAk^lIqQlGwhD`n@gr@ma@mL{O{UyR{yAo~@yMqGgNuKaw@_d@yD_HuDaS}DoFoI{H}CcFsI_TaBeHyHcSaM_JQyEhCqGEaEgFyOgFiIsBgKyF_MwUwPmi@wZmDcA}Ju@_GoDyDqH_KwKoCmF_EiS_GyOa@kKy@mCiIsHwSqL_NeP}IsC}EaDyCoEuAkHKuTwGya@AmNyB}[mEgXsKu\\uFij@_AmCeJeNcFcKaTes@ukBsmNkx@}`@odBinBeeKaX}dFoW_LTao@TgP~G`AfEz@bQrC`fAx@`Ag@`HzCjk@KdEaATyk@mFoD{@oEkCoBlEGbO^pCi@BIpEvCk@EyHh@_@l@mAEu@aAKAvAw@d@eAWOzAiD`AXbHzBBIzD\\sMnB\\mAq@",
+        "resource_state": 2
+      },
+      "average_speed": 5.479,
+      "max_speed": 12.689
+    },
+    "2023-11-22T12:08:44Z": {
+      "name": "Manzano Historico to a mountain refugio",
+      "distance": 30709.9,
+      "moving_time": 20708,
+      "total_elevation_gain": 1832.5,
+      "start_latlng": [
+        -33.59,
+        -69.37
+      ],
+      "end_latlng": [
+        -33.61,
+        -69.54
+      ],
+      "map": {
+        "id": "a10269409956",
+        "summary_polyline": "lc`lErmlfLjAoBrBpC|EbOjQra@vNnL|EtCHn@cApQuE~Wu\\fm@mGbMgErNm@pEq@xB?lC|D~JfCvEAxA^xCvDfNlM|WxAdLf@jI~@pGXlEzB|GnAjAZz@xCzOLjHWdF\\hDv@nBpC~D~AhEGb@kA\\Qj@lAdEdBlLx@rMhJdXbDjDxAxDRlIfCtMLjBaEjNg@zCyClDUv@hAfE^lGjBbOn@fDrAnD^lEv@|CK~DLjB`CtFHhFb@bEj@bBfIpKvFpBtAvAr@~FiA~Hx@|L`AjCdE|CnB~BzBzArCjEPpBGfDa@rDiArHn@DvDkC\\J[nAM|BRnFgBb@_BjAk@lCBf@z@|A`Az@K`@q@JE^LhEVhAh@pAIdKHlM{@nI{BtF]pDWfABWYFy@lBbAjD?dASTr@GpAuDX}BjAyCt@mAT?{@pDiAhKAbE|@bLxBxG`BzBbExCtAbEfF`G`A|BfBdBThAe@d@k@B_LmBsCl@qFwAyAdFMzHY~AMdF[~B}@zA@XdB{BpAyDPHaAtFiA~Bs@|He@bAY@Yo@_AI_AuDuCo@?s@fAuBQu@SN?v@S`@qBlABn@lBvANp@EdDPlBuAxB`Ap@V`ATbPMvCl@`B_@G}AeDAoAsAeDQkDa@q@Pv@@|@a@vBLrC[bAj@zDa@tDTx@WnBZ`AOpBq@~@QpBQ@?qEm@cANeBo@iCAqA_@WFrFeApAVrC{@~Ce@~DV`BKzAiA~AWbBbBfGt@nG^`HBtF~AzEUvEx@n@Jh@MdBkB~Bw@jCiArM\\vIZnAMr@k@V?T@UVFEVTXs@w@hA_@PPBdAx@?n@oARcEv@_D`AaB~AwA`@gAVLaB|FNdBp@xBOtD}BlIq@lE}GrQm@rCcBzDBdFJd@Z?p@qE|BqB`@y@qApGb@hBMzBt@dDSrBXLd@gADuA`@wA`@oHd@_Bv@w@m@xAG|B`BtJL~BXSF}AGwDn@|CFnBzAz@t@fBbAtE]dAcCp@{CbBdHsCTe@nA\\QkBJ]lAzB~@`@aAk@mAwBO`@Z~ASHgB{Gw@g@a@y@mAq@EuB{@}CLnDKdBY@ImB_BkJDiCh@aB{@~@W|@a@~BIvDa@nDi@|AWURoBy@cDLcCa@qApAwGuCvC_AbFSK?_CKcCvCiJrGkQr@oEzBwIJyCi@uAYsCbB_GW@c@dA}AtAgAfBu@nCS|Da@fAw@d@QS@}@USu@PE^",
+        "resource_state": 2
+      },
+      "average_speed": 1.483,
+      "max_speed": 4.99
+    },
+    "2023-11-21T13:21:37Z": {
+      "name": "Mendoza outskirts to Manzano Histoeico",
+      "distance": 94337.3,
+      "moving_time": 25205,
+      "total_elevation_gain": 1124.3,
+      "start_latlng": [
+        -33.01,
+        -68.93
+      ],
+      "end_latlng": [
+        -33.59,
+        -69.37
+      ],
+      "map": {
+        "id": "a10259825953",
+        "summary_polyline": "vznhEhcucLPYSNZH}@B_@f@bBtBp@cAfA{@rArB^`BRHrCwBpAsF|AyApTrCp@IU}G{Jy|AHUv~@_EdFEJXnKBnAXt@h@|@SPi@M_B^iC|@ac@bAgFvCcGVe@tBYb@_A@iAq@iCCiAvDmVRqCQe@M?Fv@wE|Y}@xA{@@_@h@z@zCGhATgBl@jAtAt@bCxIdA|BdB`CpVd[nCnB`FzBdCnB~AvBrBvE\\zBZdTZbEzNv~@\\`IGnOn@zBtChEh@~ARjCNnM\\rBn@hBnAhC|BpCfDvBzErAhcBlObNrCxA|@d@z@ZbBjMrjAfCx`AdEXxAGrLhAjZtAjTnAb@JtAnAd@Oh@s@~@QvwB~KUf@`@i@lCr@dH`@rDj@bn@~DfEr@pwA|HzHJh`@dCjj@jLrM|Dfd@|E~BpBhCp@zAHvBeAx@@rj@jHvR~BbAHBM|k@fHnAHzA[vKjAxo@pIzPhBbC|@xFNvuAdPjo@|{EbAzFxNbf@lBpF|DnInKjP`AzBh@pDfEdd@lA~E~HnU|AtH`CvOz@~JfAvRKjHJ`DdHpc@ChQj@bF|ApD~BlCfFdDnIfCfBdBvEdH|B|BfCfBdPzIrHzG|@vBPzHf@pDlFtMfChOt@`CdC~EjJ|JvE|InDfCfBv@rKt@tDrA~d@zW~RrMbDlCtE`JpAbEhA|G|FtJ~EzOHbBKx@oB|E[tAC~A`@pBbAnAtHxDrA`BnBpGfDnHzB`JxCtGjCvHvEbIxIzHfCfDjA`DlClPrBzDtA`Blt@za@lPfM|PpIxvAj|@hVnSdK`OvSjL`[zR`Bj@nAE`vBea@zo@}KtQuG|\\gItFb@jFfCrAjA\\BdeAcp@vd@lR~YrMgBcAvAeGc@iAJb@M^Nl@qAhEkAzFdGdCPZEQ`Cx@RIB]YGPN?h@xC`BDVs@rA@\\fC`EdPr_@r@rAzBhB|@nAlE~JnBtBvQjFhtAbf@rVhPlDhB`hC`fAh_Avs@b}CleCv\\zSttBpjAnEnC~AxApAbBjDxGfB|BfmCveDf@lBBdBeAfWFtAv]dNjBnAtAjB`A~B|FzSj@v@jHvFlGvJ~`@~u@x@jEbG`e@`b@|s@zZlt@dFrIfBbCxAn@zAJhIyAvDEhQ`EvGzBjMvHpJbHjDjAntArEhBRp@b@fA`DjTdhAxBtv@b@pBpEpLr@nCtGdq@tDfOrBrMfAnBjBpBpLzFz]vWjAf@pBNfBv@vNrO`HtKhCzCrHdH~FjCvHzHLVeA`ADf@",
+        "resource_state": 2
+      },
+      "average_speed": 3.743,
+      "max_speed": 15.214
+    },
     "2023-11-20T15:37:02Z": {
       "name": "Mendoza Bodegas",
       "distance": 31660.9,
@@ -213,14 +717,14 @@
   },
   "stats": {
     "distance": {
-      "total": 423292.39999999997,
-      "dailyAverage": 42329.24
+      "total": 1643565.7,
+      "dailyAverage": 49805.02121212121
     },
     "total_elevation_gain": {
-      "total": 4409.900000000001
+      "total": 18555.199999999997
     },
     "moving_time": {
-      "total": 119976
+      "total": 488312
     }
   }
 }
