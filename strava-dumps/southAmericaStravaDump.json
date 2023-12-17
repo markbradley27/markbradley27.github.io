@@ -1,5 +1,47 @@
 {
   "rides": {
+    "2023-12-17T13:52:02Z": {
+      "name": "Hike to view Yelcho glacier",
+      "distance": 6805.4,
+      "moving_time": 6091,
+      "total_elevation_gain": 117.4,
+      "start_latlng": [
+        -43.28,
+        -72.42
+      ],
+      "end_latlng": [
+        -43.28,
+        -72.42
+      ],
+      "map": {
+        "id": "a10396630139",
+        "summary_polyline": "hocgGlx_yL]NOEKZ?v@BNQp@KNq@^ALc@d@OfBOx@Df@Gb@Ut@Fh@?PRDDLCXKV@ICDXKI`AOb@DPGZAfAF`@CVD\\EL@T]DFDIZFTOGOPCr@ENP`@?XP^?f@JZ?b@Rl@F|AC|ALj@DdAA`@S^Cx@O~@AlBGd@FVD~@FTCPLTHt@FLTLHx@LVV@DP^VTv@Fv@ITBZBACn@PTEt@Lz@HR?b@j@f@Pr@LFLXRlBPLZIFDAZi@dAS|AYZAHLTf@N`DrC?GGNZbA@\\p@FJb@JJCr@FLHz@p@hBD`@THCp@Tp@@NXPP^C?DJFt@Ch@Ob@x@vBSh@BLGVFXF|AERk@h@s@^b@|@^b@DNB~@Ib@[XKBGT`@p@Nv@ARQXXvBEPML@Rl@nAATKPy@j@ArAJZ\\RJ^ARNh@A^GLb@^VbAJ?Fd@VTHTUhAIt@BZCPVX@`@Rj@`@n@TLDj@RVZDDL@ZHTHGCF?IEBF?E@FP?MHBICCBFFFIKDDNJ?Xd@AI@LEBFF@OD?FPQRHCCE@JBACEDB?JE?@CJNCCJAKHPn@DOMNJ^G?FCC@@KKW@OKa@DBEABCAJIBH?GIF@E?BKGTURFQCSBGAKa@i@Mq@D@?FBEGD@DBKGCBCE_@YU_@OEG@YOKKWUQ_@_AGYYYB_@EG?Wh@yB?IEMUSOc@G]m@u@Dm@ISMiAI[_@k@?m@EST}B@{BH_@GiCLiAAg@Fu@]eD@}ALm@Nk@IGCKLiACwANs@?QSo@?k@mAsCGUA[_@QAi@IUBk@_@oB[i@m@e@c@qA?}@c@[M]i@k@_A_@YEI]Ec@@iAGi@?]EORoBc@cAIk@a@e@A_@Qg@As@Q}@MQGaAJe@Es@QQAYMYe@Kc@]Gq@Yk@Gi@OQB]IO@a@Ms@Dc@E}@LyBPm@Dg@C[FcAKu@Aw@F_@Bi@Qg@WcBBWEYGG?c@OcAM_@?]Ne@z@gAI}ADUG]PyBUm@GgAPq@@s@Lo@?i@V{AH}@z@u@Z{@E_@@]Ng@JMBa@OaAGF?N@FF@HWEI@LKLNECEILDF?LK]BL?ICDBIBJDKIB?DAGEDBGDBE@BJCDBBCM?GJIGFAEBE?DGEDCGFDIGDT@CACD",
+        "resource_state": 2
+      },
+      "average_speed": 1.117,
+      "max_speed": 5.862
+    },
+    "2023-12-16T18:20:24Z": {
+      "name": "Finally left Chaiten!",
+      "distance": 58226.9,
+      "moving_time": 11006,
+      "total_elevation_gain": 455.4,
+      "start_latlng": [
+        -42.92,
+        -72.71
+      ],
+      "end_latlng": [
+        -43.28,
+        -72.42
+      ],
+      "map": {
+        "id": "a10396629233",
+        "summary_polyline": "np}dGnjxzLRPAKMP}@Ia@UbAeQ?mAn@oNF_F\\mEZm@f@[tQkA|Be@bByAjJmKj@{@^_Ab@yBxCkTHkBMcRPwAb@gA|@{@jH}EjGoCrCmBbB{BhK}Ov@y@r@a@jASjKWdB}@vCaDz@a@hAFjGtBp@HlEoA|AiA~QkZlCqEh@kAp@cCxEyX~@}CfBiCjOuPZw@vBwJh@yAfLeP~@gBtC_HdEoG^}BhBuR]}Ya@sCeDaJ{@{CeB}JEeB\\aB|GsNr@aCf@yCjCg]@qCc@mOB_AZaChAiCzJcNtBgFj@aCVqBjAeRLcA\\iAv@cAhAk@~wAeh@bEiBrAqAfAqBxPee@f@_CZwC|Bog@AyAQmBcCeK[sCV_c@HeBNgAl@iBpA{AzLkFbDcCj\\u^bAmAdAkBpEqM`@uBVeDd@kRI}B[uAi@iAiIwKk@oBK{Bb@iFtIew@nCoUv@}CzAmDtr@wmA~BaFn@aCl@sEhDk]TwDrBcT^wHNgHCwVLuD^_B\\y@~IiNj@gA\\kAb@iExBqa@ZyC\\eAz@_Bdc@_o@n@gBHeBEKIDFb@RBPXIFDWJCe@QE]CeMe@sFoAeLyIm~@wD{[@a@Ti@xIM~Ae@pRsTdFmF|@m@z@IzIzBnDNp[u@`_CEfu@OxCO~FqAf~Cux@zeBse@|CoBrWmW`As@pAa@nCIxNl@|R^~@TtGtCpATnIn@bI?xd@oE~L_AlIErMeCbf@{GnBeA`AiA~@gBnC{H|AiDtB_DlIwNnA}AtGqE~NuKlDiDdDeBfBuAp@UbQ}Q~DkDxCwBvBkAhGkB~A_ApHyCvKqCp\\cQ`H{CnA[nBNvDpBdAHjA]rCuBz@Mv@JlQ|DtDzAhHtDdDvA`APhNuAl@Bh@Zf@|@PjAXtHQxA_BzE_@jBGbCV`Cp@~BpDnJL@KItZby@tBnErQpT~QdYbQzUh@j@h@XbBJxAk@lAcA~Bq@lBmApJ{B`Bm@~BeAdGe@rJVzBi@lC_BrC}BlDaCrDcHjC_DvNkLnFiCxCs@jAIjAZzFzCh@DjAa@~CiEvA_BdA_El@wAjEcGfAgClCsAz@iARm@\\iCF_EVq@jE}D`BkAbFqBd@[zEsHvAsClHiJnWwWlEaEpC{C`BkA|@_@|r@sOpc@_K~LaDxcAqUxEs@jOeAvE_ApAk@z@u@dE_H`A}@`GoA`RmEjBD|Ar@fLnM~A`AtDC`c@mDR@~@~@l@jABZKi@M@IR?OEL",
+        "resource_state": 2
+      },
+      "average_speed": 5.29,
+      "max_speed": 13.522
+    },
     "2023-12-15T20:53:30Z": {
       "name": "Waterfall walk",
       "distance": 14467.2,
@@ -717,14 +759,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1643565.7,
-      "dailyAverage": 49805.02121212121
+      "total": 1708597.9999999998,
+      "dailyAverage": 48817.085714285706
     },
     "total_elevation_gain": {
-      "total": 18555.199999999997
+      "total": 19127.999999999996
     },
     "moving_time": {
-      "total": 488312
+      "total": 505409
     }
   }
 }
