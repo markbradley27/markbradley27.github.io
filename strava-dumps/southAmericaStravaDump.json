@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-17T17:54:58Z": {
+      "name": "Off to Futalefeu",
+      "distance": 58704.6,
+      "moving_time": 15239,
+      "total_elevation_gain": 1038.8,
+      "start_latlng": [
+        -43.28,
+        -72.42
+      ],
+      "end_latlng": [
+        -43.4,
+        -72.09
+      ],
+      "map": {
+        "id": "a10401308487",
+        "summary_polyline": "fmcgGzv_yLKkAeAqAz^s@dHeB|Eg@z|ApCnp@cJfCKdF`@zBgA`HcLlBsAnU_DxAR~DtBvBFpIoGzAeHzAgCrIyF|V}IrCcCxDcBvM{InB[zGVdFg@vGFrIwGjGaAhEqB|C_CpHFhBtAlBjDbBz@xk@bG~AlBr@LZ_@FaAoAoAi@aAg@gC@kBl@qCpD_I`DoFdB_BvH{DxH{@tEiCzo@{q@fC{DzCwGjBiCvJyD`AaBhEqKdAIpDzAvANvGwB|@}A|CkLtDeLbHsJlEwAnHyF|DuBxm@}T|B?dCdAnEfGhEtAjH}@zGe@rHvAdEP|KsCnAsBd@SdAAtDrAzGaAbAo@pAyBbCSdKeI`Ce@~BwBnEoA`Ec@nS@`Zoz@^sBCeAgBqFmQwX_D_CeJyDkBeBqCcFgAkAwGwEuD}OaK_OwAeEqAsGs@qBuBqC}I{FuAeF{BeEo@qImFqb@dBwd@_@aIiDaKcTsb@gDyK{A_CoHoHiDkHiGkUuEgXiKsIqB{CyKog@PaLvAo^hBmE`DkE`IuIj[}e@dDyD|F{Eb@aAvJoInGuGrYed@vRgTz@kBlA{GxCoF`A_D~D}E`BiKlAgEvDqEnBcGbHaNrDqAbGwDjJQ~Bq@`D{CtC}BtJ}L|AeEvCyTdAqEfA_DxFoJn@gBJmCU_HaAaETmC|@gBt@uChF_GvAyDlC_E`AyElCsH~ByLx@kCzDsCpDwAnD}FhFaEn@kAfBu@xJ_HxAyAj@sAvJql@JyL[wJFaD~AgWLqGdCgMLiFoA{WgE}NcAgB{IeHcJ}Eq@iBGeE^aGpG{YtA_FfE_JdBwSTq@z@{@tAGnGrDxBZlKgCxA}@f@wArBaL~@sClBuE|BaDnAkEhCmDh@}ArBgUbBcJdAeLp@aApDkBtEsHnOaRhBsAtCy@zDLxCrA`G|ExCHhDbAhGFbFdAhH|CtCXbDfA|CFtDaA~Y_M|\\sFbIkBvEgClWaWpB{@bGgAt@}@xJaSd@uBg@cP^sGkA}XJgAbAaBpFwAzJwH`IcDdDqDhAqCp@yDLyDWsMn@sEsPmv@]k@wUpGqIxGeTfE{B]oFeCmH}MoM@cDoAmJ{@cDgC}FToUyFqa@`@_FtA_IrD_B\\kAK_fA{a@yG_FaEwBqIwHuDUmAeAgAoDgAyA}RaL_EaDyDuEiDuAaGePyB{CmBeAuHyAsAJu@j@y@vBqBpIm@lAw@h@wDp@kAGyEcA{E}CeCFaBnAcGvKqN~DyBCoDkAuD}HkAuA}HUgHmEmJoC_HeCuD|BaKfM{CrBsBb@eHQmH`BwBdJyAEqDmD",
+        "resource_state": 2
+      },
+      "average_speed": 3.852,
+      "max_speed": 15.084
+    },
     "2023-12-17T13:52:02Z": {
       "name": "Hike to view Yelcho glacier",
       "distance": 6805.4,
@@ -759,14 +780,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1708597.9999999998,
-      "dailyAverage": 48817.085714285706
+      "total": 1767302.5999999999,
+      "dailyAverage": 50494.35999999999
     },
     "total_elevation_gain": {
-      "total": 19127.999999999996
+      "total": 20166.799999999992
     },
     "moving_time": {
-      "total": 505409
+      "total": 520648
     }
   }
 }
