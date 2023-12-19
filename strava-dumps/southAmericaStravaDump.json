@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-19T12:53:44Z": {
+      "name": "Into town from campsite",
+      "distance": 7384.6,
+      "moving_time": 2705,
+      "total_elevation_gain": 81.4,
+      "start_latlng": [
+        -43.19,
+        -71.9
+      ],
+      "end_latlng": [
+        -43.18,
+        -71.87
+      ],
+      "map": {
+        "id": "a10407174620",
+        "summary_polyline": "bzrfGnrzuLG[DGALEJEBi@k@k@s@Wg@wAaBy@gA[]g@e@UK_@_@o@YU@SHKHYj@s@hB]`@UR]R]JY@MGy@s@s@{@qDyB_B}Ae@o@w@yAe@kA{BcHc@}@GI[OOAq@FMEIGEIEm@OiASk@UQy@cAaBwAo@o@kFiGo@aAgAyBGYM{@MaBCuBEc@Gi@IWUYyAg@UOIMGOMcAM_@QU]Y]][g@u@gB[{@[s@Yy@m@{AU]c@wAYg@QIE@EC]?MBU?SMGMBSX_@VIXQzAs@~@ORGVOLOPo@Xk@T_AZm@Tm@Rq@Lo@v@aCb@mBt@cEn@qAbAyBP_AJgCJu@b@}@v@sBLSb@e@|@wARc@h@{AJOXYp@]j@c@lEuBNMJSDs@Ee@ES_@}@Sq@MmAO{@Cc@@QH[DGJA^TDABHt@\\JELQABHUDWDg@AW@c@PqADuA`@yFx@aKzA{SDa@DEAm@Bg@?EK?C_@DSBu@Fa@F}@FGN?b@Nn@HfB\\FDDNAd@QxAKfBUjAIxBMdAIlCOnACd@ENGh@El@@\\Md@FX?HC\\OnB?LDJPPLD`AJ?R?A@FD?GD?GVp@CDGCDOHHOo@Ag@eCHvBo@DTDf@IBACABNXGO@HFJESIG?GAVBE?@ACG\\B]KWUa@Qm@LVf@lA?[G[ASNr@EVFFK_@EEa@Gk@QCCEOFcALy@@_@VwCL}B?WJ{@AWIQQ}@KWMSG@CFKBMA[OE@MiAKGQACGFk@F_AKUMSEOIEi@A[GEE@IBBEG@z@CHGUUdI?yGDeDC_A@X?O@DAMAx@Dl@GTDYEh@Fi@ODLCZh@@~@Gl@EA@IFCWgCjAA[JQ\\@H",
+        "resource_state": 2
+      },
+      "average_speed": 2.73,
+      "max_speed": 11.362
+    },
     "2023-12-18T15:54:11Z": {
       "name": "Rest of the way to Futaleufu",
       "distance": 39831.7,
@@ -801,14 +822,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1807134.2999999998,
-      "dailyAverage": 50198.174999999996
+      "total": 1814518.9,
+      "dailyAverage": 49041.05135135135
     },
     "total_elevation_gain": {
-      "total": 20769.199999999997
+      "total": 20850.6
     },
     "moving_time": {
-      "total": 533958
+      "total": 536663
     }
   }
 }
