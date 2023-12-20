@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-19T16:05:39Z": {
+      "name": "Bike hike bike",
+      "distance": 19530.0,
+      "moving_time": 11530,
+      "total_elevation_gain": 1059.7,
+      "start_latlng": [
+        -43.31,
+        -71.98
+      ],
+      "end_latlng": [
+        -43.35,
+        -72.05
+      ],
+      "map": {
+        "id": "a10411509019",
+        "summary_polyline": "bnjgGt~ivLOfA^vBAvCxAnNQxIkD|Q[hEaAdCcAtAPLt@]zMgIxCcCvCq@b@ZXt@r@dNJfAd@|Af@p@zA`AhHzCjB~Ad@x@p@pBtBzKdGt^`Opx@xBhGpMrXtA|AhLnIvJtBhHbAhD@bQyClMe@vFl@Q\\}Av@_B`D[XuBj@[vAGrCP`G}@jCGpBs@tAaEbBi@nASdBr@pGP`Ct@hAf@]KOWl@AOQHER]c@MN_CAuGi@WZK`AyBfCaBZON?`@mARc@^Gr@eBXQn@PvAa@fB}A`Ag@x@kAHo@j@ENXvA[`@Gb@uARMjBSXs@My@p@QrAWv@_AUi@LcB`Aw@vAoAjA?p@YdAMFZ`BKZCvCQb@ElBRvGa@t@s@pC@n@Pb@e@~ASxD@~GKJKn@ThDClAN^F`@IvAlBrEXbARxGEbDJl@GnA|@pBi@pBPp@gAtCT\\CxAFFOpAUVHtALPVpBq@nBPrAk@~I]l@SG@ZJRgD?cAl@a@WoCxFs@FmAj@a@bCBZjApBv@b@Db@Kj@Vu@bA|@B^TGTs@Ds@b@i@i@~BQBBt@Qe@N?QOM?Ey@QW[Ig@`APs@Oq@QMeALFmAg@{@e@QTKV_Bt@_@Jo@jBEZSPe@KORcAk@YRo@bAU`@F|@[hDJNYO]x@kAL{@Ks@Ne@G}AZqACqATeB_@{Ed@kAq@_DTa@@_AfAo@OYHk@KWRuASOMq@BgASsBJsACkBPwAiAuFK}AkAwBQeITwBWeERmBUm@JaBRC^qA@}Cn@oAd@uB?qCa@uAXeBIsAZeAW}CNHOGDFPe@TcBREF_@d@i@Fm@l@_@l@D^q@VADa@zA\\Xq@Eo@X{@bAUH[b@@L}@^i@r@D\\k@Js@OaAt@}Az@Dx@{@Pe@lA]ZqAUmBJy@lAIn@]h@iAf@O^}@bAXNw@r@mA|@GZc@Dq@j@_@zAHjC\\bCGRT`@U@_@y@gFS_G`@}A\\_@pBu@zA}@Vi@lAaIIwI`@yBdCq@b@o@~@oB|Ay@Ze@pERVUq@S?i@Qb@NM[ZRGEJTTAUh@DOFDX~CdAfB|B|@dBjGhV~Kbb@rFtLr@t@bC`Ab@d@zBhHn@~FFhLI`C{BlYCdBVjA`AdBhAIx@f@d@v@v@Nh@_@EH",
+        "resource_state": 2
+      },
+      "average_speed": 1.694,
+      "max_speed": 12.678
+    },
     "2023-12-19T12:53:44Z": {
       "name": "Into town from campsite",
       "distance": 7384.6,
@@ -822,14 +843,14 @@
   },
   "stats": {
     "distance": {
-      "total": 1814518.9,
-      "dailyAverage": 49041.05135135135
+      "total": 1834048.9,
+      "dailyAverage": 49568.88918918918
     },
     "total_elevation_gain": {
-      "total": 20850.6
+      "total": 21910.299999999996
     },
     "moving_time": {
-      "total": 536663
+      "total": 548193
     }
   }
 }
