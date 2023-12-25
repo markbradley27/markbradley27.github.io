@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-25T21:40:57Z": {
+      "name": "Walking around Coyhaique",
+      "distance": 3229.6,
+      "moving_time": 2763,
+      "total_elevation_gain": 28.5,
+      "start_latlng": [
+        -45.57,
+        -72.07
+      ],
+      "end_latlng": [
+        -45.57,
+        -72.08
+      ],
+      "map": {
+        "id": "a10436416017",
+        "summary_polyline": "~fduGvm{vLXiBHSHw@@ENOD[Ji@Ho@J[@UVw@FELALDZP^ZD@HA?BJDVPB@JAJJ@?Hc@b@VJHp@XNLD@C@DLNBBD?JJJT?PB?ARRPFNH`@BLHLBf@VXF\\NZDAAV?TCJ@RGb@Eb@Kj@AVCv@Rp@ZLAHBn@\\d@JLHVDNPJBN?DI?o@AWNi@A[DW@WHMBADYBc@C]BOH@DFBJDD^T^ZPFLRDBFCFBFHFPLDTPX`@?DCCABCM@LFBHTfAnAF^PRLVdA`CJDNER@BFAIAJAC@C?@ACBBAC@B@CAFDCEA?LAA?AD?CAAB?EC@OIS@UNEJG\\Al@Kf@C~@GTK~@Ad@K`@GNE`@Q@OKUEc@?EB@GCN?b@@Bw@ISGM?MIQDSGKI_@Aa@Eq@MS@y@O]CA@?@@?EAGF@EDAMAMMME?Cc@@GCGBAEQEc@GaAGyASQ@OGg@Ie@ASEMI}@Ge@WS?WFa@Aq@GYGGEq@LME[BCCD@JICAEDG?KEg@k@c@QaAm@]KUSSKKMa@SYKa@[GCCBS?K@ACK`@EDG@MLKxBQ|@OHa@HEACOGEJFAH?DB?AKDA@BB@CAE@D@@FBAUGGP?@D?LQ@@AHWA?ANCFIDB?ZCNGFGNC\\Ux@E`@KZ?XI^B|@CX?NAFBL?KB@?@ABC?B?@E@O?B@?DD?DCDGE?@KDC?@@B?@GAFDKCH@BDICAQHT@BIDBEC@??DE?FFCA?I?BAAB@CS@B?AIDB@@D?A@@DA?DCE@K@DBD@AAA@E?BAe@Kz@IHFIGF?CABNi@?@",
+        "resource_state": 2
+      },
+      "average_speed": 1.169,
+      "max_speed": 2.958
+    },
     "2023-12-24T13:46:00Z": {
       "name": "Woooo made it to Coyhaique!!",
       "distance": 123246.0,
@@ -969,14 +990,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2240458.8,
-      "dailyAverage": 53344.25714285715
+      "total": 2243688.4,
+      "dailyAverage": 52178.80000000001
     },
     "total_elevation_gain": {
-      "total": 27788.799999999992
+      "total": 27817.299999999992
     },
     "moving_time": {
-      "total": 651218
+      "total": 653981
     }
   }
 }
