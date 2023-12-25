@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-24T13:46:00Z": {
+      "name": "Woooo made it to Coyhaique!!",
+      "distance": 123246.0,
+      "moving_time": 27074,
+      "total_elevation_gain": 1457.9,
+      "start_latlng": [
+        -44.93,
+        -72.17
+      ],
+      "end_latlng": [
+        -45.57,
+        -72.08
+      ],
+      "map": {
+        "id": "a10432532869",
+        "summary_polyline": "~peqGrknwL^nBbGsKvYwV~QwIl~@T|t@j^pUqIjc@|e@bbAgZjHoGpu@mmAprBe`AxE~@fBdPbF`B|u@}`@~Xsa@`j@qf@rF{Qj_@qg@|[u[nRwGjEqHpCwMzK{LjMad@vKkLvRsHhd@w[ri@yMfo@iE~Uj@~YpN^`VkEn]tB`q@zEt_@pH`PtXxPhTt_@xPxp@fAxWpM|i@n\\xE|TzWbeAuHzhCcd@pg@_ObCjA|FnLbo@xJ|u@cJri@nGfW`UlIlDCrA~g@xR`H`NdMxg@nj@zmA``@ng@re@fhA~b@zx@lx@x]`CxIlF`HxCpXrQvNbJ~NlTdf@lk@h`AfHvQhe@tRlZb_@bI`@rKhGvg@sJp_@|]{@~ZnDhbAbUxg@jFlk@`Ot^dMzb@hLbTbCxNtMlUrBx]rSlc@zRz^nUv\\pXl^|NlXrBxInGjHtGdYe@xObA`IdCjH|KtN\\hKtDrJgAhJjAhE{@iEv@wKjDtEiDqEcA~JxBdJB`q@pVte@`EdUxQnc@tC|V|D`JX|g@fLxLzFdMpA|OnG|EtE`Mzb@js@lHxUfRdWlThw@lJ`t@dSfw@lTd\\d\\zjAfGpMzE`E`^~GjAeMfFaOKcMrDcJhFyCrLdEhk@vt@nZhQfh@vPvKzEtN|YxjAbkAxg@|s@}Tqu@z@{b@hC{GfoA_sAhFyg@vE}LxA{\\vNaVvBgL_Fin@pCeb@`K{`@vOyJfBqR``@yc@|Xcc@jC_]xUoSzCoGb`@cPzWiXj[cT`TeXlVePtNaZ^_c@OyCs@t@~Fs[`A{PsDiZc@yTvCyc@cAab@|CyQoFyPp@si@|JmVrKmy@xFkMrTsz@fNsT`Eqi@|HuIhD{PxUs\\xP{r@dGsb@yHuh@bDk[oB{M`DgCbR}@b[mf@dJs[s@}a@tBuPrb@gpA?_TgNwXmDoPmCmg@tGs[UoZhCg_@hC_KnI{NfNyfA\\eg@lEkb@lB}XB{OnFs_@gCiMgQgYc@wOkBcBjHue@pFcBX}L}CmQjKsVeAiO~@kWrEiVhJqS|@cV`C_NjE}IdGqDfY`AfeA}v@xByGxBgVm@zAkFmQbAiRiEqUdFwNc@_LhAkDhWsHj]jD|Dm[dR{CrMtArD}T`HyFpOuDlFaN~LeL~FMpVhL|I|JtEaArDrBxE}D|dAqSnGtu@vNr@fHzDBtB",
+        "resource_state": 2
+      },
+      "average_speed": 4.552,
+      "max_speed": 16.238
+    },
     "2023-12-23T17:35:07Z": {
       "name": "Another day in paradise",
       "distance": 61238.8,
@@ -948,14 +969,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2117212.7999999993,
-      "dailyAverage": 51639.33658536585
+      "total": 2240458.8,
+      "dailyAverage": 53344.25714285715
     },
     "total_elevation_gain": {
-      "total": 26330.89999999999
+      "total": 27788.799999999992
     },
     "moving_time": {
-      "total": 624144
+      "total": 651218
     }
   }
 }
