@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-26T17:49:33Z": {
+      "name": "Another walk around town",
+      "distance": 6427.4,
+      "moving_time": 6559,
+      "total_elevation_gain": 39.3,
+      "start_latlng": [
+        -45.57,
+        -72.08
+      ],
+      "end_latlng": [
+        -45.57,
+        -72.08
+      ],
+      "map": {
+        "id": "a10442535772",
+        "summary_polyline": "z_duGbd|vLPKS_@Lg@IOd@eAj@qDUIQc@S@q@[]_@]EEOi@]W?o@w@MgAHwC?k@MMQiABC[[Ei@KS@WSAB@Ci@GE`@x@]AMwABO]u@CY\\wACo@HU@_ALSBUZ[XcAn@w@My@IHBs@KRGAHJ@GIQNNCEBJEACN?[OPGEVEI@@FRZ\\aARoAAk@V_AHG?[TqAt@}CFu@To@v@mEP]R}ANUb@D\\`@z@RPTn@TRk@\\sABe@BBLm@CINq@BBKELOM?DFI`@DOEEHEHnAq@hDNAIOFDG@FKD@@NDCWTz@VvAv@LN^Bb@f@l@JLPf@PHNP?`BbAR@t@f@N@RX@PwAxFMfASbAU~@Sj@k@nDOVMr@?NSb@OlAa@bBB\\Yh@Ix@IEA@FCEAMl@BTq@dC@PK\\OnAFv@KXEA@GRH@Lo@r@QxAO`@FPXTt@RZ[FSNAS]TRCG_@KDDBSBBE@@GB@CPHIONLRLOBYEEFOGHHKISDEEDJBENCEHCSDJK?OAZBOBXDSI[BFURLMEP?W@DBMHBOECH?MFFUVDSEBCK@NF@KRRSEKH?ELKKFHYVJCKBJQCXD?KBHFOA@OIJFOF@VgAFd@KICNBIBBGJ?MEBN[LRc@VAHDY^QSVDGCSWn@@e@JO@RID?FBQCRA]@THUG[OzADs@JC@DMf@^iAOUHEEADDE@J?CHDCGFIQJH?JEI@PP`@Mi@EE@F^n@GBJPDKPEg@B@EKl@GA\\EQPo@[EJAIDBAOENHF@GARL@MCCNFOEHHAOFJD?_@CJBA@GGDF?AHBEOPVOSAJDGKIBVFGOEHCPAIDDI@J@K?TJ^F@MF@MTP]@JEICPOMCNI?ORy@IMOMPWAwAdG?^Q\\_@jBC\\OVC\\uAo@{@Fe@YKRQ~@LNIAVQCGADACDDCEFGGj@De@C@?d@?e@ETHYe@LXJIGVOGRMEDAWZ`@g@AJ?KYPNDGBBIFBSBHBBGI?HCBFGD?KD?@JE?CM@FE@H??HE@BMEAADVEIA@PJOGCAH@OKBe@aA?JS\\BLG?Z@CJUM`ADFP@]FFUQF?HFOQLRE?DCEBD?G^EAHWITFOKWNH[a@GYDRLDGl@JLJYQPQYd@FyA?H?CC^INBLZMLWAFBADv@i@ULANDYSFd@IC?Q^JQAJIEDFEEJFKEH?IFCIHF@IP?AUGHPLOUPf@Qi@CLBK",
+        "resource_state": 2
+      },
+      "average_speed": 0.98,
+      "max_speed": 5.1
+    },
     "2023-12-25T21:40:57Z": {
       "name": "Walking around Coyhaique",
       "distance": 3229.6,
@@ -990,14 +1011,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2243688.4,
-      "dailyAverage": 52178.80000000001
+      "total": 2250115.8,
+      "dailyAverage": 51138.99545454546
     },
     "total_elevation_gain": {
-      "total": 27817.299999999992
+      "total": 27856.59999999999
     },
     "moving_time": {
-      "total": 653981
+      "total": 660540
     }
   }
 }
