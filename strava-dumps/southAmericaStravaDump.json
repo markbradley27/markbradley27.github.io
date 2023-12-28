@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-27T17:57:16Z": {
+      "name": "Leaving Coyhaique",
+      "distance": 62902.3,
+      "moving_time": 15971,
+      "total_elevation_gain": 1320.8,
+      "start_latlng": [
+        -45.57,
+        -72.08
+      ],
+      "end_latlng": [
+        -45.99,
+        -71.91
+      ],
+      "map": {
+        "id": "a10452336194",
+        "summary_polyline": "r_duG`e|vLFTd@kDxBmKh@sAdKjFvMnAv\\vEFZq@dEDd@nCbAN`@bB^o@jFeBdB@PnAU~@XbElEnGbDfV|RnBnBpCzFtA|A~Al@pEVnBbAlAhBlFrKzAlAfEx@rBpAx@pAvBrFfAtAjOjHjCIlGcBjBHxAf@~JlIpj@dh@pCdB~ItDbDdAbCLnF_Bni@ka@hPcJ~RwNz@iBn@aHrCaG~@iGjFqIdAOlAVhF~EfAb@|LaA~Ag@rRqTrSsM`CqDxIgPtA_BnAk@rRsD`EbBrWtDxAq@fDgFt@k@pAEbDfAdAUdAuAzByFp@aA|RuL~FgF|h@ySpd@ef@tQoDxAm@n@mA`@mE`AaDLuEpBaAnBiEn@HfNtJnBz@dBHjP}AfNvDlAj@rErEjObH|EdBlCV|BGfFkAxAs@|CkCvb@gf@xDmBnMmDtCwAjAiBpFeOr@q@jFaCbLoPzA_BrBs@vCYbKj@dBaAdXe^x@mBl@oEj@oBvP}Vp@cDl@_MbC_RdAiDbH}OdC_DnBaBtj@k\\tCeCbBaC|F_Mr@oChEwv@b@eErGkRvEgRCoEsF{YAgCd@eCvCuGrC}C`CsAjEeAvHuCt_@c]~TeMvLsPfj@y{@fK}XnCmFhSwo@nPae@xAoClYe`@z@_Bl@cDr@s^ZiDbBoHv@sBdM_R`]k[jBo@fL_BbCw@nBoAtLiKnDgBvU}GVUIGc@TxS}FhA?hA^hDdE`Ad@jOeBTmB@cQb@uChAcCvjCegD|HgLhFsLp]icAnC}Fp@A`E`DdBJpa@}K`E]zjA~CzCIpCo@fB}@`CsBjBgClAiChOwo@fCkI~FsKzLoPjE}ElEqDfHmDpIkB`j@u@zC[vEmA|E_CdFeE`Zs_@vAoArB}@|BSpBRtQfJfDj@b_@qHz@m@j@mAxAmKdFwM|P{OrB}@tQgDzTlEfACjDyAz@@x_@xMrOjJjLjB`JlF`BAhIyDtAAfAt@|CzGdCtC~NtKtLtEbNlNrD~A|NhE|BAxIgEdF@lCh@bOnFrSEfMdBtQBpIz@pG`BdAn@l@vA`AfEvEpMrG`VzC`GzK|Pd@vAx@tEl@nOb@zBlAbC`DpC`SzTzT~KvA@vEeArEoCbDPhPuAjBRfCz@pDfGlChBvCjAv@|@f@bBr@fIhArHxAxGdHrLrCnGpFvFrCfGv@fFz@|Pk@vDe@rG{@dU_@rBwAdDGxApChJ~AtBjBzAtAxCtBpAXd@ZjBAbEk@rA}DdEaJfEqGdFqFfB}JnJcCvHIo@WUSVa@pAShADS",
+        "resource_state": 2
+      },
+      "average_speed": 3.939,
+      "max_speed": 21.338
+    },
     "2023-12-26T17:49:33Z": {
       "name": "Another walk around town",
       "distance": 6427.4,
@@ -1011,14 +1032,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2250115.8,
-      "dailyAverage": 51138.99545454546
+      "total": 2313018.0999999996,
+      "dailyAverage": 51400.40222222221
     },
     "total_elevation_gain": {
-      "total": 27856.59999999999
+      "total": 29177.399999999994
     },
     "moving_time": {
-      "total": 660540
+      "total": 676511
     }
   }
 }
