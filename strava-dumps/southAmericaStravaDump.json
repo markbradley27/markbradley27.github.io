@@ -1,5 +1,68 @@
 {
   "rides": {
+    "2023-12-30T14:15:36Z": {
+      "name": "Tough gravel and wind!",
+      "distance": 50247.7,
+      "moving_time": 16221,
+      "total_elevation_gain": 514.9,
+      "start_latlng": [
+        -46.16,
+        -72.33
+      ],
+      "end_latlng": [
+        -46.22,
+        -72.81
+      ],
+      "map": {
+        "id": "a10470383284",
+        "summary_polyline": "lyuxGdimxL`Ao@^{@d@LsCnDi@bBStBTxBI~D{AtF]lDd@lEfEdLnCdJp@fAz@X|@KxFuD~BzA`@rAHlEy@r]EbVJc@H_Wt@yZI}DSaAy@u@?_ABb@I@HLQFVAv@jAJrE}@xb@u@v`BDvC\\nErBlJ\\bDc@dKd@pZMzD]fCu@xBaFhG{DnFmSnc@eAvAoBbBaOpFaEvBmG~H_KxDeAx@gBbCwTdk@_J|M{ApEoH|XuCtEcA|Be@hEE~Ig@jEeBvF}JvUoBdJ_CrOGhEpAjJ?jKbBhSExFq@bEuF`RqElJiAjDuCtMqCdI_@jD@tBl@xCxJpQdAdDrCd_@IhDgCrPSrCzC~m@RfHkAfi@SnBmAbGeEbIeB~FqEh\\aD`UuAbGwFrLqElI_HnJaArBmAfEcAzHKzOWtCg@~BkEvLmBpK_A|Lc@rBXpBfAtTVzP@~Vq@nFuEjSa@|DsDdw@yEbg@K`GLhFt@xF`BrFhBtDjMdUn@hDV~Oz@bHpCvGvEbHn@tAh@|BNxDSbDaAjCeGzJw@pCUvB?rCVlBl@tB~@~A`A~@|Cx@dDc@jF{BtBe@xBJhClAxBhDlBfJv@nB~GfKrBlB|BrDj@|BPlFwBnS[dHo@tCCv@RnCnAnD~D`FtAlDtIjg@|@hGJbD?~O_AhJI`C?|ATzBfGtTh@tFZjLf@bEzZzzA`BxG|@jB~BlCnd@te@xM~Ltg@fi@zBrA`Cp@vIDjC|@dBlApBjCl@hAhAzDVjBtAfXxEnhA|GpxAbDl[fAlDbElIjBdFxG``@TxCDtDaAdTg@zCq@`A{BfB{EjBeErE_AZ_BYwBiDw@{@mCi@yBuAcAFkDpAU|@_@tFb@jHLhKvC`PjSp{@n@`BrD~F`D`IxNxh@SxDBuAUGPp@M~AgGfg@DnGtAtHvC`L~@tBzQzNpCpCjCxI`HfWzFfIfJpJ~B~Hn@pGKjDFpBzDtVr@rCxArCdTdZdA~BzBjLbApIxAhs@j@zFxBtJ~N``@~CxFt@xBHdEcAfG@lF\\`B`DxJh@lCLnHnAdPBnBeEdMeBzL}AbH}@pBwHjLo@zABxAvBfL`@p@pAMb@t@_AhFHzBn@t@tK_@hBhBzBjDnAh@lA{@h@LfAbD|@bApHDnI|A`L[fInDvAT`Ic@rAwATq@`E_EfEyCrB{@`Ew@rEUjKwBdQqBnBBtBlApDnDh@bADv@UlAmClFc@tCIvBRjAb@r@hBh@|AKJ~@KXFUH@CTM]NPIJ?K",
+        "resource_state": 2
+      },
+      "average_speed": 3.098,
+      "max_speed": 15.08
+    },
+    "2023-12-29T12:14:17Z": {
+      "name": "Another bike hike bike",
+      "distance": 36510.3,
+      "moving_time": 22411,
+      "total_elevation_gain": 1608.4,
+      "start_latlng": [
+        -46.11,
+        -72.19
+      ],
+      "end_latlng": [
+        -46.16,
+        -72.33
+      ],
+      "map": {
+        "id": "a10470382798",
+        "summary_polyline": "brmxGdcswLl@Sb@f@xCrUz@dPYxFo@j@gHg@qAe@I{@u@r@kAWEu@r@x@xAa@yBZQw@_@vD^aDSfBmA_@_A_Ag@gE_DJqAdAc@~AeFjBy@UcDbAqEgGyA[w@_AiFNy@sAa@iL}AcB[iBmC_EeBgGiBsA_E}@aBcDaCiB_BeCD_A?r@cA^w@iB{@I_@aAiAS}C_D{AJa@{@]DKp@{@\\Ma@_FBGoAe@Uy@oEHq@qC{CIiFf@Kf@yAc@mA_Be@d@wA}@kB@o@w@]o@aBqDoA{BcDXgDwAaCAsBb@q@}@}D^uA_Cc@mBqCiCcBGeAs@yDmAgBc@qBoC_AWDmClMTZYbBAjJ\\bD_GjJk@jEgAaCsCdFWbCuC|JArCq@bB@bAqC|Ge@nCeLdDkBbCz@EQ[`@?ZkBzKsCdAxBT`FY_BJuBu@oBVaDrCaHBsAr@oBAgCrCaJTqCvAaB`AsCfAjCn@wE`F}HHaAi@a@V[P}ESyC`@gDSUjCkMdA@rBzA~AfE~@jFjCjBhBjC|B\\_@~AjAlDm@dAAjAvAzCUnDdAx@l@~A|DvAbBdCx@rCc@xAjBr@ZbAQIMrAw@^FxEvCdDIf@fBtHnFXr@ORu@~@r@tAE~CtCv@Dl@jAbAN\\xAnBPtHnKfAEbErCtBdGrCtELfAnBlBQhBTfFh@vB`Al@bEOr@|@vAPlDlFx@b@tEa@rD{ApCoDfD]b@pCr@lBhBb@N}BSfD\\yAbAYhCnArHn@n@_A\\wF}@ePaEcZaCaMyDeGwAoNaA_`@ByBdB_Hk@iFHgFn@oGNcIdHw|@RiOSaAiFgGeFiJ[yCnAqAnBn@dGbHrH|FxMpE|EXhCxBbGfCSy@n@tAxN~HfB|CPvMZbBr@v@tB@nCeEzEfCfHE`DtBr@pBd@tFJx[w@vK{D~Nu@bKg@xBaB|B{DnBcBrBeL~b@[xKZbH~@dCnGjGhAfDTxCs@lH_GnJ?lEp@zAlFtDbHpM|AhE`CfQjItMpMrHtASzDsC`Cr@f@dCQtH\\tC|GbGzB|I`@jEIxCS~BaAh@z@BFvGnBbGzNzNxGzLbQjSnWxTrPrRdLvInKzO`B|OxDvKA|OjBdJPnEG`J}BtLE`Fj@vC|EbNdBjT|CbOVbGoAfP\\|KgCnF]hB^rCp@zUi@NyGj\\x@bNkAzIR`MiAvNL|MdFlp@AbQz@bR_@tXmA`O`BbR?nD}@jNgEvNP|KcAn@sBzB",
+        "resource_state": 2
+      },
+      "average_speed": 1.629,
+      "max_speed": 12.276
+    },
+    "2023-12-28T14:50:29Z": {
+      "name": "Into Cerro Castillo!",
+      "distance": 39475.4,
+      "moving_time": 11654,
+      "total_elevation_gain": 398.5,
+      "start_latlng": [
+        -45.99,
+        -71.91
+      ],
+      "end_latlng": [
+        -46.11,
+        -72.19
+      ],
+      "map": {
+        "id": "a10470381998",
+        "summary_polyline": "xntwGhk|uLLTXIr@uAyDlQgA|B}DfEgAvFaChIiAhBgFvFkOxSw@bBi@dDDnDtDng@xD|UnEtU`CjLbEzOt@zHX`KClBWhBc@xAy@xAuIzJc@z@WpC\\dBb@r@tAd@lA]hGwHvD{CnNmDpJgAzJQrEyBtBU~Ln@jJ|B`MxDtErBlClClDlG|FjDdLdT\\hBt@jI`A~D~@nAxJhJ`MrOzVhSdD~A`LfEzIxHvHnJfB~@hGbBxEzEfBA`FiDlB[b[fFtAWlDsBxA]jANfEpCfARvAQjG{DfAE|Dl@bDU~A\\zO`K~@xBR|Cn@dBfPhPr@dBdAzFb@pAxAzAnD~Bv@~@x@~BzA~GbAxB`DbEpGjDvBlDpMlWxD|IxXtl@bAdAdIrEdC~Btf@tu@~CzFlAtF~AxM`@nBf@fGbG`h@dDxX`@fAPzDjJjv@z@dD`BnDhLzQzCvCrEhCxC~@xSbCzG^dExBfAO`AqBt@Wb@DxA`ArDw@zL`CvGk@rC@nF`AhBxBdEfCpJh@jA]~@_Cd@[`AVnBbC~@N`BmA`A_Cb@e@h@GjBl@j@O`GyEfEqG|BgBhAkCxCqDbByF`Ak@`COp@hADlCVHL]Qb@QQ[|AWdCIpC{@zBAr@Z~@b@Px@QtCkGl@q@fADh@t@JpAKv@gDxDUp@?|Aj@lAj@Xn@A~DaBt@N\\d@NjAMdAa@n@aCvAUnABbAZ~@^Xx@FlAUd@Nj@~@JjBc@zGRhCp@tB~IpRh@vBVvCMfEsAnJ}Enk@mAzQtCvfBjBf^I~BaApGi@hBgBvDc@~Bs@jNMfJFvDpAvTlIla@zAnKE|CqAnOdAtSNfKEtGoBf_@NlDxCb_@LxJY`NPhD~A|MrGzL`@zAv@dGnBrDzAzAtNlKvKfG~FjCp@d@Zj@N|@A~@kCdP{@zD?fBXfAz@~@jEzBQ}@Bs@lAkBFLOj@Jv@DISNTa@Mf@TDQCKSDVHONs@IsAlAcCnCoILFO]Jn@AS@G?V@YDRAFKGh@\\y@q@uEhMiCtCiBRoC{BcF_@{BsA{De@aDuA_KiIsB_DwC_Ba@AmA`B?fA\\lAvCvErAzC`FrFXhAArG[vGqAvMoExm@QjIi@hGG`Ef@pFeBlHCdC^xJ@~Hb@zHt@`FJlCd@zCnA|Bt@j@zAjG{@qEm@eBf@zAd@`D`A~CnClRkA_JSgAMDDc@e@yC}@_D_AeFt@pEnAdFIb@NxBKx@g@cADcAUyEN?SpBHpD",
+        "resource_state": 2
+      },
+      "average_speed": 3.387,
+      "max_speed": 14.644
+    },
     "2023-12-27T17:57:16Z": {
       "name": "Leaving Coyhaique",
       "distance": 62902.3,
@@ -1032,14 +1095,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2313018.0999999996,
-      "dailyAverage": 51400.40222222221
+      "total": 2439251.4999999995,
+      "dailyAverage": 50817.739583333336
     },
     "total_elevation_gain": {
-      "total": 29177.399999999994
+      "total": 31699.199999999997
     },
     "moving_time": {
-      "total": 676511
+      "total": 726797
     }
   }
 }
