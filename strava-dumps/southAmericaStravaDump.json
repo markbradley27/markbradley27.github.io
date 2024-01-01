@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2023-12-31T13:06:24Z": {
+      "name": "Into Puerto Rio Tranquilo",
+      "distance": 70657.8,
+      "moving_time": 27976,
+      "total_elevation_gain": 753.4,
+      "start_latlng": [
+        -46.22,
+        -72.81
+      ],
+      "end_latlng": [
+        -46.63,
+        -72.67
+      ],
+      "map": {
+        "id": "a10474030708",
+        "summary_polyline": "h|ayGlok{LrDmI`RyNnKwBpCFrKfQjKrApL{RbD}JfPoOxJeAjGoFrV_e@vRqDdx@zVpr@dNtJdKvOhApKyIrLXldAfVvLlHrScAz[bE~Da@hD_ApLoJrJi@fOoDpEcCzJiKr@gI~CuGhBiJlF}GhSoOxI_A`YyLhTaUvH_CjWeAvr@wOfB_EfFuh@~A}Cpa@r`@v{@xMhTgF`KwLnKs\\zE{i@fA}@xDfDrAY`EqMN_JfMkNrGsDvYpChLdE|b@y^~CwIf@sNtI}a@`WkTnKwUpOqJjEoFrDiG^sJzMuQtDsItOkKlYq[nLyGnFQ|QpF|IwF|Yc@rNkDjOeL|H{CxJqJzGeBtIeLzPeGjMwRfl@jGjOzHdEpTnClYvD`IbMfi@jE~CzDwApLoh@tB{Bl`@bFbIrIbEjJzM~HbHiBtGgJdb@i@dNfCxI_BdGjD~Ak@zAzBjIvCpJcAnJ~AbWuF~Fp@zJyAfIeF~ZyA~JyI|DoGvEq@jIv@rKjWpIhAtKnHld@_@nFgFzIeAtIjClEfIfOJr[~Ej^|BbZkF|MnCrC_D~Rei@nCkElc@wEpQcLdQ}CrGFfYjNtD[fHaEr`@TnOw_@dJiKjGtC`DQnDaK]lCmAtBnFoU`QuPvSg@lK~BrFmBbL|BtV{@xL{UdFkDpDaKnFKtHoKbEiQvS{MvLqDtNj@lWkFzM_OrFcAvBjAvAlEf@zIhDpBtImF~CkTzAsC~@cItL_QjKu@|EtApEoC`I|IqBlFiD{C_BhBdO}ZzHzH|CuEdAI`DpDF_CSxCEgBh@r@BoAQ|H@cH}EoAeB`@yAfD}DuCcCfG}M}NvH`I_B`EjFmM~GzHlAP|@iCrBy@jEfANhBO}Bw@VPNx@NgCq@}AoC{BrB}ElN_MgMsAGUrCrCgKhEThJpJdDeEbEbBr@cAa@bBt@Ys@@I{Cx@aGYpIFpACSKv@FqBMlBFoBEpAkD{B}B\\wN~]uC}Ca@wA|@Ri@}@a@R^g@`AnEcAaDnAiBW`By@Aj@rBi@yAo@hBvAgGo@fDs@wFnAxDnA_AgBnAj@xAmA}AdBqAaAn@d@~@yBwCc@_Bx@_By@?h@|@HkAqEoC~D_FtIpImEhKaATh@l@eHwTlGzRu@oCl@nAgGcQ|F`T}FiS@OpGfVgByIlB`Gw@aBo@{AvC~HgIqWjHhRw@^l@M{EeN`E|LDkAm@kB`AbHi@mBFhAXeA^|BEiBo@]`@`Do@}Cv@fCxChBzNu]rGrAy@|B~@_DMz@Jy@p@?m@K",
+        "resource_state": 2
+      },
+      "average_speed": 2.526,
+      "max_speed": 28.04
+    },
     "2023-12-30T14:15:36Z": {
       "name": "Tough gravel and wind!",
       "distance": 50247.7,
@@ -1095,14 +1116,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2439251.4999999995,
-      "dailyAverage": 50817.739583333336
+      "total": 2509909.3,
+      "dailyAverage": 51222.63877551021
     },
     "total_elevation_gain": {
-      "total": 31699.199999999997
+      "total": 32452.599999999995
     },
     "moving_time": {
-      "total": 726797
+      "total": 754773
     }
   }
 }
