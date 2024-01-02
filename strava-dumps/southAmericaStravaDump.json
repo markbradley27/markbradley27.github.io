@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-02T13:14:40Z": {
+      "name": "Kayaking the marble caves!",
+      "distance": 4103.6,
+      "moving_time": 3514,
+      "total_elevation_gain": 199.7,
+      "start_latlng": [
+        -46.67,
+        -72.64
+      ],
+      "end_latlng": [
+        -46.67,
+        -72.64
+      ],
+      "map": {
+        "id": "a10479711084",
+        "summary_polyline": "tny{GbtizLIOIAQSYOaA}@U_@SO]g@[[g@aAUWWa@a@YS_@[[Wc@Mc@C[KSs@i@]]e@Uc@k@e@Y_@o@OCM?MDWCMOQo@MSSOWESSIWSy@a@o@EQ?Ua@c@O_@][Kc@?[]c@Ks@Y[OWK}@]UIMGWCQs@mAWw@w@_BQc@ASSo@t@bALHPPAHHFLV`@bCu@ZYBUGMJYN]Dg@RK@GA[HMG@HGHIFJn@\\YB?C?AGDDEE?FA?FI?EEUK]?IQQAMIOC?Vg@UmACAABIEODGOITCB?FYUEOCe@Ow@Gg@CGWWIS_@@WGI@MCIEMBGFG@@C@IA@DG@AXzBE?F@XE`@OFI\\AJCv@?XBXJJAD?DLJL^VJJJV@RHLb@\\LPR`AJRl@XN?ZZPL^DRAJDTT^j@^LLTf@Vr@RDDLXBVAJECE@CHBF^d@LDR?B@JRBVFNVVVl@PTJPNPLVN`A`@nBFNZd@V~@HNJJR@LHLRNf@JPNJZDPNJ\\@\\JZPJTDpAzATLNNPj@Zb@HDPBZCDC@@`@FLJT`@Lx@@^FJVN`@JTBJCTHX@DDNX@VHTx@rAJt@RRj@\\b@j@^XTn@DTARM\\CPFh@J\\?PGVGPEBMSCAi@_AEEM}@O[GECGWAMGCIMIUFGAAG@PBBFCFi@?sADiAKf@In@OTMHOD[AQB]\\YLIJAXJVPP`@RPVLXP`AJZLNNJ^NXDHF@H?NIV]`@WPa@?",
+        "resource_state": 2
+      },
+      "average_speed": 1.168,
+      "max_speed": 6.894
+    },
     "2023-12-31T13:06:24Z": {
       "name": "Into Puerto Rio Tranquilo",
       "distance": 70657.8,
@@ -1116,14 +1137,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2509909.3,
-      "dailyAverage": 51222.63877551021
+      "total": 2514012.9,
+      "dailyAverage": 50280.25800000001
     },
     "total_elevation_gain": {
-      "total": 32452.599999999995
+      "total": 32652.299999999996
     },
     "moving_time": {
-      "total": 754773
+      "total": 758287
     }
   }
 }
