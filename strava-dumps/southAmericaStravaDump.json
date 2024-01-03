@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-02T16:04:23Z": {
+      "name": "On to Rio Baker wild camp",
+      "distance": 70282.0,
+      "moving_time": 22986,
+      "total_elevation_gain": 1236.4,
+      "start_latlng": [
+        -46.63,
+        -72.67
+      ],
+      "end_latlng": [
+        -47.03,
+        -72.83
+      ],
+      "map": {
+        "id": "a10485901682",
+        "summary_polyline": "|dr{G|dqzLOa@qCoA_ABaAb@eBjD_DwCoCrGiDmDf@sBe@xAo@Y|JfLpAiE~@yBcJsJkEo@jA{B~C_AjF~BtAAlDuInJoItFmDvEaA|FaH`JgEnAqCzDaDpKgQhAwEfCmQt@}BtZy[rQ}LdTsQhOwJ|SqGnLo@z@o@bGkJ~A]zIxKbJrFbWdVdFhGjC`BjG`M`BpHrJ~KhFjFbGpDvRrRpInEfDxG~C~@jI_D|BNpBxBdDb@dB`ChBDhJhD|JpEzCdBg@DxC~EpC|GrAbB`GzDzCvH~AzMrC~KpDhJa@jFR~DbDpMhF|IpCbJhGjXXxKhEzAdD|OvAdCxHI}@\\rEc@zClEbCxH|@nOn@jEvCbHvO~e@`FfEzFzKnZr[|OjInNNbBn@bt@tq@nDxJtDrFpAf@tGMfAlJ|CtI\\zCbB|FhKlHjEbGrCrG~DnSA~BwAvOqEtP}C`EyEt@yCnEgN|Hc@lAsAxPPnBv@hAbLlJvDjArLtTNlBi@~Uy@`Q}Iz[kJlQiGzGc]`{@m_@htA[|D`]zqCt\\~d@dBtEnLd~@Uf~@YvBqDrIAtIj@vC|EbHxAbA`FO~BsBzMkp@xOab@zX}}@`LiUhqA_`A~p@kXQ_@~AqAeBnBfGoCvDyG|D[fEyCzPoYvIaG|NYvMbHfKuI~Fs@x@h@rCbFjCdJhB~AzAcBY[`@ZtDyF`CoBr\\kBpHtFdGfAxD]lOfChMlGf\\yBtKpBdN`GtMyDhB?rKvDtH~Gp@D|HoGxEgAfEF|ZkZz_@oRdBeBzHwMlJOfJgJ`FeDjDvAtKgAdAyAdCoGpIb@dGiBbMmApAoAlLuS|GcEtSwHfAKnDbAzIm@fLfF|QrAvMwAbF{CtDmHhAk@nHn@~VbJ`CD~z@iT~HiFtHgIxJqBh]uP~DoCxBg@zCqE`Ak@fF`FdKxGrD`JvDjFtQvKtD|@v\\tAtKIzCkBjM}MjC[lDv@pX|LnC?fEoB`A@x@l@jBlEjBp@nL_CrJgEfGeEzGuGzFmArDoCbGy@jJhBxIu@lI`EhCnDlMjI|AvDvB|BtTxJzULfLuAzJPnOgDdFb@bFq@tQeEnItBrFv@jH`GnElAtC_@~CsB~^sDbvAxOhBt@|DlD~Q|FbFlGbCnA|`@uAvNd@rLxGnVfEfEvBe@e@bJxHlQpQnFvCzLzCpApCBfEwBhMeDzNt@pCjHjLr@pCArBwBvCsAn@gXzV}ElIcGxEGd@dApEkHnFf@jCdEr@[xA`AdC`CkCn@k@xG`CpHFhM_DrLaAhH}B?nABw@YK{Bv@Uz@~AXXO",
+        "resource_state": 2
+      },
+      "average_speed": 3.058,
+      "max_speed": 13.476
+    },
     "2024-01-02T13:14:40Z": {
       "name": "Kayaking the marble caves!",
       "distance": 4103.6,
@@ -1137,14 +1158,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2514012.9,
-      "dailyAverage": 50280.25800000001
+      "total": 2584294.9,
+      "dailyAverage": 51685.898
     },
     "total_elevation_gain": {
-      "total": 32652.299999999996
+      "total": 33888.700000000004
     },
     "moving_time": {
-      "total": 758287
+      "total": 781273
     }
   }
 }
