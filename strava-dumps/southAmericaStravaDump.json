@@ -1,5 +1,47 @@
 {
   "rides": {
+    "2024-01-04T12:12:13Z": {
+      "name": "Another banger of a hike by Lago Cochrane",
+      "distance": 22046.7,
+      "moving_time": 21958,
+      "total_elevation_gain": 1084.6,
+      "start_latlng": [
+        -47.24,
+        -72.52
+      ],
+      "end_latlng": [
+        -47.24,
+        -72.52
+      ],
+      "map": {
+        "id": "a10498678807",
+        "summary_polyline": "l}i_HtzsyLxAi@QeAmApBhAiBB{@iB}AkAsC[gC{AyCaGwEiDi@iAmCiDyBe@aA@gBqDEqF}DiBSoIwKkCmCuAs@`@iBoAsGh@yAgDmBFq@rBoAKu@iBeBvAy@eDuDw@c@i@ZRl@c@CcBiAW~@a@Do@IAt@_C[{@rAAfAw@pA{E_AgAn@{B}CmEaCQcAgEi@q@aAiBNWv@p@f@]v@v@n@dBxFs@rIp@nBXrFg@zAVSc@FTPjAaBgAxA\\xAa@vAd@hCBvD`Ar@d@rCH~COvCq@lAu@FoBtG?zAq@dAChF`@fDcAn@sAyR}BmAaAmC\\kDnCgH^uLk@gG`@MIcCq@kEgB{FoJmPE_Bg@SBsAYQHq@a@DQyEsFcBVoBSk@rACHoHyMgTiH}HOaAf@u@{@mD|@uCcA_DyBkB}A[kDoLaFmDQaC}BqBsDeIeB`@L{Bp@RMo@s@cDeBuAiAeE_GmBsCeCkEC}Aq@eAoEkE}B\\{A{AgAcAmFcC_@gA_EkEoCaA?mJyKOi@n@y@F{A{AeEmCkA_FoDD_As@iAZwBwA}B\\s@bAd@}@uAH[tCU|ApAd@kAY}ByCkDPs@Q]`@G?aAt@y@bAg@v@|@zA_@~Dd@t@kBtAoAEgD|A`@`CfFCvAs@b@nABGfDg@p@~DhBj@@@iAm@tAlAl@{@Q@o@sC_@eAeAxAiCL`@a@YeA`CvBtAdAQb@tAf@ENt@fBvA@jAjBjDnB`@jCpDxC_@PnBfDvB|A|G`BfC|BpADlAuAnAVd@A\\_@]QxALv@fACp@~@c@v@p@pA~Aj@rCh@r@{@vE~Dd@vDl@aCvAzB|BFfC`CbBdEb@xExCdBh@xC~A`Bl@lCExAt@nB|@TZlAdAPnAfI`A~@t@jH\\UWLNXjAX^jAbB~@f@zBdANF|Az@~@lCbAEiA~LpRl@`BUfCXnC`BjBBnBx@|@h@KXhAk@dBzBnLQlCVn@h@f@lBIvDyAtAgBlGAxArBp@HRlAt@XK\\|CjDhEPE|@n@d@ZhBZIdAlBQf@nAt@K~Bf@Tt@dF^PcB}@Yx@iAHrCrDeClBhDjDk@jA^\\j@pDa@nCHf@bBb@nG`H~DzFvALrB|BlAFbAfAfBi@r@d@PbChAtArCjB|@dC|BKnE|C|BnBDnAx@~@@dAlB|E|AlAGxBkAEBb@",
+        "resource_state": 2
+      },
+      "average_speed": 1.004,
+      "max_speed": 6.366
+    },
+    "2024-01-03T12:52:28Z": {
+      "name": "To Cochrane!",
+      "distance": 61167.6,
+      "moving_time": 21011,
+      "total_elevation_gain": 1178.0,
+      "start_latlng": [
+        -47.03,
+        -72.83
+      ],
+      "end_latlng": [
+        -47.24,
+        -72.52
+      ],
+      "map": {
+        "id": "a10498677023",
+        "summary_polyline": "tv_~Gbko{L_B`@Y{@xPiHbOyLt]cMfMcKlXeOx@xA@rClA}@x@v@W~AsCa@|@tFnD~@fAqDhIsQ`E}DdE}KdDeAtVM`DuClAaDl@kMz@sCpT}K|HuG|EHFhDC_AhAq@]{@cGSwEjDo@hBeOzFiGhIkBvN}FnEwSoAgCjCs@vDuC~B}BjGwDrC{ElMaD~DFpAuBMoA{DUuBvAIo@m@LoAw@wCt@qAvPeNps@kr@bVeM~L?bAcCtAcMfJaHpGsJxUwRrFkKzMwRnGiGdQcVjHaRvEsHjE{C`IoJpGgAxDcJ|AyAtHcA|QlApU_MlT_ApBjApE~G`MxDv^eIjfAiCj@|ChF`BrGt@\\vB`CpB`Ex@fA}DtDc@x@zBcAx@b@k@AeCaELaBhE_Cg@gDwBa@_CsGu@mF_Bo@aC^ZMgAnGmGnc@go@f@_Eg@gJpBwMnEcJrIg\\lKkNxBea@{BuS^kXpDgNVoN|BsLbHiHAoI`CuCo@mGdG_Fz@mCwFmVaWgy@uA{I|A}ZjByiAdAuDtFgDd@kFyByJmEgFcEgOBgPm@qDkCyF{CwCoC{Hz@}JnAuEtE}DvCqGl@eOuBgIaMiNcBsDk@uEf@_JWcBgB}AcFSeAgA}DiWk_@wt@|@_ZtBwDeBuDD}B~DmY`AoNaD}AoF\\uBsE{PuNq@mBv@{CpHsBdAaC[mBsGqIu@oEtAmm@`IoQr@_EUiEcCsG\\iKfBsCdKgBpA}Ds@wCeCcCmFyAGcBbFe@dKvCfRdR~Cp@vHo@dOuWpEuBha@hHVhAxBt@GhIBoI{B_ARk@trB|^pb@hOdw@}FlS`E`DuDx@v@r@zGnBbBjCrFxJnCnD~D`E~AjC~Elc@s@zBs@|AcCxE`CtDVxEeDpEhEl`@rGnW~S|SnEdCnF|TvKhFy@|TkJzDsFrGfCvGm@tDsFhe@qP`NsIdJc@tGx@`@uAqBkJl@uFrLaNfEmOpF}HrJyEfHS`GwCt\\kDfD}AzKtAxH_BhBcBr@{D@yVl@{HrOcb@bDoXxJkXbI{FxFYvB}c@LaAv@C{@[VqFTq@xD`@Tw@NeFmDKu@nF_F_@w@dHyAkA}@qF`AcA_AzCh@}AJr@HkBmA\\oAeDg@sD`@gKmBu@UcHu@s@LkAEbBtAv@hBNRs@XqH{@kFrAgMKaSmBReGaOKkRqFwUIsG|Aqa@eGwUoDeFaBsGGqC~C}Jk@yDmCaFaFwUgEaDoEwMc@kHn@{@dBZmBw@a@Ju@Z",
+        "resource_state": 2
+      },
+      "average_speed": 2.911,
+      "max_speed": 14.316
+    },
     "2024-01-02T16:04:23Z": {
       "name": "On to Rio Baker wild camp",
       "distance": 70282.0,
@@ -1158,14 +1200,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2584294.9,
-      "dailyAverage": 51685.898
+      "total": 2667509.1999999997,
+      "dailyAverage": 51298.25384615385
     },
     "total_elevation_gain": {
-      "total": 33888.700000000004
+      "total": 36151.30000000001
     },
     "moving_time": {
-      "total": 781273
+      "total": 824242
     }
   }
 }
