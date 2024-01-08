@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-08T13:50:00Z": {
+      "name": "Into Tortel",
+      "distance": 15992.4,
+      "moving_time": 10830,
+      "total_elevation_gain": 288.8,
+      "start_latlng": [
+        -47.82,
+        -73.44
+      ],
+      "end_latlng": [
+        -47.8,
+        -73.53
+      ],
+      "map": {
+        "id": "a10520605826",
+        "summary_polyline": "b}ybHr{e_Mh@t@x@vAv@h@hA`Bx@dBhAvDh@`A\\jBPVl@VZEzBsBX@~Gjd@PhCCdFUbOc@|EGrGWhDw@lG{AzO_L~Xs@xC[bDi@zCcB`EwJhPoLlSmn@fgAkJzOaKtQi@xAsB~H_FtPaAjEq@lBwHjIuClD{KvLgCrBeDhBiDxCY^_@bAa@fCUjF]pDDjGI`FfAd]x@hNjA|I`AvNPp@jC~E^fAHlHhApIWpFa@~DA|A\\xFv@jFRb@f@`@fDNd@b@Jp@C\\RG@LIMIV?tCGtAJhAd@f@z@Z?[pAMIKgAVG`@dCvAHd@@lALFDVx@b@[dDz@hAPn@r@z@f@ZQ@JZBKCIQ`@R?GDVOO@Eg@LwBGxC_@vBh@oE@e@CXE_@AxBG@N}A_@hBJEH`@BaA@XSIVBI?FBEJDc@AROCJ?D[GHY~AFe@X]CcAExA@GI?DD@o@f@f@hAhDVPTj@n@t@AJ^Nz@MDPDKx@L|B}@hAMjA?p@^f@m@ZMB]Vg@CKl@}@jADUfC\\JR\\FKs@[[xBx@hDnBfBbFnCTTL~@\\c@Pu@h@h@x@oAUs@_@_Ae@o@q@CELmAZQZc@i@aC{@wA_A[eATERi@b@e@Rs@y@aC_@m@}ADg@h@a@fBcAt@sAc@gC`@iBp@oCOc@cADOYPq@mAiAaDc@kERoAFWfA_CaAoAiCgB}AWUh@gBw@Fm@r@g@O}AJuBWUJPDIJ_Be@z@TdAG`BJ~As@ZXhAb@h@K`@?bAbAX@V~@j@a@`Dp@f@`@lAxAvAI`@LQMh@Fy@Xz@]q@KCO^b@CSNQGZGKDZ]@_AA\\Wt@HGMRDEs@V[]bBQ?XB@@KCRQKH?^{@]d@LLIJ?YCHJDCBSGLGPLAHZDg@e@KTE_@KATvABMDLEwAAPOBHS?X]VBMe@\\p@RG@LWBRFUBh@O_@?i@EPNK?oACTAwBLnDSALBGEAJF?G_@DP@U?O?b@Gc@@LJSLRUXEEPx@C|@@p@DoBSs@k@]\\^NAKGBKh@XQILHS@KUT@u@C\\JRe@DHMd@Ij@@SBSUrBVcC@HE_@DZAe@?^LOER?UM~AJ]?u@GYQC@dARq@AP?QCHC[@l@NUMCL?Ed@Ko@R^Ge@DLUCFOCC",
+        "resource_state": 2
+      },
+      "average_speed": 1.477,
+      "max_speed": 7.942
+    },
     "2024-01-07T14:49:27Z": {
       "name": "Getting close to Tortel",
       "distance": 56591.7,
@@ -1263,14 +1284,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2796041.1999999997,
-      "dailyAverage": 50837.11272727273
+      "total": 2812033.5999999996,
+      "dailyAverage": 50214.885714285716
     },
     "total_elevation_gain": {
-      "total": 37662.70000000002
+      "total": 37951.500000000015
     },
     "moving_time": {
-      "total": 869420
+      "total": 880250
     }
   }
 }
