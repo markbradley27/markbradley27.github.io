@@ -1,5 +1,68 @@
 {
   "rides": {
+    "2024-01-07T14:49:27Z": {
+      "name": "Getting close to Tortel",
+      "distance": 56591.7,
+      "moving_time": 16797,
+      "total_elevation_gain": 452.4,
+      "start_latlng": [
+        -47.61,
+        -72.92
+      ],
+      "end_latlng": [
+        -47.82,
+        -73.44
+      ],
+      "map": {
+        "id": "a10518129792",
+        "summary_polyline": "~|qaHvcb|LCQlBiA~BiCn@iEjA_A@sFPMdD~Zx_@vkAtN|UfBpTrB`HdBtDt@`DbD~H|ApBtLlChC~BhApBbKfYfe@|u@`BnAbKtDtGzF|c@xm@bIbOhAbAfAXrLeAnNf@`IzBx@_@|@{BtE?x@m@dA{BfBCjCr@fBxCnEjBtDhGpFfDzIrQxDhKhIlMKzElBbEVpAO`Eb@`QxBrPdC~KxAx_@X|D^jA`JjQrFhH~AtCxH~SzBdE~F`I|CjKrOd[nAR~D{D`Ai@t@BvQpVnO`KdC~BfBxEbElV~Pdd@|ArBlHjEfPbSlB`EzCbKd`@bt@lBjFtDpP`BtQQpCgAdDWhFgAdGC`Bx@fEp@nG|EtNf@lDsBzj@_@|XbCh[bEtLNfCaMx]WlE_B`Mr@xG?vCcBxCe@|DMCWxA{AzC[`BGhBVhDMhCcGj~@mHpSuAvBq@pByBzTcKtJ}@xAoIh[OjCLhPfCfTi@vIDfBr@`BhAv@xHdAzAn@zStWfe@d`AhCtLjAfElFjKvBpAnVlF`G|DvCpCdNdSnLtJlMtIhZnX|ApCTlE{AbXxAfJoAzOf@~EFfD_@tBaCjHExARhGwEfJgIfEw@vA]jByA`LWvFp@lLb@xBhAhCPtAuAzH@jEu@lGe@v@w@ZeBMcIlAPSM@TXOQNMGYo@LP?Fn@mA~CYxDj@nE~Nta@|E|IjFbHdAjCvAfIjDlXtKng@tHdEzHPfBf@p@Q|DqD|AYvAVlBbAnItK~GbDpB~AbF\\jQrDzI~C|QpErPh@tAd@fg@r\\|Slc@nAxA`HbF|@nApEdNnB~GVbLrBdO|IbWtE|g@bDzLIvHl@rNUdLRnB|E~IxE~MhBxCpCdKnYn_@fBzCp@rD`AzJL`CI~EZfAdG~GrCvBtDrAv@zALlMoFntAcDfr@mAdFiHhNWrAiFft@oDdG_CvFe@n@eBj@eBbCo@fBeJl^aBpJ{AfOrB|TvCvKFjGs@tFLbFlGrZBf`@nBtXYxL~ApGvAtJb@tD?jDb@pCr@bCxDhHrAnDjFvEdBb@lA[`@g@`Aw@nIf@bHaAnJoC|DmCrBHpIeDzAZKLZUbDf@~F_A`HhBfAQ~EuClHdAdFiAv@j@rFhJlSlNxE~Fz@zBIhB{@bAcDt@Ub@Fz@lDjFlHhIZtA?~DbCpHbDtEzBdAjGzM`Ov_@tGbVhOhg@dKfWxGbNv@fHJpQh@pHfMl{@iCzBo@DPdAh@Kq@?JaAq@a@iEgM{CaDiA{BOJj@c@YFMNJJw@M]l@j@o@ZC",
+        "resource_state": 2
+      },
+      "average_speed": 3.369,
+      "max_speed": 12.49
+    },
+    "2024-01-06T16:22:49Z": {
+      "name": "Wild camp to wild camp",
+      "distance": 35884.5,
+      "moving_time": 13392,
+      "total_elevation_gain": 460.1,
+      "start_latlng": [
+        -47.42,
+        -72.74
+      ],
+      "end_latlng": [
+        -47.61,
+        -72.92
+      ],
+      "map": {
+        "id": "a10518129054",
+        "summary_polyline": "jsm`Hxl~zLFKaAZrA`CnHnHlBdCvKtWlG`MpIbG|G~KxAjBh@RtCFzH~G~J|LDd@ITh@Ib@^xGnJ`BtFZvDlBbCpApC`@rAHrASjAi@d@i@AkC}@oCnBQdAFzCQrDLvA~BjIdD~Dz@rBBfBw@tEL|AbHdEfA|@x@nAhBlExD|GzDpEPvA?vAO`ADdBr@bDFtC`@hAlFX~@ZdAh@xAnBb@Jx@o@t@oFTe@p@e@l@CdI|AfExBbElGrAfAdCz@rBs@|@BbDdA^l@f@dBl@j@xA\\nEZbD`FbH`FtCzCzBrBf\\lH~@?n@u@FoASmE^_Aj@YlCjAhOVdAVnG~ChEPvFtAnBF|@Sp@PjDpEhA`C`Djc@rCtQjAbM`AxBxFvJvFbG~A~@`Ep@xAGjE_E~@k@n@EtAx@|DzCvAM|Ao@~AKvF~@xAhA|CbDtEl@|H`DxGKh@`@zAdCdBd@NCPg@AgCx@kEScCJ}@vCkHZUj@Zp@~CjAxCGxDVvBBjDb@xCi@bJkA`Cz@|KZj@f@GJQ@e@m@}BIqANcAl@G^r@HdBhCdKRDI`@xAnP\\~BrDbJF`Ao@|IHhB`BzExDnHbEjSxBpF~ApBlAjEbC~BnAtBlApA`@~@l@dPtEp]dE`TnCxFtC|Jl@`EdHlm@lAtFDbHT`Ct@rDBfFb@nA^G?]`ARUCLGKg@?t@Qe@Yf@L^b@?vHcDtb@oMv@A~DvAvMv@nBgA`BYjHuE|AIzCaAxBRrBOfD}AjB_@tHAlD]h@UzAcBt@]z\\kGdBChDrAxGMbJrEjQ`GrRnCxFvCbFzAvJp@zGvAhEXdD_@vSaHfEMzGNrCVtOlIdF~AbDd@vF]j@\\|FrGzB~GVfC`@v@r@f@rAp@|Et@hB~ArAZpDi@zB_B^G^Vh@dBxA~Jj@bBfF|EhAj@n@@~Bi@`C_BbCgEd@uB`BqTjCaPlAaHf@mo@JmA\\oAp@w@bBm@|o@qLzAy@xCeDbCeFjA}EVe@`@?fF|Ab@|@R~AdDvaAXxBl@dB|@fAx@b@dR`DbE`CbEb@|CxB`LzAzBt@p@t@jDzGtAjBbAhDGj@HWPDxA~CfBdFjBlJLzBFpJ|@bHHbBY|DqAxEcDhF}BbFkClLwBjOqDrd@MfF`ApPlChPxF`Vf@|A`AfAZz@bFfW|@|NzOfyAAYqAaMKMK`GSXy@j@e@~DkCtCeCfBVc@",
+        "resource_state": 2
+      },
+      "average_speed": 2.68,
+      "max_speed": 11.234
+    },
+    "2024-01-05T13:17:42Z": {
+      "name": "Leaving Cochrane",
+      "distance": 36055.8,
+      "moving_time": 14989,
+      "total_elevation_gain": 598.9,
+      "start_latlng": [
+        -47.24,
+        -72.52
+      ],
+      "end_latlng": [
+        -47.42,
+        -72.74
+      ],
+      "map": {
+        "id": "a10518128689",
+        "summary_polyline": "z}i_Hd{syLRKZXSz@XhFpBtF^nBnBhEpClBRAGR`@p@dBbGpAhHAlAd@`Ax@h@TjAj@`Ad@xD_ApE_BnDDpB~AbHtDnFr@pD`A`ClCdLF|DkAzL_@rTlBxKxCdLFzBU|INbBMIBWHHfArDhGrNh@`D?jIkArJE~BLlAZp@~ErFs@rPbAl@Db@UxBaAtBDPlBZZZ]pG`@`@rD^dBoBLa@~AsALLr@{@cR{BeBfDNfACfAHDJs@CVTJF?VSK}@Bz@NmAATB[HDY~AAoAF`AALSCRWU\\U?[kChAiCp@KbIxAYfGPj@x@`@hCJjEx@OhFWfAi@ByBy@uEm@UP?RLRCa@F_@Cl@c@c@THT^c@?XIQCZYfKrBYvGPV~@@Rr@R@Jo@n@i@^_Ae@FL@QJBj@KPyBCPoECcA]_@w@CRAc@zCvC_Fu@_@Z`EQgEoAzABRIIh@XHb@kChe@Pn@`AbAzCvEZvALvCTj@p@PjDfEjWvGjDAlPkAxL?xB`@lSrQfx@na@hC|@~AA`Ba@lVeNp@cAT{@DkAUwIOcAoAkCKk@b@yFaBsF_@}BH{@b@cAl@k@n@KrAv@xC~D`MtNvEpCtDjEzF|ElB`Dj@f@n@DnBy@pBv@fAFb_@}FvBf@nCbC~Ez@fB~@nCM~CrAlAPlD}@zCDzSzCdEbBlC~Cn@pAn@|HLtH`@fDp@jB~D|Hp@lB`@jCd@lAjDbDxD`ErDfBdAzBU|DCdHdB~QO~UhAdF|BpFbBbGl@fF~@xMdCdM^lDCdBUhAeGtNmCxIOjAPtDnFvZj@dCnAzBfPzTd@hB~@|InBrG~KvRhSvg@jB~C|FjGhCt@pB[nFcDdBk@bGg@|@Tl@x@lFpMrNtUVhA@vEb@zAfShKbc@fWlArAnBfGj@v@xU|KfDvDtEdCjXnU|@tBpAxIxArB~cA`z@jEzDdMlNlDfDxh@tVnG~GjAt@bEFtHbEnBPbO~DdF[vCRbUhJxGn@lGnCzJfAtGWdAf@pFlIZbAhArHlAxC@\\NK~SnVrMtTr@bCxA~Ir@lBdJlQ|Ntg@bBhBjK|FbNbMlFj@r@vB`C`Nx@|BvD|G`FbHfBe@GSJJOKCeAJmAm@eBMXSWHSn@z@RlADfBCl@pArA`@|@M@BRNg@S\\BVAo@_@w@aAs@Gc@@??]Af@HIK?FXZTi@n@^k@OSDa@UBEHNWDTIBIERFBYKb@PWGGMAJHJ@?AMB",
+        "resource_state": 2
+      },
+      "average_speed": 2.405,
+      "max_speed": 12.772
+    },
     "2024-01-04T12:12:13Z": {
       "name": "Another banger of a hike by Lago Cochrane",
       "distance": 22046.7,
@@ -1200,14 +1263,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2667509.1999999997,
-      "dailyAverage": 51298.25384615385
+      "total": 2796041.1999999997,
+      "dailyAverage": 50837.11272727273
     },
     "total_elevation_gain": {
-      "total": 36151.30000000001
+      "total": 37662.70000000002
     },
     "moving_time": {
-      "total": 824242
+      "total": 869420
     }
   }
 }
