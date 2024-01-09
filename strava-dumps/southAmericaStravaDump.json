@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-09T13:43:54Z": {
+      "name": "Hike around Tortel",
+      "distance": 5792.6,
+      "moving_time": 7109,
+      "total_elevation_gain": 283.5,
+      "start_latlng": [
+        -47.8,
+        -73.53
+      ],
+      "end_latlng": [
+        -47.8,
+        -73.53
+      ],
+      "map": {
+        "id": "a10525142345",
+        "summary_polyline": "vjvbHpby_MLb@SWSEq@eAMIIOKm@GMMGMUWQIQMIo@q@CIm@m@}BaACEWEyAw@UE]We@Mw@]CC?Ci@Ou@c@mAe@FBOBETQRM\\MVKFGNIBa@v@CL_@^QZy@`@AB@FGHE??GADDCIANDVn@L`ABDB^LLTn@h@dA?FKRAXMh@@d@D@@IRF@VHJBZJP?JFLAXOR?LXh@BNJCLFPv@Dh@LP@DEC@D?CH?DRFH?HNFDIPGJPJ?HHNCHQRBRNDPJ@BHFATNDRNT@HXf@XNFd@CABC@@E?B?ACAH?]RBXP@DF?PXXG?EHEP@FHFA@IH@AIDEEGLMAKDG@BAICDEOBJ?F?GFBGE?Q@H?LBR^f@T?BXPDC?CFH?FDDVV?JVJADZJHTHJEFDKHETLLBDAFUT@@CDGDBCE?ESAB@C@BAOISIDEn@EAAB?GC?EJLPATSf@?XKFG\\MVBHHHAXJXM^BX?j@Mt@@JERCb@EJDXAVVl@@^DL?IXD?LHTJHLZRDLENNDLF@JPFBF\\DHB^JL?ED@BGL@H^`@d@Fh@v@v@Bb@`@VHHFELFPl@?VBNA@?HNFFPNP@\\FV?NDJ?NJTDBBF`@RF@@FPGFFLMRCJ\\CHChAXn@?TFNHDE\\?HT\\B`@FN@CBDXCRLDL?XTGFE?EJ?@p@JVVF`@`@XJ`@\\RBPGFVDFJ?HMJG@KRKNWz@]DCDOPIl@XFALOLCn@LLCd@FXEd@\\h@RD?PWVG\\NJE@IDCNL`A^T?JHA@FFZJ`@QXYxAgCP_@r@iAJ_@NQF?PMZc@Dq@Gy@D]IWPURs@FkALk@RiB_@o@o@wA]eAYYKYKKAMFi@Bu@^uAD{@l@]ZM@KIWaAuBm@i@a@i@q@i@i@cAY_@O[gAEGGOoABOFI\\KFI@ICA@CCB?EQPFIAWA`@CMCPBFAHFLHo@DCBMt@`@n@iAAUMe@Se@GEM]QQSK[EGBCJQFYVWFDBAJB@WYGLAJQA_Au@u@Mg@SY]YG]]MUMa@Rw@LQP_@PINQDU@QOYA[UUKs@]_@u@Jg@?QJY\\Yn@GVAVWTELSDIL]@{@_@e@Fe@Pk@@g@H_@J{@Zw@Ew@SODg@w@cAoAUw@[_AIMKc@SEYYC@AJA_@F_@JQ?GMa@AIIV@H",
+        "resource_state": 2
+      },
+      "average_speed": 0.815,
+      "max_speed": 3.805
+    },
     "2024-01-08T13:50:00Z": {
       "name": "Into Tortel",
       "distance": 15992.4,
@@ -1284,14 +1305,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2812033.5999999996,
-      "dailyAverage": 50214.885714285716
+      "total": 2817826.1999999997,
+      "dailyAverage": 49435.54736842106
     },
     "total_elevation_gain": {
-      "total": 37951.500000000015
+      "total": 38235.000000000015
     },
     "moving_time": {
-      "total": 880250
+      "total": 887359
     }
   }
 }
