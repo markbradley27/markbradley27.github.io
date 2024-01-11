@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-10T16:54:52Z": {
+      "name": "Another Tortel hike (bushwack) and walk to beach",
+      "distance": 10067.0,
+      "moving_time": 10238,
+      "total_elevation_gain": 755.7,
+      "start_latlng": [
+        -47.8,
+        -73.53
+      ],
+      "end_latlng": [
+        -47.8,
+        -73.53
+      ],
+      "map": {
+        "id": "a10534644732",
+        "summary_polyline": "lfvbHzvx_MCKQHe@_@WqCPSHc@r@\\r@DDy@b@aAdChBQx@DFn@L`@d@LSn@HLa@We@Ei@HgDHw@Mg@RkAa@SS_@Pa@Cg@NQE_@F]bAXF]NBFFIFH?CTFYSMFRECG_@@o@W_@QFc@iBUOXe@S]Ho@LJFKKQ\\QIGRPKKFUJJESXIJL?QZS?e@NAFSG[`@EF}@R?EKLMLX@d@Ii@@k@Zm@Pq@SYDy@HGQu@^IHaBTS@ULAOa@Nw@Us@\\C@Kf@[GNJ?@SVh@Pe@`@COIOz@GADGDXDSNZFOf@PzAc@AJJE?PZLVbDNZGb@i@@CjARBBZh@j@M^J`@Kb@FRE\\KXCt@XLG@NABLN@Hp@CN\\PEr@Vd@BPIFL\\Yf@oAVW|@PXCRg@t@iAFYViCZ_AD}@Wi@Ns@~@i@fAs@TYPU^JVELe@N_@OeAOm@V}@BeBMuAqB[Gu@]?O}AJMf@q@v@BzAIxAV`ANPxCfBl@VLVB`BZf@VLDa@`@@[HH@CM?JZK]NFzAQr@?z@n@n@X|@|B`ChAfDnBfCjCNvBy@vBWvAf@RO`@s@VeAl@iAp@Ol@Fb@Xz@rC}@bB]z@Vl@rAnAlBd@z@v@PUvAi@r@?TXp@dBBd@g@t@In@m@WKYODPPa@d@A`@`@t@|@JdCnDx@h@xArDkA~@Cl@WjAKhBRp@b@j@`BfEUvBm@rDA`CQl@a@`@NR?KvFdLj@?EXFDZQ\\y@L?p@~AdBfCOK@KOSHB?MUc@_@GaAaBkA{@NFIM?nA_@XQMQs@aBcC{CmG^_@Le@Fa@GoA`@iB?o@b@cDqBqE_@eAAgBb@mCbAs@AYiAkCeBeB}@oAOg@wAe@O]Iu@\\[Jk@NEb@Zr@cAOm@aAcBOQa@Ek@`@m@FOXo@QsAm@}BqA[aAd@e@x@cC_AcC_@[sAGi@j@[lB_Ar@g@?m@[}@DiEjAaCQe@YcAaBGg@[k@a@{Ai@qERkA|@}BV[qA}AaA]Ma@m@]wA_@K\\S?aA_@Um@r@s@S{ALmBWOFIJ\\GlBLtAGR_@RCRX`A`@T\\f@F~@MkA[[ZXGI`@lCZ\\LI?QREEDBPBKKJKWN?",
+        "resource_state": 2
+      },
+      "average_speed": 0.983,
+      "max_speed": 4.286
+    },
     "2024-01-09T13:43:54Z": {
       "name": "Hike around Tortel",
       "distance": 5792.6,
@@ -1305,14 +1326,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2817826.1999999997,
-      "dailyAverage": 49435.54736842106
+      "total": 2827893.1999999997,
+      "dailyAverage": 48756.77931034483
     },
     "total_elevation_gain": {
-      "total": 38235.000000000015
+      "total": 38990.70000000002
     },
     "moving_time": {
-      "total": 887359
+      "total": 897597
     }
   }
 }
