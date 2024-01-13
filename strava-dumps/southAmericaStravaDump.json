@@ -1,5 +1,47 @@
 {
   "rides": {
+    "2024-01-12T14:13:45Z": {
+      "name": "Almost to Villa O'Higgins!!",
+      "distance": 60858.5,
+      "moving_time": 17513,
+      "total_elevation_gain": 1121.3,
+      "start_latlng": [
+        -48.01,
+        -73.1
+      ],
+      "end_latlng": [
+        -48.35,
+        -72.67
+      ],
+      "map": {
+        "id": "a10553007579",
+        "summary_polyline": "fr_dHjud}LHj@T[jAyDjHqKvAqJrEiMt@sDIgC{No~@MkCR_BfDaGvBoGjCgCh@sAbB{UzCcLhA{HSqP}AiYuDiUX_BbImKGsUlEwSeEgUd@wBlCcDDyJxE{IdBwIlJcInJ{Kh`@mL~r@acAl\\_BbNuQjM_CxE}Dz@oCXuE`CsGMaHpEqFdAsDNkJvF_KlGcD~@qBP_Bs@sDiSkVuEsIa@mDViE~CoGdCgRvAaDzG_HbAsDfB_BjAcEvEyA`DiElDeQj@iXOqF~EHdB~@v@u@DyAkB@f@s@vAQLw@O_ByAcBKaAfBSpBcB|AwDCgCu@m@{@z@sAlEm@TMa@pAuBLoBn@aBVeGfBiK`AmA|Bk@`CaEzBuABoFkAsIJiElAeFdEiArFIxAyJ|CsHr[o]dEk\\`DwGlIuJzE}AfDp@pGwBlVx@zRkA~JeHpFyJfG_EdCsI`CuBpHkAxi@zA~l@gOfCmDzMqZdAoAxDiBnPkChG}B~CyVt@{BvEgG\\yGpBeGpBwMvDwEjA{DFuBcBcEe@sCP}@vGkFrPs@xAu@|@mBfDsP_@qIHkB~AoFm@eIt@yI_FmNW_GsCaLPaEw@uDIuCc@KZDCmC_BgEFcF{AuFFuFaCsJMkF`BiKnJq]n@iMa@{KhDuJJqKdE_DtCoKpIeE|DgObFoHr@uDJmEnB{HAoDp@{Ec@uEd@mE?oF^cDrB{Fw@yG~AkHIgF~@iK?_GnDmLrBmXx@wEpAs\\tCkIiC}HkCl@_@a@SkFjAgJ`DiJtAwH`EeFzByHdKoSbKcKnAqB|AmF~FyHlDqMLgE`ByGnAuGxMoPxDwC~B|@pDOnGxAlSw@`CyCtDeMhDqChEgIxKgK_@q@Q}BVfDnA_@pa@i]rx@{f@lfAuxApBoBnLeGhBoBxHyN~AsInCyH|GmGdEsLrEmJpD_FzFsJrB}EdDkEfLcW`OqUvHsPlDkJzBsDhFmEzOuFvGyGfEwHfKyLhKuCpGm@xEyCvEkIfCwArCHvAu@~EkFnE{MpDcEtAkHz@kBtK_LvMsHxEaG|HsN|QoVdNmLpGiHhGaL`G{DjE}EpJuHhCu@vE_E`F_BvR{PlHyBnF_F|KoF|FuInHgBbS`@|GzBdOH`IaGhR}H`DgDjIgEtAiChBoAhJcBzLRpHeDvIuFzFqElB@dEnBhJbAr\\uEjQ{I`SyMnPkCpHoE~Ew@`EkFrDuCvRkEzCiB`EGbGoKvJqAhD{BrFoRz@{A~VsPvs@|KpGmAhLTrDeHxF_DrInBfGqApF~FrDi@lDx@hDIlDzDtDfAbDnB|JdFlBU`MnExBCtL~GrG?hPdFfF@Jl@q@}Ab@dB",
+        "resource_state": 2
+      },
+      "average_speed": 3.475,
+      "max_speed": 12.292
+    },
+    "2024-01-11T12:56:11Z": {
+      "name": "Leaving Tortel",
+      "distance": 62658.5,
+      "moving_time": 18045,
+      "total_elevation_gain": 804.0,
+      "start_latlng": [
+        -47.8,
+        -73.53
+      ],
+      "end_latlng": [
+        -48.01,
+        -73.1
+      ],
+      "map": {
+        "id": "a10552998979",
+        "summary_polyline": "hdvbHzsx_MaAaC]|@SOfAi@K_Aa@Z^RUXeDuB[_LkFoAwA}IUsE|@mNmAyJ@mFcEiJqCoZaAsQ_A{WBeNnAmPnAqCtMaKnYu[rOwh@faB}sC|BwNxLyZ|C}[FqHz@w]wWcgBe@iXu@yGkIgQuJ}VuVe{@yOoa@kFyKkDiCiCwD{BwH?{D]uAaIaJwCyEDwAzCk@dA_APgBe@aBoG{H_SaNcHqKoEpAgI}@sGbDmHqBwF~@iH}@iIvC{BFsExCwHnBkHjAaIi@eE`C}A]sFqEkIoRg@iJqB_O{A_GZuLoBmWGob@oGgZKuEt@sFIwF_DoMkBwTrAkMbCkNlIs[lC_FfDgChBcFnD_G|SovAhJy{BRgBdAiAc@{D`@Ij@vCxB~DNbBhDzHb@PXcA{BiFy@wGLy@hAH~AdBpF|@fGbCrIgCnBsAtAwG`H{JzEwAlCkB~Be@dD}D~CBbBcF~DqAfEh@rCzBfIqB`GnCfHe@xFvD~HIfDtBbNnAh@TbC`FjEdEfh@tHvGdDdCfCvAN|KVdKwDlLC|Cw@~GrFzGnBbc@wIx`@|JxL_FzPoA~H^~MsMrRrBz@z@XbB@jCc@rDNhArDtFfAzCfCvBzNfCnHOtIbE|GWjDtFHx@bGtCfKy@rFbA~FxCnCjFlHhIfG`AfKrEbGxHzMvKlOyBpGeF`ANrDrChMxAhBiB`CeGhCkChBY`LlAdAdAnC|F|@j@lCw@fB~@rEy@~L`@xFxCbLjKjJbBlEZvq@uC~@fAz@rFt@lApBxAlHnBtIpGhLhOvK|IpFzG`RvLnIjXrBdApBa@|KqTbFoDpB_Et@gEc@aGVgAhAJvBpDz@ArQqTHgCiB{Qd@o@|ASjEh@_@[r@gDe@Lv@e@i@P?aBUD`CoC|CgMRkD@aHrCaRrXktAvBkMpAgMjFoUjIij@bCeKbQqaAvFy^pKsg@bNsk@`VckAtQ}w@jFsRlFqOpLuPfFeD`BSjDx@Br@l@P`ASjAyA^sEvA{CgAkH|@qE_AuDEuErAqL~AwA`BGdAoBg@{EbA_F[aF\\g@`BCj@y@h@mMlA}CrAy@`EK~AeDfBkGxA{BDiBi@kEf@eEdBuFHkHt@oAjBEh@i@jHaYV}CFoSe@iLkAyJm@iLwAyFqB_FgAaIj@o^bAkCpDeCj@{Dn@mAbIk@lBiB|@oC~BqSdAkEtOgIt@cAlC{HfBgPdFgQdAwMjKq]jAqAr\\oRZuFF}R`@eHtEsLzToj@dJ{fAZiYtA_KdBcGzAyCrLuJvEgOn@wDzIsUOcAXg@ED",
+        "resource_state": 2
+      },
+      "average_speed": 3.472,
+      "max_speed": 14.506
+    },
     "2024-01-10T16:54:52Z": {
       "name": "Another Tortel hike (bushwack) and walk to beach",
       "distance": 10067.0,
@@ -1326,14 +1368,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2827893.1999999997,
-      "dailyAverage": 48756.77931034483
+      "total": 2951410.1999999997,
+      "dailyAverage": 49190.170000000006
     },
     "total_elevation_gain": {
-      "total": 38990.70000000002
+      "total": 40916.00000000002
     },
     "moving_time": {
-      "total": 897597
+      "total": 933155
     }
   }
 }
