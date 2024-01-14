@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-13T14:13:01Z": {
+      "name": "FIN DE LA CARRETERA AUSTRAL!!",
+      "distance": 35913.0,
+      "moving_time": 12462,
+      "total_elevation_gain": 378.3,
+      "start_latlng": [
+        -48.35,
+        -72.67
+      ],
+      "end_latlng": [
+        -48.46,
+        -72.56
+      ],
+      "map": {
+        "id": "a10553650413",
+        "summary_polyline": "~lbfHtdpzL@UFQ\\BbHdCvHz@lFlB~Eh@`IfB`L`@tC]fKhBjB`BbA\\dHE`G~CtOdEpGeAzEuAtD}Ar@u@pDcOhCgIpJaJfJwMdEOdDPjMpC~Ba@x]gYjjA_aA~AeA|EgBhEkE`EoCdK_DlEsEtEmBxD_AxKx@hIwEzKaAbPlAhBGjFoDdCuAfD}ClFmD|GkAxHwDlMeDrFmEtFkGrWiJ~HoEdCy@bCqCz@sErAmCLsAQPP]DqFXeBrCiBtDiHnAa@pBNb@Sz@{EhBiCvCl@nCBbCwCbB}@t@{@`FaBlLs@zAyAHk@\\RhF{@hESt@i@S}DiC}C{CyF{@eCaCaKyHgMc@qBcCoWg@_D_IeXoIeUcHaMoF}HsLkMkRuM_LwEkB}AcGuPmAiAqGcDu@u@yCeL_GiJaA{BuDeQ}CuEuDgIwAmB}CUoAm@uDuHk@oCEkC|@{EdAkJ|@mEDwASiAkAuCcEy@o@kAUsAp@ki@s@iEaOam@{@{EeB}MCgAP_AxB_Ct@Dn@tDxAfCdIrBdBx@tDdDjDbFrDjCbAvAhDtKXfEz@|W\\|AtBfEv@jE`@jGvA`E`E|ErCtGlJrGlInCzIfAlGjCfJvG|LbB`HxDtGjBlBJvOs@`NrFbN[bBOfA}@r@{BbA_B~AqArT_DrAsApDsFdBkFHeCg@_FPiC~CqFrBeHlAsAlBqA`BiCfBy@`En@rB?E\\QCTWZIxMk@tNdBBK_@WVuC]xBA[O@Yh@\\m@Y`@HO@XBYIHFSB\\Eo@Dd@L_@CXW@F?TQ\\qBNdAQwAMRNBYbAIvBwEc@Sd@?XFLE{Aw@OE_@XiAx@q@I]|@WnLoBH_@McCHWpHiABoCdEs@`@hH~Dg@TLz@`OMZiNxBaEYCQn@UYQVPmAZ{IaAG{@WLBQB`@@m@@f@Bi@KzBImAHQQJP?MQLDJYPvAzGr@\\UcAwS@yAQEQiCX_@?WAX\\_@u@fANdCRH`OcCh@oBX[nB^l@~@HY[uBi@^q@WIPLPD_@p@JTb@Va@p@hKOh@RlCGtAiUvDYSMqEJUzIkALPHdDNj@^F~Bo@[mFmE`@a@_G^fG`AAfAvBb@LbAdBZdGIVcE`@_@uGYQwAVEtBgEr@F|AZHnDs@J~Au@f@P@f@w@]{GeBQw@}NOQ_Bd@GfB_DFwDj@QVLhCFk@xBWLhBPNhAc@MkErAIP`E@hErARIUoC\\SkD_@SuF~@aCvBSfARd@vGp@JSKu@",
+        "resource_state": 2
+      },
+      "average_speed": 2.882,
+      "max_speed": 13.874
+    },
     "2024-01-12T14:13:45Z": {
       "name": "Almost to Villa O'Higgins!!",
       "distance": 60858.5,
@@ -1368,14 +1389,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2951410.1999999997,
-      "dailyAverage": 49190.170000000006
+      "total": 2987323.1999999997,
+      "dailyAverage": 48972.51147540984
     },
     "total_elevation_gain": {
-      "total": 40916.00000000002
+      "total": 41294.300000000025
     },
     "moving_time": {
-      "total": 933155
+      "total": 945617
     }
   }
 }
