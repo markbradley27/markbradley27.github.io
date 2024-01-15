@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-15T14:02:47Z": {
+      "name": "Ride to the actual end \ud83d\ude1c",
+      "distance": 22112.6,
+      "moving_time": 9924,
+      "total_elevation_gain": 149.7,
+      "start_latlng": [
+        -48.46,
+        -72.56
+      ],
+      "end_latlng": [
+        -48.46,
+        -72.56
+      ],
+      "map": {
+        "id": "a10566306913",
+        "summary_polyline": "`xxfHb`{yLLhAxP~Abc@gHt_@xDjAVh@b@PzAh@|Z`Cdi@hMdg@\\zBq@z]SfAiCvHGt@l@hAfHtGId@HL?Yb@w@|@?gAREUYjAZQdB|@xCcBjEl@bA_Af@CfB~@~@xCh@J\\UFBZxBR`@z@Qx@eB`B_@pAfB~Ch@b@Gz@eAx@BbChClCCz@lAl@RbBo@bCTjBmAxE{@hDUrBd@TT@v@yAvCDrAf@`CdAfA~AfDFZEpANl@hBlAdAi@bBI`@N|@bBElAHd@vA@k@BJ?x@nCKfBVzDlAfBrDTX`@PlAxEjCbCHvFbA~B}@x@q@nAJzAn@hA{@tAAn@sArAe@vE~@rDE~HtCxAMAUQZ}@JbCXdBbApAm@tAc@r@w@`Do@bBg@jABXWsBLyDtAy@BgAbA}@RaAp@u@CyAiAcB?uCeAc@_@BOJJMMT_@Ql@MBaDcAeECgEw@kAh@g@jAkBLs@t@{C_AsAr@_C~@iGcAcAFaGcDYsASY_Ea@}@eBAmASwAH}B{@eB}@a@?gCs@gAkA[iCz@wBaBGc@NgAMc@uAyCuA}A[kBAcBlAkBHg@Ey@W]uBc@{DZuEdAiBfAaCUwAj@m@Yw@iA{C@s@eAqA_Ag@AgAhAg@D}Cm@mAgByAZy@hBm@Xg@g@WeBuAY]wAa@u@eB{@_@?qA`AgDu@e@B{@h@qB_A{Ah@mHeHc@aAFm@`CyG^_Br@s]ScBgJ}]sBeJkBua@y@ga@YaCsBi@q^yDiCLy`@tGgPeBEaAe@P`@AKDDKa@D`@MGZ@Ue@AfAEOv@nEBWk@ONqAcA~@^?OHB\\dAaEEOi@b@KKVE]C^Nm@]UHdAFCWE\\AG??EYNJULHSAJFGFDUP\\W[ORh@Sn@V?a@eA?G_BBrBNQ?`@BQbAf@]MCP]o@[f@AUh@Uq@RIGRSIZHW@VUAZGFiAZo@i@hB`@A@L[\\`@s@y@XOBR?@\\kAAa@V{AUQrAXoAzAKxBF@a@WDVMCZ?e@Lz@dHRV_@jBQg@UhFwJkFvJjFwJiFxJr@j@?S|@e@PoAVe@x@BTk@\\QWyEe@g@u@?~A?G[HMgF~ChFwCaAh@\\XuBAkEr@a@n@wAV{@j@_Dv@EnA`@`AGRJb@DVAYGRq@?z@BPQEQk@d@",
+        "resource_state": 2
+      },
+      "average_speed": 2.228,
+      "max_speed": 9.513
+    },
     "2024-01-14T17:04:30Z": {
       "name": "Mirador la Bandera Hike",
       "distance": 8241.2,
@@ -1410,14 +1431,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2995564.4,
-      "dailyAverage": 48315.55483870968
+      "total": 3017676.9999999995,
+      "dailyAverage": 47899.63492063492
     },
     "total_elevation_gain": {
-      "total": 41886.700000000026
+      "total": 42036.40000000002
     },
     "moving_time": {
-      "total": 953809
+      "total": 963733
     }
   }
 }
