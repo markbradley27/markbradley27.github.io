@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-14T17:04:30Z": {
+      "name": "Mirador la Bandera Hike",
+      "distance": 8241.2,
+      "moving_time": 8192,
+      "total_elevation_gain": 592.4,
+      "start_latlng": [
+        -48.46,
+        -72.56
+      ],
+      "end_latlng": [
+        -48.46,
+        -72.56
+      ],
+      "map": {
+        "id": "a10560895832",
+        "summary_polyline": "bxxfH~_{yLHl@lGNNc@g@eJKSFDGADo@_@{EFaBIEGaAt@gAOUWJGKXgAEy@L@x@]D[IKNW`A]f@WIM?UJ@OYDKH@Th@Qc@L[l@AHd@Ca@Na@z@w@pBa@TNHVCNBk@NYBe@FOX@Nh@x@SJPJr@j@JTMIF@s@APj@eAQ{@Xo@g@AUX_@_@^eDq@i@Ic@Ne@QYIRy@LEs@_@MSDS`@e@RGi@MF_@v@c@`@IGDW?KGF@WM?Yb@EE@MGOKEBYNILq@JIIMWAc@ZKCALD@k@O[r@Gc@QKIRFJKFuAAO_@J_@\\CEWGIRIGCBKIWe@k@AMFIUO|@q@BQXUVGIK`@C?WKOLOGIF]\\SJa@ZQIAa@i@QTOEMMYV?W_Cb@Gd@UGCQIRLMGJF@COBTKMDDFANq@Mj@KDdChAICKRAO}A{@GWVw@HZNDxAa@Vu@A[Z]^mATEJ[zAgA^m@X?AVNo@T]jBPXGZi@LAFW`BwBp@]\\q@`@MNu@`@w@`@GLMB[P?ZqAPcA^g@Lj@`@iACuBQu@BuAJMGm@Fa@Cg@BQVA?a@IYVIFk@`@QCo@Jg@IcA^QTLMaA@Ul@TNcB|@K@i@f@l@XIR`@`@[PAJ^`@R\\_ARTTEFRD|@JT~@d@FNZB\\^J^`@PF^d@BBZNHXn@NAr@dBGA@Hv@WPVh@FDLTULG^JTITdBa@hAm@l@i@rAFn@Sd@DNOp@EpALzAnAx@}@xBa@RGNp@t@U^Cv@h@fBMtDUv@A`BCMRa@HlAOz@ZzBKU{@YmARa@d@k@pAk@BYPYlAQL{@Km@r@y@f@ELHVcAt@OnBQTS@w@i@g@}@OA]Ne@|@mBZPfAT^KG}@Z{@A@n@UBKRQdBg@W_@Ta@v@s@dCWV]~@WFCnAILKYMCFMORTM?Tg@CU]S?a@\\J^CRSCi@i@k@\\Sb@YA@z@b@bAPfAJEG@DDERBXc@\\_Cp@GPH|AKPyBZCMDJENGWGLDn@@MK|BCkAHgAG]OFNCCECFJCCCKJRKQD@DDIG?L@I@AAF@EE@LHm@Of@HG?TCUD?APBQFTGOELOBD@uC^UO_@AaBf@Gr@LdC}@~@g@DSRq@P?lAl@`@@~@",
+        "resource_state": 2
+      },
+      "average_speed": 1.006,
+      "max_speed": 7.16
+    },
     "2024-01-13T14:13:01Z": {
       "name": "FIN DE LA CARRETERA AUSTRAL!!",
       "distance": 35913.0,
@@ -1389,14 +1410,14 @@
   },
   "stats": {
     "distance": {
-      "total": 2987323.1999999997,
-      "dailyAverage": 48972.51147540984
+      "total": 2995564.4,
+      "dailyAverage": 48315.55483870968
     },
     "total_elevation_gain": {
-      "total": 41294.300000000025
+      "total": 41886.700000000026
     },
     "moving_time": {
-      "total": 945617
+      "total": 953809
     }
   }
 }
