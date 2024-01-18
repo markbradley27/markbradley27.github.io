@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-18T01:08:26Z": {
+      "name": "Night ride from Daniella's to Carmen's",
+      "distance": 2910.2,
+      "moving_time": 870,
+      "total_elevation_gain": 44.4,
+      "start_latlng": [
+        -47.25,
+        -72.58
+      ],
+      "end_latlng": [
+        -47.25,
+        -72.6
+      ],
+      "map": {
+        "id": "a10579751742",
+        "summary_polyline": "b{j_Htd~yLV^pAvA|AnA^^d@\\Nz@@VPZVNl@FJFNp@@f@FLT@r@]ZARBFFR@h@NrBNhAXLL@PGb@E`AG^UfDKp@@d@Zt@LbACHKHOBWNmAf@a@Rk@f@ORU\\i@bBOv@EbALl@Vd@Db@HPXfAFN?JDTl@hB`@`B\\jBB~@Ch@e@rAKf@?^Ff@Pj@zAtC\\b@l@b@f@h@tAhBVd@Pz@z@jHTtAHjAFrCATEVQ^c@f@g@r@iAlCS`A@ZJ|@LnBLhAAd@[dEA`@@b@Jx@t@lBBRE@G@OKc@qAIQMIMW_AiCMSs@g@WK_@C_@L_@^[b@g@jAe@nBc@n@G`@IHE?QGK@]r@CJLLBHf@NFAJBC@",
+        "resource_state": 2
+      },
+      "average_speed": 3.345,
+      "max_speed": 8.12
+    },
     "2024-01-15T14:02:47Z": {
       "name": "Ride to the actual end \ud83d\ude1c",
       "distance": 22112.6,
@@ -1431,14 +1452,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3017676.9999999995,
-      "dailyAverage": 47899.63492063492
+      "total": 3020587.1999999997,
+      "dailyAverage": 47196.675
     },
     "total_elevation_gain": {
-      "total": 42036.40000000002
+      "total": 42080.80000000003
     },
     "moving_time": {
-      "total": 963733
+      "total": 964603
     }
   }
 }
