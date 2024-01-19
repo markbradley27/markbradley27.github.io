@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-18T12:22:13Z": {
+      "name": "Those Cochrane Days",
+      "distance": 24080.8,
+      "moving_time": 13137,
+      "total_elevation_gain": 287.7,
+      "start_latlng": [
+        -47.25,
+        -72.6
+      ],
+      "end_latlng": [
+        -47.25,
+        -72.6
+      ],
+      "map": {
+        "id": "a10585981326",
+        "summary_polyline": "zqk_H`kbzLjAn@rAlD|AjC}@cDVsIa@wGlAkDfBuCJoASiEeB{LiFsGiB{D@cAp@_C@gBdAlC[eBq@o@oDuNfAgErBs@bBkBx@IXcBt@m@XzHv@~BB`CBmA{@}Cc@iI{@p@KvAu@?yBfC{ANo@tB_@tBnD|MpAtDg@mCi@e@}D_OAyAnBqEtCsAt@}@[yAoBaA`CyCh@iNxDoCxCik@zKfA\\qCkAZVKOS`@JNdAk@vJeLgAgAzQqA{@Yq@W}BRqAMm@F]TMYw@OtBX_@Uj@A~A`@zCfBnBaAnNqLtHsCTe@iBsAYi@yBcEeD_A}AYf@XN[Yf@`@YUD|@D]_@gAb@v@Ic@R[S^DQTKt@bB~DnDp@rBfA\\n@bBtCM~LeIn@uNmBmB}@cGPm@NVPa@J`AMWRmDK|BDnAK_ARHAq@YXVJBD]ZM@DmA]tB|@`GfBrAQdHxEdAUXa@tGeEw@m@bHeDMq@fKd@`D_FlCiArCKhBlE`Q@pAq@dCA`AvBvEbFjG~AxLPbFaEdJd@zG[pH~@~DWEsCaHiBaA{AlAaCtGs@HWp@X^_@q@@f@f@gAh@IHi@Qh@sAfAt@cAh@C~ByG|AmAaBdAeCzGeAr@GX~@k@}@d@jAj@aASE[To@z@c@y@\\[jAXgAr@KbC_HrAaAfBn@rD|HaAmE\\oHc@gGj@yBpCgFIoFgBmMaFiGqB}DAcAr@aDEoAmEuPPyAtAaDvDoB`@o@e@{Cn@}JdDJ~Ae[oBiB_AcGXaAWcBtAiC`CZJVU|C[GX}@u@a@p@t@A@}@\\lAg@WKCb@VSMTHOcB_DdBzCOw@Lt@uBqD|AnCc@q@p@`AD_@CFMKRt@gAwAhA~AO_A]Rx@KG`@Ps@o@fAk@Jl@q@HXCDW?l@DIt@MO^cBd@mHBcA{@Q@kAw@oATcNeEgEw@cCScCZkC_@y@D}@[@PRBWFxAXNr@aJK}Eo@MN^ImA@b@ZGLjBDbIm@vDUSEqBNp@q@DZJ`AQ{@CXe@k@@Tb@SDn@`Be@nCBjCn@bBtE`Fi@tL`@~Ax@rAr@FZkCuDrp@}DbDgAnRj@tCaFxCmA|CGhBlE~PC|Au@nCHn@nBdEdFlGdB`MNrEGn@gBhCwA`Ej@zG_@tH|@lDkDqHqBw@qAlA_CtGi@Ba@x@v@r@VCHm@GH",
+        "resource_state": 2
+      },
+      "average_speed": 1.833,
+      "max_speed": 11.448
+    },
     "2024-01-18T01:08:26Z": {
       "name": "Night ride from Daniella's to Carmen's",
       "distance": 2910.2,
@@ -1452,14 +1473,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3020587.1999999997,
-      "dailyAverage": 47196.675
+      "total": 3044667.9999999995,
+      "dailyAverage": 47572.9375
     },
     "total_elevation_gain": {
-      "total": 42080.80000000003
+      "total": 42368.50000000003
     },
     "moving_time": {
-      "total": 964603
+      "total": 977740
     }
   }
 }
