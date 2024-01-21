@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-20T17:26:18Z": {
+      "name": "Coyhaique errands",
+      "distance": 13628.3,
+      "moving_time": 9246,
+      "total_elevation_gain": 115.2,
+      "start_latlng": [
+        -45.58,
+        -72.08
+      ],
+      "end_latlng": [
+        -45.58,
+        -72.08
+      ],
+      "map": {
+        "id": "a10598371989",
+        "summary_polyline": "txeuGzr|vL@GPAKBGRI@y@IGDKb@K`ALTPBh@\\t@LHIh@cEZo@rAaJKMm@GYD@OJU@q@RQ@BC?GNIdAUAURZKZ_@A[@b@s@\\CHWMBIETJm@Rl@IC@F@EBDG?LIKHMIAc@]kADUd@KAm@XeDPaAX}C?{@m@iAo@eBy@wAmAaBi@g@_As@gAm@gLqEIIc@iAOWyBaAGQ@OdAeFRs@R?WIBBWXOnA}CnNeAxFKRIDe@Mo@u@i@[}RaKo@CaB`@mALEFWtA@j@\\Zn@^WDEKc@OT?NPAMCRu@_@Ip@INGVA\\\\fAl@tAJ^ANNMNa@Ls@Pg@?c@Pw@DK\\?zBhAh@`@l@NnEdCx@TpAt@P`@_@~A[hBFP`@Ln@vBBALo@QPL_B@}AP`Be@sBUNJA^xCCA@MF@j@]D_B`@oA^NXX?TuAjGg@lCa@nBKLkCyAm@MOXQdAe@`CQ\\U?}BsAi@KSFIRa@^ALDLKKMq@@iAM[_A_@c@c@_B}@kHi@wAGoBFEmAmAqMEIKAiCn@m@DKG]yCOqCW}AQyBAJDRFEOaA?MLQtDs@JLPxC\\xC^tEHl@LNxDy@E?v@m@`@w@t@O?IHEe@h@KCGO@Wx@_BLIRm@L?Q?k@h@k@pAcBtCqAZU?WLqFpAgALDN`@B`@zDJDzDgAHJNjBFCC_@FIlAWdAIpDPRP@f@APDI@k@NMjDRLJBJKtAGrDDf@JLhDhBX\\|@f@?TMl@DLCJ@QCYNe@B[W[eCmA}B}AgAQyBMKEAIVkEDkD^eMGOMIJQEOMCONB_@E]`@y@Fg@CYWw@Eq@]_@y@cCQ{@t@u@rB_BLUTkAj@P`CvATETm@jBwJXaAn@}CLaAh@{BMWaHoDu@Sg@g@_@AOHIPYrAgDjMo@pBMLq@TeHbBIJCb@Fj@nAbEERiLdCgA`@aBVqCn@IFU`@r@pHB~@LB@FfAtMRhBFrAm@LSt@]jDa@hCHf@An@Fd@N^l@R@`@h@XlI`C|@`@V@pFzBlFzAxAZpEj@BB?Zi@tBAr@B}@^y@R?RQ^R\\AVSTc@JCf@@Y?rBHhD^b@C`@On@g@Zi@t@yCj@{@xH_EVCj@c@bB[p@Fr@b@T`@?JHUDB?KCRLBSHBB",
+        "resource_state": 2
+      },
+      "average_speed": 1.474,
+      "max_speed": 7.292
+    },
     "2024-01-19T19:22:53Z": {
       "name": "More Cochrane days",
       "distance": 10033.5,
@@ -1494,14 +1515,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3054701.5,
-      "dailyAverage": 46995.407692307694
+      "total": 3068329.8,
+      "dailyAverage": 46489.84545454546
     },
     "total_elevation_gain": {
-      "total": 42474.50000000003
+      "total": 42589.700000000026
     },
     "moving_time": {
-      "total": 986828
+      "total": 996074
     }
   }
 }
