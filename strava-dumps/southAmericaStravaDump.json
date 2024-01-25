@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-21T12:09:44Z": {
+      "name": "Last ride in Chile :/",
+      "distance": 47096.2,
+      "moving_time": 37764,
+      "total_elevation_gain": 633.4,
+      "start_latlng": [
+        -45.58,
+        -72.08
+      ],
+      "end_latlng": [
+        -45.57,
+        -72.04
+      ],
+      "map": {
+        "id": "a10623802424",
+        "summary_polyline": "daeuGbf|vLSbBjGlHbK|EFaApATm@_@Xo@CXK]f@^e@Tb@b@wAUB`A|DbAbI{BbAaSiCgAcVkDnAeN_FyBHyBgDaAWhBkAQJj@a@|@i@LiWiMbA_GGq@}JgFhA}GyJeF`A}FYIZOVuDtAsCbJse@`Esj@}@fKtIdEdEbDy@fDgEcBcDjOD`@xJpFaIja@Hh@nDxBqIla@qDeBk@t@gFnVa@pI}DOS|@j@{QhAWDwBq@qAaAcAg@p@TlDb@Da@Hn@JSVVb@GbFfF\\vOfInCbAr@kCI`ADo@_@\\d@BQi@q@G|@?aA`@E`@TGSHh@|@}Ae@jA`@e@{@NQGT|@\\kC]_AtFe@j@cOiImEYTsQq@KJq@_@s@aLzBeBcQuKzBG|AoA\\vAq@d@|EbEq@kAwQhTyEvAiAvO{v@x@yGlF{w@nBuGVkCQ}CiBiIoBsk@Qg@q@P_GcPGkCxAiHKm@_B~AoR~BuO|Dk@WS{@NqFqBZyAhBoB~IMxHtDo@?Z]lBPkDAd@PIWTcDLN{G|BaKzAsApBa@\\sB}Tiz@wDoJiDoEo@kBwGsvC_F_KiA{NsGga@qJ}kAaLob@iPqbBDmTe@oKeEePo@cKaCkIqFaIiKsKcAwCiEeH}@gDcFy^oJqMeCeGA{D|AaDXPa@^Lj@EgATGeAkBc@Di@uACeETXPkAUcBwA}C}BcBsAQgDkFaAaAW\\}BqD|BvC~@fG|@BEt@rBmAbBx@fErDn@~Di@zADpBl@hA@z@TUnA`C|@P|JpLlGfOtI|IrKtIvCtHzJhKjAzC~[hnAjBxBrHfDhBxBnEwAkDh@g@t@nAjExGfa@dHv]xDnJdExF\\AtFdGzAlDV`Dg@fFwLnYYhDXhGjC`[nDhO~ChUlAnE~GzOjJfp@zBlKPjF_AxTDtF`@^jC|Jl@nEuAtq@~@dYt@xGrF`ZtDpu@~GpRlAdSxBQ?q@^ZSuA?tBAk@qAl@w@uUqAe@oF_OGeDxAsHoBrAqTjCmMjDc@OD{Aa@MHgAk@bCVJJmAl@nA]RWy@PsFeBVgB|ByBxLBrEvDi@}@`ATLd@}Ao@rAj@gAG`@SWAZ^EAa@[CP}@H|@_@CRM?f@KoAD`A@u@Bx@G[s@~@T}Bh@`BFk@YjDm@CS}AhBm@}EXXADwBzCgMpCeDP@YvAFxCfAdAjMqDlR}BlAnM~GtPhAfRr@XpJqB_L`CZzK",
+        "resource_state": 2
+      },
+      "average_speed": 1.247,
+      "max_speed": 15.608
+    },
     "2024-01-20T17:26:18Z": {
       "name": "Coyhaique errands",
       "distance": 13628.3,
@@ -1515,14 +1536,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3068329.8,
-      "dailyAverage": 46489.84545454546
+      "total": 3115426.0,
+      "dailyAverage": 46498.89552238806
     },
     "total_elevation_gain": {
-      "total": 42589.700000000026
+      "total": 43223.10000000003
     },
     "moving_time": {
-      "total": 996074
+      "total": 1033838
     }
   }
 }
