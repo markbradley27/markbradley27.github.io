@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-01-25T00:12:30Z": {
+      "name": "Evening Walk",
+      "distance": 4666.7,
+      "moving_time": 3904,
+      "total_elevation_gain": 30.9,
+      "start_latlng": [
+        -12.12,
+        -77.03
+      ],
+      "end_latlng": [
+        -12.12,
+        -77.03
+      ],
+      "map": {
+        "id": "a10734546586",
+        "summary_polyline": "ja_iA|ncuM@ACE?@BDAGA@@EDDEC?B@GCD@D?GCF?L@A@B?EBBH?DB@FANBB@JATEN?ZC`@AAIDE^KXQDCHNbA?In@BM^C?ADIpAGZDh@Kh@APEFETBJCF@^KNGGADFTCJ?ZGREr@M^CVY|@GVDHLDVPd@JVPH@P@FH@HMPKHCFGDG@ADIDSEABDHv@l@PHh@d@JBTAFBBLLNZP?BFFNFZZVLJJ^VNVJVVH\\Th@TDDBP^j@DPB?FEFM^HE?EFA`@@JRRCV?NLTD\\OZAXDHJFBHSLMTIFGEIDKAk@OMIKA?ELAx@RPACOE@CDHK@KEKB??@GAa@_@AENC^SPURMhAg@POLCx@e@HABNRLF?JIL?BF@NBG@a@BGJAPOf@Mv@ARY@K^s@`@_@?QF@H?b@]ZQn@u@BG?KLY@k@FI?OH[ASBGP]j@m@L[Lm@FCTEVUHMFQ@QCOJg@Sk@@IHIAOFM`@GHWBAB@A@@]R[HYJGNUPKNU\\_@DQHKPKJK^SBALBE?@@@KEKFYDAJDB?AQOOCYKS_@SPS@GC@UISBOJi@dA_@b@IFQDILQFSDIA_@SQFWBY?QDg@Mg@Gc@Fs@Mi@@[GQBM?WCOCo@@UG?Ba@?IAMIMAI@CDS@w@SaADgBO}@@GJBN?DGBc@Kq@?u@E_AAUDc@O_@Da@Go@Ju@GEE?BM?OEEGBEB@FSF]?WFKLaA?[JQ@mACAKAAPYEA@@C?@AC@AGADBC?@@B?E@@@I?L?E?DBEBECLDAKDDOEIDNACCB?EBACHAIAEE?C?@KBQJG@@AGAB@DC@@ACDEGB@ACCBA?DECDB@ECF@ACA@DAE?FDEA?CEA@DFAAL@RSQNGEI@@DDEJADBKAF?GJICA@B@AA@@I@D?@B`@QOFPKE@@@A@?AD@CEHABDBB@AEFN?@EKFDA@BEADACAA@?CADA?EIKCDCACEBAAB?BDCAHAACEB@?BAKC@DEGBB?O?@JGCC@CCNEBBSA?ANBIQILGPUDKCGG?D?]q@bAx@f@|@o@gAGcAKO@CCE",
+        "resource_state": 2
+      },
+      "average_speed": 1.195,
+      "max_speed": 12.009
+    },
     "2024-01-21T12:09:44Z": {
       "name": "Last ride in Chile :/",
       "distance": 47096.2,
@@ -1536,14 +1557,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3115426.0,
-      "dailyAverage": 46498.89552238806
+      "total": 3120092.7,
+      "dailyAverage": 45883.71617647059
     },
     "total_elevation_gain": {
-      "total": 43223.10000000003
+      "total": 43254.00000000003
     },
     "moving_time": {
-      "total": 1033838
+      "total": 1037742
     }
   }
 }
