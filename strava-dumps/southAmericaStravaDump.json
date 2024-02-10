@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-02-10T15:27:17Z": {
+      "name": "First ski day of the season!",
+      "distance": 27485.3,
+      "moving_time": 9876,
+      "total_elevation_gain": 3236.2,
+      "start_latlng": [
+        44.2,
+        -72.93
+      ],
+      "end_latlng": [
+        44.2,
+        -72.92
+      ],
+      "map": {
+        "id": "a10736344079",
+        "summary_polyline": "euwlG|kc|LuIiA}C@qAwAuBVaDiCX]QWp@{G`EkLl@u@LsCWe@o@DiQdm@ZBMw@v@eExCeIhCcKn@s@@i@j@_Ah@eD~BqDi@OmQtl@d@\\CcB|@kBv@{EdAkDXIXcC|@gCjAaBpB}E`CuABk@g@yCSOoQdl@Eh@ZHUaB`AmH_@}@HuA|AmDcGZa@O]eBP_A|EwHKiA~@}BVkB~BiD|ByBxFqAL_Bl@qAW_AHu@|@kAv@eCIwCb@}HaCz@Ho@a@V[a@Tf@a@c@FQx}@bjAzCnE~AsAOORg@UkAX}B\\OQCCe@XcB^g@Ea@gAOoEoC{AKs@iCu@KaAaC_D|AsAlDuAeAIz@}AxCwAdHu@TaAq@mBrA{@V_BKi@}@@q@e@q@D[i@q@BwAc@E?]yAy@eAqAFa@q@iCLy@Um@R_@UWJy@}DyLYYaC`@gCo@lAiCC{@ZWW_Jb@wDg@KiA}Am@KSn@BfDtCvxALtCXNRYgAeB}C?DaBYUOmAuCDJuA|@a@RiAk@{@YwBJ_@WIL[QKKeBXODu@i@_DcA_BeAsEo@kA_BkBe@d@aAMh@uCnEmNjAgARw@xAUx@s@BaAf@c@TmFlAeAg@w@y@eIGkDLw@m@kAQZJDS@?YAXZm@WHx@l@@|AYW_Ax@_NhN?`@fGqAdClA@z@rFFb@_B{A{BOqCpB_EC@e@a@NMzaA|oA\\VN[uA_BS_AeA?Me@mAg@_@wBMNcA_BQHk@aBaAAy@uCu@CiBiBq@oBg@IsAuDaAGImASJc@sCWFMuAiC@gCeBq@q@{@kFyAw@gAiBOkCf@iJMwAcF`GuBIqApBy@gEq@wAg@Q[TdDdcBVHBYlCcBOu@[EPOZwCvADrCsA|@cD~@eEQy@aDuA}BiE{@k@Iy@BmC_@c@Tk@ByASu@F}AVa@E_DGaCo@}Av@wBNiBw@@g@yA`AmKeAg@u@iAZeCa@kAJmDeCj@u@a@D_@lbAfpAZHRg@bC}@jEuExAq@n@_Es@y@gFi@Hg@Oe@cB]wBuAB_Af@k@q@{@iDNqGsAyCjCoCdEoCdKoBjDwAzAeC?[_BsAmCo@yFcAQgAmBcAm@q@{CC}AiAiHiAkEy@yAy@FOs@DcBvAiHw@y@kA?a@e@g@_DTiC}@cAoBW?mCe@Cw@gBWn@RJ",
+        "resource_state": 2
+      },
+      "average_speed": 2.783,
+      "max_speed": 13.322
+    },
     "2024-01-25T00:12:30Z": {
       "name": "Evening Walk",
       "distance": 4666.7,
@@ -1557,14 +1578,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3120092.7,
-      "dailyAverage": 45883.71617647059
+      "total": 3147578.0,
+      "dailyAverage": 45617.07246376811
     },
     "total_elevation_gain": {
-      "total": 43254.00000000003
+      "total": 46490.200000000026
     },
     "moving_time": {
-      "total": 1037742
+      "total": 1047618
     }
   }
 }
