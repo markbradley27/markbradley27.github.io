@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-02-11T16:09:33Z": {
+      "name": "2nd day at MRG",
+      "distance": 32978.7,
+      "moving_time": 9892,
+      "total_elevation_gain": 3322.4,
+      "start_latlng": [
+        44.19,
+        -72.89
+      ],
+      "end_latlng": [
+        44.2,
+        -72.92
+      ],
+      "map": {
+        "id": "a10743573926",
+        "summary_polyline": "qtvlGtlz{Lef@lvGVDcCT@{Ci@w@mBm@}@eACk@HkCV_AHaGQ}BoBaBqQlm@\\DKiALcAxCwHpGoVjDaFDs@i@CwQ`m@VV|CgBlB}B|@sBj@Pd@c@LoBw@gDBkCnCoJpAkBPwFw@ZiQdl@T^OgCdAmGOmBV_ApAw@qFeAF~@_A_Fp@aCxB}BCe@dA{Af@mBjF_LzCq@Js@OM@mBZETeE|AsBw@}@i@_IX]\\fC|C~~Aj@R`@y@zDqCnB_@hIwCbA}@ZgB_@sB\\mEw@m@gAyBMk@Nc@QQPYYGa@eARUME?k@eDsADk@_A{BK{Du@uEmDqJo@_@_@aAIs@bAqIy@?_@i@]mAK_CmAkC_@a@e@ROZAdB`Df_Br@FrB{B]a@TiC^c@bBWfAoAn@Sj@oDj@UVw@Y_A}B{Ai@yAkAc@}CwHKqBd@iCLyHO_Dd@sHoBZiEiAj@cDM}BrB_CD_Ae@cFs@}AGq@kAgCeAaB[[Cr@`AUE]_@RSPe@k@l@\\ILHaAQx@b@g@IXx@fBYI]NeCjB_LfMjGwAbCtAr@|Bp@`Av@GvAgBl@mB{@yC[iDnAqB]e@zBtBdw@bbAjFtH\\NJm@lAe@Uw@b@kDYu@v@yCBsBkASqAoB_H{CuBhA\\gAgAeAiBpA}@fCwAo@iBdEaBdHkC|DyCl@gAc@kAFyCaBsESu@a@q@cBi@a@SmAz@{FKgL`@{Cc@cHkCPgCWaAm@VsAp@eA]m@Mk@BmAf@QvA_CKaD\\mBgAuAcA]m@z@dDfbBh@VvCyCbIcD?c@}B_@Fo@f@s@QcAX_Ca@]iCs@yE]mARiC{@sBK}Am@aAyAT{@Kk@RkET_ArCmJ`B_BSmDi@Ay@dCcNnd@k@xCLEIy@`CsI~EsNtAaHhCkD`@oAI]SE{@jCqKz]_ChIB\\zCaArAgATcCCiD^cAo@mLe@uBwA_AuA`@\\qAQmAXoAp@{B~BeEvCqBnEy@NuAh@aATiCnAqAJsFwAsGs@s@OfAF~FzC~yA\\V|B{BjBw@bFiAfBsBnGsEl@aBFiDqEaA{CBaFeAsADNMQm@yCqHv@uN@sB[iEh@_EWBs@qBh@oE\\gIMs@m@Ie@Vm@dBWoA^aCKWYIMm@gBq@g@cAEeAo@Sq@mAKj@LIULXSGn@Ni@GDNb@Mm@?JABHbACk@CQC\\Cq@",
+        "resource_state": 2
+      },
+      "average_speed": 3.334,
+      "max_speed": 17.6
+    },
     "2024-02-10T15:27:17Z": {
       "name": "First ski day of the season!",
       "distance": 27485.3,
@@ -1578,14 +1599,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3147578.0,
-      "dailyAverage": 45617.07246376811
+      "total": 3180556.6999999997,
+      "dailyAverage": 45436.52428571428
     },
     "total_elevation_gain": {
-      "total": 46490.200000000026
+      "total": 49812.60000000003
     },
     "moving_time": {
-      "total": 1047618
+      "total": 1057510
     }
   }
 }
