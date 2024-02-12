@@ -1,5 +1,26 @@
 {
   "rides": {
+    "2024-02-12T16:52:32Z": {
+      "name": "Bolton babyyyy",
+      "distance": 33152.4,
+      "moving_time": 10150,
+      "total_elevation_gain": 2970.7,
+      "start_latlng": [
+        44.42,
+        -72.84
+      ],
+      "end_latlng": [
+        44.42,
+        -72.85
+      ],
+      "map": {
+        "id": "a10749775314",
+        "summary_polyline": "eqbnGxor{LpWu`AZa@h@vCGnBXp@`DpBr@lAnAZJd@aAjFXfDeA`HR~@Ex@LROr@sDxBeD\\{@r@o@lAIpGd@dEUDJb@q@`HxA`EhA`IrA|FG`@iDvCqAnBgAhFDvBzAzFtEpIvF|LdDnCfBpHnD|ElAtFv@~@p@H_@KGc@mKytAZGXl@D|Ae@p@v@dBBdB[xBV`@~@|GnCtCl@~A`@jCElFHh@Kt@~@lFAhA`@jEFbCSxALb@Kd@]TAlA`@~ALbEs@b@yHibAmBwSyDcEwCuAiDiDyB_AuC^kElCqEpBqCXqCIoBPb@OZeAt`@ayA^[OxCPjBcAz@uB`@{@S{DeB}Gu@_GqDsBA_@Pa@r@QjA|BbEJz@Kj@cA~BMtBTbBSBq@pBsAhRk@pDbAxF~@xCb@jEYlPRt@Cp@JFla@q{ASVaCzBuBv@kDs@_HQyCq@}AV_@v@Ab@r@fAfC|Bl@|@`CbHPlKcAfEMzANdBZb@N`Cn@bCFxAQtBaArCmDbDcBrBcCbBQfA@~AYdBVrBha@yzA\\q@?xASpABrB_@^yBp@mBpCiBfAcLr^j@kFaBpBu@rC}@TM^SGGj@e@PSbBg@VBh@[TFb@Ob@LvAIpBHhESdNXbB`b@c|ANN^|D_BhBmB`@iGyBcEY{EyAcAGcA^Ib@Lh@vCrCfAlBzAfJEzBThFkBtFyC~MkC`J}@jFc@pEe@fANnEe@DcBnEe@ZEl@?a@j@q@j@mBl@aAIETXLSMOXSg@PVEOHHBn@o@RFn@_Bp`@cxAT@IADh@^zAI`CVn@x@p@pA`@tAzBlARB`@g@zBKnDf@xDgAjG?~AoChCaAQiB^mB@eFcBKXsAv@O[KFa@~@qAP_@pBd@jCBdAq@nCgBhDyD`EgCpAk@p@YbCEpDf@rCPp@A|@r@_ArNsTG[uAx@g@KQFi@xBqCzBs@B{@rCgA~Ai@Zg@O\\Z`b@a|ADhAOvANpAW|@cDv@kCqBoEw@wA@uGeBiAHSr@Bj@pAhA`@p@rAbGa@~FN`A]d@QrByBhFfD`ImA~BoAfFmD`YLbB?bApa@}zATYJZY|BP|AWj@yBn@eCpD{BzA}@hBcBrA}AxBHrFoArGJhBXh@ILLbAfAzEB~@QzAmAvCq@v@kBfAsB\\eAl@kAhF?~BWlAEvB^lCInBsAn@_Ay@w@GIPIv@FK",
+        "resource_state": 2
+      },
+      "average_speed": 3.266,
+      "max_speed": 17.702
+    },
     "2024-02-11T16:09:33Z": {
       "name": "2nd day at MRG",
       "distance": 32978.7,
@@ -1599,14 +1620,14 @@
   },
   "stats": {
     "distance": {
-      "total": 3180556.6999999997,
-      "dailyAverage": 45436.52428571428
+      "total": 3213709.1,
+      "dailyAverage": 45263.50845070422
     },
     "total_elevation_gain": {
-      "total": 49812.60000000003
+      "total": 52783.300000000025
     },
     "moving_time": {
-      "total": 1057510
+      "total": 1067660
     }
   }
 }
